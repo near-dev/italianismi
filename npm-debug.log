@@ -1,0 +1,272 @@
+0 info it worked if it ends with ok
+1 verbose cli [ '/usr/local/bin/node',
+1 verbose cli   '/usr/local/bin/npm',
+1 verbose cli   'install',
+1 verbose cli   'karma-phantomjs-launcher',
+1 verbose cli   'karma-jasmine',
+1 verbose cli   'grunt-karma',
+1 verbose cli   '--save-dev' ]
+2 info using npm@2.5.1
+3 info using node@v0.12.1
+4 silly cache add args [ 'karma-phantomjs-launcher', null ]
+5 verbose cache add spec karma-phantomjs-launcher
+6 silly cache add args [ 'karma-jasmine', null ]
+7 verbose cache add spec karma-jasmine
+8 silly cache add args [ 'grunt-karma', null ]
+9 verbose cache add spec grunt-karma
+10 silly cache add parsed spec { raw: 'karma-phantomjs-launcher',
+10 silly cache add   scope: null,
+10 silly cache add   name: 'karma-phantomjs-launcher',
+10 silly cache add   rawSpec: '',
+10 silly cache add   spec: '*',
+10 silly cache add   type: 'range' }
+11 verbose addNamed karma-phantomjs-launcher@*
+12 silly addNamed semver.valid null
+13 silly addNamed semver.validRange *
+14 silly addNameRange { name: 'karma-phantomjs-launcher', range: '*', hasData: false }
+15 silly mapToRegistry name karma-phantomjs-launcher
+16 silly mapToRegistry using default registry
+17 silly mapToRegistry registry https://registry.npmjs.org/
+18 silly mapToRegistry uri https://registry.npmjs.org/karma-phantomjs-launcher
+19 verbose addNameRange registry:https://registry.npmjs.org/karma-phantomjs-launcher not in flight; fetching
+20 silly cache add parsed spec { raw: 'karma-jasmine',
+20 silly cache add   scope: null,
+20 silly cache add   name: 'karma-jasmine',
+20 silly cache add   rawSpec: '',
+20 silly cache add   spec: '*',
+20 silly cache add   type: 'range' }
+21 verbose addNamed karma-jasmine@*
+22 silly addNamed semver.valid null
+23 silly addNamed semver.validRange *
+24 silly addNameRange { name: 'karma-jasmine', range: '*', hasData: false }
+25 silly mapToRegistry name karma-jasmine
+26 silly mapToRegistry using default registry
+27 silly mapToRegistry registry https://registry.npmjs.org/
+28 silly mapToRegistry uri https://registry.npmjs.org/karma-jasmine
+29 verbose addNameRange registry:https://registry.npmjs.org/karma-jasmine not in flight; fetching
+30 silly cache add parsed spec { raw: 'grunt-karma',
+30 silly cache add   scope: null,
+30 silly cache add   name: 'grunt-karma',
+30 silly cache add   rawSpec: '',
+30 silly cache add   spec: '*',
+30 silly cache add   type: 'range' }
+31 verbose addNamed grunt-karma@*
+32 silly addNamed semver.valid null
+33 silly addNamed semver.validRange *
+34 silly addNameRange { name: 'grunt-karma', range: '*', hasData: false }
+35 silly mapToRegistry name grunt-karma
+36 silly mapToRegistry using default registry
+37 silly mapToRegistry registry https://registry.npmjs.org/
+38 silly mapToRegistry uri https://registry.npmjs.org/grunt-karma
+39 verbose addNameRange registry:https://registry.npmjs.org/grunt-karma not in flight; fetching
+40 verbose request uri https://registry.npmjs.org/karma-phantomjs-launcher
+41 verbose request no auth needed
+42 info attempt registry request try #1 at 6:01:57 PM
+43 verbose request id 414f71aefa279728
+44 http request GET https://registry.npmjs.org/karma-phantomjs-launcher
+45 verbose request uri https://registry.npmjs.org/karma-jasmine
+46 verbose request no auth needed
+47 info attempt registry request try #1 at 6:01:57 PM
+48 http request GET https://registry.npmjs.org/karma-jasmine
+49 verbose request uri https://registry.npmjs.org/grunt-karma
+50 verbose request no auth needed
+51 info attempt registry request try #1 at 6:01:57 PM
+52 verbose etag "7E9HTXIFTPS4DA8VJXBGUX56R"
+53 http request GET https://registry.npmjs.org/grunt-karma
+54 http 200 https://registry.npmjs.org/karma-phantomjs-launcher
+55 silly get cb [ 200,
+55 silly get   { server: 'CouchDB/1.5.0 (Erlang OTP/R16B03)',
+55 silly get     etag: '"6QEMJXIEFKDNUO8OR7TJM268U"',
+55 silly get     'content-type': 'application/json',
+55 silly get     'cache-control': 'max-age=60',
+55 silly get     'content-length': '18660',
+55 silly get     'accept-ranges': 'bytes',
+55 silly get     date: 'Mon, 20 Jul 2015 16:01:56 GMT',
+55 silly get     via: '1.1 varnish',
+55 silly get     age: '60',
+55 silly get     connection: 'keep-alive',
+55 silly get     'x-served-by': 'cache-fra1229-FRA',
+55 silly get     'x-cache': 'HIT',
+55 silly get     'x-cache-hits': '1',
+55 silly get     'x-timer': 'S1437408116.803434,VS0,VE0',
+55 silly get     vary: 'Accept' } ]
+56 verbose get saving karma-phantomjs-launcher to /Users/ale/.npm/registry.npmjs.org/karma-phantomjs-launcher/.cache.json
+57 silly addNameRange number 2 { name: 'karma-phantomjs-launcher', range: '*', hasData: true }
+58 silly addNameRange versions [ 'karma-phantomjs-launcher',
+58 silly addNameRange   [ '0.0.1',
+58 silly addNameRange     '0.0.2',
+58 silly addNameRange     '0.0.3',
+58 silly addNameRange     '0.1.0',
+58 silly addNameRange     '0.1.1',
+58 silly addNameRange     '0.1.2',
+58 silly addNameRange     '0.1.3',
+58 silly addNameRange     '0.1.4',
+58 silly addNameRange     '0.2.0' ] ]
+59 verbose addNamed karma-phantomjs-launcher@0.2.0
+60 silly addNamed semver.valid 0.2.0
+61 silly addNamed semver.validRange 0.2.0
+62 silly mapToRegistry name karma-phantomjs-launcher
+63 silly mapToRegistry using default registry
+64 silly mapToRegistry registry https://registry.npmjs.org/
+65 silly mapToRegistry uri https://registry.npmjs.org/karma-phantomjs-launcher
+66 verbose addRemoteTarball https://registry.npmjs.org/karma-phantomjs-launcher/-/karma-phantomjs-launcher-0.2.0.tgz not in flight; adding
+67 verbose addRemoteTarball [ 'https://registry.npmjs.org/karma-phantomjs-launcher/-/karma-phantomjs-launcher-0.2.0.tgz',
+67 verbose addRemoteTarball   '167c2d7c06a02efdd1a0fb948ae168e9e54fc4a6' ]
+68 info retry fetch attempt 1 at 6:01:58 PM
+69 info attempt registry request try #1 at 6:01:58 PM
+70 http fetch GET https://registry.npmjs.org/karma-phantomjs-launcher/-/karma-phantomjs-launcher-0.2.0.tgz
+71 http 200 https://registry.npmjs.org/grunt-karma
+72 silly get cb [ 200,
+72 silly get   { server: 'CouchDB/1.5.0 (Erlang OTP/R16B03)',
+72 silly get     etag: '"BSH5IB7CB2VWYVVYV99RBHGH8"',
+72 silly get     'content-type': 'application/json',
+72 silly get     'cache-control': 'max-age=60',
+72 silly get     'content-length': '57091',
+72 silly get     'accept-ranges': 'bytes',
+72 silly get     date: 'Mon, 20 Jul 2015 16:01:56 GMT',
+72 silly get     via: '1.1 varnish',
+72 silly get     age: '50',
+72 silly get     connection: 'keep-alive',
+72 silly get     'x-served-by': 'cache-fra1238-FRA',
+72 silly get     'x-cache': 'HIT',
+72 silly get     'x-cache-hits': '1',
+72 silly get     'x-timer': 'S1437408116.833670,VS0,VE0',
+72 silly get     vary: 'Accept' } ]
+73 verbose get saving grunt-karma to /Users/ale/.npm/registry.npmjs.org/grunt-karma/.cache.json
+74 silly addNameRange number 2 { name: 'grunt-karma', range: '*', hasData: true }
+75 silly addNameRange versions [ 'grunt-karma',
+75 silly addNameRange   [ '0.3.0',
+75 silly addNameRange     '0.4.0',
+75 silly addNameRange     '0.4.1',
+75 silly addNameRange     '0.4.2',
+75 silly addNameRange     '0.4.3',
+75 silly addNameRange     '0.4.4',
+75 silly addNameRange     '0.5.0',
+75 silly addNameRange     '0.4.5',
+75 silly addNameRange     '0.5.1',
+75 silly addNameRange     '0.5.2',
+75 silly addNameRange     '0.4.6',
+75 silly addNameRange     '0.5.3',
+75 silly addNameRange     '0.5.4',
+75 silly addNameRange     '0.6.0',
+75 silly addNameRange     '0.6.1',
+75 silly addNameRange     '0.7.0',
+75 silly addNameRange     '0.6.2',
+75 silly addNameRange     '0.7.1',
+75 silly addNameRange     '0.7.2',
+75 silly addNameRange     '0.7.3',
+75 silly addNameRange     '0.8.0',
+75 silly addNameRange     '0.8.1',
+75 silly addNameRange     '0.8.2',
+75 silly addNameRange     '0.8.3',
+75 silly addNameRange     '0.9.0',
+75 silly addNameRange     '0.10.0',
+75 silly addNameRange     '0.10.1',
+75 silly addNameRange     '0.11.0',
+75 silly addNameRange     '0.11.1',
+75 silly addNameRange     '0.11.2',
+75 silly addNameRange     '0.12.0' ] ]
+76 verbose addNamed grunt-karma@0.12.0
+77 silly addNamed semver.valid 0.12.0
+78 silly addNamed semver.validRange 0.12.0
+79 silly mapToRegistry name grunt-karma
+80 silly mapToRegistry using default registry
+81 silly mapToRegistry registry https://registry.npmjs.org/
+82 silly mapToRegistry uri https://registry.npmjs.org/grunt-karma
+83 verbose addRemoteTarball https://registry.npmjs.org/grunt-karma/-/grunt-karma-0.12.0.tgz not in flight; adding
+84 verbose addRemoteTarball [ 'https://registry.npmjs.org/grunt-karma/-/grunt-karma-0.12.0.tgz',
+84 verbose addRemoteTarball   '4ba2a68d813354d0268ccbfec51188e090edd296' ]
+85 info retry fetch attempt 1 at 6:01:58 PM
+86 info attempt registry request try #1 at 6:01:58 PM
+87 http fetch GET https://registry.npmjs.org/grunt-karma/-/grunt-karma-0.12.0.tgz
+88 http 200 https://registry.npmjs.org/karma-jasmine
+89 silly get cb [ 200,
+89 silly get   { server: 'CouchDB/1.5.0 (Erlang OTP/R16B03)',
+89 silly get     etag: '"2J6UAR9NXZPCFGE8G52CPBZOW"',
+89 silly get     'content-type': 'application/json',
+89 silly get     'cache-control': 'max-age=60',
+89 silly get     'content-length': '35059',
+89 silly get     'accept-ranges': 'bytes',
+89 silly get     date: 'Mon, 20 Jul 2015 16:01:56 GMT',
+89 silly get     via: '1.1 varnish',
+89 silly get     age: '0',
+89 silly get     connection: 'keep-alive',
+89 silly get     'x-served-by': 'cache-fra1223-FRA',
+89 silly get     'x-cache': 'HIT',
+89 silly get     'x-cache-hits': '1',
+89 silly get     'x-timer': 'S1437408116.805276,VS0,VE183',
+89 silly get     vary: 'Accept' } ]
+90 verbose get saving karma-jasmine to /Users/ale/.npm/registry.npmjs.org/karma-jasmine/.cache.json
+91 silly addNameRange number 2 { name: 'karma-jasmine', range: '*', hasData: true }
+92 silly addNameRange versions [ 'karma-jasmine',
+92 silly addNameRange   [ '0.0.1',
+92 silly addNameRange     '0.0.2',
+92 silly addNameRange     '0.0.3',
+92 silly addNameRange     '0.1.0',
+92 silly addNameRange     '0.1.1',
+92 silly addNameRange     '0.1.2',
+92 silly addNameRange     '0.1.3',
+92 silly addNameRange     '0.1.4',
+92 silly addNameRange     '0.1.5',
+92 silly addNameRange     '0.2.0',
+92 silly addNameRange     '0.2.1',
+92 silly addNameRange     '0.2.2',
+92 silly addNameRange     '0.2.3',
+92 silly addNameRange     '0.3.0',
+92 silly addNameRange     '0.3.1',
+92 silly addNameRange     '0.3.2',
+92 silly addNameRange     '0.3.3',
+92 silly addNameRange     '0.3.4',
+92 silly addNameRange     '0.3.5',
+92 silly addNameRange     '0.3.6',
+92 silly addNameRange     '0.1.6' ] ]
+93 verbose addNamed karma-jasmine@0.3.6
+94 silly addNamed semver.valid 0.3.6
+95 silly addNamed semver.validRange 0.3.6
+96 silly mapToRegistry name karma-jasmine
+97 silly mapToRegistry using default registry
+98 silly mapToRegistry registry https://registry.npmjs.org/
+99 silly mapToRegistry uri https://registry.npmjs.org/karma-jasmine
+100 verbose addRemoteTarball https://registry.npmjs.org/karma-jasmine/-/karma-jasmine-0.3.6.tgz not in flight; adding
+101 verbose addRemoteTarball [ 'https://registry.npmjs.org/karma-jasmine/-/karma-jasmine-0.3.6.tgz',
+101 verbose addRemoteTarball   'ddcc34413ac0405aa34ce29ff472e957420b857a' ]
+102 info retry fetch attempt 1 at 6:01:58 PM
+103 info attempt registry request try #1 at 6:01:58 PM
+104 http fetch GET https://registry.npmjs.org/karma-jasmine/-/karma-jasmine-0.3.6.tgz
+105 http fetch 200 https://registry.npmjs.org/karma-phantomjs-launcher/-/karma-phantomjs-launcher-0.2.0.tgz
+106 silly fetchAndShaCheck shasum 167c2d7c06a02efdd1a0fb948ae168e9e54fc4a6
+107 verbose addTmpTarball /var/folders/kg/n25p8cj51vn74df8_qz9fkn00000gn/T/npm-56211-a6f5115d/registry.npmjs.org/karma-phantomjs-launcher/-/karma-phantomjs-launcher-0.2.0.tgz not in flight; adding
+108 verbose addTmpTarball already have metadata; skipping unpack for karma-phantomjs-launcher@0.2.0
+109 silly cache afterAdd karma-phantomjs-launcher@0.2.0
+110 verbose afterAdd /Users/ale/.npm/karma-phantomjs-launcher/0.2.0/package/package.json not in flight; writing
+111 verbose afterAdd /Users/ale/.npm/karma-phantomjs-launcher/0.2.0/package/package.json written
+112 http fetch 200 https://registry.npmjs.org/karma-jasmine/-/karma-jasmine-0.3.6.tgz
+113 silly fetchAndShaCheck shasum ddcc34413ac0405aa34ce29ff472e957420b857a
+114 verbose addTmpTarball /var/folders/kg/n25p8cj51vn74df8_qz9fkn00000gn/T/npm-56211-a6f5115d/registry.npmjs.org/karma-jasmine/-/karma-jasmine-0.3.6.tgz not in flight; adding
+115 verbose addTmpTarball already have metadata; skipping unpack for karma-jasmine@0.3.6
+116 silly cache afterAdd karma-jasmine@0.3.6
+117 verbose afterAdd /Users/ale/.npm/karma-jasmine/0.3.6/package/package.json not in flight; writing
+118 verbose afterAdd /Users/ale/.npm/karma-jasmine/0.3.6/package/package.json written
+119 http fetch 200 https://registry.npmjs.org/grunt-karma/-/grunt-karma-0.12.0.tgz
+120 silly fetchAndShaCheck shasum 4ba2a68d813354d0268ccbfec51188e090edd296
+121 verbose addTmpTarball /var/folders/kg/n25p8cj51vn74df8_qz9fkn00000gn/T/npm-56211-a6f5115d/registry.npmjs.org/grunt-karma/-/grunt-karma-0.12.0.tgz not in flight; adding
+122 verbose addTmpTarball already have metadata; skipping unpack for grunt-karma@0.12.0
+123 verbose stack Error: EACCES, mkdir '/Users/ale/.npm/grunt-karma/0.12.0'
+123 verbose stack     at Error (native)
+124 verbose cwd /Users/ale/Projects/italianismi
+125 error Darwin 14.4.0
+126 error argv "/usr/local/bin/node" "/usr/local/bin/npm" "install" "karma-phantomjs-launcher" "karma-jasmine" "grunt-karma" "--save-dev"
+127 error node v0.12.1
+128 error npm  v2.5.1
+129 error path /Users/ale/.npm/grunt-karma/0.12.0
+130 error code EACCES
+131 error errno -13
+132 error Error: EACCES, mkdir '/Users/ale/.npm/grunt-karma/0.12.0'
+132 error     at Error (native)
+132 error  { [Error: EACCES, mkdir '/Users/ale/.npm/grunt-karma/0.12.0']
+132 error   errno: -13,
+132 error   code: 'EACCES',
+132 error   path: '/Users/ale/.npm/grunt-karma/0.12.0',
+132 error   parent: 'italianismi' }
+133 error Please try running this command again as root/Administrator.
+134 verbose exit [ -13, true ]
