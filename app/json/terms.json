@@ -1,0 +1,906 @@
+[
+	{ "termIta": "abbacchio", "descIta1": "agnello da latte macellato, tipico romano", "termEng": "abbacchio", "descEng1": "the abbacs", "languages": [
+		{ "name": "inglese", "desc": "cin cin la" }
+	] },
+	{ "termIta": "acciuga", "descIta1": "agnello da latte macellato, tipico romano", "termEng": "abbacchio", "descEng1": "the abbacs", "languages": [
+		{ "name": "italiano", "desc": "cin cin la" }
+	] },
+	{ "termIta": "acconciato", "descIta1": "agnello da latte macellato, tipico romano", "termEng": "abbacchio", "descEng1": "the abbacs", "languages": [
+		{ "name": "tedesco", "desc": "cin cin la" }
+	] },
+	{ "termIta": "aceto balsamico", "descIta1": "agnello da latte macellato, tipico romano", "termEng": "abbacchio", "descEng1": "the abbacs", "languages": [
+		{ "name": "italiano", "desc": "cin cin la" }
+	] },
+	{ "termIta": "acquavite", "descIta1": "agnello da latte macellato, tipico romano", "termEng": "abbacchio", "descEng1": "the abbacs", "languages": [
+		{ "name": "italiano", "desc": "cin cin la" }
+	] },
+	{ "termIta": "agreste", "descIta1": "agnello da latte macellato, tipico romano", "termEng": "abbacchio", "descEng1": "the abbacs", "languages": [
+		{ "name": "inglese", "desc": "cin cin la" }
+	] },
+	{ "termIta": "abbacchio", "descIta1": "agnello da latte macellato, tipico romano", "termEng": "abbacchio", "descEng1": "the abbacs", "languages": [
+		{ "name": "tedesco", "desc": "cin cin la" }
+	] },
+	{ "termIta": "acciuga", "descIta1": "agnello da latte macellato, tipico romano", "termEng": "abbacchio", "descEng1": "the abbacs", "languages": [
+		{ "name": "inglese", "desc": "cin cin la" }
+	] },
+	{ "termIta": "acconciato", "descIta1": "agnello da latte macellato, tipico romano", "termEng": "abbacchio", "descEng1": "the abbacs", "languages": [
+		{ "name": "cinese", "desc": "cin cin la" },
+		{ "name": "tedesco", "desc": "cin cin la" }
+	] },
+	{ "termIta": "aceto balsamico", "descIta1": "agnello da latte macellato, tipico romano", "termEng": "abbacchio", "descEng1": "the abbacs", "languages": [
+		{ "name": "cinese", "desc": "cin cin la" }
+	] },
+	{ "termIta": "acquavite", "descIta1": "agnello da latte macellato, tipico romano", "termEng": "abbacchio", "descEng1": "the abbacs", "languages": [
+		{ "name": "inglese", "desc": "cin cin la" }
+	] },
+	{ "termIta": "agreste", "descIta1": "agnello da latte macellato, tipico romano", "termEng": "abbacchio", "descEng1": "the abbacs", "languages": [
+		{ "name": "cinese", "desc": "cin cin la" }
+	] },
+	{ "termIta": "abbacchio", "descIta1": "agnello da latte macellato, tipico romano", "termEng": "abbacchio", "descEng1": "the abbacs", "languages": [
+		{ "name": "cinese", "desc": "cin cin la" }
+	] },
+	{ "termIta": "acciuga", "descIta1": "agnello da latte macellato, tipico romano", "termEng": "abbacchio", "descEng1": "the abbacs", "languages": [
+		{ "name": "cinese", "desc": "cin cin la" }
+	] },
+	{ "termIta": "acconciato", "descIta1": "agnello da latte macellato, tipico romano", "termEng": "abbacchio", "descEng1": "the abbacs", "languages": [
+		{ "name": "cinese", "desc": "cin cin la" }
+	] },
+	{ "termIta": "aceto balsamico", "descIta1": "agnello da latte macellato, tipico romano", "termEng": "abbacchio", "descEng1": "the abbacs", "languages": [
+		{ "name": "cinese", "desc": "cin cin la" }
+	] },
+	{ "termIta": "acquavite", "descIta1": "agnello da latte macellato, tipico romano", "termEng": "abbacchio", "descEng1": "the abbacs", "languages": [
+		{ "name": "cinese", "desc": "cin cin la" }
+	] },
+	{ "termIta": "agreste", "descIta1": "agnello da latte macellato, tipico romano", "termEng": "abbacchio", "descEng1": "the abbacs", "languages": [
+		{ "name": "cinese", "desc": "cin cin la" }
+	] },
+	{ "termIta": "abbacchio", "descIta1": "agnello da latte macellato, tipico romano", "termEng": "abbacchio", "descEng1": "the abbacs", "languages": [
+		{ "name": "cinese", "desc": "cin cin la" }
+	] },
+	{ "termIta": "acciuga", "descIta1": "agnello da latte macellato, tipico romano", "termEng": "abbacchio", "descEng1": "the abbacs", "languages": [
+		{ "name": "cinese", "desc": "cin cin la" }
+	] },
+	{ "termIta": "acconciato", "descIta1": "agnello da latte macellato, tipico romano", "termEng": "abbacchio", "descEng1": "the abbacs", "languages": [
+		{ "name": "cinese", "desc": "cin cin la" }
+	] },
+	{ "termIta": "aceto balsamico", "descIta1": "agnello da latte macellato, tipico romano", "termEng": "abbacchio", "descEng1": "the abbacs", "languages": [
+		{ "name": "cinese", "desc": "cin cin la" }
+	] },
+	{ "termIta": "acquavite", "descIta1": "agnello da latte macellato, tipico romano", "termEng": "abbacchio", "descEng1": "the abbacs", "languages": [
+		{ "name": "cinese", "desc": "cin cin la" }
+	] },
+	{ "termIta": "agreste", "descIta1": "agnello da latte macellato, tipico romano", "termEng": "abbacchio", "descEng1": "the abbacs", "languages": [
+		{ "name": "cinese", "desc": "cin cin la" }
+	] },
+	{ "termIta": "abbacchio", "descIta1": "agnello da latte macellato, tipico romano", "termEng": "abbacchio", "descEng1": "the abbacs", "languages": [
+		{ "name": "cinese", "desc": "cin cin la" }
+	] },
+	{ "termIta": "acciuga", "descIta1": "agnello da latte macellato, tipico romano", "termEng": "abbacchio", "descEng1": "the abbacs", "languages": [
+		{ "name": "cinese", "desc": "cin cin la" }
+	] },
+	{ "termIta": "acconciato", "descIta1": "agnello da latte macellato, tipico romano", "termEng": "abbacchio", "descEng1": "the abbacs", "languages": [
+		{ "name": "cinese", "desc": "cin cin la" }
+	] },
+	{ "termIta": "aceto balsamico", "descIta1": "agnello da latte macellato, tipico romano", "termEng": "abbacchio", "descEng1": "the abbacs", "languages": [
+		{ "name": "cinese", "desc": "cin cin la" }
+	] },
+	{ "termIta": "acquavite", "descIta1": "agnello da latte macellato, tipico romano", "termEng": "abbacchio", "descEng1": "the abbacs", "languages": [
+		{ "name": "cinese", "desc": "cin cin la" }
+	] },
+	{ "termIta": "agreste", "descIta1": "agnello da latte macellato, tipico romano", "termEng": "abbacchio", "descEng1": "the abbacs", "languages": [
+		{ "name": "cinese", "desc": "cin cin la" }
+	] },
+	{ "termIta": "abbacchio", "descIta1": "agnello da latte macellato, tipico romano", "termEng": "abbacchio", "descEng1": "the abbacs", "languages": [
+		{ "name": "cinese", "desc": "cin cin la" }
+	] },
+	{ "termIta": "acciuga", "descIta1": "agnello da latte macellato, tipico romano", "termEng": "abbacchio", "descEng1": "the abbacs", "languages": [
+		{ "name": "cinese", "desc": "cin cin la" }
+	] },
+	{ "termIta": "acconciato", "descIta1": "agnello da latte macellato, tipico romano", "termEng": "abbacchio", "descEng1": "the abbacs", "languages": [
+		{ "name": "cinese", "desc": "cin cin la" }
+	] },
+	{ "termIta": "aceto balsamico", "descIta1": "agnello da latte macellato, tipico romano", "termEng": "abbacchio", "descEng1": "the abbacs", "languages": [
+		{ "name": "cinese", "desc": "cin cin la" }
+	] },
+	{ "termIta": "acquavite", "descIta1": "agnello da latte macellato, tipico romano", "termEng": "abbacchio", "descEng1": "the abbacs", "languages": [
+		{ "name": "cinese", "desc": "cin cin la" }
+	] },
+	{ "termIta": "agreste", "descIta1": "agnello da latte macellato, tipico romano", "termEng": "abbacchio", "descEng1": "the abbacs", "languages": [
+		{ "name": "cinese", "desc": "cin cin la" }
+	] },
+	{ "termIta": "abbacchio", "descIta1": "agnello da latte macellato, tipico romano", "termEng": "abbacchio", "descEng1": "the abbacs", "languages": [
+		{ "name": "cinese", "desc": "cin cin la" }
+	] },
+	{ "termIta": "acciuga", "descIta1": "agnello da latte macellato, tipico romano", "termEng": "abbacchio", "descEng1": "the abbacs", "languages": [
+		{ "name": "cinese", "desc": "cin cin la" }
+	] },
+	{ "termIta": "acconciato", "descIta1": "agnello da latte macellato, tipico romano", "termEng": "abbacchio", "descEng1": "the abbacs", "languages": [
+		{ "name": "cinese", "desc": "cin cin la" }
+	] },
+	{ "termIta": "aceto balsamico", "descIta1": "agnello da latte macellato, tipico romano", "termEng": "abbacchio", "descEng1": "the abbacs", "languages": [
+		{ "name": "cinese", "desc": "cin cin la" }
+	] },
+	{ "termIta": "acquavite", "descIta1": "agnello da latte macellato, tipico romano", "termEng": "abbacchio", "descEng1": "the abbacs", "languages": [
+		{ "name": "cinese", "desc": "cin cin la" }
+	] },
+	{ "termIta": "agreste", "descIta1": "agnello da latte macellato, tipico romano", "termEng": "abbacchio", "descEng1": "the abbacs", "languages": [
+		{ "name": "cinese", "desc": "cin cin la" }
+	] },
+	{ "termIta": "abbacchio", "descIta1": "agnello da latte macellato, tipico romano", "termEng": "abbacchio", "descEng1": "the abbacs", "languages": [
+		{ "name": "cinese", "desc": "cin cin la" }
+	] },
+	{ "termIta": "acciuga", "descIta1": "agnello da latte macellato, tipico romano", "termEng": "abbacchio", "descEng1": "the abbacs", "languages": [
+		{ "name": "cinese", "desc": "cin cin la" }
+	] },
+	{ "termIta": "acconciato", "descIta1": "agnello da latte macellato, tipico romano", "termEng": "abbacchio", "descEng1": "the abbacs", "languages": [
+		{ "name": "cinese", "desc": "cin cin la" }
+	] },
+	{ "termIta": "aceto balsamico", "descIta1": "agnello da latte macellato, tipico romano", "termEng": "abbacchio", "descEng1": "the abbacs", "languages": [
+		{ "name": "cinese", "desc": "cin cin la" }
+	] },
+	{ "termIta": "acquavite", "descIta1": "agnello da latte macellato, tipico romano", "termEng": "abbacchio", "descEng1": "the abbacs", "languages": [
+		{ "name": "cinese", "desc": "cin cin la" }
+	] },
+	{ "termIta": "agreste", "descIta1": "agnello da latte macellato, tipico romano", "termEng": "abbacchio", "descEng1": "the abbacs", "languages": [
+		{ "name": "cinese", "desc": "cin cin la" }
+	] },
+	{ "termIta": "abbacchio", "descIta1": "agnello da latte macellato, tipico romano", "termEng": "abbacchio", "descEng1": "the abbacs", "languages": [
+		{ "name": "cinese", "desc": "cin cin la" }
+	] },
+	{ "termIta": "acciuga", "descIta1": "agnello da latte macellato, tipico romano", "termEng": "abbacchio", "descEng1": "the abbacs", "languages": [
+		{ "name": "cinese", "desc": "cin cin la" }
+	] },
+	{ "termIta": "acconciato", "descIta1": "agnello da latte macellato, tipico romano", "termEng": "abbacchio", "descEng1": "the abbacs", "languages": [
+		{ "name": "cinese", "desc": "cin cin la" }
+	] },
+	{ "termIta": "aceto balsamico", "descIta1": "agnello da latte macellato, tipico romano", "termEng": "abbacchio", "descEng1": "the abbacs", "languages": [
+		{ "name": "cinese", "desc": "cin cin la" }
+	] },
+	{ "termIta": "acquavite", "descIta1": "agnello da latte macellato, tipico romano", "termEng": "abbacchio", "descEng1": "the abbacs", "languages": [
+		{ "name": "cinese", "desc": "cin cin la" }
+	] },
+	{ "termIta": "agreste", "descIta1": "agnello da latte macellato, tipico romano", "termEng": "abbacchio", "descEng1": "the abbacs", "languages": [
+		{ "name": "cinese", "desc": "cin cin la" }
+	] },
+	{ "termIta": "abbacchio", "descIta1": "agnello da latte macellato, tipico romano", "termEng": "abbacchio", "descEng1": "the abbacs", "languages": [
+		{ "name": "cinese", "desc": "cin cin la" }
+	] },
+	{ "termIta": "acciuga", "descIta1": "agnello da latte macellato, tipico romano", "termEng": "abbacchio", "descEng1": "the abbacs", "languages": [
+		{ "name": "cinese", "desc": "cin cin la" }
+	] },
+	{ "termIta": "acconciato", "descIta1": "agnello da latte macellato, tipico romano", "termEng": "abbacchio", "descEng1": "the abbacs", "languages": [
+		{ "name": "cinese", "desc": "cin cin la" }
+	] },
+	{ "termIta": "aceto balsamico", "descIta1": "agnello da latte macellato, tipico romano", "termEng": "abbacchio", "descEng1": "the abbacs", "languages": [
+		{ "name": "cinese", "desc": "cin cin la" }
+	] },
+	{ "termIta": "acquavite", "descIta1": "agnello da latte macellato, tipico romano", "termEng": "abbacchio", "descEng1": "the abbacs", "languages": [
+		{ "name": "cinese", "desc": "cin cin la" }
+	] },
+	{ "termIta": "agreste", "descIta1": "agnello da latte macellato, tipico romano", "termEng": "abbacchio", "descEng1": "the abbacs", "languages": [
+		{ "name": "cinese", "desc": "cin cin la" }
+	] },
+	{ "termIta": "abbacchio", "descIta1": "agnello da latte macellato, tipico romano", "termEng": "abbacchio", "descEng1": "the abbacs", "languages": [
+		{ "name": "cinese", "desc": "cin cin la" }
+	] },
+	{ "termIta": "acciuga", "descIta1": "agnello da latte macellato, tipico romano", "termEng": "abbacchio", "descEng1": "the abbacs", "languages": [
+		{ "name": "cinese", "desc": "cin cin la" }
+	] },
+	{ "termIta": "acconciato", "descIta1": "agnello da latte macellato, tipico romano", "termEng": "abbacchio", "descEng1": "the abbacs", "languages": [
+		{ "name": "cinese", "desc": "cin cin la" }
+	] },
+	{ "termIta": "aceto balsamico", "descIta1": "agnello da latte macellato, tipico romano", "termEng": "abbacchio", "descEng1": "the abbacs", "languages": [
+		{ "name": "cinese", "desc": "cin cin la" }
+	] },
+	{ "termIta": "acquavite", "descIta1": "agnello da latte macellato, tipico romano", "termEng": "abbacchio", "descEng1": "the abbacs", "languages": [
+		{ "name": "cinese", "desc": "cin cin la" }
+	] },
+	{ "termIta": "agreste", "descIta1": "agnello da latte macellato, tipico romano", "termEng": "abbacchio", "descEng1": "the abbacs", "languages": [
+		{ "name": "cinese", "desc": "cin cin la" }
+	] },
+	{ "termIta": "abbacchio", "descIta1": "agnello da latte macellato, tipico romano", "termEng": "abbacchio", "descEng1": "the abbacs", "languages": [
+		{ "name": "cinese", "desc": "cin cin la" }
+	] },
+	{ "termIta": "acciuga", "descIta1": "agnello da latte macellato, tipico romano", "termEng": "abbacchio", "descEng1": "the abbacs", "languages": [
+		{ "name": "cinese", "desc": "cin cin la" }
+	] },
+	{ "termIta": "acconciato", "descIta1": "agnello da latte macellato, tipico romano", "termEng": "abbacchio", "descEng1": "the abbacs", "languages": [
+		{ "name": "cinese", "desc": "cin cin la" }
+	] },
+	{ "termIta": "aceto balsamico", "descIta1": "agnello da latte macellato, tipico romano", "termEng": "abbacchio", "descEng1": "the abbacs", "languages": [
+		{ "name": "cinese", "desc": "cin cin la" }
+	] },
+	{ "termIta": "acquavite", "descIta1": "agnello da latte macellato, tipico romano", "termEng": "abbacchio", "descEng1": "the abbacs", "languages": [
+		{ "name": "cinese", "desc": "cin cin la" }
+	] },
+	{ "termIta": "agreste", "descIta1": "agnello da latte macellato, tipico romano", "termEng": "abbacchio", "descEng1": "the abbacs", "languages": [
+		{ "name": "cinese", "desc": "cin cin la" }
+	] },
+	{ "termIta": "abbacchio", "descIta1": "agnello da latte macellato, tipico romano", "termEng": "abbacchio", "descEng1": "the abbacs", "languages": [
+		{ "name": "cinese", "desc": "cin cin la" }
+	] },
+	{ "termIta": "acciuga", "descIta1": "agnello da latte macellato, tipico romano", "termEng": "abbacchio", "descEng1": "the abbacs", "languages": [
+		{ "name": "cinese", "desc": "cin cin la" }
+	] },
+	{ "termIta": "acconciato", "descIta1": "agnello da latte macellato, tipico romano", "termEng": "abbacchio", "descEng1": "the abbacs", "languages": [
+		{ "name": "cinese", "desc": "cin cin la" }
+	] },
+	{ "termIta": "aceto balsamico", "descIta1": "agnello da latte macellato, tipico romano", "termEng": "abbacchio", "descEng1": "the abbacs", "languages": [
+		{ "name": "cinese", "desc": "cin cin la" }
+	] },
+	{ "termIta": "acquavite", "descIta1": "agnello da latte macellato, tipico romano", "termEng": "abbacchio", "descEng1": "the abbacs", "languages": [
+		{ "name": "cinese", "desc": "cin cin la" }
+	] },
+	{ "termIta": "agreste", "descIta1": "agnello da latte macellato, tipico romano", "termEng": "abbacchio", "descEng1": "the abbacs", "languages": [
+		{ "name": "cinese", "desc": "cin cin la" }
+	] },
+	{ "termIta": "abbacchio", "descIta1": "agnello da latte macellato, tipico romano", "termEng": "abbacchio", "descEng1": "the abbacs", "languages": [
+		{ "name": "cinese", "desc": "cin cin la" }
+	] },
+	{ "termIta": "acciuga", "descIta1": "agnello da latte macellato, tipico romano", "termEng": "abbacchio", "descEng1": "the abbacs", "languages": [
+		{ "name": "cinese", "desc": "cin cin la" }
+	] },
+	{ "termIta": "acconciato", "descIta1": "agnello da latte macellato, tipico romano", "termEng": "abbacchio", "descEng1": "the abbacs", "languages": [
+		{ "name": "cinese", "desc": "cin cin la" }
+	] },
+	{ "termIta": "aceto balsamico", "descIta1": "agnello da latte macellato, tipico romano", "termEng": "abbacchio", "descEng1": "the abbacs", "languages": [
+		{ "name": "cinese", "desc": "cin cin la" }
+	] },
+	{ "termIta": "acquavite", "descIta1": "agnello da latte macellato, tipico romano", "termEng": "abbacchio", "descEng1": "the abbacs", "languages": [
+		{ "name": "cinese", "desc": "cin cin la" }
+	] },
+	{ "termIta": "agreste", "descIta1": "agnello da latte macellato, tipico romano", "termEng": "abbacchio", "descEng1": "the abbacs", "languages": [
+		{ "name": "cinese", "desc": "cin cin la" }
+	] },
+	{ "termIta": "abbacchio", "descIta1": "agnello da latte macellato, tipico romano", "termEng": "abbacchio", "descEng1": "the abbacs", "languages": [
+		{ "name": "cinese", "desc": "cin cin la" }
+	] },
+	{ "termIta": "acciuga", "descIta1": "agnello da latte macellato, tipico romano", "termEng": "abbacchio", "descEng1": "the abbacs", "languages": [
+		{ "name": "cinese", "desc": "cin cin la" }
+	] },
+	{ "termIta": "acconciato", "descIta1": "agnello da latte macellato, tipico romano", "termEng": "abbacchio", "descEng1": "the abbacs", "languages": [
+		{ "name": "cinese", "desc": "cin cin la" }
+	] },
+	{ "termIta": "aceto balsamico", "descIta1": "agnello da latte macellato, tipico romano", "termEng": "abbacchio", "descEng1": "the abbacs", "languages": [
+		{ "name": "cinese", "desc": "cin cin la" }
+	] },
+	{ "termIta": "acquavite", "descIta1": "agnello da latte macellato, tipico romano", "termEng": "abbacchio", "descEng1": "the abbacs", "languages": [
+		{ "name": "cinese", "desc": "cin cin la" }
+	] },
+	{ "termIta": "agreste", "descIta1": "agnello da latte macellato, tipico romano", "termEng": "abbacchio", "descEng1": "the abbacs", "languages": [
+		{ "name": "cinese", "desc": "cin cin la" }
+	] },
+	{ "termIta": "abbacchio", "descIta1": "agnello da latte macellato, tipico romano", "termEng": "abbacchio", "descEng1": "the abbacs", "languages": [
+		{ "name": "cinese", "desc": "cin cin la" }
+	] },
+	{ "termIta": "acciuga", "descIta1": "agnello da latte macellato, tipico romano", "termEng": "abbacchio", "descEng1": "the abbacs", "languages": [
+		{ "name": "cinese", "desc": "cin cin la" }
+	] },
+	{ "termIta": "acconciato", "descIta1": "agnello da latte macellato, tipico romano", "termEng": "abbacchio", "descEng1": "the abbacs", "languages": [
+		{ "name": "cinese", "desc": "cin cin la" }
+	] },
+	{ "termIta": "aceto balsamico", "descIta1": "agnello da latte macellato, tipico romano", "termEng": "abbacchio", "descEng1": "the abbacs", "languages": [
+		{ "name": "cinese", "desc": "cin cin la" }
+	] },
+	{ "termIta": "acquavite", "descIta1": "agnello da latte macellato, tipico romano", "termEng": "abbacchio", "descEng1": "the abbacs", "languages": [
+		{ "name": "cinese", "desc": "cin cin la" }
+	] },
+	{ "termIta": "agreste", "descIta1": "agnello da latte macellato, tipico romano", "termEng": "abbacchio", "descEng1": "the abbacs", "languages": [
+		{ "name": "cinese", "desc": "cin cin la" }
+	] },
+	{ "termIta": "abbacchio", "descIta1": "agnello da latte macellato, tipico romano", "termEng": "abbacchio", "descEng1": "the abbacs", "languages": [
+		{ "name": "cinese", "desc": "cin cin la" }
+	] },
+	{ "termIta": "acciuga", "descIta1": "agnello da latte macellato, tipico romano", "termEng": "abbacchio", "descEng1": "the abbacs", "languages": [
+		{ "name": "cinese", "desc": "cin cin la" }
+	] },
+	{ "termIta": "acconciato", "descIta1": "agnello da latte macellato, tipico romano", "termEng": "abbacchio", "descEng1": "the abbacs", "languages": [
+		{ "name": "cinese", "desc": "cin cin la" }
+	] },
+	{ "termIta": "aceto balsamico", "descIta1": "agnello da latte macellato, tipico romano", "termEng": "abbacchio", "descEng1": "the abbacs", "languages": [
+		{ "name": "cinese", "desc": "cin cin la" }
+	] },
+	{ "termIta": "acquavite", "descIta1": "agnello da latte macellato, tipico romano", "termEng": "abbacchio", "descEng1": "the abbacs", "languages": [
+		{ "name": "cinese", "desc": "cin cin la" }
+	] },
+	{ "termIta": "agreste", "descIta1": "agnello da latte macellato, tipico romano", "termEng": "abbacchio", "descEng1": "the abbacs", "languages": [
+		{ "name": "cinese", "desc": "cin cin la" }
+	] },
+	{ "termIta": "abbacchio", "descIta1": "agnello da latte macellato, tipico romano", "termEng": "abbacchio", "descEng1": "the abbacs", "languages": [
+		{ "name": "cinese", "desc": "cin cin la" }
+	] },
+	{ "termIta": "acciuga", "descIta1": "agnello da latte macellato, tipico romano", "termEng": "abbacchio", "descEng1": "the abbacs", "languages": [
+		{ "name": "cinese", "desc": "cin cin la" }
+	] },
+	{ "termIta": "acconciato", "descIta1": "agnello da latte macellato, tipico romano", "termEng": "abbacchio", "descEng1": "the abbacs", "languages": [
+		{ "name": "cinese", "desc": "cin cin la" }
+	] },
+	{ "termIta": "aceto balsamico", "descIta1": "agnello da latte macellato, tipico romano", "termEng": "abbacchio", "descEng1": "the abbacs", "languages": [
+		{ "name": "cinese", "desc": "cin cin la" }
+	] },
+	{ "termIta": "acquavite", "descIta1": "agnello da latte macellato, tipico romano", "termEng": "abbacchio", "descEng1": "the abbacs", "languages": [
+		{ "name": "cinese", "desc": "cin cin la" }
+	] },
+	{ "termIta": "agreste", "descIta1": "agnello da latte macellato, tipico romano", "termEng": "abbacchio", "descEng1": "the abbacs", "languages": [
+		{ "name": "cinese", "desc": "cin cin la" }
+	] },
+	{ "termIta": "abbacchio", "descIta1": "agnello da latte macellato, tipico romano", "termEng": "abbacchio", "descEng1": "the abbacs", "languages": [
+		{ "name": "cinese", "desc": "cin cin la" }
+	] },
+	{ "termIta": "acciuga", "descIta1": "agnello da latte macellato, tipico romano", "termEng": "abbacchio", "descEng1": "the abbacs", "languages": [
+		{ "name": "cinese", "desc": "cin cin la" }
+	] },
+	{ "termIta": "acconciato", "descIta1": "agnello da latte macellato, tipico romano", "termEng": "abbacchio", "descEng1": "the abbacs", "languages": [
+		{ "name": "cinese", "desc": "cin cin la" }
+	] },
+	{ "termIta": "aceto balsamico", "descIta1": "agnello da latte macellato, tipico romano", "termEng": "abbacchio", "descEng1": "the abbacs", "languages": [
+		{ "name": "cinese", "desc": "cin cin la" }
+	] },
+	{ "termIta": "acquavite", "descIta1": "agnello da latte macellato, tipico romano", "termEng": "abbacchio", "descEng1": "the abbacs", "languages": [
+		{ "name": "cinese", "desc": "cin cin la" }
+	] },
+	{ "termIta": "agreste", "descIta1": "agnello da latte macellato, tipico romano", "termEng": "abbacchio", "descEng1": "the abbacs", "languages": [
+		{ "name": "cinese", "desc": "cin cin la" }
+	] },
+	{ "termIta": "abbacchio", "descIta1": "agnello da latte macellato, tipico romano", "termEng": "abbacchio", "descEng1": "the abbacs", "languages": [
+		{ "name": "cinese", "desc": "cin cin la" }
+	] },
+	{ "termIta": "acciuga", "descIta1": "agnello da latte macellato, tipico romano", "termEng": "abbacchio", "descEng1": "the abbacs", "languages": [
+		{ "name": "cinese", "desc": "cin cin la" }
+	] },
+	{ "termIta": "acconciato", "descIta1": "agnello da latte macellato, tipico romano", "termEng": "abbacchio", "descEng1": "the abbacs", "languages": [
+		{ "name": "cinese", "desc": "cin cin la" }
+	] },
+	{ "termIta": "aceto balsamico", "descIta1": "agnello da latte macellato, tipico romano", "termEng": "abbacchio", "descEng1": "the abbacs", "languages": [
+		{ "name": "cinese", "desc": "cin cin la" }
+	] },
+	{ "termIta": "acquavite", "descIta1": "agnello da latte macellato, tipico romano", "termEng": "abbacchio", "descEng1": "the abbacs", "languages": [
+		{ "name": "cinese", "desc": "cin cin la" }
+	] },
+	{ "termIta": "agreste", "descIta1": "agnello da latte macellato, tipico romano", "termEng": "abbacchio", "descEng1": "the abbacs", "languages": [
+		{ "name": "cinese", "desc": "cin cin la" }
+	] },
+	{ "termIta": "abbacchio", "descIta1": "agnello da latte macellato, tipico romano", "termEng": "abbacchio", "descEng1": "the abbacs", "languages": [
+		{ "name": "cinese", "desc": "cin cin la" }
+	] },
+	{ "termIta": "acciuga", "descIta1": "agnello da latte macellato, tipico romano", "termEng": "abbacchio", "descEng1": "the abbacs", "languages": [
+		{ "name": "cinese", "desc": "cin cin la" }
+	] },
+	{ "termIta": "acconciato", "descIta1": "agnello da latte macellato, tipico romano", "termEng": "abbacchio", "descEng1": "the abbacs", "languages": [
+		{ "name": "cinese", "desc": "cin cin la" }
+	] },
+	{ "termIta": "aceto balsamico", "descIta1": "agnello da latte macellato, tipico romano", "termEng": "abbacchio", "descEng1": "the abbacs", "languages": [
+		{ "name": "cinese", "desc": "cin cin la" }
+	] },
+	{ "termIta": "acquavite", "descIta1": "agnello da latte macellato, tipico romano", "termEng": "abbacchio", "descEng1": "the abbacs", "languages": [
+		{ "name": "cinese", "desc": "cin cin la" }
+	] },
+	{ "termIta": "agreste", "descIta1": "agnello da latte macellato, tipico romano", "termEng": "abbacchio", "descEng1": "the abbacs", "languages": [
+		{ "name": "cinese", "desc": "cin cin la" }
+	] },
+	{ "termIta": "abbacchio", "descIta1": "agnello da latte macellato, tipico romano", "termEng": "abbacchio", "descEng1": "the abbacs", "languages": [
+		{ "name": "cinese", "desc": "cin cin la" }
+	] },
+	{ "termIta": "acciuga", "descIta1": "agnello da latte macellato, tipico romano", "termEng": "abbacchio", "descEng1": "the abbacs", "languages": [
+		{ "name": "cinese", "desc": "cin cin la" }
+	] },
+	{ "termIta": "acconciato", "descIta1": "agnello da latte macellato, tipico romano", "termEng": "abbacchio", "descEng1": "the abbacs", "languages": [
+		{ "name": "cinese", "desc": "cin cin la" }
+	] },
+	{ "termIta": "aceto balsamico", "descIta1": "agnello da latte macellato, tipico romano", "termEng": "abbacchio", "descEng1": "the abbacs", "languages": [
+		{ "name": "cinese", "desc": "cin cin la" }
+	] },
+	{ "termIta": "acquavite", "descIta1": "agnello da latte macellato, tipico romano", "termEng": "abbacchio", "descEng1": "the abbacs", "languages": [
+		{ "name": "cinese", "desc": "cin cin la" }
+	] },
+	{ "termIta": "agreste", "descIta1": "agnello da latte macellato, tipico romano", "termEng": "abbacchio", "descEng1": "the abbacs", "languages": [
+		{ "name": "cinese", "desc": "cin cin la" }
+	] },
+	{ "termIta": "abbacchio", "descIta1": "agnello da latte macellato, tipico romano", "termEng": "abbacchio", "descEng1": "the abbacs", "languages": [
+		{ "name": "cinese", "desc": "cin cin la" }
+	] },
+	{ "termIta": "acciuga", "descIta1": "agnello da latte macellato, tipico romano", "termEng": "abbacchio", "descEng1": "the abbacs", "languages": [
+		{ "name": "cinese", "desc": "cin cin la" }
+	] },
+	{ "termIta": "acconciato", "descIta1": "agnello da latte macellato, tipico romano", "termEng": "abbacchio", "descEng1": "the abbacs", "languages": [
+		{ "name": "cinese", "desc": "cin cin la" }
+	] },
+	{ "termIta": "aceto balsamico", "descIta1": "agnello da latte macellato, tipico romano", "termEng": "abbacchio", "descEng1": "the abbacs", "languages": [
+		{ "name": "cinese", "desc": "cin cin la" }
+	] },
+	{ "termIta": "acquavite", "descIta1": "agnello da latte macellato, tipico romano", "termEng": "abbacchio", "descEng1": "the abbacs", "languages": [
+		{ "name": "cinese", "desc": "cin cin la" }
+	] },
+	{ "termIta": "agreste", "descIta1": "agnello da latte macellato, tipico romano", "termEng": "abbacchio", "descEng1": "the abbacs", "languages": [
+		{ "name": "cinese", "desc": "cin cin la" }
+	] },
+	{ "termIta": "abbacchio", "descIta1": "agnello da latte macellato, tipico romano", "termEng": "abbacchio", "descEng1": "the abbacs", "languages": [
+		{ "name": "cinese", "desc": "cin cin la" }
+	] },
+	{ "termIta": "acciuga", "descIta1": "agnello da latte macellato, tipico romano", "termEng": "abbacchio", "descEng1": "the abbacs", "languages": [
+		{ "name": "cinese", "desc": "cin cin la" }
+	] },
+	{ "termIta": "acconciato", "descIta1": "agnello da latte macellato, tipico romano", "termEng": "abbacchio", "descEng1": "the abbacs", "languages": [
+		{ "name": "cinese", "desc": "cin cin la" }
+	] },
+	{ "termIta": "aceto balsamico", "descIta1": "agnello da latte macellato, tipico romano", "termEng": "abbacchio", "descEng1": "the abbacs", "languages": [
+		{ "name": "cinese", "desc": "cin cin la" }
+	] },
+	{ "termIta": "acquavite", "descIta1": "agnello da latte macellato, tipico romano", "termEng": "abbacchio", "descEng1": "the abbacs", "languages": [
+		{ "name": "cinese", "desc": "cin cin la" }
+	] },
+	{ "termIta": "agreste", "descIta1": "agnello da latte macellato, tipico romano", "termEng": "abbacchio", "descEng1": "the abbacs", "languages": [
+		{ "name": "cinese", "desc": "cin cin la" }
+	] },
+	{ "termIta": "abbacchio", "descIta1": "agnello da latte macellato, tipico romano", "termEng": "abbacchio", "descEng1": "the abbacs", "languages": [
+		{ "name": "cinese", "desc": "cin cin la" }
+	] },
+	{ "termIta": "acciuga", "descIta1": "agnello da latte macellato, tipico romano", "termEng": "abbacchio", "descEng1": "the abbacs", "languages": [
+		{ "name": "cinese", "desc": "cin cin la" }
+	] },
+	{ "termIta": "acconciato", "descIta1": "agnello da latte macellato, tipico romano", "termEng": "abbacchio", "descEng1": "the abbacs", "languages": [
+		{ "name": "cinese", "desc": "cin cin la" }
+	] },
+	{ "termIta": "aceto balsamico", "descIta1": "agnello da latte macellato, tipico romano", "termEng": "abbacchio", "descEng1": "the abbacs", "languages": [
+		{ "name": "cinese", "desc": "cin cin la" }
+	] },
+	{ "termIta": "acquavite", "descIta1": "agnello da latte macellato, tipico romano", "termEng": "abbacchio", "descEng1": "the abbacs", "languages": [
+		{ "name": "cinese", "desc": "cin cin la" }
+	] },
+	{ "termIta": "agreste", "descIta1": "agnello da latte macellato, tipico romano", "termEng": "abbacchio", "descEng1": "the abbacs", "languages": [
+		{ "name": "cinese", "desc": "cin cin la" }
+	] },
+	{ "termIta": "abbacchio", "descIta1": "agnello da latte macellato, tipico romano", "termEng": "abbacchio", "descEng1": "the abbacs", "languages": [
+		{ "name": "cinese", "desc": "cin cin la" }
+	] },
+	{ "termIta": "acciuga", "descIta1": "agnello da latte macellato, tipico romano", "termEng": "abbacchio", "descEng1": "the abbacs", "languages": [
+		{ "name": "cinese", "desc": "cin cin la" }
+	] },
+	{ "termIta": "acconciato", "descIta1": "agnello da latte macellato, tipico romano", "termEng": "abbacchio", "descEng1": "the abbacs", "languages": [
+		{ "name": "cinese", "desc": "cin cin la" }
+	] },
+	{ "termIta": "aceto balsamico", "descIta1": "agnello da latte macellato, tipico romano", "termEng": "abbacchio", "descEng1": "the abbacs", "languages": [
+		{ "name": "cinese", "desc": "cin cin la" }
+	] },
+	{ "termIta": "acquavite", "descIta1": "agnello da latte macellato, tipico romano", "termEng": "abbacchio", "descEng1": "the abbacs", "languages": [
+		{ "name": "cinese", "desc": "cin cin la" }
+	] },
+	{ "termIta": "agreste", "descIta1": "agnello da latte macellato, tipico romano", "termEng": "abbacchio", "descEng1": "the abbacs", "languages": [
+		{ "name": "cinese", "desc": "cin cin la" }
+	] },
+	{ "termIta": "abbacchio", "descIta1": "agnello da latte macellato, tipico romano", "termEng": "abbacchio", "descEng1": "the abbacs", "languages": [
+		{ "name": "cinese", "desc": "cin cin la" }
+	] },
+	{ "termIta": "acciuga", "descIta1": "agnello da latte macellato, tipico romano", "termEng": "abbacchio", "descEng1": "the abbacs", "languages": [
+		{ "name": "cinese", "desc": "cin cin la" }
+	] },
+	{ "termIta": "acconciato", "descIta1": "agnello da latte macellato, tipico romano", "termEng": "abbacchio", "descEng1": "the abbacs", "languages": [
+		{ "name": "cinese", "desc": "cin cin la" }
+	] },
+	{ "termIta": "aceto balsamico", "descIta1": "agnello da latte macellato, tipico romano", "termEng": "abbacchio", "descEng1": "the abbacs", "languages": [
+		{ "name": "cinese", "desc": "cin cin la" }
+	] },
+	{ "termIta": "acquavite", "descIta1": "agnello da latte macellato, tipico romano", "termEng": "abbacchio", "descEng1": "the abbacs", "languages": [
+		{ "name": "cinese", "desc": "cin cin la" }
+	] },
+	{ "termIta": "agreste", "descIta1": "agnello da latte macellato, tipico romano", "termEng": "abbacchio", "descEng1": "the abbacs", "languages": [
+		{ "name": "cinese", "desc": "cin cin la" }
+	] },
+	{ "termIta": "abbacchio", "descIta1": "agnello da latte macellato, tipico romano", "termEng": "abbacchio", "descEng1": "the abbacs", "languages": [
+		{ "name": "cinese", "desc": "cin cin la" }
+	] },
+	{ "termIta": "acciuga", "descIta1": "agnello da latte macellato, tipico romano", "termEng": "abbacchio", "descEng1": "the abbacs", "languages": [
+		{ "name": "cinese", "desc": "cin cin la" }
+	] },
+	{ "termIta": "acconciato", "descIta1": "agnello da latte macellato, tipico romano", "termEng": "abbacchio", "descEng1": "the abbacs", "languages": [
+		{ "name": "cinese", "desc": "cin cin la" }
+	] },
+	{ "termIta": "aceto balsamico", "descIta1": "agnello da latte macellato, tipico romano", "termEng": "abbacchio", "descEng1": "the abbacs", "languages": [
+		{ "name": "cinese", "desc": "cin cin la" }
+	] },
+	{ "termIta": "acquavite", "descIta1": "agnello da latte macellato, tipico romano", "termEng": "abbacchio", "descEng1": "the abbacs", "languages": [
+		{ "name": "cinese", "desc": "cin cin la" }
+	] },
+	{ "termIta": "agreste", "descIta1": "agnello da latte macellato, tipico romano", "termEng": "abbacchio", "descEng1": "the abbacs", "languages": [
+		{ "name": "cinese", "desc": "cin cin la" }
+	] },
+	{ "termIta": "abbacchio", "descIta1": "agnello da latte macellato, tipico romano", "termEng": "abbacchio", "descEng1": "the abbacs", "languages": [
+		{ "name": "cinese", "desc": "cin cin la" }
+	] },
+	{ "termIta": "acciuga", "descIta1": "agnello da latte macellato, tipico romano", "termEng": "abbacchio", "descEng1": "the abbacs", "languages": [
+		{ "name": "cinese", "desc": "cin cin la" }
+	] },
+	{ "termIta": "acconciato", "descIta1": "agnello da latte macellato, tipico romano", "termEng": "abbacchio", "descEng1": "the abbacs", "languages": [
+		{ "name": "cinese", "desc": "cin cin la" }
+	] },
+	{ "termIta": "aceto balsamico", "descIta1": "agnello da latte macellato, tipico romano", "termEng": "abbacchio", "descEng1": "the abbacs", "languages": [
+		{ "name": "cinese", "desc": "cin cin la" }
+	] },
+	{ "termIta": "acquavite", "descIta1": "agnello da latte macellato, tipico romano", "termEng": "abbacchio", "descEng1": "the abbacs", "languages": [
+		{ "name": "cinese", "desc": "cin cin la" }
+	] },
+	{ "termIta": "agreste", "descIta1": "agnello da latte macellato, tipico romano", "termEng": "abbacchio", "descEng1": "the abbacs", "languages": [
+		{ "name": "cinese", "desc": "cin cin la" }
+	] },
+	{ "termIta": "abbacchio", "descIta1": "agnello da latte macellato, tipico romano", "termEng": "abbacchio", "descEng1": "the abbacs", "languages": [
+		{ "name": "cinese", "desc": "cin cin la" }
+	] },
+	{ "termIta": "acciuga", "descIta1": "agnello da latte macellato, tipico romano", "termEng": "abbacchio", "descEng1": "the abbacs", "languages": [
+		{ "name": "cinese", "desc": "cin cin la" }
+	] },
+	{ "termIta": "acconciato", "descIta1": "agnello da latte macellato, tipico romano", "termEng": "abbacchio", "descEng1": "the abbacs", "languages": [
+		{ "name": "cinese", "desc": "cin cin la" }
+	] },
+	{ "termIta": "aceto balsamico", "descIta1": "agnello da latte macellato, tipico romano", "termEng": "abbacchio", "descEng1": "the abbacs", "languages": [
+		{ "name": "cinese", "desc": "cin cin la" }
+	] },
+	{ "termIta": "acquavite", "descIta1": "agnello da latte macellato, tipico romano", "termEng": "abbacchio", "descEng1": "the abbacs", "languages": [
+		{ "name": "cinese", "desc": "cin cin la" }
+	] },
+	{ "termIta": "agreste", "descIta1": "agnello da latte macellato, tipico romano", "termEng": "abbacchio", "descEng1": "the abbacs", "languages": [
+		{ "name": "cinese", "desc": "cin cin la" }
+	] },
+	{ "termIta": "abbacchio", "descIta1": "agnello da latte macellato, tipico romano", "termEng": "abbacchio", "descEng1": "the abbacs", "languages": [
+		{ "name": "cinese", "desc": "cin cin la" }
+	] },
+	{ "termIta": "acciuga", "descIta1": "agnello da latte macellato, tipico romano", "termEng": "abbacchio", "descEng1": "the abbacs", "languages": [
+		{ "name": "cinese", "desc": "cin cin la" }
+	] },
+	{ "termIta": "acconciato", "descIta1": "agnello da latte macellato, tipico romano", "termEng": "abbacchio", "descEng1": "the abbacs", "languages": [
+		{ "name": "cinese", "desc": "cin cin la" }
+	] },
+	{ "termIta": "aceto balsamico", "descIta1": "agnello da latte macellato, tipico romano", "termEng": "abbacchio", "descEng1": "the abbacs", "languages": [
+		{ "name": "cinese", "desc": "cin cin la" }
+	] },
+	{ "termIta": "acquavite", "descIta1": "agnello da latte macellato, tipico romano", "termEng": "abbacchio", "descEng1": "the abbacs", "languages": [
+		{ "name": "cinese", "desc": "cin cin la" }
+	] },
+	{ "termIta": "agreste", "descIta1": "agnello da latte macellato, tipico romano", "termEng": "abbacchio", "descEng1": "the abbacs", "languages": [
+		{ "name": "cinese", "desc": "cin cin la" }
+	] },
+	{ "termIta": "abbacchio", "descIta1": "agnello da latte macellato, tipico romano", "termEng": "abbacchio", "descEng1": "the abbacs", "languages": [
+		{ "name": "cinese", "desc": "cin cin la" }
+	] },
+	{ "termIta": "acciuga", "descIta1": "agnello da latte macellato, tipico romano", "termEng": "abbacchio", "descEng1": "the abbacs", "languages": [
+		{ "name": "cinese", "desc": "cin cin la" }
+	] },
+	{ "termIta": "acconciato", "descIta1": "agnello da latte macellato, tipico romano", "termEng": "abbacchio", "descEng1": "the abbacs", "languages": [
+		{ "name": "cinese", "desc": "cin cin la" }
+	] },
+	{ "termIta": "aceto balsamico", "descIta1": "agnello da latte macellato, tipico romano", "termEng": "abbacchio", "descEng1": "the abbacs", "languages": [
+		{ "name": "cinese", "desc": "cin cin la" }
+	] },
+	{ "termIta": "acquavite", "descIta1": "agnello da latte macellato, tipico romano", "termEng": "abbacchio", "descEng1": "the abbacs", "languages": [
+		{ "name": "cinese", "desc": "cin cin la" }
+	] },
+	{ "termIta": "agreste", "descIta1": "agnello da latte macellato, tipico romano", "termEng": "abbacchio", "descEng1": "the abbacs", "languages": [
+		{ "name": "cinese", "desc": "cin cin la" }
+	] },
+	{ "termIta": "abbacchio", "descIta1": "agnello da latte macellato, tipico romano", "termEng": "abbacchio", "descEng1": "the abbacs", "languages": [
+		{ "name": "cinese", "desc": "cin cin la" }
+	] },
+	{ "termIta": "acciuga", "descIta1": "agnello da latte macellato, tipico romano", "termEng": "abbacchio", "descEng1": "the abbacs", "languages": [
+		{ "name": "cinese", "desc": "cin cin la" }
+	] },
+	{ "termIta": "acconciato", "descIta1": "agnello da latte macellato, tipico romano", "termEng": "abbacchio", "descEng1": "the abbacs", "languages": [
+		{ "name": "cinese", "desc": "cin cin la" }
+	] },
+	{ "termIta": "aceto balsamico", "descIta1": "agnello da latte macellato, tipico romano", "termEng": "abbacchio", "descEng1": "the abbacs", "languages": [
+		{ "name": "cinese", "desc": "cin cin la" }
+	] },
+	{ "termIta": "acquavite", "descIta1": "agnello da latte macellato, tipico romano", "termEng": "abbacchio", "descEng1": "the abbacs", "languages": [
+		{ "name": "cinese", "desc": "cin cin la" }
+	] },
+	{ "termIta": "agreste", "descIta1": "agnello da latte macellato, tipico romano", "termEng": "abbacchio", "descEng1": "the abbacs", "languages": [
+		{ "name": "cinese", "desc": "cin cin la" }
+	] },
+	{ "termIta": "abbacchio", "descIta1": "agnello da latte macellato, tipico romano", "termEng": "abbacchio", "descEng1": "the abbacs", "languages": [
+		{ "name": "cinese", "desc": "cin cin la" }
+	] },
+	{ "termIta": "acciuga", "descIta1": "agnello da latte macellato, tipico romano", "termEng": "abbacchio", "descEng1": "the abbacs", "languages": [
+		{ "name": "cinese", "desc": "cin cin la" }
+	] },
+	{ "termIta": "acconciato", "descIta1": "agnello da latte macellato, tipico romano", "termEng": "abbacchio", "descEng1": "the abbacs", "languages": [
+		{ "name": "cinese", "desc": "cin cin la" }
+	] },
+	{ "termIta": "aceto balsamico", "descIta1": "agnello da latte macellato, tipico romano", "termEng": "abbacchio", "descEng1": "the abbacs", "languages": [
+		{ "name": "cinese", "desc": "cin cin la" }
+	] },
+	{ "termIta": "acquavite", "descIta1": "agnello da latte macellato, tipico romano", "termEng": "abbacchio", "descEng1": "the abbacs", "languages": [
+		{ "name": "cinese", "desc": "cin cin la" }
+	] },
+	{ "termIta": "agreste", "descIta1": "agnello da latte macellato, tipico romano", "termEng": "abbacchio", "descEng1": "the abbacs", "languages": [
+		{ "name": "cinese", "desc": "cin cin la" }
+	] },
+	{ "termIta": "abbacchio", "descIta1": "agnello da latte macellato, tipico romano", "termEng": "abbacchio", "descEng1": "the abbacs", "languages": [
+		{ "name": "cinese", "desc": "cin cin la" }
+	] },
+	{ "termIta": "acciuga", "descIta1": "agnello da latte macellato, tipico romano", "termEng": "abbacchio", "descEng1": "the abbacs", "languages": [
+		{ "name": "cinese", "desc": "cin cin la" }
+	] },
+	{ "termIta": "acconciato", "descIta1": "agnello da latte macellato, tipico romano", "termEng": "abbacchio", "descEng1": "the abbacs", "languages": [
+		{ "name": "cinese", "desc": "cin cin la" }
+	] },
+	{ "termIta": "aceto balsamico", "descIta1": "agnello da latte macellato, tipico romano", "termEng": "abbacchio", "descEng1": "the abbacs", "languages": [
+		{ "name": "cinese", "desc": "cin cin la" }
+	] },
+	{ "termIta": "acquavite", "descIta1": "agnello da latte macellato, tipico romano", "termEng": "abbacchio", "descEng1": "the abbacs", "languages": [
+		{ "name": "cinese", "desc": "cin cin la" }
+	] },
+	{ "termIta": "agreste", "descIta1": "agnello da latte macellato, tipico romano", "termEng": "abbacchio", "descEng1": "the abbacs", "languages": [
+		{ "name": "cinese", "desc": "cin cin la" }
+	] },
+	{ "termIta": "abbacchio", "descIta1": "agnello da latte macellato, tipico romano", "termEng": "abbacchio", "descEng1": "the abbacs", "languages": [
+		{ "name": "cinese", "desc": "cin cin la" }
+	] },
+	{ "termIta": "acciuga", "descIta1": "agnello da latte macellato, tipico romano", "termEng": "abbacchio", "descEng1": "the abbacs", "languages": [
+		{ "name": "cinese", "desc": "cin cin la" }
+	] },
+	{ "termIta": "acconciato", "descIta1": "agnello da latte macellato, tipico romano", "termEng": "abbacchio", "descEng1": "the abbacs", "languages": [
+		{ "name": "cinese", "desc": "cin cin la" }
+	] },
+	{ "termIta": "aceto balsamico", "descIta1": "agnello da latte macellato, tipico romano", "termEng": "abbacchio", "descEng1": "the abbacs", "languages": [
+		{ "name": "cinese", "desc": "cin cin la" }
+	] },
+	{ "termIta": "acquavite", "descIta1": "agnello da latte macellato, tipico romano", "termEng": "abbacchio", "descEng1": "the abbacs", "languages": [
+		{ "name": "cinese", "desc": "cin cin la" }
+	] },
+	{ "termIta": "agreste", "descIta1": "agnello da latte macellato, tipico romano", "termEng": "abbacchio", "descEng1": "the abbacs", "languages": [
+		{ "name": "cinese", "desc": "cin cin la" }
+	] },
+	{ "termIta": "abbacchio", "descIta1": "agnello da latte macellato, tipico romano", "termEng": "abbacchio", "descEng1": "the abbacs", "languages": [
+		{ "name": "cinese", "desc": "cin cin la" }
+	] },
+	{ "termIta": "acciuga", "descIta1": "agnello da latte macellato, tipico romano", "termEng": "abbacchio", "descEng1": "the abbacs", "languages": [
+		{ "name": "cinese", "desc": "cin cin la" }
+	] },
+	{ "termIta": "acconciato", "descIta1": "agnello da latte macellato, tipico romano", "termEng": "abbacchio", "descEng1": "the abbacs", "languages": [
+		{ "name": "cinese", "desc": "cin cin la" }
+	] },
+	{ "termIta": "aceto balsamico", "descIta1": "agnello da latte macellato, tipico romano", "termEng": "abbacchio", "descEng1": "the abbacs", "languages": [
+		{ "name": "cinese", "desc": "cin cin la" }
+	] },
+	{ "termIta": "acquavite", "descIta1": "agnello da latte macellato, tipico romano", "termEng": "abbacchio", "descEng1": "the abbacs", "languages": [
+		{ "name": "cinese", "desc": "cin cin la" }
+	] },
+	{ "termIta": "agreste", "descIta1": "agnello da latte macellato, tipico romano", "termEng": "abbacchio", "descEng1": "the abbacs", "languages": [
+		{ "name": "cinese", "desc": "cin cin la" }
+	] },
+	{ "termIta": "abbacchio", "descIta1": "agnello da latte macellato, tipico romano", "termEng": "abbacchio", "descEng1": "the abbacs", "languages": [
+		{ "name": "cinese", "desc": "cin cin la" }
+	] },
+	{ "termIta": "acciuga", "descIta1": "agnello da latte macellato, tipico romano", "termEng": "abbacchio", "descEng1": "the abbacs", "languages": [
+		{ "name": "cinese", "desc": "cin cin la" }
+	] },
+	{ "termIta": "acconciato", "descIta1": "agnello da latte macellato, tipico romano", "termEng": "abbacchio", "descEng1": "the abbacs", "languages": [
+		{ "name": "cinese", "desc": "cin cin la" }
+	] },
+	{ "termIta": "aceto balsamico", "descIta1": "agnello da latte macellato, tipico romano", "termEng": "abbacchio", "descEng1": "the abbacs", "languages": [
+		{ "name": "cinese", "desc": "cin cin la" }
+	] },
+	{ "termIta": "acquavite", "descIta1": "agnello da latte macellato, tipico romano", "termEng": "abbacchio", "descEng1": "the abbacs", "languages": [
+		{ "name": "cinese", "desc": "cin cin la" }
+	] },
+	{ "termIta": "agreste", "descIta1": "agnello da latte macellato, tipico romano", "termEng": "abbacchio", "descEng1": "the abbacs", "languages": [
+		{ "name": "cinese", "desc": "cin cin la" }
+	] },
+	{ "termIta": "abbacchio", "descIta1": "agnello da latte macellato, tipico romano", "termEng": "abbacchio", "descEng1": "the abbacs", "languages": [
+		{ "name": "cinese", "desc": "cin cin la" }
+	] },
+	{ "termIta": "acciuga", "descIta1": "agnello da latte macellato, tipico romano", "termEng": "abbacchio", "descEng1": "the abbacs", "languages": [
+		{ "name": "cinese", "desc": "cin cin la" }
+	] },
+	{ "termIta": "acconciato", "descIta1": "agnello da latte macellato, tipico romano", "termEng": "abbacchio", "descEng1": "the abbacs", "languages": [
+		{ "name": "cinese", "desc": "cin cin la" }
+	] },
+	{ "termIta": "aceto balsamico", "descIta1": "agnello da latte macellato, tipico romano", "termEng": "abbacchio", "descEng1": "the abbacs", "languages": [
+		{ "name": "cinese", "desc": "cin cin la" }
+	] },
+	{ "termIta": "acquavite", "descIta1": "agnello da latte macellato, tipico romano", "termEng": "abbacchio", "descEng1": "the abbacs", "languages": [
+		{ "name": "cinese", "desc": "cin cin la" }
+	] },
+	{ "termIta": "agreste", "descIta1": "agnello da latte macellato, tipico romano", "termEng": "abbacchio", "descEng1": "the abbacs", "languages": [
+		{ "name": "cinese", "desc": "cin cin la" }
+	] },
+	{ "termIta": "abbacchio", "descIta1": "agnello da latte macellato, tipico romano", "termEng": "abbacchio", "descEng1": "the abbacs", "languages": [
+		{ "name": "cinese", "desc": "cin cin la" }
+	] },
+	{ "termIta": "acciuga", "descIta1": "agnello da latte macellato, tipico romano", "termEng": "abbacchio", "descEng1": "the abbacs", "languages": [
+		{ "name": "cinese", "desc": "cin cin la" }
+	] },
+	{ "termIta": "acconciato", "descIta1": "agnello da latte macellato, tipico romano", "termEng": "abbacchio", "descEng1": "the abbacs", "languages": [
+		{ "name": "cinese", "desc": "cin cin la" }
+	] },
+	{ "termIta": "aceto balsamico", "descIta1": "agnello da latte macellato, tipico romano", "termEng": "abbacchio", "descEng1": "the abbacs", "languages": [
+		{ "name": "cinese", "desc": "cin cin la" }
+	] },
+	{ "termIta": "acquavite", "descIta1": "agnello da latte macellato, tipico romano", "termEng": "abbacchio", "descEng1": "the abbacs", "languages": [
+		{ "name": "cinese", "desc": "cin cin la" }
+	] },
+	{ "termIta": "agreste", "descIta1": "agnello da latte macellato, tipico romano", "termEng": "abbacchio", "descEng1": "the abbacs", "languages": [
+		{ "name": "cinese", "desc": "cin cin la" }
+	] },
+	{ "termIta": "abbacchio", "descIta1": "agnello da latte macellato, tipico romano", "termEng": "abbacchio", "descEng1": "the abbacs", "languages": [
+		{ "name": "cinese", "desc": "cin cin la" }
+	] },
+	{ "termIta": "acciuga", "descIta1": "agnello da latte macellato, tipico romano", "termEng": "abbacchio", "descEng1": "the abbacs", "languages": [
+		{ "name": "cinese", "desc": "cin cin la" }
+	] },
+	{ "termIta": "acconciato", "descIta1": "agnello da latte macellato, tipico romano", "termEng": "abbacchio", "descEng1": "the abbacs", "languages": [
+		{ "name": "cinese", "desc": "cin cin la" }
+	] },
+	{ "termIta": "aceto balsamico", "descIta1": "agnello da latte macellato, tipico romano", "termEng": "abbacchio", "descEng1": "the abbacs", "languages": [
+		{ "name": "cinese", "desc": "cin cin la" }
+	] },
+	{ "termIta": "acquavite", "descIta1": "agnello da latte macellato, tipico romano", "termEng": "abbacchio", "descEng1": "the abbacs", "languages": [
+		{ "name": "cinese", "desc": "cin cin la" }
+	] },
+	{ "termIta": "agreste", "descIta1": "agnello da latte macellato, tipico romano", "termEng": "abbacchio", "descEng1": "the abbacs", "languages": [
+		{ "name": "cinese", "desc": "cin cin la" }
+	] },
+	{ "termIta": "abbacchio", "descIta1": "agnello da latte macellato, tipico romano", "termEng": "abbacchio", "descEng1": "the abbacs", "languages": [
+		{ "name": "cinese", "desc": "cin cin la" }
+	] },
+	{ "termIta": "acciuga", "descIta1": "agnello da latte macellato, tipico romano", "termEng": "abbacchio", "descEng1": "the abbacs", "languages": [
+		{ "name": "cinese", "desc": "cin cin la" }
+	] },
+	{ "termIta": "acconciato", "descIta1": "agnello da latte macellato, tipico romano", "termEng": "abbacchio", "descEng1": "the abbacs", "languages": [
+		{ "name": "cinese", "desc": "cin cin la" }
+	] },
+	{ "termIta": "aceto balsamico", "descIta1": "agnello da latte macellato, tipico romano", "termEng": "abbacchio", "descEng1": "the abbacs", "languages": [
+		{ "name": "cinese", "desc": "cin cin la" }
+	] },
+	{ "termIta": "acquavite", "descIta1": "agnello da latte macellato, tipico romano", "termEng": "abbacchio", "descEng1": "the abbacs", "languages": [
+		{ "name": "cinese", "desc": "cin cin la" }
+	] },
+	{ "termIta": "agreste", "descIta1": "agnello da latte macellato, tipico romano", "termEng": "abbacchio", "descEng1": "the abbacs", "languages": [
+		{ "name": "cinese", "desc": "cin cin la" }
+	] },
+	{ "termIta": "abbacchio", "descIta1": "agnello da latte macellato, tipico romano", "termEng": "abbacchio", "descEng1": "the abbacs", "languages": [
+		{ "name": "cinese", "desc": "cin cin la" }
+	] },
+	{ "termIta": "acciuga", "descIta1": "agnello da latte macellato, tipico romano", "termEng": "abbacchio", "descEng1": "the abbacs", "languages": [
+		{ "name": "cinese", "desc": "cin cin la" }
+	] },
+	{ "termIta": "acconciato", "descIta1": "agnello da latte macellato, tipico romano", "termEng": "abbacchio", "descEng1": "the abbacs", "languages": [
+		{ "name": "cinese", "desc": "cin cin la" }
+	] },
+	{ "termIta": "aceto balsamico", "descIta1": "agnello da latte macellato, tipico romano", "termEng": "abbacchio", "descEng1": "the abbacs", "languages": [
+		{ "name": "cinese", "desc": "cin cin la" }
+	] },
+	{ "termIta": "acquavite", "descIta1": "agnello da latte macellato, tipico romano", "termEng": "abbacchio", "descEng1": "the abbacs", "languages": [
+		{ "name": "cinese", "desc": "cin cin la" }
+	] },
+	{ "termIta": "agreste", "descIta1": "agnello da latte macellato, tipico romano", "termEng": "abbacchio", "descEng1": "the abbacs", "languages": [
+		{ "name": "cinese", "desc": "cin cin la" }
+	] },
+	{ "termIta": "abbacchio", "descIta1": "agnello da latte macellato, tipico romano", "termEng": "abbacchio", "descEng1": "the abbacs", "languages": [
+		{ "name": "cinese", "desc": "cin cin la" }
+	] },
+	{ "termIta": "acciuga", "descIta1": "agnello da latte macellato, tipico romano", "termEng": "abbacchio", "descEng1": "the abbacs", "languages": [
+		{ "name": "cinese", "desc": "cin cin la" }
+	] },
+	{ "termIta": "acconciato", "descIta1": "agnello da latte macellato, tipico romano", "termEng": "abbacchio", "descEng1": "the abbacs", "languages": [
+		{ "name": "cinese", "desc": "cin cin la" }
+	] },
+	{ "termIta": "aceto balsamico", "descIta1": "agnello da latte macellato, tipico romano", "termEng": "abbacchio", "descEng1": "the abbacs", "languages": [
+		{ "name": "cinese", "desc": "cin cin la" }
+	] },
+	{ "termIta": "acquavite", "descIta1": "agnello da latte macellato, tipico romano", "termEng": "abbacchio", "descEng1": "the abbacs", "languages": [
+		{ "name": "cinese", "desc": "cin cin la" }
+	] },
+	{ "termIta": "agreste", "descIta1": "agnello da latte macellato, tipico romano", "termEng": "abbacchio", "descEng1": "the abbacs", "languages": [
+		{ "name": "cinese", "desc": "cin cin la" }
+	] },
+	{ "termIta": "abbacchio", "descIta1": "agnello da latte macellato, tipico romano", "termEng": "abbacchio", "descEng1": "the abbacs", "languages": [
+		{ "name": "cinese", "desc": "cin cin la" }
+	] },
+	{ "termIta": "acciuga", "descIta1": "agnello da latte macellato, tipico romano", "termEng": "abbacchio", "descEng1": "the abbacs", "languages": [
+		{ "name": "cinese", "desc": "cin cin la" }
+	] },
+	{ "termIta": "acconciato", "descIta1": "agnello da latte macellato, tipico romano", "termEng": "abbacchio", "descEng1": "the abbacs", "languages": [
+		{ "name": "cinese", "desc": "cin cin la" }
+	] },
+	{ "termIta": "aceto balsamico", "descIta1": "agnello da latte macellato, tipico romano", "termEng": "abbacchio", "descEng1": "the abbacs", "languages": [
+		{ "name": "cinese", "desc": "cin cin la" }
+	] },
+	{ "termIta": "acquavite", "descIta1": "agnello da latte macellato, tipico romano", "termEng": "abbacchio", "descEng1": "the abbacs", "languages": [
+		{ "name": "cinese", "desc": "cin cin la" }
+	] },
+	{ "termIta": "agreste", "descIta1": "agnello da latte macellato, tipico romano", "termEng": "abbacchio", "descEng1": "the abbacs", "languages": [
+		{ "name": "cinese", "desc": "cin cin la" }
+	] },
+	{ "termIta": "abbacchio", "descIta1": "agnello da latte macellato, tipico romano", "termEng": "abbacchio", "descEng1": "the abbacs", "languages": [
+		{ "name": "cinese", "desc": "cin cin la" }
+	] },
+	{ "termIta": "acciuga", "descIta1": "agnello da latte macellato, tipico romano", "termEng": "abbacchio", "descEng1": "the abbacs", "languages": [
+		{ "name": "cinese", "desc": "cin cin la" }
+	] },
+	{ "termIta": "acconciato", "descIta1": "agnello da latte macellato, tipico romano", "termEng": "abbacchio", "descEng1": "the abbacs", "languages": [
+		{ "name": "cinese", "desc": "cin cin la" }
+	] },
+	{ "termIta": "aceto balsamico", "descIta1": "agnello da latte macellato, tipico romano", "termEng": "abbacchio", "descEng1": "the abbacs", "languages": [
+		{ "name": "cinese", "desc": "cin cin la" }
+	] },
+	{ "termIta": "acquavite", "descIta1": "agnello da latte macellato, tipico romano", "termEng": "abbacchio", "descEng1": "the abbacs", "languages": [
+		{ "name": "cinese", "desc": "cin cin la" }
+	] },
+	{ "termIta": "agreste", "descIta1": "agnello da latte macellato, tipico romano", "termEng": "abbacchio", "descEng1": "the abbacs", "languages": [
+		{ "name": "cinese", "desc": "cin cin la" }
+	] },
+	{ "termIta": "abbacchio", "descIta1": "agnello da latte macellato, tipico romano", "termEng": "abbacchio", "descEng1": "the abbacs", "languages": [
+		{ "name": "cinese", "desc": "cin cin la" }
+	] },
+	{ "termIta": "acciuga", "descIta1": "agnello da latte macellato, tipico romano", "termEng": "abbacchio", "descEng1": "the abbacs", "languages": [
+		{ "name": "cinese", "desc": "cin cin la" }
+	] },
+	{ "termIta": "acconciato", "descIta1": "agnello da latte macellato, tipico romano", "termEng": "abbacchio", "descEng1": "the abbacs", "languages": [
+		{ "name": "cinese", "desc": "cin cin la" }
+	] },
+	{ "termIta": "aceto balsamico", "descIta1": "agnello da latte macellato, tipico romano", "termEng": "abbacchio", "descEng1": "the abbacs", "languages": [
+		{ "name": "cinese", "desc": "cin cin la" }
+	] },
+	{ "termIta": "acquavite", "descIta1": "agnello da latte macellato, tipico romano", "termEng": "abbacchio", "descEng1": "the abbacs", "languages": [
+		{ "name": "cinese", "desc": "cin cin la" }
+	] },
+	{ "termIta": "agreste", "descIta1": "agnello da latte macellato, tipico romano", "termEng": "abbacchio", "descEng1": "the abbacs", "languages": [
+		{ "name": "cinese", "desc": "cin cin la" }
+	] },
+	{ "termIta": "abbacchio", "descIta1": "agnello da latte macellato, tipico romano", "termEng": "abbacchio", "descEng1": "the abbacs", "languages": [
+		{ "name": "cinese", "desc": "cin cin la" }
+	] },
+	{ "termIta": "acciuga", "descIta1": "agnello da latte macellato, tipico romano", "termEng": "abbacchio", "descEng1": "the abbacs", "languages": [
+		{ "name": "cinese", "desc": "cin cin la" }
+	] },
+	{ "termIta": "acconciato", "descIta1": "agnello da latte macellato, tipico romano", "termEng": "abbacchio", "descEng1": "the abbacs", "languages": [
+		{ "name": "cinese", "desc": "cin cin la" }
+	] },
+	{ "termIta": "aceto balsamico", "descIta1": "agnello da latte macellato, tipico romano", "termEng": "abbacchio", "descEng1": "the abbacs", "languages": [
+		{ "name": "cinese", "desc": "cin cin la" }
+	] },
+	{ "termIta": "acquavite", "descIta1": "agnello da latte macellato, tipico romano", "termEng": "abbacchio", "descEng1": "the abbacs", "languages": [
+		{ "name": "cinese", "desc": "cin cin la" }
+	] },
+	{ "termIta": "agreste", "descIta1": "agnello da latte macellato, tipico romano", "termEng": "abbacchio", "descEng1": "the abbacs", "languages": [
+		{ "name": "cinese", "desc": "cin cin la" }
+	] },
+	{ "termIta": "abbacchio", "descIta1": "agnello da latte macellato, tipico romano", "termEng": "abbacchio", "descEng1": "the abbacs", "languages": [
+		{ "name": "cinese", "desc": "cin cin la" }
+	] },
+	{ "termIta": "acciuga", "descIta1": "agnello da latte macellato, tipico romano", "termEng": "abbacchio", "descEng1": "the abbacs", "languages": [
+		{ "name": "cinese", "desc": "cin cin la" }
+	] },
+	{ "termIta": "acconciato", "descIta1": "agnello da latte macellato, tipico romano", "termEng": "abbacchio", "descEng1": "the abbacs", "languages": [
+		{ "name": "cinese", "desc": "cin cin la" }
+	] },
+	{ "termIta": "aceto balsamico", "descIta1": "agnello da latte macellato, tipico romano", "termEng": "abbacchio", "descEng1": "the abbacs", "languages": [
+		{ "name": "cinese", "desc": "cin cin la" }
+	] },
+	{ "termIta": "acquavite", "descIta1": "agnello da latte macellato, tipico romano", "termEng": "abbacchio", "descEng1": "the abbacs", "languages": [
+		{ "name": "cinese", "desc": "cin cin la" }
+	] },
+	{ "termIta": "agreste", "descIta1": "agnello da latte macellato, tipico romano", "termEng": "abbacchio", "descEng1": "the abbacs", "languages": [
+		{ "name": "cinese", "desc": "cin cin la" }
+	] },
+	{ "termIta": "abbacchio", "descIta1": "agnello da latte macellato, tipico romano", "termEng": "abbacchio", "descEng1": "the abbacs", "languages": [
+		{ "name": "cinese", "desc": "cin cin la" }
+	] },
+	{ "termIta": "acciuga", "descIta1": "agnello da latte macellato, tipico romano", "termEng": "abbacchio", "descEng1": "the abbacs", "languages": [
+		{ "name": "cinese", "desc": "cin cin la" }
+	] },
+	{ "termIta": "acconciato", "descIta1": "agnello da latte macellato, tipico romano", "termEng": "abbacchio", "descEng1": "the abbacs", "languages": [
+		{ "name": "cinese", "desc": "cin cin la" }
+	] },
+	{ "termIta": "aceto balsamico", "descIta1": "agnello da latte macellato, tipico romano", "termEng": "abbacchio", "descEng1": "the abbacs", "languages": [
+		{ "name": "cinese", "desc": "cin cin la" }
+	] },
+	{ "termIta": "acquavite", "descIta1": "agnello da latte macellato, tipico romano", "termEng": "abbacchio", "descEng1": "the abbacs", "languages": [
+		{ "name": "cinese", "desc": "cin cin la" }
+	] },
+	{ "termIta": "agreste", "descIta1": "agnello da latte macellato, tipico romano", "termEng": "abbacchio", "descEng1": "the abbacs", "languages": [
+		{ "name": "cinese", "desc": "cin cin la" }
+	] },
+	{ "termIta": "agrodolce", "descIta1": "agnello da latte macellato, tipico romano", "termEng": "abbacchio", "descEng1": "the abbacs", "languages": [
+		{ "name": "cinese", "desc": "cin cin la" }
+	] }
+]
