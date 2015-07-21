@@ -27,6 +27,32 @@ angular
         templateUrl: 'views/about.html',
         controller: 'AboutCtrl'
       })
+      .when('/terms/:language?/:termFilter?', {
+        templateUrl: 'views/terms.html',
+        controller: 'TermsCtrl',
+        resolve: {
+          terms: function(engine) {
+            return engine.termsPromise;
+          }
+        }
+      })
+      .when('/languages', {
+        templateUrl: 'views/languages.html',
+        controller: 'LanguagesCtrl',
+        resolve: {
+          languages: function(engine) {
+            return engine.languagePromise;
+          }
+        }
+      })
+      .when('/card/:term?/:language?/:termFilter?', {
+        templateUrl: 'views/card.html',
+        controller: 'CardCtrl'
+      })
+      .when('/vivit', {
+        templateUrl: 'views/vivit.html',
+        controller: 'VivitCtrl'
+      })
       .otherwise({
         redirectTo: '/'
       });

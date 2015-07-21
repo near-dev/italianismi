@@ -1,0 +1,9 @@
+<h3>Elenco dei termini</h3>
+<div>
+<input type="text" class="form-control" placeholder="filtro" title="" ng-model="search.termIta" >
+</div>
+<p ng-if="status.language"><span class="label label-info" ng-bind="status.language"></span> <button type="button" class="btn btn-default" ng-click="reset()">reset</button></p>
+<ul>
+<li ng-repeat="term in terms | filter:search"><a href="#card/{{term.termIta}}/{{status.language}}/{{search.termIta}}" ng-bind="term.termIta"></a></li>
+</ul>
+	
