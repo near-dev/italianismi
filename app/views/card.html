@@ -1,1 +1,8 @@
-<p>This is the card view.</p>
+<h3>card</h3>
+<ul>
+	<li ng-repeat="term in terms" ng-bind="term.termIta" ng-show="$index === index"></li>
+</ul>
+<ul class="list-inline">
+<li><button type="button" class="btn btn-default" ng-click="index = index - 1">prev</button></li>
+<li><button type="button" class="btn btn-default" ng-click="index = index + 1">next</button></li>
+</ul>

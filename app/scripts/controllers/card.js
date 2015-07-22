@@ -9,8 +9,12 @@
  */
 angular.module('italianismiApp')
   .controller('CardCtrl', function ($scope, $routeParams, engine) {
-  	if ($routeParams.termFilter) {
-  		console.log('aaaa');
-  		console.log(engine.getFilteredTerms('abb').length);
-  	}
+  	engine.setStatus($routeParams);
+  	$scope.terms = engine.getFilteredTerms();
+
+  	angular.forEach($scope.terms, function(term, index) {
+  		if (term.termIta === $routeParams.term) {
+  			$scope.index = index;
+  		}
+  	});
   });
