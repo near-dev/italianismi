@@ -1,11 +1,28 @@
-<h3>card</h3>
-<div class="swiper-container" style="height: 300px; border: 1px solid #ccc;">
+<div class="swiper-container" style="height: 300px; width:100%; border: 1px solid #ccc;">
+	<h3>card</h3>
+	<a class="navbar-brand" href="#main">italianismi</a>
 	<div class="swiper-wrapper">
 		<div class="swiper-slide" ng-repeat="term in terms" ng-bind="term.termIta"></div>
 	</div>
 </div>
 <script>
   	var mySwiper = new Swiper('.swiper-container', {
-  		loop: true
+  		loop: true,
+  		pagination: '.swiper-pagination-h',
+        paginationClickable: true,
+        spaceBetween: 50
   	});
+  	//https://github.com/nolimits4web/Swiper/blob/master/demos/11-nested.html
+  	//http://www.idangero.us/swiper/demos/11-nested.html
+  	var swiperH = new Swiper('.swiper-container-h', {
+        pagination: '.swiper-pagination-h',
+        paginationClickable: true,
+        spaceBetween: 50
+    });
+    var swiperV = new Swiper('.swiper-container-v', {
+        pagination: '.swiper-pagination-v',
+        paginationClickable: true,
+        direction: 'vertical',
+        spaceBetween: 50
+    });
 </script>
