@@ -1,8 +1,11 @@
 <h3>card</h3>
-<ul>
-	<li ng-repeat="term in terms" ng-bind="term.termIta" ng-show="$index === index"></li>
-</ul>
-<ul class="list-inline">
-<li><button type="button" class="btn btn-default" ng-click="index = index - 1">prev</button></li>
-<li><button type="button" class="btn btn-default" ng-click="index = index + 1">next</button></li>
-</ul>
+<div class="swiper-container" style="height: 300px; border: 1px solid #ccc;">
+	<div class="swiper-wrapper">
+		<div class="swiper-slide" ng-repeat="term in terms" ng-bind="term.termIta"></div>
+	</div>
+</div>
+<script>
+  	var mySwiper = new Swiper('.swiper-container', {
+  		loop: true
+  	});
+</script>

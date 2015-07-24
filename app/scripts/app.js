@@ -47,7 +47,12 @@ angular
       })
       .when('/card/:term?/:language?/:termFilter?', {
         templateUrl: 'views/card.html',
-        controller: 'CardCtrl'
+        controller: 'CardCtrl',
+        resolve: {
+          terms: function(engine) {
+            return engine.termsPromise;
+          }
+        }
       })
       .when('/vivit', {
         templateUrl: 'views/vivit.html',
