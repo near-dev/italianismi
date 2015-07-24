@@ -92,5 +92,5 @@ angular.module('italianismiApp')
 
     		return found;
     	});
-    };
+    };	
   });

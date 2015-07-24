@@ -1,1 +1,11 @@
-<p>This is the card view.</p>
+<h3>card</h3>
+<div class="swiper-container" style="height: 300px; border: 1px solid #ccc;">
+	<div class="swiper-wrapper">
+		<div class="swiper-slide" ng-repeat="term in terms" ng-bind="term.termIta"></div>
+	</div>
+</div>
+<script>
+  	var mySwiper = new Swiper('.swiper-container', {
+  		loop: true
+  	});
+</script>
