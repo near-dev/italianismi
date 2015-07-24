@@ -58,6 +58,14 @@ angular
         templateUrl: 'views/vivit.html',
         controller: 'VivitCtrl'
       })
+      .when('/form', {
+        templateUrl: 'views/form.html',
+        controller: 'FormCtrl'
+      })
+      .when('/credits', {
+        templateUrl: 'views/credits.html',
+        controller: 'CreditsCtrl'
+      })
       .otherwise({
         redirectTo: '/'
       });
