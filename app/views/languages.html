@@ -4,8 +4,8 @@
 			<h3 ng-hide="term">Seleziona una lingua</h3>
 			<h3 ng-show="term">Dove si usa la parola</h3>
 			<h2 ng-show="term" ng-bind="term.termIta"></h2>
-			<div ng-hide="term" class="alert alert-info">Cartina anonima</div>
-			<div ng-show="term" class="alert alert-warning">Cartina contestuale</div>
+			<div ng-hide="term" class="alert alert-info"><span class="glyphicon glyphicon-globe"></span> Cartina anonima</div>
+			<div ng-show="term" class="alert alert-warning"><span class="glyphicon glyphicon-globe"></span> Cartina contestuale</div>
 			<h3>Elenco delle lingue</h3>
 			<ul>
 				<li ng-repeat="language in languages">

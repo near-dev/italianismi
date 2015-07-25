@@ -5,8 +5,9 @@
 			<h2 ng-hide="language">usate nel mondo</h2>
 			<h3 ng-show="language">Parole italiane in</h3>
 			<h2 ng-show="language" ng-bind="language"></h2>
-			<div>
-			<input type="text" class="form-control" placeholder="filtro" title="" ng-model="search.termIta" >
+			<div class="input-group">
+				<input type="text" class="form-control" placeholder="filtro" title="" ng-model="search.termIta" >
+				<div class="input-group-addon"><span class="glyphicon glyphicon-search"></span></div>
 			</div>
 			<h3>Elenco parole</h3>
 			<ul>
