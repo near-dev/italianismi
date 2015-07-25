@@ -8,13 +8,15 @@
  * Controller of the italianismiApp
  */
 angular.module('italianismiApp')
-  .controller('CardCtrl', function ($scope, $routeParams, engine) {
+  .controller('CardCtrl', function ($scope, $routeParams, $window, engine) {
   	engine.setStatus($routeParams);
   	$scope.terms = engine.getFilteredTerms();
+	$window.count = $scope.terms.length;
 
   	angular.forEach($scope.terms, function(term, index) {
   		if (term.termIta === $routeParams.term) {
   			$scope.index = index;
+			$window.index = index;
   		}
   	});
   });
