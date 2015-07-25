@@ -1,13 +1,17 @@
     <div class="container-fluid">
       <div class="row">
         <div class="col-sm-9 col-md-10">
-			<h3>Elenco dei termini</h3>
-			<div>
-			<input type="text" class="form-control" placeholder="filtro" title="" ng-model="search.termIta" >
+			<h3 ng-hide="language">Parole italiane</h3>
+			<h2 ng-hide="language">usate nel mondo</h2>
+			<h3 ng-show="language">Parole italiane in</h3>
+			<h2 ng-show="language" ng-bind="language"></h2>
+			<div class="input-group">
+				<input type="text" class="form-control" placeholder="filtro" title="" ng-model="search.termIta" >
+				<div class="input-group-addon"><span class="glyphicon glyphicon-search"></span></div>
 			</div>
-			<p ng-if="status.language"><span class="label label-info" ng-bind="status.language"></span> <button type="button" class="btn btn-default" ng-click="reset()">reset</button></p>
+			<h3>Elenco parole</h3>
 			<ul>
-			<li ng-repeat="term in terms | filter:search"><a href="#card/{{term.termIta}}/{{status.language}}/{{search.termIta}}" ng-bind="term.termIta"></a></li>
+			<li ng-repeat="term in terms | filter:search"><a href="#{{ language ? 'card/' + term.termIta + '/' + language + '/' + search.termIta : 'languages/' + term.termIta + '/' + search.termIta }}" ng-bind="term.termIta"></a></li>
 			</ul>
         </div>
         <div class="col-sm-3 col-md-2 sidebar right">

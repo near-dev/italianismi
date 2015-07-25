@@ -6,14 +6,28 @@
 	</div>
 </div>
 <script>
-  	var mySwiper = new Swiper('.swiper-container', {
-  		loop: true,
-  		pagination: '.swiper-pagination-h',
-        paginationClickable: true,
-        spaceBetween: 50
-  	});
+	// ALE
+	// per inizializzare lo swiper devo aspettare che angular completi il dom
+	// per questo aspetto fino a quando il numero di card aspettare coincide con i div presenti nella pagina
+	// questo viene controllato ogni decimo di secondo finchè non coincide
+ 	var bootstrap = function() { 
+		if ($('.swiper-slide').length === window.count) { 
+			var mySwiper = new Swiper('.swiper-container', {
+				initialSlide: window.index,
+				loop: true,
+				pagination: '.swiper-pagination-h',
+				paginationClickable: true,
+				spaceBetween: 50
+			});
+		} else { 
+			setTimeout(bootstrap, 100) 
+		}
+	};
+	bootstrap();
+	
   	//https://github.com/nolimits4web/Swiper/blob/master/demos/11-nested.html
   	//http://www.idangero.us/swiper/demos/11-nested.html
+	/*
   	var swiperH = new Swiper('.swiper-container-h', {
         pagination: '.swiper-pagination-h',
         paginationClickable: true,
@@ -25,4 +39,5 @@
         direction: 'vertical',
         spaceBetween: 50
     });
+	*/
 </script>
