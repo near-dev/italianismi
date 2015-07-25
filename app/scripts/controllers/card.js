@@ -9,8 +9,11 @@
  */
 angular.module('italianismiApp')
   .controller('CardCtrl', function ($scope, $routeParams, $window, engine) {
-  	engine.setStatus($routeParams);
-  	$scope.terms = engine.getFilteredTerms();
+	$scope.language = $routeParams.language;
+  	$scope.search = $routeParams.search;
+
+  	$scope.terms = engine.getFilteredTerms($scope.language, $scope.search);
+
 	$window.count = $scope.terms.length;
 
   	angular.forEach($scope.terms, function(term, index) {
