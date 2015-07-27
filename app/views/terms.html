@@ -11,18 +11,11 @@
 			</div>
 			<h3>Elenco parole</h3>
 			<ul>
-			<li ng-repeat="term in terms | filter:search"><a href="#{{ language ? 'card/' + term.termIta + '/' + language + '/' + search.termIta : 'languages/' + term.termIta + '/' + search.termIta }}" ng-bind="term.termIta"></a></li>
+			<li ng-repeat="term in terms | filter:search:startWith"><a href="#{{ language ? 'card/' + term.termIta + '/' + language + '/' + search.termIta : 'languages/' + term.termIta + '/' + search.termIta }}" ng-bind="term.termIta"></a></li>
 			</ul>
         </div>
-        <div class="col-sm-3 col-md-2 sidebar right">
-          <a class="navbar-brand" href="#/">italianismi</a>
-          <ul class="nav navbar-nav">
-            <li><a href="#vivit">Antipasto per cominciare</a></li>
-            <li><a href="#languages">Seleziona una lingua straniera</a></li>
-            <li><a href="#terms">Cerca una parola</a></li>
-            <li><a href="#">Aggiungi una parola Straniera</a></li>
-          </ul>
-        </div>
+        <div class="col-sm-3 col-md-2 sidebar right" ng-include="'views/menu.html'">
+		</div>
       </div>
     </div>
 
