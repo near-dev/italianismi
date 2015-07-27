@@ -1,21 +1,20 @@
-    <div class="container-fluid">
+    <div class="container-fluid giallo">
       <div class="row">
-        <div class="col-sm-9 col-md-10">
-			<h3 ng-hide="language">Parole italiane</h3>
-			<h2 ng-hide="language">usate nel mondo</h2>
-			<h3 ng-show="language">Parole italiane in</h3>
-			<h2 ng-show="language" ng-bind="language"></h2>
+        <div class="col-md-offset-2 col-md-8">
+          <h5>Parole italiane della cucina nelle lingue del mondo</h5>
+			     <h3 ng-hide="language">Parole italiane</h3>
+			     <h2 ng-hide="language">Usate nel mondo</h2>
+			     <h3 ng-show="language">Parole italiane in</h3>
+			     <h2 ng-show="language" ng-bind="language"></h2>
 			<div class="input-group">
 				<input type="text" class="form-control" placeholder="filtro" title="" ng-model="search.termIta" >
 				<div class="input-group-addon"><span class="glyphicon glyphicon-search"></span></div>
 			</div>
-			<h3>Elenco parole</h3>
-			<ul>
+			<ul class="quattro_colonne">
 			<li ng-repeat="term in terms | filter:search:startWith"><a href="#{{ language ? 'card/' + term.termIta + '/' + language + '/' + search.termIta : 'languages/' + term.termIta + '/' + search.termIta }}" ng-bind="term.termIta"></a></li>
 			</ul>
         </div>
-        <div class="col-sm-3 col-md-2 sidebar right" ng-include="'views/menu.html'">
-		</div>
+        <div ng-include="'views/menu.html'"></div>
       </div>
     </div>
 
