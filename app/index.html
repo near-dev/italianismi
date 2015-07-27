@@ -9,11 +9,15 @@
     <!-- build:css(.) styles/vendor.css -->
     <!-- bower:css -->
     <link rel="stylesheet" href="bower_components/swiper/dist/css/swiper.css" />
+    <script src="/bower_components/amcharts/dist/amcharts/amcharts.js"></script>
     <!-- endbower -->
     <!-- endbuild -->
     <!-- build:css(.tmp) styles/main.css -->
     <link rel="stylesheet" href="styles/main.css">
     <!-- endbuild -->
+
+    <!-- da importare -->
+   <link href='http://fonts.googleapis.com/css?family=Cantata+One|Lora:400,700,400italic,700italic|Raleway:400,500,600,700,800,900' rel='stylesheet' type='text/css'>
   </head>
   <body ng-app="italianismiApp">
     <!--[if lt IE 7]>
@@ -23,7 +27,7 @@
     <!-- Add your site or application content here -->
 
     <div class="container-fluid">
-        <div ng-view=""></div>
+        <div ng-view="" class="card"></div>
     </div>
 
     <!-- Google Analytics: change UA-XXXXX-X to be your site's ID -->
