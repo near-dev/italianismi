@@ -27,7 +27,7 @@ angular
         templateUrl: 'views/about.html',
         controller: 'AboutCtrl'
       })
-      .when('/terms/:language?/:termFilter?', {
+      .when('/terms/:language?/:search?', {
         templateUrl: 'views/terms.html',
         controller: 'TermsCtrl',
         resolve: {
@@ -36,16 +36,16 @@ angular
           }
         }
       })
-      .when('/languages', {
+      .when('/languages/:term?/:language?/:search?', {
         templateUrl: 'views/languages.html',
         controller: 'LanguagesCtrl',
         resolve: {
           languages: function(engine) {
-            return engine.languagePromise;
+            return engine.termsPromise && engine.languagePromise;
           }
         }
       })
-      .when('/card/:term?/:language?/:termFilter?', {
+      .when('/card/:term?/:language?/:search?', {
         templateUrl: 'views/card.html',
         controller: 'CardCtrl',
         resolve: {

@@ -1,11 +1,22 @@
     <div class="container-fluid">
       <div class="row">
         <div class="col-sm-9 col-md-10">
+			<h3 ng-hide="term">Seleziona una lingua</h3>
+			<h3 ng-show="term">Dove si usa la parola</h3>
+			<h2 ng-show="term" ng-bind="term.termIta"></h2>
+			<div ng-hide="term" class="alert alert-info"><span class="glyphicon glyphicon-globe"></span> Cartina anonima</div>
+			<div ng-show="term" class="alert alert-warning"><span class="glyphicon glyphicon-globe"></span> Cartina contestuale</div>
 			<h3>Elenco delle lingue</h3>
 			<ul>
-				<li ng-repeat="language in languages"><a href="#terms/{{ language }}" ng-bind="language"></a></li>
+				<li ng-repeat="language in languages">
+					<span ng-if="!term || hasLanguage(language)">
+						<a href="#{{ term ? 'card/' + term.termIta + '/' + language + '/' + search : 'terms/' + language }}" ng-bind="language"></a> <span ng-if="hasLanguage(language)" class="label label-success">sel</span>
+					</span>
+					<span ng-if="term && !hasLanguage(language)" ng-bind="language"></span>
+				</li>
 			</ul>
         </div>
+<<<<<<< HEAD
         <div class="col-sm-3 col-md-2 sidebar right">
           <a class="navbar-brand" href="#/">italianismi</a>
           <ul class="nav navbar-nav">
@@ -14,6 +25,9 @@
             <li><a href="#terms">Cerca una parola</a></li>
             <li><a href="#form">Aggiungi una parola Straniera</a></li>
           </ul>
+=======
+        <div class="col-sm-3 col-md-2 sidebar right" ng-include="'views/menu.html'">
+>>>>>>> 119a0f201d884503ad5d57331a7e2687d07b3a69
         </div>
       </div>
     </div>
