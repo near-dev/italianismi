@@ -14,20 +14,8 @@
 			<li ng-repeat="term in terms | filter:search:startWith"><a href="#{{ language ? 'card/' + term.termIta + '/' + language + '/' + search.termIta : 'languages/' + term.termIta + '/' + search.termIta }}" ng-bind="term.termIta"></a></li>
 			</ul>
         </div>
-<<<<<<< HEAD
-        <div class="col-sm-3 col-md-2 sidebar right">
-          <a class="navbar-brand" href="#/">italianismi</a>
-          <ul class="nav navbar-nav">
-            <li><a href="#vivit">Antipasto per cominciare</a></li>
-            <li><a href="#languages">Seleziona una lingua straniera</a></li>
-            <li><a href="#terms">Cerca una parola</a></li>
-            <li><a href="#form">Aggiungi una parola Straniera</a></li>
-          </ul>
-        </div>
-=======
         <div class="col-sm-3 col-md-2 sidebar right" ng-include="'views/menu.html'">
 		</div>
->>>>>>> 119a0f201d884503ad5d57331a7e2687d07b3a69
       </div>
     </div>
 
