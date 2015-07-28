@@ -1,86 +1,89 @@
     <div class="container-fluid rosso">
       <div class="row">
         <div class="col-md-offset-2 col-md-8">
-          <h5>Parole italiane della cucina nelle lingue del mondo</h5>
-    			<h3 ng-hide="term">Seleziona una lingua</h3>
-    			<h3 ng-show="term">Dove si usa la parola</h3>
-    			<h2 ng-show="term" ng-bind="term.termIta"></h2>
-          <div id="mapdiv" class="mappa"></div>
-    			<ul class="quattro_colonne">
-    				<li ng-repeat="language in languages" ng-class="()">
-    					<span ng-if="!term || hasLanguage(language)">
-    						<a href="#{{ term ? 'card/' + term.termIta + '/' + language + '/' + search : 'terms/' + language }}" ng-bind="language"></a> <span ng-if="hasLanguage(language)" class="label label-success">sel</span>
-    					</span>
-    					<span ng-if="term && !hasLanguage(language)" ng-bind="language"></span>
-    				</li>
-    			</ul>
+			<h5>Parole italiane della cucina nelle lingue del mondo</h5>
+			<h3 ng-hide="term">Seleziona una lingua</h3>
+   			<h3 ng-show="term">Dove si usa la parola</h3>
+   			<h2 ng-show="term" ng-bind="term.termIta"></h2>
+			<div id="mapdiv" class="mappa"></div>
+			<ul class="quattro_colonne">
+				<li ng-repeat="language in languages">
+					<span ng-if="!term || hasLanguage(language)" class="sel">
+						<a href="#{{ term ? 'card/' + term.termIta + '/' + language + '/' + search : 'terms/' + language }}" ng-bind="language"></a> <span ng-if="hasLanguage(language)" class="label label-success">sel</span>
+					</span>
+					<span ng-if="term && !hasLanguage(language)" ng-bind="language"></span>
+				</li>
+			</ul>
         </div>
         <div ng-include="'views/menu.html'"></div>
       </div>
     </div>
     
-    <script src="http://cdn.amcharts.com/lib/3/ammap.js" type="text/javascript"></script>
-    <script src="http://cdn.amcharts.com/lib/3/maps/js/worldHigh.js" type="text/javascript"></script>
     <script type="text/javascript">
       // http://www.amcharts.com/visited_countries/ qui trovi l'esempio per la selezione dei paesi semplice
       // http://www.amcharts.com/demos/map-with-curved-lines/
       var map = AmCharts.makeChart("mapdiv",{
-      type: "map",
-      theme: "dark",
-      //pathToImages : "http://cdn.amcharts.com/lib/3/images/",
-      panEventsEnabled : true,
-      backgroundColor : "#fff",
-      backgroundAlpha : 0,
-      zoomControl: {
-      panControlEnabled : false,
-      zoomControlEnabled : false
-      },
-      dataProvider : {
-      map : "worldHigh",
-      getAreasFromMap : true,
-        lines: [{
-            latitudes: [45.4636, 50.4422],
-            longitudes: [9.1881, 30.5367]
-        }, {
-            latitudes: [45.4636, 46.9480],
-            longitudes: [9.1881, 7.4481]
-        }, {
-            latitudes: [45.4636, 59.3328],
-            longitudes: [9.1881, 18.0645]
-        }, {
-            latitudes: [45.4636, 40.4167],
-            longitudes: [9.1881, -3.7033]
-        }, {
-            latitudes: [45.4636, 46.0514],
-            longitudes: [9.1881, 14.5060]
-        }, {
-            latitudes: [45.4636, 48.2116],
-            longitudes: [9.1881, 17.1547]
-        }, {
-            latitudes: [45.4636, 44.8048],
-            longitudes: [9.1881, 20.4781]
-        }, {
-            latitudes: [45.4636, 55.7558],
-            longitudes: [9.1881, 37.6176]
-        }, {
-            latitudes: [45.4636, 38.7072],
-            longitudes: [9.1881, -9.1355]
-        }, {
-            latitudes: [45.4636, 54.6896],
-            longitudes: [9.1881, 25.2799]
-        }, {
-            latitudes: [45.4636, 64.1353],
-            longitudes: [9.1881, -21.8952]
-        }, {
-            latitudes: [45.4636, 40.4300],
-            longitudes: [9.1881, -74.0000]
-        }],
-      areas :
+		type: "map",
+		theme: "dark",
+		//pathToImages : "http://cdn.amcharts.com/lib/3/images/",
+		panEventsEnabled : true,
+		backgroundColor : "#fff",
+		backgroundAlpha : 0,
+		zoomControl: {
+			panControlEnabled : false,
+			zoomControlEnabled : false
+		},
+		dataProvider : {
+			map : "worldHigh",
+			getAreasFromMap : true,
+			lines: [{
+				latitudes: [45.4636, 50.4422],
+				longitudes: [9.1881, 30.5367]
+			}, {
+				latitudes: [45.4636, 46.9480],
+				longitudes: [9.1881, 7.4481]
+			}, {
+				latitudes: [45.4636, 59.3328],
+				longitudes: [9.1881, 18.0645]
+			}, {
+				latitudes: [45.4636, 40.4167],
+				longitudes: [9.1881, -3.7033]
+			}, {
+				latitudes: [45.4636, 46.0514],
+				longitudes: [9.1881, 14.5060]
+			}, {
+				latitudes: [45.4636, 48.2116],
+				longitudes: [9.1881, 17.1547]
+			}, {
+				latitudes: [45.4636, 44.8048],
+				longitudes: [9.1881, 20.4781]
+			}, {
+				latitudes: [45.4636, 55.7558],
+				longitudes: [9.1881, 37.6176]
+			}, {
+				latitudes: [45.4636, 38.7072],
+				longitudes: [9.1881, -9.1355]
+			}, {
+				latitudes: [45.4636, 54.6896],
+				longitudes: [9.1881, 25.2799]
+			}, {
+				latitudes: [45.4636, 64.1353],
+				longitudes: [9.1881, -21.8952]
+			}, {
+				latitudes: [45.4636, 40.4300],
+				longitudes: [9.1881, -74.0000]
+			}],
+		areas :
         [
           {
             "id": "IT",
             "showAsSelected": true
+          },
+		            {
+            "id": "JP",
+            "showAsSelected": true
           }
+
         ]
       },
       areasSettings : {
@@ -100,5 +103,5 @@
           arrowAlpha: 1,
           arrowSize: 4
       },
-      });
+    });
   </script>
