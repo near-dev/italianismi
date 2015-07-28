@@ -6,49 +6,41 @@
 
     http://stackoverflow.com/questions/26742361/angularjs-ng-repeat-track-by-index-inside-nested-loops
 </div-->
-<div class="swiper-container swiper-container-h" class="card">
+<div class="card swiper-container swiper-container-h" id="swiper-container-h">
         <a class="logo" href="#main" style="position:fixed; top:60px; right:60px; z-index:20;">
             <img src="images/pep_logo.png" style="width:120px;">
             <p>Torna</p>
         </a>
         <div class="swiper-wrapper">
-            <div class="swiper-slide">
-                <div class="row">
-                    <div class="col-md-12">
-                        <div class="foto">
-                            <img src="images/pep_img_01.png">
-                        </div>
-                        <div class="text col-md-offset-1 col-md-10">
-                            <label>lingua 1/6</label>
-                            <h1>Cinese</h1>
-                        </div>
-                        <div class=" col-md-offset-1 col-md-5 left">
-                            <label>Parola Italiana</label>
-                            <h1>Gongorzola</h1>
-                            <p>Formaggio di latte vaccino a pasta molle, dal profumo assai intenso e dal sapore piccante, con venature verdastre causate da muffe che si sviluppano durante la stagionatura</p>
-                        </div>
-                        <div class="col-md-5 right">
-                            <label>Italianismo</label>
-                            <h1><strong>Gēgòngzuǒlā rǔlào</strong></h1>
-                            <p> <i>† ákovita, † áquavita</i><br>ibrido [prestito fonetico gēgòngzuǒlā + rǔlào "formaggio"   </p>
-                        </div>
-                    </div>
-                </div>
-            </div>
-            <div class="swiper-slide">
-                <div class="swiper-container swiper-container-v">
-                    <div class="swiper-wrapper">
-                        <div class="swiper-slide">Vertical Slide 1</div>
-                        <div class="swiper-slide">Vertical Slide 2</div>
-                        <div class="swiper-slide">Vertical Slide 3</div>
-                        <div class="swiper-slide">Vertical Slide 4</div>
-                        <div class="swiper-slide">Vertical Slide 5</div>
-                    </div>
-                    <div class="swiper-pagination swiper-pagination-v"></div>
-                </div>
-            </div>
-            <div class="swiper-slide">Horizontal Slide 3</div>
-            <div class="swiper-slide">Horizontal Slide 4</div>
+			<div class="swiper-slide x" ng-repeat="term in terms">
+                <div class="swiper-container swiper-container-v" id="swiper-{{ $index }}">
+					<div class="swiper-wrapper">
+						<div class="swiper-slide" ng-repeat="language in term.languages">
+							<div class="row">
+								<div class="col-md-12">
+									<div class="foto">
+										<img src="images/pep_img_01.png">
+									</div>
+									<div class="text col-md-offset-1 col-md-10">
+										<label ng-bind="'lingua ' + ($index + 1) + '/' + term.languages.length"></label>
+										<h1 ng-bind="language.name"></h1>
+									</div>
+									<div class=" col-md-offset-1 col-md-5 left">
+										<label>Parola Italiana</label>
+										<h1 ng-bind="term.termIta"></h1>
+										<p ng-bind="term.descIta"></p>
+									</div>
+									<div class="col-md-5 right">
+										<label>Italianismo</label>
+										<h1><strong ng-bind="language.term"></strong></h1>
+										<p><i>† ákovita, † áquavita</i><br>ibrido [prestito fonetico gēgòngzuǒlā + rǔlào "formaggio"   </p>
+									</div>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
         </div>
         <!-- Add Pagination -->
         <div class="swiper-pagination swiper-pagination-h"></div>
@@ -62,14 +54,28 @@
 	// per questo aspetto fino a quando il numero di card aspettare coincide con i div presenti nella pagina
 	// questo viene controllato ogni decimo di secondo finchè non coincide
  	var bootstrap = function() { 
-		if ($('.swiper-slide').length === window.count) { 
-			var mySwiper = new Swiper('.swiper-container', {
+		if ($('.x.swiper-slide').length === window.count) { 
+			var swiperH = new Swiper('#swiper-container-h', {
+				initialSlide: window.index,
+				pagination: '.swiper-pagination-h',
+				paginationClickable: true,
+				spaceBetween: 0,
+				nextButton: '.swiper-button-next',
+				prevButton: '.swiper-button-prev'
+			});
+			$('.swiper-container-v').each(function(index) {
+				var swiperV = new Swiper(this, {
+					direction: 'vertical',
+					spaceBetween: 0
+				});
+			});
+			/*var mySwiper = new Swiper('.swiper-container-h', {
 				initialSlide: window.index,
 				loop: true,
 				pagination: '.swiper-pagination-h',
 				paginationClickable: true,
 				spaceBetween: 50
-			});
+			})*/;
 		} else { 
 			setTimeout(bootstrap, 100) 
 		}
@@ -79,20 +85,5 @@
   	//https://github.com/nolimits4web/Swiper/blob/master/demos/11-nested.html
   	//http://www.idangero.us/swiper/demos/11-nested.html
 	
-  	var swiperH = new Swiper('.swiper-container-h', {
-        pagination: '.swiper-pagination-h',
-        paginationClickable: true,
-        spaceBetween: 0,
-        nextButton: '.swiper-button-next',
-        prevButton: '.swiper-button-prev',
-    });
-    var swiperV = new Swiper('.swiper-container-v', {
-        pagination: '.swiper-pagination-v',
-        paginationClickable: true,
-        direction: 'vertical',
-        spaceBetween: 0,
-        nextButton: '.swiper-button-next',
-        prevButton: '.swiper-button-prev',
-    });
 	
 </script>
