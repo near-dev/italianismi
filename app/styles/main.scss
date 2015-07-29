@@ -12,7 +12,7 @@ $serif: 'Lora', serif;
 $sans:  'Raleway', sans-serif;
 
 $small_text: 14px;
-$title_text: 38px;
+$title_text: 41px;
 $regular_text:18px;
 
 
@@ -34,6 +34,7 @@ $verde: #82b518;
   background: -o-radial-gradient(center, circle cover, $from 0%, $to 100%);
   background: -ms-radial-gradient(center, circle cover, $from 0%, $to 100%);
   background: radial-gradient(center, circle cover, $from 0%, $to 100%);
+
 }
 
 /*==========================================================================*/
@@ -79,7 +80,77 @@ ul.quattro_colonne{
       border-left:1px solid;
       padding: 5px 15px;
       text-align:left;
+      overflow:hidden;
+      span{
+        color: $grigio_scuro !important;
+        a{
+          color: $nero;
+          margin-top: -10px;
+          float: left;
+          &::after{
+            padding: 0 5px;
+            content:url('../images/ico_ciliegia_small.png');
+            vertical-align: -25%;
+            position:relative;
+            z-index: 10;
+          }
+        }
+      }
     }
+}
+
+body input.form-control{
+  font-family: $sans;
+  text-transform: uppercase;
+  height: auto;
+}
+
+.form-control {
+    display: block;
+    width: 50%;
+    margin: 30px auto 0;
+    height: auto;
+    padding: 5px 15px;
+    font-size: $regular_text;
+    line-height: 30px;
+    border-radius:20px;
+    color:$giallo;
+    background-color: #fff;
+    background-image: none;
+    text-align: center;
+    border-color: $grigio_chiaro;
+    box-shadow: inset 0 1px 1px rgba(0, 0, 0, 0.075);
+    transition: border-color ease-in-out 0.15s, box-shadow ease-in-out 0.15s;
+}
+
+.glyphicon-search {
+    color: #faa61a;
+    float: left;
+    position: absolute;
+    z-index: 10;
+    top: 157px;
+    margin-left: 97px;
+}
+
+.form-control:focus, textarea:focus,
+input[type="text"]:focus,
+input[type="password"]:focus,
+input[type="datetime"]:focus,
+input[type="datetime-local"]:focus,
+input[type="date"]:focus,
+input[type="month"]:focus,
+input[type="time"]:focus,
+input[type="week"]:focus,
+input[type="number"]:focus,
+input[type="email"]:focus,
+input[type="url"]:focus,
+input[type="search"]:focus,
+input[type="tel"]:focus,
+input[type="color"]:focus,
+.uneditable-input:focus {   
+  border-color: rgba(250, 166, 26, 0.8);
+  box-shadow: 0 1px 1px rgba(250, 166, 26, 0.075) inset, 0 0 8px rgba(250, 166, 26, 0.6);
+  //outline: 0 none;
 }
 
 .bubble{
@@ -105,10 +176,15 @@ ul.quattro_colonne{
 /*================================== start css =============================*/
 /*==========================================================================*/
 
+html {
+    overflow-y:scroll;
+}
+
 html, body, .ng-scope, .container-fluid, .row {
    min-height :100%;
    height: 100% !important;
-   overflow:hidden;
+   width: 100%;
+   //overflow-x: hidden;
 }
 html, body {
   position: relative;
@@ -121,11 +197,16 @@ body {
   margin: 0;
   padding: 0;
   text-align: center;
-  background:fixed;
   background: -webkit-radial-gradient($bianco 40%, $grigio_chiaro); /* Safari 5.1 to 6.0 */
   background: -o-radial-gradient($bianco 40%, $grigio_chiaro); /* For Opera 11.6 to 12.0 */
   background: -moz-radial-gradient($bianco 40%, $grigio_chiaro); /* For Firefox 3.6 to 15 */
   background: radial-gradient($bianco 40%, $grigio_chiaro); /* Standard syntax */
+  background-attachment: fixed;
+
+  .container-fluid{
+    margin:0;
+    padding:0;
+  }
 
   .payoff{
     position:fixed;
@@ -139,7 +220,7 @@ body {
     background:url('../images/cover_bk.jpg') center no-repeat;
     height: 100%;
    // padding:30px;
-    margin:-30px;
+    //  margin:-30px;
     .logo{
       margin-top: 120px;
       margin-bottom: 60px;
@@ -160,7 +241,7 @@ body {
 
     ul.lang{
       padding:0;
-      margin:60px 0;
+      margin:60px 0 90px;
       color:$nero;
       li{
         display: inline;
@@ -258,7 +339,7 @@ body {
     }
   }
 
-  .card{
+  .scheda{
     margin:0;
     padding:0;
     .left{
@@ -269,7 +350,8 @@ body {
     }
     .foto{
       img{
-        margin-top: -30%;
+        margin-top: -500px;
+        position:relative;
       }
     }
     label{
@@ -308,7 +390,7 @@ body {
       }
   }
 
-  .container-fluid{
+  .rosso, .giallo, .verde{
     padding:30px;
   }
 
@@ -317,26 +399,44 @@ body {
       color: $rosso;
     }
     ul.quattro_colonne{
+      margin-top: 40px;
       li{
         border-color: $rosso;
       }
     }
   }
   .giallo{
+   // overflow-y: scroll;
+   // height: auto;
+    header{
+      position:fixed;
+      width: 100%;
+      left:0;
+      top:0;
+      padding-top:30px;
+      background: -webkit-radial-gradient($bianco 40%, $grigio_chiaro); /* Safari 5.1 to 6.0 */
+      background: -o-radial-gradient($bianco 40%, $grigio_chiaro); /* For Opera 11.6 to 12.0 */
+      background: -moz-radial-gradient($bianco 40%, $grigio_chiaro); /* For Firefox 3.6 to 15 */
+      background: radial-gradient($bianco 40%, $grigio_chiaro); /* Standard syntax */
+      background-attachment: fixed;
+    }
     h3{
       color: $giallo;
     }
-    ul.quattro_colonne{
-      margin-top:60px;
-      li{
-        border-color: $giallo;
+    .box_parole{
+      margin-top:240px;
+      margin-bottom: 200px;
+      ul.quattro_colonne{
+        li{
+          border-color: $giallo;
+        }
       }
     }
   }
 
   .mappa{
     width: 100%;
-    height: 500px;
+    height: 600px;
     background:tranparent;
     a{color:$bianco !important; font-size:1px !important;}
   }
