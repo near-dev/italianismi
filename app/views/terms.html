@@ -1,22 +1,22 @@
-    <div class="container-fluid giallo">
-      <div class="row">
-        <div class="col-md-offset-2 col-md-8">
-          <h5>Parole italiane della cucina nelle lingue del mondo</h5>
-			     <h3 ng-hide="language">Parole italiane</h3>
-			     <h2 ng-hide="language">Usate nel mondo</h2>
-			     <h3 ng-show="language">Parole italiane in</h3>
-			     <h2 ng-show="language" ng-bind="language"></h2>
-			<div class="input-group">
-				<input type="text" class="form-control" placeholder="filtro" title="" ng-model="search.termIta" >
-				<div class="input-group-addon"><span class="glyphicon glyphicon-search"></span></div>
+	<div class="row giallo">
+		<div class="col-md-offset-2 col-md-8">
+		   	<header>
+				<h5>Parole italiane della cucina nelle lingue del mondo</h5>
+				<h3 ng-hide="language">Parole italiane</h3>
+				<h2 ng-hide="language">Usate nel mondo</h2>
+				<h3 ng-show="language">Parole italiane in</h3>
+				<h2 ng-show="language" ng-bind="language"></h2>
+				<input type="text" class="form-control" placeholder="Cerca una parola" title="" ng-model="search.termIta" >
+				<span class="glyphicon glyphicon-search"></span>
+		   	</header>
+		   	<div class="box_parole">
+				<ul class="quattro_colonne">
+					<li ng-repeat="term in terms | filter:search:startWith"><a href="#{{ language ? 'card/' + term.termIta + '/' + language + '/' + search.termIta : 'languages/' + term.termIta + '/' + search.termIta }}" ng-bind="term.termIta"></a></li>
+				</ul>
 			</div>
-			<ul class="quattro_colonne">
-			<li ng-repeat="term in terms | filter:search:startWith"><a href="#{{ language ? 'card/' + term.termIta + '/' + language + '/' + search.termIta : 'languages/' + term.termIta + '/' + search.termIta }}" ng-bind="term.termIta"></a></li>
-			</ul>
         </div>
         <div ng-include="'views/menu.html'"></div>
-      </div>
-    </div>
+	</div>
 
 
 	

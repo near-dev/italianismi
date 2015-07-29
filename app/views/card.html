@@ -6,7 +6,7 @@
 
     http://stackoverflow.com/questions/26742361/angularjs-ng-repeat-track-by-index-inside-nested-loops
 </div-->
-<div class="card swiper-container swiper-container-h" id="swiper-container-h">
+<div class="scheda swiper-container swiper-container-h" id="swiper-container-h">
         <a class="logo" href="#main" style="position:fixed; top:60px; right:60px; z-index:20;">
             <img src="images/pep_logo.png" style="width:120px;">
             <p>Torna</p>
@@ -42,8 +42,6 @@
 				</div>
 			</div>
         </div>
-        <!-- Add Pagination -->
-        <div class="swiper-pagination swiper-pagination-h"></div>
         <!-- Add Arrows -->
         <div class="swiper-button-next"></div>
         <div class="swiper-button-prev"></div>
@@ -54,21 +52,23 @@
 	// per questo aspetto fino a quando il numero di card aspettare coincide con i div presenti nella pagina
 	// questo viene controllato ogni decimo di secondo finchè non coincide
  	var bootstrap = function() { 
+ 		//console.log('test');
 		if ($('.x.swiper-slide').length === window.count) { 
 			var swiperH = new Swiper('#swiper-container-h', {
 				initialSlide: window.index,
-				pagination: '.swiper-pagination-h',
-				paginationClickable: true,
+				//pagination: '.swiper-pagination-h',
+				//paginationClickable: true,
 				spaceBetween: 0,
 				nextButton: '.swiper-button-next',
-				prevButton: '.swiper-button-prev'
+				prevButton: '.swiper-button-prev',
+				loop:true
 			});
-			$('.swiper-container-v').each(function(index) {
+			/*$('.swiper-container-v').each(function(index) {
 				var swiperV = new Swiper(this, {
 					direction: 'vertical',
 					spaceBetween: 0
 				});
-			});
+			});*/
 			/*var mySwiper = new Swiper('.swiper-container-h', {
 				initialSlide: window.index,
 				loop: true,
