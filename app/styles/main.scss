@@ -73,35 +73,44 @@ ul.quattro_colonne{
     -webkit-column-count: 4;
     -webkit-column-gap: 20px;
     li{
-      border-left:1px solid;
-      padding: 5px 15px;
-      text-align:left;
-      display: inline-table;
+      border-left: 1px solid;
+      padding: 6px 15px;
+      text-align: left;
+      display: inline-block;
       width: 100%;
+      margin: 0;
+      border-bottom: 0;
+      border-top: 0;
+      margin-top: -8px;
       a{
         white-space: nowrap;
         overflow: hidden;              /* "overflow" value must be different from "visible" */ 
         text-overflow: ellipsis;
         display: block;
         max-width: 210px;
+        color: $nero;
+        padding-right:50px;
+        float: left;
       }
       span{
         color: $grigio_scuro !important;
-        a{
-          color: $nero;
-          margin-top: -10px;
-          float: left;
-          &::after{
-            padding: 0 5px;
-            content:url('../images/ico_ciliegia_small.png');
-            vertical-align: -25%;
+        &.sel{
+          a{
+            background:url('../images/ico_ciliegia_small.gif') center right no-repeat;            
           }
         }
       }
     }
 }
 
-body input.form-control, body textarea.form-control{
+.level_01{
+  position:absolute;
+  top: 0;
+  left:0;
+  width: 100%;
+}
+
+body input.form-control, body textarea.form-control{    
   font-family: $sans;
   text-transform: uppercase;
   height: auto;
@@ -338,18 +347,80 @@ body {
 
   .scheda{
     margin:0;
-    padding:0;
+    padding:30px;
+    background:url('../images/cover_bk.jpg') center no-repeat;
+
+    .lingua_selezionata{
+      text-align: center;
+      margin-top:560px;
+      width: 100%;
+      float: left;
+    }
+
     .left{
       text-align:right;
+      height: 230px;
     }
     .right{
       text-align:left; 
+      height: 230px;
+    }
+    .pep_toolbar{
+      position:fixed;
+      padding:60px;
+      margin:0;
+      width: 100%;
+      z-index:20;
+      top:0;
+      left:0;
+      font-size: $title_text;
+      .close{
+        float: right;
+        opacity:1;
+      }
+      .back{
+        margin-top: -15px;
+        float: left;
+        -webkit-transform: rotate(225deg); /* Safari */
+        transform: rotate(225deg); /* Standard syntax */
+      }
+      a{
+        color: $grigio_scuro;
+        .glyphicon{
+          font-size: $title_text;  
+        }
+      }
+      label{
+        padding: 5px;
+        margin-left: 15px;
+        background-color: rgba(244, 244, 242, 0.6);
+      }
+    }
+
+    .popup_fake{
+      border: 1px solid $grigio_chiaro;
+      box-shadow: 10px 10px 30px #888;
+      background:url('../images/bk_scheda.jpg') center no-repeat;
+      height: 98%;
     }
     .foto{
       img{
         margin-top: -500px;
+        margin-bottom: 100px;
         position:relative;
       }
+    }
+    h1{
+      margin-top: 0;
+      &:first-letter{
+        text-transform: uppercase;
+      }
+    }
+    hr{
+      height: 15px;
+      width: 100%;
+      //background:red;
+      border:0;
     }
     label{
       font-family: $sans;
@@ -357,12 +428,16 @@ body {
       text-transform: uppercase;
       font-weight: normal;
       color: $grigio_scuro;
+      strong{
+        color: $nero;
+      }
     }
   }
 
   .swiper-container {
     width: 100%;
     height: 100%;
+    overflow-y: auto;
     .swiper-slide {
       text-align: center;
       font-size: 18px;
@@ -399,7 +474,6 @@ body {
       margin-top: 20px;
       li{
         border-color: $rosso;
-        margin-top: -3px;
       }
     }
   }
@@ -510,7 +584,17 @@ body {
     width: 100%;
     height: 550px;
     background:tranparent;
-    a{color:$bianco !important; font-size:1px !important;}
+    &::before{
+      content:url('../images/mask_map.png');
+      float: left;
+      margin-bottom: -560px;
+      width: 100%;
+      position:relative;
+      z-index: 10;
+    }
+    a{
+      color:$bianco !important; font-size:1px !important;
+    }
   }
 }
 
@@ -520,18 +604,24 @@ body {
 
 
 .swiper-button-prev {
-    //background-image: url("data:image/svg+xml;charset=utf-8,%3Csvg%20xmlns%3D'http%3A%2F%2Fwww.w3.org…9.9L22%2C44L0%2C22L0%2C22L0%2C22z'%20fill%3D'%23007aff'%2F%3E%3C%2Fsvg%3E");
+    background: url("../images/left_arrow.gif") transparent !important;
     left: 400px;
+    width: 90px;
+    height:70px;
     right: auto;
     top: 12%;
     z-index: 2;
+    opacity:0.3;
   }
 .swiper-button-next {
-    //background-image: url("data:image/svg+xml;charset=utf-8,%3Csvg%20xmlns%3D'http%3A%2F%2Fwww.w3.org…L2.9%2C2.1L5%2C0L27%2C22L27%2C22z'%20fill%3D'%23007aff'%2F%3E%3C%2Fsvg%3E");
+    background: url("../images/right_arrow.gif") transparent !important;
     right: 400px;
     left: auto;
+    width: 90px;
+    height:70px;
     top: 12%;
     z-index: 2;
+    opacity:0.3;
 }
 
 /* Parallax scroll*/

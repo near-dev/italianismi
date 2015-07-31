@@ -6,11 +6,18 @@
 
     http://stackoverflow.com/questions/26742361/angularjs-ng-repeat-track-by-index-inside-nested-loops
 </div-->
-<div class="scheda swiper-container swiper-container-h" id="swiper-container-h">
-        <a class="logo" href="#main" style="position:fixed; top:60px; right:60px; z-index:20;">
-            <img src="images/pep_logo.png" style="width:120px;">
-            <p>Torna</p>
-        </a>
+<div class="scheda">
+	<div class="popup_fake">
+	<div class="swiper-container swiper-container-h" id="swiper-container-h">
+        <div class="pep_toolbar">
+        	<a class="back" href="#terms">
+	            <span class="glyphicon glyphicon-share-alt"></span>
+	        </a>
+	        <a class="close" href="#main">
+	            <span class="glyphicon glyphicon-remove-sign"></span>
+	        </a>
+	        <label>Parole italiane della cucina nelle lingue del mondo</label>
+	     </div>
         <div class="swiper-wrapper">
 			<div class="swiper-slide x" ng-repeat="term in terms">
                 <div class="swiper-container swiper-container-v" id="swiper-{{ $index }}">
@@ -21,23 +28,24 @@
 									<div class="foto">
 										<img src="images/pep_img_01.png">
 									</div>
-									<div class="text col-md-offset-1 col-md-10">
-										<label ng-bind="'lingua ' + ($index + 1) + '/' + term.languages.length"></label>
-										<h1 ng-bind="language.name"></h1>
-									</div>
-									<div class=" col-md-offset-1 col-md-5 left">
+									<div class=" col-md-offset-2 col-md-4 left">
 										<label>Parola Italiana</label>
 										<h1 ng-bind="term.termIta"></h1>
 										<p ng-bind="term.descIta"></p>
 									</div>
-									<div class="col-md-5 right">
+									<div class="col-md-4 right">
 										<label>Italianismo</label>
 										<h1><strong ng-bind="language.term"></strong></h1>
 										<p><i>† ákovita, † áquavita</i></p>
 										<p ng-if="language.desc" ng-bind="language.desc"></p>
 									</div>
+									<!--hr-->
+									<div class="col-md-12">
+										<label>Questa parola è presente in altre <a href="#languages"> <strong ng-bind="term.languages.length +' lingue'"></strong></label></a>
+										<!--button class="btn btn-xs" ng-click="changeLanguage(-1, term)">indietro</button>
+										<button class="btn btn-xs" ng-click="changeLanguage(1, term)">avanti</button-->
+									</div>
 								</div>
-								<div><button class="btn btn-xs" ng-click="changeLanguage(-1, term)">indietro</button> <button class="btn btn-xs" ng-click="changeLanguage(1, term)">avanti</button></div>
 							</div>
 						</div>
 					</div>
@@ -45,9 +53,16 @@
 			</div>
         </div>
         <!-- Add Arrows -->
-        <div class="swiper-button-next"></div>
-        <div class="swiper-button-prev"></div>
+        <div class="level_01">
+        	<div class="swiper-button-next"></div>
+        	<div class="swiper-button-prev"></div>
+			<div class="text lingua_selezionata">
+				<label>Lingua Selezionata</label>
+				<h1>get lingua</h1>
+			</div>
+        </div>
     </div>
+</div>
 <script>
 	// ALE
 	// per inizializzare lo swiper devo aspettare che angular completi il dom

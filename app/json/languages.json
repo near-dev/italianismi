@@ -10,7 +10,7 @@
   { "name": "faroese", "countries": [ "FO" ], "latitudes": [45.4636, 62.011667], "longitudes": [9.1881, -6.7675] },
   { "name": "finnico", "countries": [ "FI" ], "latitudes": [45.4636, 59.437222], "longitudes": [9.1881, 24.745278] },
   { "name": "francese", "countries": [ "FR" ], "latitudes": [45.4636, 48.856667], "longitudes": [9.1881, 2.351944] },
-  { "name": "gaelico", "countries": [ "UK" ], "latitudes": [45.4636, 53.3425], "longitudes": [9.1881, -6.265833] },
+  { "name": "gaelico", "countries": [ "GB", "IE" ], "latitudes": [45.4636, 53.3425], "longitudes": [9.1881, -6.265833] },
   { "name": "giapponese", "countries": [ "JP" ], "latitudes": [45.4636, 35.689506], "longitudes": [9.1881, 139.6917] },
   { "name": "inglese", "countries": [ "GB" ], "latitudes": [45.4636, 51.507222], "longitudes": [9.1881,-0.1275] },
   { "name": "lettone", "countries": [ "LV" ], "latitudes": [45.4636, 56.948889], "longitudes": [9.1881, 24.106389] },

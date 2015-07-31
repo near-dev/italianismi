@@ -31,7 +31,7 @@ angular.module('italianismiApp')
 			}
 		};
 		
-		var areas = [ {	'id': 'IT',	'showAsSelected': true } ];
+		var areas = [ {	'id': 'IT',	'showAsSelected': true, 'groupId': 'whole' } ];
 		var lines = [];
 		
 		if ($scope.term) {
@@ -46,7 +46,7 @@ angular.module('italianismiApp')
 				if (l && l.countries) {
 					lines.push({ latitudes: l.latitudes, longitudes: l.longitudes } );
 					for (var i = 0; i < l.countries.length; i++) {
-						areas.push({ 'id': l.countries[i], 'showAsSelected': true });
+						areas.push({ 'id': l.countries[i], 'showAsSelected': true, 'groupId': 'whole' });
 					}
 				}
 			});
@@ -85,12 +85,15 @@ angular.module('italianismiApp')
 				linesSettings: {
 					arc: -0.7, // this makes lines curved. Use value from -1 to 1
 					arrow: 'end',
-					color: '#00f',
-					alpha: 0.4,
+					color: '#aeaeaf',
+					alpha: 0.9,
 					arrowAlpha: 1,
-					arrowSize: 4
+					arrowSize: 7
 				}
 			});
+			if ($routeParams.term) {
+				map.zoomToGroup('whole');
+			}
 		};
 		
 		setTimeout(initMap, 100);
