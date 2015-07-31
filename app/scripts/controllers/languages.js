@@ -31,6 +31,27 @@ angular.module('italianismiApp')
 			}
 		};
 		
+		var areas = [ {	'id': 'IT',	'showAsSelected': true } ];
+		
+		if ($scope.term) {
+			// try to build areas
+			angular.forEach($scope.term.languages, function(language) {
+				var l = null;
+				angular.forEach($scope.languages, function(lItem) {
+					if (lItem.name === language.name) {
+						l = lItem;
+					}
+				});
+				if (l && l.countries) {
+					for (var i = 0; i < l.countries.length; i++) {
+						areas.push({ 'id': l.countries[i], 'showAsSelected': true });
+					}
+				}
+			});
+		}
+		
+		console.log(areas);
+		
 		var initMap = function() {
 			// http://www.amcharts.com/visited_countries/ qui trovi l'esempio per la selezione dei paesi semplice
 			// http://www.amcharts.com/demos/map-with-curved-lines/
@@ -86,17 +107,7 @@ angular.module('italianismiApp')
 						latitudes: [45.4636, 40.4300],
 						longitudes: [9.1881, -74.0000]
 					}],
-					areas :
-					[
-						{
-							'id': 'IT',
-							'showAsSelected': true
-						},
-						{
-							'id': 'JP',
-							'showAsSelected': true
-						}
-					]
+					areas : areas
 				},
 				areasSettings : {
 					  autoZoom : false,
@@ -120,3 +131,86 @@ angular.module('italianismiApp')
 		
 		setTimeout(initMap, 100);
 	});
+
+/*	
+	            //Ceco ,
+    				latitudes: [45.4636, 50.083333],
+    				longitudes: [9.1881, 14.416667]
+          }, {
+            //cinese ,
+            latitudes: [45.4636, 39.905556],
+            longitudes: [9.1881, 116.391389]
+          }, {
+            //Coreano  ,
+            latitudes: [45.4636, 39.033333],
+            longitudes: [9.1881, 125.75]
+          }, {
+            //faroese ,
+            latitudes: [45.4636, 62.011667],
+            longitudes: [9.1881, -6.7675]
+    			}, {
+            //danese ,
+    				latitudes: [45.4636, 55.683333],
+    				longitudes: [9.1881, 12.583333]
+    			}, {
+            //arabo, 
+    				latitudes: [45.4636,  24.711660],
+    				longitudes: [9.1881, 46.724100]
+    			}, {
+            //Estone
+    				latitudes: [45.4636, 59.43],
+    				longitudes: [9.1881, 24.74]
+    			}, {
+            //Finnico ,
+    				latitudes: [45.4636, 59.437222],
+    				longitudes: [9.1881, 24.745278]
+    			}, {
+            // Francese ,
+    				latitudes: [45.4636, 48.856667],
+    				longitudes: [9.1881, 2.351944]
+    			}, {
+            // Tedesco ,
+    				latitudes: [45.4636, 52.518611],
+    				longitudes: [9.1881, 13.408056]
+    			}, {
+            // Giapponese ,
+    				latitudes: [45.4636, 35.689506],
+    				longitudes: [9.1881, 139.6917]
+    			}, {
+            // Gaelico ,
+    				latitudes: [45.4636, 53.3425],
+    				longitudes: [9.1881, -6.265833]
+    			}, {
+            // Lettone  ,
+    				latitudes: [45.4636, 56.948889],
+    				longitudes: [9.1881, 24.106389]
+    			}, {
+            // Lituano ,
+    				latitudes: [45.4636, 54.683333],
+    				longitudes: [9.1881, 25.283333]
+          }, {
+            //Polacco  ,
+            latitudes: [45.4636, 52.2323],
+            longitudes: [9.1881, 21.008433]
+          }, {
+            // Portoghese ,
+            latitudes: [45.4636, 38.7],
+            longitudes: [9.1881, -9.183333]
+          }, {
+            // Catalano ,
+            latitudes: [45.4636, 41.383333],
+            longitudes: [9.1881, 2.166667]
+          }, {
+            // Spagnolo ,
+            latitudes: [45.4636, 40.433333],
+            longitudes: [9.1881, -3.683333]
+          }, {
+            // americano ,
+            latitudes: [45.4636, 38.895111],
+            longitudes: [9.1881, -77.036667]
+          }, {
+            // Ungherese ,
+            latitudes: [45.4636, 47.471944],
+            longitudes: [9.1881, 19.050278]
+    			}],
+*/

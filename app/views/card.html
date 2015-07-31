@@ -15,7 +15,7 @@
 			<div class="swiper-slide x" ng-repeat="term in terms">
                 <div class="swiper-container swiper-container-v" id="swiper-{{ $index }}">
 					<div class="swiper-wrapper">
-						<div class="swiper-slide" ng-repeat="language in term.languages">
+						<div class="swiper-slide" ng-repeat="language in term.languages" ng-if="term.languageIndex === $index">
 							<div class="row">
 								<div class="col-md-12">
 									<div class="foto">
@@ -33,9 +33,11 @@
 									<div class="col-md-5 right">
 										<label>Italianismo</label>
 										<h1><strong ng-bind="language.term"></strong></h1>
-										<p><i>† ákovita, † áquavita</i><br>ibrido [prestito fonetico gēgòngzuǒlā + rǔlào "formaggio"   </p>
+										<p><i>† ákovita, † áquavita</i></p>
+										<p ng-if="language.desc" ng-bind="language.desc"></p>
 									</div>
 								</div>
+								<div><button class="btn btn-xs" ng-click="changeLanguage(-1, term)">indietro</button> <button class="btn btn-xs" ng-click="changeLanguage(1, term)">avanti</button></div>
 							</div>
 						</div>
 					</div>
@@ -63,19 +65,6 @@
 				prevButton: '.swiper-button-prev',
 				loop:true
 			});
-			/*$('.swiper-container-v').each(function(index) {
-				var swiperV = new Swiper(this, {
-					direction: 'vertical',
-					spaceBetween: 0
-				});
-			});*/
-			/*var mySwiper = new Swiper('.swiper-container-h', {
-				initialSlide: window.index,
-				loop: true,
-				pagination: '.swiper-pagination-h',
-				paginationClickable: true,
-				spaceBetween: 50
-			})*/;
 		} else { 
 			setTimeout(bootstrap, 100) 
 		}
@@ -84,6 +73,4 @@
 	
   	//https://github.com/nolimits4web/Swiper/blob/master/demos/11-nested.html
   	//http://www.idangero.us/swiper/demos/11-nested.html
-	
-	
 </script>
