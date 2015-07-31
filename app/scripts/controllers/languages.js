@@ -32,6 +32,7 @@ angular.module('italianismiApp')
 		};
 		
 		var areas = [ {	'id': 'IT',	'showAsSelected': true } ];
+		var lines = [];
 		
 		if ($scope.term) {
 			// try to build areas
@@ -43,14 +44,13 @@ angular.module('italianismiApp')
 					}
 				});
 				if (l && l.countries) {
+					lines.push({ latitudes: l.latitudes, longitudes: l.longitudes } );
 					for (var i = 0; i < l.countries.length; i++) {
 						areas.push({ 'id': l.countries[i], 'showAsSelected': true });
 					}
 				}
 			});
 		}
-		
-		console.log(areas);
 		
 		var initMap = function() {
 			// http://www.amcharts.com/visited_countries/ qui trovi l'esempio per la selezione dei paesi semplice
@@ -70,43 +70,7 @@ angular.module('italianismiApp')
 				dataProvider : {
 					map : 'worldHigh',
 					getAreasFromMap : true,
-					lines: [{
-						latitudes: [45.4636, 50.4422],
-						longitudes: [9.1881, 30.5367]
-					}, {
-						latitudes: [45.4636, 46.9480],
-						longitudes: [9.1881, 7.4481]
-					}, {
-						latitudes: [45.4636, 59.3328],
-						longitudes: [9.1881, 18.0645]
-					}, {
-						latitudes: [45.4636, 40.4167],
-						longitudes: [9.1881, -3.7033]
-					}, {
-						latitudes: [45.4636, 46.0514],
-						longitudes: [9.1881, 14.5060]
-					}, {
-						latitudes: [45.4636, 48.2116],
-						longitudes: [9.1881, 17.1547]
-					}, {
-						latitudes: [45.4636, 44.8048],
-						longitudes: [9.1881, 20.4781]
-					}, {
-						latitudes: [45.4636, 55.7558],
-						longitudes: [9.1881, 37.6176]
-					}, {
-						latitudes: [45.4636, 38.7072],
-						longitudes: [9.1881, -9.1355]
-					}, {
-						latitudes: [45.4636, 54.6896],
-						longitudes: [9.1881, 25.2799]
-					}, {
-						latitudes: [45.4636, 64.1353],
-						longitudes: [9.1881, -21.8952]
-					}, {
-						latitudes: [45.4636, 40.4300],
-						longitudes: [9.1881, -74.0000]
-					}],
+					lines: lines,
 					areas : areas
 				},
 				areasSettings : {
@@ -121,7 +85,7 @@ angular.module('italianismiApp')
 				linesSettings: {
 					arc: -0.7, // this makes lines curved. Use value from -1 to 1
 					arrow: 'end',
-					color: '#CC0000',
+					color: '#00f',
 					alpha: 0.4,
 					arrowAlpha: 1,
 					arrowSize: 4
