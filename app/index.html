@@ -81,11 +81,17 @@
 			if ($('#virtualKeyboardChromeExtensionOverlayScrollExtend').length) {
 				$('#virtualKeyboardChromeExtensionOverlayScrollExtend').attrchange({
 					callback: function (event) { 
-						if ($('#virtualKeyboardChromeExtensionOverlayScrollExtend').css('display') === 'none')
+						if ($('#virtualKeyboardChromeExtensionOverlayScrollExtend').css('display') === 'none') {
+							$( 'input' ).blur();
 							$('html').animate({top: '0'});
-						else
-							$('html').animate({top: '-250px'});
-					}        
+						}
+						else {
+							if ($('#formverde').length)
+							{
+								$('html').animate({top: '-250px'});
+							}        
+						}
+					}
 				});	
 			}
 			else {
