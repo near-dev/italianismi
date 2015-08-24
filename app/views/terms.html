@@ -6,12 +6,15 @@
 				<h2 ng-hide="language">Usate nel mondo</h2>
 				<h3 ng-show="language">Parole italiane in</h3>
 				<h2 ng-show="language" ng-bind="language" class="sel"></h2>
-				<input type="text" class="form-control" placeholder="Cerca una parola" title="" ng-model="search.termIta" >
+				<input type="text" class="form-control" placeholder="Cerca una parola" title="" ng-model="search.termIta" id="search">
 				<span class="glyphicon glyphicon-search"></span>
 		   	</header>
 		   	<div class="box_parole">
 				<ul class="quattro_colonne">
-					<li ng-repeat="term in terms | filter:search:startWith"><a href="#{{ language ? 'card/' + term.termIta + '/' + language + '/' + search.termIta : 'languages/' + term.termIta + '/' + search.termIta }}" ng-bind="term.termIta"></a></li>
+					<li ng-repeat="term in terms | filter:search">
+						<a href="#{{ 'languages/' + term.termIta + '/' + search.termIta }}" ng-bind="term.termIta"></a>	
+						<!--a href="#{{ language ? 'card/' + term.termIta + '/' + language + '/' + search.termIta : 'languages/' + term.termIta + '/' + search.termIta }}" ng-bind="term.termIta"></a-->
+					</li>
 				</ul>
 			</div>
         </div>
