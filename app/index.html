@@ -61,6 +61,7 @@
 
         <!-- build:js({.tmp,app}) scripts/scripts.js -->
         <script src="scripts/app.js"></script>
+		<script src="scripts/attrchange.js"></script>
         <script src="scripts/controllers/main.js"></script>
         <script src="scripts/controllers/about.js"></script>
         <script src="scripts/controllers/terms.js"></script>
@@ -75,6 +76,23 @@
     <script src="http://cdn.amcharts.com/lib/3/maps/js/worldHigh.js" type="text/javascript"></script>
 	<!-- non esiste più? -->
     <!--script src="http://torontographic.com/wordpress/parallaxSwipe/js/jquery.parallaxSwipe.js" type="text/javascript"></script-->
-
+	<script>
+		var initKeyboard = function() {
+			if ($('#virtualKeyboardChromeExtensionOverlayScrollExtend').length) {
+				$('#virtualKeyboardChromeExtensionOverlayScrollExtend').attrchange({
+					callback: function (event) { 
+						if ($('#virtualKeyboardChromeExtensionOverlayScrollExtend').css('display') === 'none')
+							$('html').animate({top: '0'});
+						else
+							$('html').animate({top: '-250px'});
+					}        
+				});	
+			}
+			else {
+				setTimeout(initKeyboard, 100);
+			}
+		};
+		initKeyboard();
+	</script>
 </body>
 </html>
