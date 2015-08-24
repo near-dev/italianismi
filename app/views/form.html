@@ -17,7 +17,7 @@
                   <textarea class="form-control" id="Significato" name="Significato" placeholder="Significato e note"></textarea>
                   <div class="form-group buttons_box">
                     <button id="button1id" name="button1id" class="btn form-control attivo half">Invia</button>
-                    <button id="button2id" name="button2id" class="btn form-control inattivo half">Annulla</button>
+                    <button id="btVisible" name="button2id" class="btn form-control inattivo half">Annulla</button>
                   </div>
                 </div>
               </fieldset>
@@ -30,7 +30,23 @@
     </div>
 
     <script type="text/javascript">
-        $(window).load(function(){
-            $('#myModal').modal('show');
-        });
+        
+    $(window).load(function(){
+      $('#myModal').modal('show');
+    });
+
+    $( 'input' ).focus(function( event) {
+      $('html').animate({top: '-250px'});
+      event.stopPropagation();
+    });
+    
+    $( 'input' ).blur(function() {
+      $('html').animate({top: '0'});
+    });
+
+
+    //https://developers.google.com/virtual-keyboard/v1/getting_started (deprecated)
+
+    //https://mottie.github.io/Keyboard/index.html
+
     </script>

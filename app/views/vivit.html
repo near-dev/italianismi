@@ -87,6 +87,26 @@
 </div>
 
 <script type="text/javascript">
+
+  var bootstrap = function() { 
+    //console.log('test');
+    if ($('.x.swiper-slide').length === window.count) { 
+      var swiperH = new Swiper('#swiper-container-h', {
+        initialSlide: window.index,
+        //pagination: '.swiper-pagination-h',
+        //paginationClickable: true,
+        spaceBetween: 0,
+        nextButton: '.swiper-button-next',
+        prevButton: '.swiper-button-prev',
+        loop:true
+      });
+    } else { 
+      setTimeout(bootstrap, 100) 
+    }
+  };
+  bootstrap();
+
+  
 $(document).ready(function () {
   $(document).bind("dragstart", function() { return true; });
  
