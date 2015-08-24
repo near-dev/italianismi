@@ -347,27 +347,28 @@ body {
 
   .scheda{
     margin:0;
-    padding:30px;
-    background:url('../images/cover_bk.jpg') center no-repeat;
+    background:url('../images/bk_scheda.jpg') center -50px no-repeat;
+    //padding:30px;
+    //background:url('../images/cover_bk.jpg') center no-repeat;
 
     .lingua_selezionata{
       text-align: center;
-      margin-top:560px;
+      margin-top:600px;
       width: 100%;
       float: left;
     }
 
     .left{
       text-align:right;
-      height: 230px;
+      height: 290px;
     }
     .right{
       text-align:left; 
-      height: 230px;
+      height: 290px;
     }
     .pep_toolbar{
       position:fixed;
-      padding:60px;
+      padding:30px;
       margin:0;
       width: 100%;
       z-index:20;
@@ -377,9 +378,10 @@ body {
       .close{
         float: right;
         opacity:1;
+        margin: 45px;
       }
       .back{
-        margin-top: -15px;
+        margin: 15px 30px;
         float: left;
         -webkit-transform: rotate(225deg); /* Safari */
         transform: rotate(225deg); /* Standard syntax */
@@ -391,21 +393,21 @@ body {
         }
       }
       label{
-        padding: 5px;
-        margin-left: 15px;
-        background-color: rgba(244, 244, 242, 0.6);
+        padding: 7px 15px;
+        margin-left: -60px;
+        background-color: rgba(244, 244, 242, 0.8);
       }
     }
 
-    .popup_fake{
+   /* .popup_fake{
       border: 1px solid $grigio_chiaro;
       box-shadow: 10px 10px 30px #888;
-      background:url('../images/bk_scheda.jpg') center no-repeat;
+      background:url('../images/bk_scheda.jpg') center -50px no-repeat;
       height: 98%;
-    }
+    }*/
     .foto{
       img{
-        margin-top: -500px;
+        margin-top: -450px;
         margin-bottom: 100px;
         position:relative;
       }
@@ -429,7 +431,7 @@ body {
       font-weight: normal;
       color: $grigio_scuro;
       strong{
-        color: $nero;
+        color: $grigio_scuro;
       }
     }
   }
