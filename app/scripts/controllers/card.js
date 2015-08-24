@@ -11,7 +11,10 @@ angular.module('italianismiApp')
   .controller('CardCtrl', function ($scope, $routeParams, $window, engine) {
 	$scope.language = $routeParams.language;
   	$scope.search = $routeParams.search;
-
+	$scope.term = $routeParams.term;
+	
+	$scope.linkback = 'languages/' + $scope.term;
+	
   	$scope.terms = engine.getFilteredTerms($scope.language, $scope.search);
 
 	$window.count = $scope.terms.length;
