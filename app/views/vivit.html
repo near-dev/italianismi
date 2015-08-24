@@ -9,7 +9,7 @@
   <div ng-include="'views/menu.html'"></div>
 </div>
 
-<div class="container" onselectstart="return true;">
+<div class="container" onselectstart="return false;">
   <div id="parallax">
     <div class="panel">    
       <div class="bubble">
@@ -64,7 +64,7 @@
   </div>
 </div> 
 
-<div class="container" onselectstart="return true;">
+<div class="container" onselectstart="return false;">
   <div id="layer1">
     <div class="panel">
       <div id="balloon1"></div>
@@ -74,41 +74,22 @@
   </div>
 </div>
 
-<div class="container" onselectstart="return true;">
+<div class="container" onselectstart="return false;">
   <div id="layer2"> <!--cloud1.png layer-->
     <div class="panel"></div>
   </div>
 </div>
 
-<div class="container" onselectstart="return true;">
+<div class="container" onselectstart="return false;">
   <div id="layer3"> <!--cloud2.png layer-->
     <div class="panel"></div>
   </div>
 </div>
 
-<script type="text/javascript">
+    <script type="text/javascript">
 
-  var bootstrap = function() { 
-    //console.log('test');
-    if ($('.x.swiper-slide').length === window.count) { 
-      var swiperH = new Swiper('#swiper-container-h', {
-        initialSlide: window.index,
-        //pagination: '.swiper-pagination-h',
-        //paginationClickable: true,
-        spaceBetween: 0,
-        nextButton: '.swiper-button-next',
-        prevButton: '.swiper-button-prev',
-        loop:true
-      });
-    } else { 
-      setTimeout(bootstrap, 100) 
-    }
-  };
-  bootstrap();
-
-  
 $(document).ready(function () {
-  $(document).bind("dragstart", function() { return true; });
+  $(document).bind("dragstart", function() { return false; });
  
   $(function() { //chrome wants it wrapped in function
   //1. The parallax div moves with your mouse or touch swipe.
@@ -126,4 +107,5 @@ $(document).ready(function () {
   });
 });
 
-</script>
+
+    </script>
