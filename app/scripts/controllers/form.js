@@ -8,10 +8,8 @@
  * Controller of the italianismiApp
  */
 angular.module('italianismiApp')
-  .controller('FormCtrl', function ($scope) {
-    $scope.awesomeThings = [
-      'HTML5 Boilerplate',
-      'AngularJS',
-      'Karma'
-    ];
+  .controller('FormCtrl', function ($scope, $location) {
+	  $scope.submit = function() {
+		  $location.path("confirm");
+	  }
   });

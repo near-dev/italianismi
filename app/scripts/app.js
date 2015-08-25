@@ -66,6 +66,10 @@ angular
         templateUrl: 'views/credits.html',
         controller: 'CreditsCtrl'
       })
+      .when('/confirm', {
+        templateUrl: 'views/confirm.html',
+        controller: 'ConfirmCtrl'
+      })
       .otherwise({
         redirectTo: '/'
       });
