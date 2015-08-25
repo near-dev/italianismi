@@ -77,28 +77,6 @@
     <script src="http://cdn.amcharts.com/lib/3/ammap.js" type="text/javascript"></script>
     <script src="http://cdn.amcharts.com/lib/3/maps/js/worldHigh.js" type="text/javascript"></script>
 
-    <script type="text/javascript">
-
-
-      $(document).bind("dragstart", function() { return true; });
-     
-      $(function() { //chrome wants it wrapped in function
-      //1. The parallax div moves with your mouse or touch swipe.
-      //2. We're moving up and down so HORIZ: false.
-      //3. LAYER: speed of layer 1 and layer2 (higher number=slower (using divide in code).
-      //4. I did not LAYER layer3 so it remains static
-      
-        $("#parallax").parallaxSwipe( { HORIZ: false, LAYER:[.8,4.2] });
-
-        //layer2 and layer3 have no elements. We need to know the parallax's real hidden height.
-        //depending on HORIZ: call function to get width or height
-        var layerHeight = $('#parallax').parallaxSwipe.getSize();
-        $('#layer2').css('height',layerHeight+500); //add some more height for fast moving layers.
-        $('#layer3').css('height',layerHeight); //static background but need to add a height.
-      });
-
-    </script>
-    
 	<script>
 		var initKeyboard = function() {
 			if ($('#virtualKeyboardChromeExtensionOverlayScrollExtend').length) {
@@ -122,8 +100,6 @@
 			}
 		};
 		initKeyboard();
-
-
 	</script>
 
 
