@@ -637,9 +637,9 @@ body {
   background-color: transparent;
   cursor: move;
   z-index: 4;
-  margin-top: 200px;
-
+ // margin-top: 200px;
 }
+
 #layer1 {
   -webkit-user-select: none;
   -moz-user-select: none;
@@ -649,6 +649,7 @@ body {
   cursor: move;
   background: transparent;
   z-index: 3;
+  top: 0;
 }
 #layer2 {
   -webkit-user-select: none;
@@ -659,6 +660,7 @@ body {
   background: transparent url('../images/vivit_layer_1.png') repeat-y 0 0;
   cursor: move;
   z-index: 2;
+  top: 0;
 }
 #layer3 {
   -webkit-user-select: none;
@@ -669,6 +671,7 @@ body {
   //background: transparent url('../images/vivit_layer_1.png') repeat-y 0 0;
   cursor: move;
   z-index: 1;
+  top: 0;
 }
 .panel {
   /*float: left;*/
