@@ -5,11 +5,11 @@
   },
   {
     "termIta": "abbacchio",
-    "url": "erabbacchio.png"
+    "url": "abbacchio.png"
   },
   {
     "termIta": "acciuga [ancioa, genovese]",
-    "url": ""
+    "url": "acciughe.png"
   },
   {
     "termIta": "aceto balsamico",
@@ -41,7 +41,7 @@
   },
   {
     "termIta": "alla carbonara",
-    "url": ""
+    "url": "carbonara.png"
   },
   {
     "termIta": "alla Norma",
@@ -89,7 +89,7 @@
   },
   {
     "termIta": "antipasto",
-    "url": ""
+    "url": "antipasto.png"
   },
   {
     "termIta": "arancia [narancia, narancio, antico istriano; naransa, naranso, giuliano; naranzˇ, romagnolo; naranza, narancia, veneziano]",
@@ -117,7 +117,7 @@
   },
   {
     "termIta": "baccalà",
-    "url": ""
+    "url": "baccalà.png"
   },
   {
     "termIta": "bagna cauda",
@@ -133,7 +133,7 @@
   },
   {
     "termIta": "basilico",
-    "url": ""
+    "url": "basilico.png"
   },
   {
     "termIta": "basoffia",
@@ -141,7 +141,7 @@
   },
   {
     "termIta": "batata",
-    "url": ""
+    "url": "batata.png"
   },
   {
     "termIta": "Bel Paese",
@@ -253,7 +253,7 @@
   },
   {
     "termIta": "caciucco",
-    "url": ""
+    "url": "caciucco.png"
   },
   {
     "termIta": "caffè",
@@ -269,7 +269,7 @@
   },
   {
     "termIta": "calamari",
-    "url": ""
+    "url": "calamari.png"
   },
   {
     "termIta": "calzone",
@@ -309,7 +309,7 @@
   },
   {
     "termIta": "caponata",
-    "url": ""
+    "url": "caponata.png"
   },
   {
     "termIta": "cappero [càppero, càpperi, milanese; capper, càpari, veneziano, cáppara, capperina, dial. sett., caparo, veneziano,]",
@@ -509,7 +509,7 @@
   },
   {
     "termIta": "fagiolo [fasol, fazol, fasola dial. sett.]",
-    "url": ""
+    "url": "fagiolo.png"
   },
   {
     "termIta": "farfalle",
@@ -609,7 +609,7 @@
   },
   {
     "termIta": "gambero",
-    "url": ""
+    "url": "gambero.png"
   },
   {
     "termIta": "gazzosa",
@@ -705,7 +705,7 @@
   },
   {
     "termIta": "lauro",
-    "url": ""
+    "url": "lauro.png"
   },
   {
     "termIta": "legare",
@@ -769,7 +769,7 @@
   },
   {
     "termIta": "marmellata",
-    "url": ""
+    "url": "marmellata.png"
   },
   {
     "termIta": "marrone [maron, romagnolo;maro–ni˛, veneziano; maro–ni, friulano]",
@@ -897,7 +897,7 @@
   },
   {
     "termIta": "ostrica [òstriga, triestino, friulano, giuliano; òstrega, veneziano]",
-    "url": ""
+    "url": "ostrica.png"
   },
   {
     "termIta": "pagnotta",
@@ -953,7 +953,7 @@
   },
   {
     "termIta": "pappa al pomodoro",
-    "url": ""
+    "url": "pappa-al-pomodoro.png"
   },
   {
     "termIta": "Parmigiano Reggiano",
@@ -1017,7 +1017,7 @@
   },
   {
     "termIta": "pesto",
-    "url": ""
+    "url": "pesto.png"
   },
   {
     "termIta": "petto di monaca",
@@ -1105,7 +1105,7 @@
   },
   {
     "termIta": "prezzemolo [petrosino, petrusello, petrosello meridion.]",
-    "url": ""
+    "url": "prezzemolo.png"
   },
   {
     "termIta": "prosciutto",
@@ -1149,7 +1149,7 @@
   },
   {
     "termIta": "ravioli",
-    "url": ""
+    "url": "ravioli.png"
   },
   {
     "termIta": "refosco",
@@ -1181,7 +1181,7 @@
   },
   {
     "termIta": "risotto",
-    "url": ""
+    "url": "risotto.png"
   },
   {
     "termIta": "robiola",
@@ -1197,7 +1197,7 @@
   },
   {
     "termIta": "rosmarino",
-    "url": ""
+    "url": "rosmarino.png"
   },
   {
     "termIta": "rosolio",
@@ -1205,7 +1205,7 @@
   },
   {
     "termIta": "ruchetta [rucola it. sett.]",
-    "url": ""
+    "url": "ruchetta.png"
   },
   {
     "termIta": "ruta",
@@ -1213,7 +1213,7 @@
   },
   {
     "termIta": "salame",
-    "url": ""
+    "url": "salame.png"
   },
   {
     "termIta": "salsa",
@@ -1537,7 +1537,7 @@
   },
   {
     "termIta": "zucca",
-    "url": ""
+    "url": "zucca.png"
   },
   {
     "termIta": "zuccata",
