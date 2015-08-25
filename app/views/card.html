@@ -23,7 +23,7 @@
 										<div class="col-md-4 right">
 											<label>Italianismo</label>
 											<h1><strong ng-bind="language.term"></strong></h1>
-											<p><i>† ákovita, † áquavita</i></p>
+											<p ng-if="language.otherTerms"><i ng-bind="language.otherTerms"></i></p>
 											<p ng-if="language.desc" ng-bind="language.desc"></p>
 										</div>
 										<!--hr-->
