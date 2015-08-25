@@ -25,7 +25,7 @@
   },
   {
     "termIta": "agrodolce",
-    "url": ""
+    "url": "agrodolce.png"
   },
   {
     "termIta": "agrumi",
@@ -229,7 +229,7 @@
   },
   {
     "termIta": "budino [bodino ant.]",
-    "url": ""
+    "url": "budino.png"
   },
   {
     "termIta": "buoni e brutti",
@@ -257,7 +257,7 @@
   },
   {
     "termIta": "caffè",
-    "url": ""
+    "url": "caffe.png"
   },
   {
     "termIta": "caffèlatte",
@@ -273,7 +273,7 @@
   },
   {
     "termIta": "calzone",
-    "url": ""
+    "url": "calzone.png"
   },
   {
     "termIta": "Campari",
@@ -289,7 +289,7 @@
   },
   {
     "termIta": "cannellini",
-    "url": ""
+    "url": "fagiolo.png"
   },
   {
     "termIta": "cannelloni",
@@ -301,7 +301,7 @@
   },
   {
     "termIta": "capelli d'angelo",
-    "url": ""
+    "url": "capelli-dangelo.png"
   },
   {
     "termIta": "capocollo",
@@ -317,7 +317,7 @@
   },
   {
     "termIta": "cappuccino",
-    "url": ""
+    "url": "cappuccino.png"
   },
   {
     "termIta": "cappuccio (cavolo)",
@@ -349,7 +349,7 @@
   },
   {
     "termIta": "castagna",
-    "url": ""
+    "url": "castagna.png"
   },
   {
     "termIta": "caviale [caviare, arc.; caviar, ant. veneto]",
@@ -401,7 +401,7 @@
   },
   {
     "termIta": "cicerchia",
-    "url": ""
+    "url": "cicerchia.png"
   },
   {
     "termIta": "cicoria",
@@ -513,7 +513,7 @@
   },
   {
     "termIta": "farfalle",
-    "url": ""
+    "url": "farfalle.png"
   },
   {
     "termIta": "farina",
@@ -521,7 +521,7 @@
   },
   {
     "termIta": "farro",
-    "url": ""
+    "url": "farro.png"
   },
   {
     "termIta": "fava",
@@ -545,11 +545,11 @@
   },
   {
     "termIta": "fettuccine",
-    "url": ""
+    "url": "fettuccine.png"
   },
   {
     "termIta": "fico [fíga, pl. fíghe, veneziano antico; figo, triestino]",
-    "url": ""
+    "url": "fico.png"
   },
   {
     "termIta": "filetto",
@@ -569,7 +569,7 @@
   },
   {
     "termIta": "formaggio",
-    "url": ""
+    "url": "formaggi.png"
   },
   {
     "termIta": "fragola",
@@ -601,7 +601,7 @@
   },
   {
     "termIta": "fusilli",
-    "url": ""
+    "url": "fusilli.png"
   },
   {
     "termIta": "gala (mela)",
@@ -693,7 +693,7 @@
   },
   {
     "termIta": "latte",
-    "url": ""
+    "url": "latte.png"
   },
   {
     "termIta": "latte macchiato",
@@ -717,7 +717,7 @@
   },
   {
     "termIta": "limoncello",
-    "url": ""
+    "url": "limoncello.png"
   },
   {
     "termIta": "limone",
@@ -733,7 +733,7 @@
   },
   {
     "termIta": "maccheroni",
-    "url": ""
+    "url": "maccheroni.png"
   },
   {
     "termIta": "malvasia [marvaxïa, genovese; malvaSia, giuliano; malvazìa, bresciano; malvasìa, veneziano]",
@@ -773,7 +773,7 @@
   },
   {
     "termIta": "marrone [maron, romagnolo;maro–ni˛, veneziano; maro–ni, friulano]",
-    "url": ""
+    "url": "castagna.png"
   },
   {
     "termIta": "marsala",
@@ -801,7 +801,7 @@
   },
   {
     "termIta": "melograno [pomogranato, sett.]",
-    "url": ""
+    "url": "melograno.png"
   },
   {
     "termIta": "melone",
@@ -869,7 +869,7 @@
   },
   {
     "termIta": "Nutella",
-    "url": ""
+    "url": "nutella.png"
   },
   {
     "termIta": "orata",
@@ -941,7 +941,7 @@
   },
   {
     "termIta": "panna cotta",
-    "url": ""
+    "url": "pannacotta.png"
   },
   {
     "termIta": "pantesca",
@@ -973,7 +973,7 @@
   },
   {
     "termIta": "pastella [pastetta napoletano]",
-    "url": ""
+    "url": "pastella.png"
   },
   {
     "termIta": "pasticcio",
@@ -993,7 +993,7 @@
   },
   {
     "termIta": "penne",
-    "url": ""
+    "url": "penne.png"
   },
   {
     "termIta": "pepato (formaggio)",
@@ -1085,7 +1085,7 @@
   },
   {
     "termIta": "porchetta",
-    "url": ""
+    "url": "porchetta.png"
   },
   {
     "termIta": "porcini",
@@ -1177,7 +1177,7 @@
   },
   {
     "termIta": "riso",
-    "url": ""
+    "url": "riso.png"
   },
   {
     "termIta": "risotto",
@@ -1233,7 +1233,7 @@
   },
   {
     "termIta": "salume",
-    "url": ""
+    "url": "antipasto.png"
   },
   {
     "termIta": "sambuca",
@@ -1533,7 +1533,7 @@
   },
   {
     "termIta": "ziti",
-    "url": ""
+    "url": "ziti.png"
   },
   {
     "termIta": "zucca",
