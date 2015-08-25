@@ -11,7 +11,7 @@
 		   	</header>
 		   	<div class="box_parole">
 				<ul class="quattro_colonne" ng-show="filteredTerms.length">
-					<li ng-repeat="term in filteredTerms = (terms | filter:search)">
+					<li ng-repeat="term in filteredTerms = (terms | filter:search:startWith)">
 						<!--a href="#{{ 'languages/' + term.termIta + '/' + search.termIta }}" ng-bind="term.termIta"></a-->	
 						<a href="#{{ language ? 'card/' + term.termIta + '/' + language + '/' + search.termIta : 'languages/' + term.termIta + '/' + search.termIta }}" ng-bind="term.termIta"></a>
 					</li>
