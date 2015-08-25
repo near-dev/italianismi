@@ -75,7 +75,6 @@ angular
       });
   });
 
-  	console.log(window.location);
 
 var idleTime = 0;
 $(document).ready(function () {

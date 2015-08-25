@@ -13,7 +13,8 @@
 								<div class="row">
 									<div class="col-md-12">
 										<div class="foto">
-											<img src="images/pep_img_01.png">
+											<img src="images/pep_img_01.png" ng-if="!term.imageUrl">
+											<img src="{{ term.imageUrl }}" ng-if="term.imageUrl">
 										</div>
 										<div class=" col-md-offset-2 col-md-4 left">
 											<label>Parola Italiana</label>

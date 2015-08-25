@@ -16,6 +16,7 @@ angular.module('italianismiApp')
 	$scope.linkback = 'languages/' + $scope.term;
 	
   	$scope.terms = engine.getFilteredTerms($scope.language, $scope.search);
+	
 
 	$window.count = $scope.terms.length;
 
@@ -27,6 +28,11 @@ angular.module('italianismiApp')
 				}
 			});
 		}
+		var imageUrl = engine.getImageUrl(term.termIta);
+		if (imageUrl) {
+			term.imageUrl = imageUrl;
+		}
+		
   		if (term.termIta === $routeParams.term) {
   			$scope.index = index;
 			$window.index = index;

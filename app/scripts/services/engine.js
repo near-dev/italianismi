@@ -21,7 +21,7 @@ angular.module('italianismiApp')
     	that.languages = data;
     });
 
-	this.imagesPromise = $http.get('/json/images.json').success(function(data) {
+	this.imagesPromise = $http.get('/json/termImages.json').success(function(data) {
     	that.images = data;
     });
 
