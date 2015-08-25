@@ -1,6 +1,6 @@
 [
   { "name": "americano", "countries": [ "US" ], "latitudes": [45.4636, 38.895111], "longitudes": [9.1881, -77.036667] },
-  { "name": "arabo", "countries": [ "SA" ], "latitudes": [45.4636,  24.711660], "longitudes": [9.1881, 46.724100] },
+  { "name": "arabo", "countries": [ "SA", "BH", "DZ", "EG", "AE", "IQ", "JO", "KW", "LB", "LY", "MR", "MA", "OM", "QA", "SD", "SY", "TN", "PS", "YE", "EH" ], "latitudes": [45.4636,  24.711660], "longitudes": [9.1881, 46.724100] },
   { "name": "catalano", "countries": [ "ES" ], "latitudes": [45.4636, 41.383333], "longitudes": [9.1881, 2.166667] },
   { "name": "ceco", "countries": [ "CZ" ], "latitudes": [45.4636, 50.083333], "longitudes": [9.1881, 14.416667] },
   { "name": "cinese", "countries": [ "CN" ], "latitudes": [45.4636, 39.905556], "longitudes": [9.1881, 116.391389] },

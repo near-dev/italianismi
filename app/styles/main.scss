@@ -190,6 +190,11 @@ html, body, .ng-scope, .container-fluid, .row {
    width: 100%;
    overflow: hidden;
 }
+img.ng-scope {
+	width: auto;
+	height: auto;
+}
+
 html, body {
   position: relative;
   height: 100% !important;

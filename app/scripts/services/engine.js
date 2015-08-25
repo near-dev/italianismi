@@ -21,6 +21,10 @@ angular.module('italianismiApp')
     	that.languages = data;
     });
 
+	this.imagesPromise = $http.get('/json/termImages.json').success(function(data) {
+    	that.images = data;
+    });
+
     this.getFilteredTerms = function(language, search) {
     	return $filter('filter')(this.terms, function(value) {
     		var found = false;
@@ -56,5 +60,17 @@ angular.module('italianismiApp')
 		});
 		return retTerm;
 	};
+	
+	this.getImageUrl = function(termStr) {
+		var retUrl = null;
+		angular.forEach(this.images, function(image) {
+			if (image.termIta === termStr) {
+				if (image.url) {
+					retUrl = "http://ariel.ariel.unimi.it/italianismi/tempImages/" + image.url;
+				}
+			}
+		});
+		return retUrl;
+	}
 
   });
