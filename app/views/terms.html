@@ -12,8 +12,8 @@
 		   	<div class="box_parole">
 				<ul class="quattro_colonne">
 					<li ng-repeat="term in terms | filter:search">
-						<a href="#{{ 'languages/' + term.termIta + '/' + search.termIta }}" ng-bind="term.termIta"></a>	
-						<!--a href="#{{ language ? 'card/' + term.termIta + '/' + language + '/' + search.termIta : 'languages/' + term.termIta + '/' + search.termIta }}" ng-bind="term.termIta"></a-->
+						<!--a href="#{{ 'languages/' + term.termIta + '/' + search.termIta }}" ng-bind="term.termIta"></a-->	
+						<a href="#{{ language ? 'card/' + term.termIta + '/' + language + '/' + search.termIta : 'languages/' + term.termIta + '/' + search.termIta }}" ng-bind="term.termIta"></a-->
 					</li>
 				</ul>
 			</div>
