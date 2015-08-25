@@ -10,12 +10,13 @@
 				<span class="glyphicon glyphicon-search"></span>
 		   	</header>
 		   	<div class="box_parole">
-				<ul class="quattro_colonne">
-					<li ng-repeat="term in terms | filter:search">
+				<ul class="quattro_colonne" ng-show="filteredTerms.length">
+					<li ng-repeat="term in filteredTerms = (terms | filter:search)">
 						<!--a href="#{{ 'languages/' + term.termIta + '/' + search.termIta }}" ng-bind="term.termIta"></a-->	
-						<a href="#{{ language ? 'card/' + term.termIta + '/' + language + '/' + search.termIta : 'languages/' + term.termIta + '/' + search.termIta }}" ng-bind="term.termIta"></a-->
+						<a href="#{{ language ? 'card/' + term.termIta + '/' + language + '/' + search.termIta : 'languages/' + term.termIta + '/' + search.termIta }}" ng-bind="term.termIta"></a>
 					</li>
 				</ul>
+				<p ng-hide="filteredTerms.length"><em>Nessun termine trovato.</em></p>
 			</div>
         </div>
         <div ng-include="'views/menu.html'"></div>
