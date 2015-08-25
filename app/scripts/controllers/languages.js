@@ -46,6 +46,7 @@ angular.module('italianismiApp')
 				if (l && l.countries) {
 					lines.push({ latitudes: l.latitudes, longitudes: l.longitudes } );
 					for (var i = 0; i < l.countries.length; i++) {
+						console.log(l.countries[i]);
 						areas.push({ 'id': l.countries[i], 'showAsSelected': true, 'groupId': 'whole' });
 					}
 				}
