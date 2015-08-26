@@ -13,11 +13,11 @@
   },
   {
     "termIta": "aceto balsamico",
-    "url": ""
+    "url": "aceto.png"
   },
   {
     "termIta": "acquavite",
-    "url": ""
+    "url": "grappa.png"
   },
   {
     "termIta": "agreste",
@@ -37,7 +37,7 @@
   },
   {
     "termIta": "alla bolognese",
-    "url": ""
+    "url": "allabolognese.png"
   },
   {
     "termIta": "alla carbonara",
@@ -45,15 +45,15 @@
   },
   {
     "termIta": "alla Norma",
-    "url": ""
+    "url": "allanorma.png"
   },
   {
     "termIta": "alla pescatora",
-    "url": ""
+    "url": "allapescatora.png"
   },
   {
     "termIta": "alla puttanesca",
-    "url": ""
+    "url": "allaputtanesca.png"
   },
   {
     "termIta": "alla veneziana",
@@ -177,11 +177,11 @@
   },
   {
     "termIta": "biscotti",
-    "url": ""
+    "url": "biscotto.png"
   },
   {
     "termIta": "biscotto",
-    "url": ""
+    "url": "biscotto.png"
   },
   {
     "termIta": "Bologna",
@@ -213,7 +213,7 @@
   },
   {
     "termIta": "broccoli",
-    "url": ""
+    "url": "broccoli.png"
   },
   {
     "termIta": "brodo",
@@ -237,7 +237,7 @@
   },
   {
     "termIta": "burrata",
-    "url": ""
+    "url": "mozzarellabufala.png"
   },
   {
     "termIta": "cachi",
@@ -293,7 +293,7 @@
   },
   {
     "termIta": "cannelloni",
-    "url": ""
+    "url": "cannelloni.png"
   },
   {
     "termIta": "cantalupo",
@@ -461,7 +461,7 @@
   },
   {
     "termIta": "cremino",
-    "url": ""
+    "url": "cremino.png"
   },
   {
     "termIta": "crostata",
@@ -501,7 +501,7 @@
   },
   {
     "termIta": "espresso",
-    "url": ""
+    "url": "caffe.png"
   },
   {
     "termIta": "fagiano [fasàn, veneziano]",
@@ -689,7 +689,7 @@
   },
   {
     "termIta": "lasagna",
-    "url": ""
+    "url": "lasagna.png"
   },
   {
     "termIta": "latte",
@@ -1329,7 +1329,7 @@
   },
   {
     "termIta": "spezzatino",
-    "url": ""
+    "url": "spezzatino.png"
   },
   {
     "termIta": "spinaci",
@@ -1509,7 +1509,7 @@
   },
   {
     "termIta": "vongola",
-    "url": ""
+    "url": "vongola.png"
   },
   {
     "termIta": "zabaglione",
