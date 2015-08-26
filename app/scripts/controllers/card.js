@@ -15,7 +15,7 @@ angular.module('italianismiApp')
 	
 	$scope.linkback = 'languages/' + $scope.term;
 	
-  	$scope.terms = engine.getFilteredTerms($scope.language, $scope.search);
+  	$scope.terms = engine.getFilteredTerms($scope.language);
 	
 
 	$window.count = $scope.terms.length;
