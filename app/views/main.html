@@ -3,13 +3,12 @@
     </div>
     <div class="col-md-4 bianco">
       <ul class="lang ui">
-        <li class="ita active"><a href="#vivit"></a>Italiano</li>
-        <li class="eng">English</li>
+        <li class="ita{{ languageSel === 'ita' ? ' active' : '' }}"><a ng-click="changeLanguage('ita')">Italiano</a></li>
+        <li class="eng{{ languageSel === 'eng' ? ' active' : '' }}"><a ng-click="changeLanguage('eng')">English</a></li>
       </ul>
       <a class="logo" href="#languages">
         <img src="images/pep_logo.png">
-        <h1 class="ui">
-          Parole Italiane della cucina<br> nelle lingue del mondo</h3>
+        <h1 class="ui">{{ languageMap.subtitle1[languageSel] }}<br>{{ languageMap.subtitle2[languageSel] }}</h3>
       </a>
     </div>
     <div class="col-md-4 rosso">

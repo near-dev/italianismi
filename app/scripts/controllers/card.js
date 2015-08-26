@@ -8,7 +8,7 @@
  * Controller of the italianismiApp
  */
 angular.module('italianismiApp')
-  .controller('CardCtrl', function ($scope, $routeParams, $window, engine) {
+  .controller('CardCtrl', function ($scope, $rootScope, $routeParams, $window, engine) {
 	$scope.language = $routeParams.language;
   	$scope.search = $routeParams.search;
 	$scope.term = $routeParams.term;
@@ -48,5 +48,14 @@ angular.module('italianismiApp')
 			newIndex = term.languages.length - 1;
 		}
 		term.languageIndex = newIndex;
+	}
+	
+	$scope.getLanguageCount = function(term) {
+		if ($rootScope.languageSel === 'ita') {
+			return term.languages.length === 1 ? "una lingua" : "" + term.languages.length + " lingue";
+		}
+		else {
+			return term.languages.length === 1 ? "one language" : "" + term.languages.length + " languages";
+		}
 	}
   });

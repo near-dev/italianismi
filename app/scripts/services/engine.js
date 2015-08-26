@@ -73,4 +73,21 @@ angular.module('italianismiApp')
 		return retUrl;
 	}
 
+	this.getLanguage = function() {
+		if (!sessionStorage) {
+			console.log('warning! language switch not supported');
+			return 'ita';
+		}
+		return sessionStorage.getItem('language') ? sessionStorage.getItem('language') : 'ita';
+	}
+	
+	this.setLanguage = function(language) {
+		if (sessionStorage) {
+			sessionStorage.setItem('language', language);
+		}
+		else {
+			console.log('warning! language switch not supported');
+		}
+		
+	}
   });
