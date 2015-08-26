@@ -1,6 +1,6 @@
 <div class="scheda">
 		<div class="pep_toolbar">
-			<label>Parole italiane della cucina nelle lingue del mondo</label>
+			<label ng-bind-html="languageMap.cardSentence1[languageSel]"></label>
 			<a class="back" href="#{{ linkback }}"><span class="glyphicon glyphicon-share-alt"></span></a>
 			<a class="close" href="#main"><span class="glyphicon glyphicon-remove-sign"></span></a>
 		</div>
@@ -17,19 +17,19 @@
 											<img src="{{ term.imageUrl }}" ng-if="term.imageUrl">
 										</div>
 										<div class=" col-md-offset-2 col-md-4 left">
-											<label>Parola Italiana</label>
+											<label ng-bind-html="languageMap.cardSentence2[languageSel]"></label>
 											<h1 ng-bind="term.termIta"></h1>
 											<p ng-bind="term.descIta"></p>
 										</div>
 										<div class="col-md-4 right">
-											<label>Italianismo</label>
+											<label ng-bind-html="languageMap.cardSentence3[languageSel]"></label>
 											<h1><strong ng-bind="language.term"></strong></h1>
 											<p ng-if="language.otherTerms" style="height: auto !important;; min-height: auto !important;"><i ng-bind="language.otherTerms"></i></p>
 											<p ng-if="language.desc" ng-bind="language.desc" style="height: auto !important; min-height: auto !important;"></p>
 										</div>
 										<!--hr-->
-										<div class="col-md-12" ng-if="term.languages.length - 1">
-											<label>Questa parola è presente in <a href="#languages/{{ term.termIta }}"><strong ng-bind="term.languages.length +' lingue'"></strong></a></label>
+										<div class="col-md-12">
+											<label>{{ languageMap.cardSentence4[languageSel] }} <a href="#languages/{{ term.termIta }}"><strong ng-bind="getLanguageCount(term)"></strong></a></label>
 											<!--button class="btn btn-xs" ng-click="changeLanguage(-1, term)">indietro</button>
 											<button class="btn btn-xs" ng-click="changeLanguage(1, term)">avanti</button-->
 										</div>
@@ -45,7 +45,7 @@
 				<div class="swiper-button-next"></div>
 				<div class="swiper-button-prev"></div>
 				<div class="text lingua_selezionata">
-					<label>Lingua Selezionata</label>
+					<label ng-bind-html="languageMap.cardSentence5[languageSel]"></label>
 					<h1 ng-bind="language"></h1>
 				</div>
 			</div>

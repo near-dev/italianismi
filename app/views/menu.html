@@ -3,25 +3,25 @@
             <img src="images/pep_logo.png">
           </a>
           <ul class="lang ui">
-            <li class="ita active"><a href="#vivit"></a>Italiano</li>
-            <li class="eng">English</li>
+            <li class="ita{{ languageSel === 'ita' ? ' active' : '' }}"><a ng-click="changeLanguage('ita')">Italiano</a></li>
+            <li class="eng{{ languageSel === 'eng' ? ' active' : '' }}"><a ng-click="changeLanguage('eng')">English</a></li>
           </ul>
           <ul class="linkbar">
             <li><a href="#vivit">
               <img src="images/ico_sidebar_vivit.png">
-              <label>Antipasto<br>per cominciare</label>
+              <label ng-bind-html="languageMap.menuItem1[languageSel]"></label>
             </a></li>
             <li><a href="#languages">
               <img src="images/ico_sidebar_rosso.png">
-              <label>Seleziona una<br>lingua straniera</label>
+              <label ng-bind-html="languageMap.menuItem2[languageSel]"></label>
             </a></li>
             <li><a href="#terms">
               <img src="images/ico_sidebar_bianco.png">
-              <label>Cerca una<br>parola italiana</label>
+              <label ng-bind-html="languageMap.menuItem3[languageSel]"></label>
             </a></li>
             <li><a href="#form">
               <img src="images/ico_sidebar_verde.png">
-              <label>Aggiungi una<br>parola Straniera</label>
+              <label ng-bind-html="languageMap.menuItem4[languageSel]"></label>
             </a></li>
           </ul>
           <div class="logo_unimi small">
