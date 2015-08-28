@@ -178,6 +178,11 @@ body input.form-control, body textarea.form-control{
     color: $nero;
   }
 
+  h1{
+    font-size: 51px !important;
+    margin-bottom: 20px;
+  }
+
   p {
     width: 75%;
     height: 75%;
@@ -232,15 +237,27 @@ body {
 
   .antipasto{
     margin-top:450px;
-    margin-bottom: 260px;
+    margin-bottom: 185px;
     text-align: center;
+    width: 100%;
+    float: left;
+    a{
+      color:$bianco;
+      display: inline-block;
+    }
     label{
-      width: 100%;
-      float: left;
       font-family: $sans;
       font-size: $small_text;
       text-transform: uppercase;
       font-weight: normal;
+      border-radius:50%;
+      padding:15px;
+      background:$nero;
+      width: 80px;
+      height: 80px;
+      display: block;
+      cursor: pointer;
+      line-height: 50px;
     }
   }
   

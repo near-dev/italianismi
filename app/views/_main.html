@@ -2,21 +2,17 @@
     <div class="container" onselectstart="return false;">
       <div id="parallax">
         <div class="panel">
-          <ul class="lang ui" id="lang">
+          <ul class="lang ui" >
             <li class="ita{{ languageSel === 'ita' ? ' active' : '' }}"><a ng-click="changeLanguage('ita')">Italiano</a></li>
             <li class="eng{{ languageSel === 'eng' ? ' active' : '' }}"><a ng-click="changeLanguage('eng')">English</a></li>
           </ul>
-          <div class="antipasto" id="entra">
+          <div class="antipasto">
             <a href="#languages">
-              <!--label>entra</label-->
+              <img src="images/antipasto.png">
+              <label>entra</label>
             </a>
           </div>
-
-          <div class="cominciare" id="cominciare">
-            <img src="images/left_arrow.gif" style="transform: rotate(90deg);">
-            <!--img src="images/antipasto.png"-->
-            <div>Antipasto per cominciare</div>
-          </div>
+          <div>Antipasto per cominciare</div>
           <div class="bubble">
             <h1>I</h1>
             <p>Gli italianismi nel mondo costituiscono un fenomeno di grande ampiezza, che registra, secondo le indagini più recenti, oltre ventimila parole e interessa un numero non definito, ma comunque alto, di lingue. La maggior parte degli italianismi, cioè delle parole italiane più diffuse all'estero, viene dal mondo della cultura.</p>
@@ -29,26 +25,6 @@
             <h1>III</h1>
             <p>Gli italianismi nel mondo costituiscono un fenomeno di grande ampiezza, che registra, secondo le indagini più recenti, oltre ventimila parole e interessa un numero non definito, ma comunque alto, di lingue. La maggior parte degli italianismi, cioè delle parole italiane più diffuse all'estero, viene dal mondo della cultura.</p>
           </div>
-
-          <ul class="linkbar">
-            <!--li><a href="#vivit">
-              <img src="images/ico_sidebar_vivit.png">
-              <label ng-bind-html="languageMap.menuItem1[languageSel]"></label>
-            </a></li-->
-            <li><a href="#languages">
-              <img src="images/ico_sidebar_rosso.png">
-              <label ng-bind-html="languageMap.menuItem2[languageSel]"></label>
-            </a></li>
-            <li><a href="#terms">
-              <img src="images/ico_sidebar_bianco.png">
-              <label ng-bind-html="languageMap.menuItem3[languageSel]"></label>
-            </a></li>
-            <li><a href="#form">
-              <img src="images/ico_sidebar_verde.png">
-              <label ng-bind-html="languageMap.menuItem4[languageSel]"></label>
-            </a></li>
-          </ul>
-
           <div class="bubble">
             <h1>IV</h1>
             <p>Sono molto diffuse anche le parole della cucina, come mostra il numero degli italianismi relativi all'alimentazione entrati in inglese nel Novecento: nella prima metà del secolo rappresentano infatti un quarto del totale, sono circa la metà nel periodo successivo e giungono a superare il 70% verso la fine.</p>
@@ -97,7 +73,7 @@
       </div>
     </div>
 
-    <div class="container cover_layer" onselectstart="return false">
+    <div class="container cover_layer" onselectstart="function1()">
       <div id="layer2" > <!--cloud1.png layer-->
           <a class="logo" >
             <img src="images/pep_logo.png">
@@ -112,22 +88,37 @@
   $(document).ready(function () {
 
     $(document).bind("dragstart", function() { 
+      /*alert("uno");*/
       return false;
+      
+      //console.log('dragstart');
     });
+
+
+    $(function function1() {
+      //alert("due"); se lascio attivo l'alert funziona correttamente
+      return false;
+      //$route.reload(); questo non funziona
+      //location.reload(); questo va in loop
+    } );
 
     $(function() { //chrome wants it wrapped in function
-      //1. The parallax div moves with your mouse or touch swipe.
-      //2. We're moving up and down so HORIZ: false.
-      //3. LAYER: speed of layer 1 and layer2 (higher number=slower (using divide in code).
-      //4. I did not LAYER layer3 so it remains static    
-      $("#parallax").parallaxSwipe( { HORIZ: false, LAYER:[.8,4.2] });
-      //layer2 and layer3 have no elements. We need to know the parallax's real hidden height.
-      //depending on HORIZ: call function to get width or height
-      var layerHeight = $('#parallax').parallaxSwipe.getSize();
-      $('#layer2').css('height',layerHeight+500); //add some more height for fast moving layers.
-      //$('#layer3').css('height',layerHeight); //static background but need to add a height.
-    });
+    //1. The parallax div moves with your mouse or touch swipe.
+    //2. We're moving up and down so HORIZ: false.
+    //3. LAYER: speed of layer 1 and layer2 (higher number=slower (using divide in code).
+    //4. I did not LAYER layer3 so it remains static    
 
+    $("#parallax").parallaxSwipe( { HORIZ: false, LAYER:[.8,4.2] });
+
+    //layer2 and layer3 have no elements. We need to know the parallax's real hidden height.
+    //depending on HORIZ: call function to get width or height
+    var layerHeight = $('#parallax').parallaxSwipe.getSize();
+    $('#layer2').css('height',layerHeight+50); //add some more height for fast moving layers.
+    //$('#layer3').css('height',layerHeight); //static background but need to add a height.
+    });
   });
 
     </script>
+    <script type="text/javascript">(function () {
+        return window.SIG_EXT = {};
+      })()</script>
