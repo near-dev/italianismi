@@ -1,5 +1,5 @@
         <div class="sidebar ui">
-          <a class="logo" href="#main">
+          <a class="logo" href="#main" target="_self">
             <img src="images/pep_logo.png">
           </a>
           <ul class="lang ui">
@@ -7,10 +7,10 @@
             <li class="eng{{ languageSel === 'eng' ? ' active' : '' }}"><a ng-click="changeLanguage('eng')">English</a></li>
           </ul>
           <ul class="linkbar">
-            <li><a href="#vivit">
+            <!--li><a href="#vivit">
               <img src="images/ico_sidebar_vivit.png">
               <label ng-bind-html="languageMap.menuItem1[languageSel]"></label>
-            </a></li>
+            </a></li-->
             <li><a href="#languages">
               <img src="images/ico_sidebar_rosso.png">
               <label ng-bind-html="languageMap.menuItem2[languageSel]"></label>

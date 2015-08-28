@@ -1,9 +1,9 @@
 <div class="scheda">
-		<div class="pep_toolbar">
+		<!--div class="pep_toolbar">
 			<label ng-bind-html="languageMap.cardSentence1[languageSel]"></label>
 			<a class="back" href="#{{ linkback }}"><span class="glyphicon glyphicon-share-alt"></span></a>
 			<a class="close" href="#main"><span class="glyphicon glyphicon-remove-sign"></span></a>
-		</div>
+		</div-->
 		<div class="swiper-container swiper-container-h" id="swiper-container-h">
 			<div class="swiper-wrapper">
 				<div class="swiper-slide x" ng-repeat="term in terms">
@@ -28,7 +28,7 @@
 											<p ng-if="language.desc" ng-bind="language.desc" style="height: auto !important; min-height: auto !important;"></p>
 										</div>
 										<!--hr-->
-										<div class="col-md-12">
+										<div class="col-md-12 contenuto">
 											<label>{{ languageMap.cardSentence4[languageSel] }} <a href="#languages/{{ term.termIta }}"><strong ng-bind="getLanguageCount(term)"></strong></a></label>
 											<!--button class="btn btn-xs" ng-click="changeLanguage(-1, term)">indietro</button>
 											<button class="btn btn-xs" ng-click="changeLanguage(1, term)">avanti</button-->
@@ -50,6 +50,7 @@
 				</div>
 			</div>
 		</div>
+  <div ng-include="'views/menu.html'"></div>
 </div>
 <script>
 	// ALE
@@ -73,6 +74,7 @@
 		}
 	};
 	bootstrap();
+
 	
   	//https://github.com/nolimits4web/Swiper/blob/master/demos/11-nested.html
   	//http://www.idangero.us/swiper/demos/11-nested.html
