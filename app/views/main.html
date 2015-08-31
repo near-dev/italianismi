@@ -6,11 +6,12 @@
             <li class="ita{{ languageSel === 'ita' ? ' active' : '' }}"><a ng-click="changeLanguage('ita')">Italiano</a></li>
             <li class="eng{{ languageSel === 'eng' ? ' active' : '' }}"><a ng-click="changeLanguage('eng')">English</a></li>
           </ul>
-          <div class="antipasto" id="entra">
+          <a href="#terms"><img src="images/transparent.gif" class="transparent"></a>
+          <!--div class="antipasto" id="entra">
             <a href="#languages">
-              <!--label>entra</label-->
+              <label>entra</label>
             </a>
-          </div>
+          </div-->
 
           <div class="cominciare" id="cominciare">
             <img src="images/left_arrow.gif" style="transform: rotate(90deg);">
@@ -31,10 +32,6 @@
           </div>
 
           <ul class="linkbar">
-            <!--li><a href="#vivit">
-              <img src="images/ico_sidebar_vivit.png">
-              <label ng-bind-html="languageMap.menuItem1[languageSel]"></label>
-            </a></li-->
             <li><a href="#languages">
               <img src="images/ico_sidebar_rosso.png">
               <label ng-bind-html="languageMap.menuItem2[languageSel]"></label>
@@ -110,6 +107,7 @@
 
   
   $(document).ready(function () {
+    
 
     $(document).bind("dragstart", function() { 
       return false;

@@ -147,5 +147,9 @@ plugin.bind('mousemove touchmove', function(event){ touchMove(event); });
 plugin.bind('mouseup touchend', function(event){ touchEnd(event); });
 
 
+/*$('#cominciare').click(function() { 
+  $('#parallax').css(edge, -1032);
+});*/
+
 } //end options
 })(jQuery)
