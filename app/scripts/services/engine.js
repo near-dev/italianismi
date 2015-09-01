@@ -12,18 +12,7 @@ angular.module('italianismiApp')
     // AngularJS will instantiate a singleton by calling "new" on this function
 
     var that = this;
-
-    this.termsPromise = $http.get('/json/terms.json').success(function(data) {
-    	that.terms = data;
-    });
-
-    this.languagesPromise = $http.get('/json/languages.json').success(function(data) {
-    	that.languages = data;
-    });
-
-	this.imagesPromise = $http.get('/json/termImages.json').success(function(data) {
-    	that.images = data;
-    });
+	
 
     this.getFilteredTerms = function(language, search) {
     	return $filter('filter')(this.terms, function(value) {
@@ -90,4 +79,19 @@ angular.module('italianismiApp')
 		}
 		
 	}
+	
+	var language = this.getLanguage();
+
+    this.termsPromise = $http.get('/json/' + language + '/terms.json').success(function(data) {
+    	that.terms = data;
+    });
+
+    this.languagesPromise = $http.get('/json/' + language + '/languages.json').success(function(data) {
+    	that.languages = data;
+    });
+
+	this.imagesPromise = $http.get('/json/termImages.json').success(function(data) {
+    	that.images = data;
+    });
+
   });

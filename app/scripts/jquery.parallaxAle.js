@@ -29,10 +29,6 @@ window.setTimeout(function() {$('#layer1, #layer2').css(edge, '0px'); $('#entra,
 
 var mouseswipe=function(sliderLT) {
 
-  console.log(
-    $('#parallax').css('top')
-  );
-
   $('#entra').css('opacity', Math.max(0, Math.min(1, 1+((88 + parseInt(plugin.css(edge))) / 72))));
   $('#cominciare').css('opacity', Math.max(0, Math.min(1, 1+((418 + parseInt(plugin.css(edge))) / 72))));
   $('#lang').css('opacity', Math.max(0, Math.min(1, 1+((-60 + parseInt(plugin.css(edge))) / -72))));
