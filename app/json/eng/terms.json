@@ -1,0 +1,7014 @@
+[
+  {
+    "termIta": "abbacchio",
+    "languages": [
+      {
+        "name": "Chinese",
+        "term": "Luómǎ fēngwèi de gāoyángròu"
+      }
+    ],
+    "descIta": "butchered lamb, typical of Rome"
+  },
+  {
+    "termIta": "acciuga [ancioa, genovese]",
+    "languages": [
+      {
+        "name": "Arabic",
+        "term": "’anšuuga"
+      },
+      {
+        "name": "Catalan",
+        "term": "anxova"
+      },
+      {
+        "name": "Portuguese",
+        "term": "anchova"
+      }
+    ],
+    "descIta": "small, tapered, silvery common sea fish"
+  },
+  {
+    "termIta": "aceto balsamico",
+    "languages": [
+      {
+        "name": "US English",
+        "term": "balsamic vinegar"
+      },
+      {
+        "name": "Finnish",
+        "term": "balsamietikka",
+        "otherTerms": "balsamiviinietikka, balsamico"
+      },
+      {
+        "name": "Japanese",
+        "term": "barusamiko-su"
+      },
+      {
+        "name": "UK English",
+        "term": "balsamic vinegar / balsamic"
+      },
+      {
+        "name": "Polish",
+        "term": "balsamiczny [ocet]"
+      }
+    ],
+    "descIta": "flavored, aged vinegar, typical of Modena"
+  },
+  {
+    "termIta": "acquavite",
+    "languages": [
+      {
+        "name": "UK English",
+        "term": "acqua vita"
+      }
+    ],
+    "descIta": "distilled fruit spirit"
+  },
+  {
+    "termIta": "agreste",
+    "languages": [
+      {
+        "name": "Latvian",
+        "term": "agrests"
+      }
+    ],
+    "descIta": "juice of unripe grapes, refreshing drink"
+  },
+  {
+    "termIta": "agrodolce",
+    "languages": [
+      {
+        "name": "US English",
+        "term": "agrodolce"
+      }
+    ],
+    "descIta": "flavor or sauce that is both sweet and sour "
+  },
+  {
+    "termIta": "agrumi",
+    "languages": [
+      {
+        "name": "Estonian",
+        "term": "agruumid"
+      },
+      {
+        "name": "Latvian",
+        "term": "agrumeļļas",
+        "desc": "aromatic oils extracted from orange and lemon peels"
+      }
+    ],
+    "descIta": "fruit of the shrub or tree of the Cedar genus, divided in segments with a sour taste, including oranges, mandarins, lemons and bergamots."
+  },
+  {
+    "termIta": "al dente",
+    "languages": [
+      {
+        "name": "US English",
+        "term": "al dente"
+      },
+      {
+        "name": "Finnish",
+        "term": "al dente"
+      },
+      {
+        "name": "Japanese",
+        "term": "aru・dente"
+      },
+      {
+        "name": "UK English",
+        "term": "al dente"
+      },
+      {
+        "name": "Polish",
+        "term": "al dente"
+      },
+      {
+        "name": "Spanish",
+        "term": "dente",
+        "otherTerms": "al"
+      },
+      {
+        "name": "Hungarian",
+        "term": "al dente"
+      }
+    ],
+    "descIta": "rice or pasta, not overcooked"
+  },
+  {
+    "termIta": "alla bolognese",
+    "languages": [
+      {
+        "name": "US English",
+        "term": "Bolognese"
+      },
+      {
+        "name": "Finnish",
+        "term": "bolognankastike",
+        "otherTerms": "bolognesekastike"
+      },
+      {
+        "name": "UK English",
+        "term": "bolognese / Bolognese"
+      },
+      {
+        "name": "Icelandic",
+        "term": "bolognese"
+      },
+      {
+        "name": "Hungarian",
+        "term": "bolognai"
+      }
+    ],
+    "descIta": "dish prepared and cooked as in Bologna, especially with meat sauce"
+  },
+  {
+    "termIta": "alla carbonara",
+    "languages": [
+      {
+        "name": "US English",
+        "term": "carbonara"
+      },
+      {
+        "name": "French",
+        "term": "carbon(n)ade"
+      },
+      {
+        "name": "Japanese",
+        "term": "karubonāra"
+      },
+      {
+        "name": "UK English",
+        "term": "carbonara"
+      }
+    ],
+    "descIta": "pasta with egg, bacon and pecorino"
+  },
+  {
+    "termIta": "alla Norma",
+    "languages": [
+      {
+        "name": "US English",
+        "term": "alla Norma"
+      }
+    ],
+    "descIta": "pasta dish from Sicily (Catania), with tomato, fried eggplant, salted ricotta cheese and basil."
+  },
+  {
+    "termIta": "alla pescatora",
+    "languages": [
+      {
+        "name": "Japanese",
+        "term": "pesukatōre"
+      }
+    ],
+    "descIta": "food, especially pasta or rice, which contains fish."
+  },
+  {
+    "termIta": "alla puttanesca",
+    "languages": [
+      {
+        "name": "US English",
+        "term": "puttanesca"
+      },
+      {
+        "name": "Japanese",
+        "term": "puttanesuka"
+      }
+    ],
+    "descIta": "pasta, especially spaghetti or penne, topped with a sauce made of tomatoes, chopped anchovy fillets, garlic, black olives, capers and red pepper"
+  },
+  {
+    "termIta": "alla veneziana",
+    "languages": [
+      {
+        "name": "UK English",
+        "term": "alla veneziana / Venetian-style"
+      }
+    ],
+    "descIta": "in the Venetian manner"
+  },
+  {
+    "termIta": "amarella [dial.]",
+    "languages": [
+      {
+        "name": "Czech",
+        "term": "marhule"
+      },
+      {
+        "name": "Polish",
+        "term": "morela"
+      }
+    ],
+    "descIta": "apricot (dialect)"
+  },
+  {
+    "termIta": "amarena",
+    "languages": [
+      {
+        "name": "Czech",
+        "term": "amarena"
+      },
+      {
+        "name": "Polish",
+        "term": "amarena"
+      }
+    ],
+    "descIta": "cherries or cherry syrup produced from amareno cherries."
+  },
+  {
+    "termIta": "amaretto",
+    "languages": [
+      {
+        "name": "Japanese",
+        "term": "amaretto"
+      },
+      {
+        "name": "Latvian",
+        "term": "amareto"
+      },
+      {
+        "name": "Polish",
+        "term": "amarettini",
+        "otherTerms": "sost. solo plur."
+      },
+      {
+        "name": "Polish",
+        "term": "amaretto"
+      },
+      {
+        "name": "German",
+        "term": "amaretto",
+        "otherTerms": "-s"
+      },
+      {
+        "name": "German",
+        "term": "amaretto",
+        "otherTerms": "-s"
+      }
+    ],
+    "descIta": "amaretto flavored liqueur"
+  },
+  {
+    "termIta": "amaro",
+    "languages": [
+      {
+        "name": "French",
+        "term": "amaro",
+        "otherTerms": "-s"
+      }
+    ],
+    "descIta": "bitter liqueur"
+  },
+  {
+    "termIta": "americano",
+    "languages": [
+      {
+        "name": "Icelandic",
+        "term": "americano"
+      }
+    ],
+    "descIta": "aperitif made of red wine, bitters, lemon zest or orange"
+  },
+  {
+    "termIta": "amorone",
+    "languages": [
+      {
+        "name": "Latvian",
+        "term": "amarone"
+      },
+      {
+        "name": "German",
+        "term": "amarone",
+        "otherTerms": "-s"
+      }
+    ],
+    "descIta": "recioto red wine made from dried grapes"
+  },
+  {
+    "termIta": "anice",
+    "languages": [
+      {
+        "name": "Hungarian",
+        "term": "ánizs"
+      }
+    ],
+    "descIta": "anise flavored liqueur"
+  },
+  {
+    "termIta": "animella",
+    "languages": [
+      {
+        "name": "French",
+        "term": "animelles"
+      }
+    ],
+    "descIta": "edible part of the intestines, especially the pancreas and thymus, of slaughtered animals"
+  },
+  {
+    "termIta": "antipasto",
+    "languages": [
+      {
+        "name": "Czech",
+        "term": "antipasta"
+      },
+      {
+        "name": "Japanese",
+        "term": "antipasuto"
+      },
+      {
+        "name": "Polish",
+        "term": "antypast"
+      },
+      {
+        "name": "Hungarian",
+        "term": "antipasto"
+      }
+    ],
+    "descIta": "a starter at the beginning of a meal to stimulate the appetite"
+  },
+  {
+    "termIta": "arancia [narancia, narancio, antico istriano; naransa, naranso, giuliano; naranzˇ, romagnolo; naranza, narancia, veneziano]",
+    "languages": [
+      {
+        "name": "Hungarian",
+        "term": "narancs"
+      }
+    ],
+    "descIta": "fruit of the orange tree. Round with a spongy peel and juicy segments"
+  },
+  {
+    "termIta": "aranciata",
+    "languages": [
+      {
+        "name": "French",
+        "term": "orangeade"
+      }
+    ],
+    "descIta": "carbonated drink made with orange juice"
+  },
+  {
+    "termIta": "arancini",
+    "languages": [
+      {
+        "name": "German",
+        "term": "aranzini",
+        "desc": "candied orange peels"
+      }
+    ],
+    "descIta": "fried rice ball, filled with cheese, chicken giblets and meat sauce, typical of Southern cuisine"
+  },
+  {
+    "termIta": "arlecchino",
+    "languages": [
+      {
+        "name": "Catalan",
+        "term": "arlequí"
+      }
+    ],
+    "descIta": "different flavored ice cream"
+  },
+  {
+    "termIta": "arrosto",
+    "languages": [
+      {
+        "name": "Arabic",
+        "term": "rustu"
+      }
+    ],
+    "descIta": "roasted meat"
+  },
+  {
+    "termIta": "asparago, sparágio [spargo, sparago desueto; sparego, veneziano; sparg, friulano]",
+    "languages": [
+      {
+        "name": "Estonian",
+        "term": "spargel"
+      },
+      {
+        "name": "Finnish",
+        "term": "parsa"
+      },
+      {
+        "name": "Latvian",
+        "term": "sparģeļi"
+      },
+      {
+        "name": "Polish",
+        "term": "szparag"
+      },
+      {
+        "name": "German",
+        "term": "spargel",
+        "otherTerms": "speragen, spargen"
+      },
+      {
+        "name": "Hungarian",
+        "term": "spárga"
+      },
+      {
+        "name": "Hungarian",
+        "term": "spargo"
+      }
+    ],
+    "descIta": "long, thin, green or whitish vegetable"
+  },
+  {
+    "termIta": "baccalà",
+    "languages": [
+      {
+        "name": "Arabic",
+        "term": "bakalååh"
+      }
+    ],
+    "descIta": "salted codfish"
+  },
+  {
+    "termIta": "bagna cauda",
+    "languages": [
+      {
+        "name": "US English",
+        "term": "bagna cauda"
+      },
+      {
+        "name": "UK English",
+        "term": "bagna càuda"
+      }
+    ],
+    "descIta": "typical Piedmontese sauce made with anchovies and garlic served hot to accompany raw or cooked vegetables"
+  },
+  {
+    "termIta": "bardolino",
+    "languages": [
+      {
+        "name": "Hungarian",
+        "term": "bardolino"
+      }
+    ],
+    "descIta": "Venetian dry red or rosé wine named after the production area located near Lake Garda"
+  },
+  {
+    "termIta": "barolo",
+    "languages": [
+      {
+        "name": "Czech",
+        "term": "barolo"
+      },
+      {
+        "name": "Polish",
+        "term": "barolo"
+      }
+    ],
+    "descIta": "fine dry red wine from Piedmont made with Nebbiolo grapes"
+  },
+  {
+    "termIta": "basilico",
+    "languages": [
+      {
+        "name": "Japanese",
+        "term": "bajiriko"
+      }
+    ],
+    "descIta": "herb often used in cooking to flavor foods and as an ingredient in some recipes"
+  },
+  {
+    "termIta": "Bel Paese",
+    "languages": [
+      {
+        "name": "German",
+        "term": "belpaese"
+      }
+    ],
+    "descIta": "fresh cheese from northern Italy, produced by Galbani"
+  },
+  {
+    "termIta": "Bellini",
+    "languages": [
+      {
+        "name": "Hungarian",
+        "term": "Bellini",
+        "otherTerms": "bellini"
+      }
+    ],
+    "descIta": "cocktail made with champagne or sparkling wine and peach puree"
+  },
+  {
+    "termIta": "bergamotta",
+    "languages": [
+      {
+        "name": "Lithuanian",
+        "term": "bergamotė"
+      },
+      {
+        "name": "Portuguese",
+        "term": "bergamota"
+      }
+    ],
+    "descIta": "variety of pear with cedar flavor"
+  },
+  {
+    "termIta": "berlingozzo",
+    "languages": [
+      {
+        "name": "French",
+        "term": "berlinguaux",
+        "otherTerms": "berlingot"
+      }
+    ],
+    "descIta": "type of crispy donut"
+  },
+  {
+    "termIta": "Bianca",
+    "languages": [
+      {
+        "name": "Hungarian",
+        "term": "bianka",
+        "otherTerms": "bianca"
+      }
+    ],
+    "descIta": "type of grape"
+  },
+  {
+    "termIta": "birra",
+    "languages": [
+      {
+        "name": "Arabic",
+        "term": "biirra"
+      },
+      {
+        "name": "Catalan",
+        "term": "birra"
+      }
+    ],
+    "descIta": "alcoholic drink made from fermented malt and other cereals"
+  },
+  {
+    "termIta": "biscottella",
+    "languages": [
+      {
+        "name": "Spanish",
+        "term": "bizcotela"
+      }
+    ],
+    "descIta": "biscuit dusted with white sugar"
+  },
+  {
+    "termIta": "biscotto",
+    "languages": [
+      {
+        "name": "US English",
+        "term": "biscotti"
+      },
+      {
+        "name": "Arabic",
+        "term": "baskuut"
+      },
+      {
+        "name": "Czech",
+        "term": "piškot"
+      },
+      {
+        "name": "Estonian",
+        "term": "biskviit"
+      },
+      {
+        "name": "French",
+        "term": "biscotin"
+      },
+      {
+        "name": "French",
+        "term": "biscotte",
+        "desc": "toast crisp "
+      },
+      {
+        "name": "Japanese",
+        "term": "bisukottī",
+        "desc": "Tuscan cantucci (hard biscuits cooked without butter,  to be dunked in wine)"
+      },
+      {
+        "name": "Latvian",
+        "term": "biskvīts"
+      },
+      {
+        "name": "Polish",
+        "term": "biszkopt"
+      },
+      {
+        "name": "German",
+        "term": "biscotin (< fr.)"
+      },
+      {
+        "name": "German",
+        "term": "biskotte"
+      },
+      {
+        "name": "Hungarian",
+        "term": "piskóta",
+        "desc": "sponge cake"
+      }
+    ],
+    "descIta": "small sweet in various shapes, made of flour and other ingredients, baked in the oven"
+  },
+  {
+    "termIta": "Bologna",
+    "languages": [
+      {
+        "name": "Korean",
+        "term": "bologna"
+      }
+    ],
+    "descIta": "variety of mortadella, made with pork"
+  },
+  {
+    "termIta": "bombolone",
+    "languages": [
+      {
+        "name": "Arabic",
+        "term": "bambaluuni"
+      }
+    ],
+    "descIta": "round, fried sweet filled with cream or jam"
+  },
+  {
+    "termIta": "bottarga",
+    "languages": [
+      {
+        "name": "UK English",
+        "term": "borargo"
+      },
+      {
+        "name": "German",
+        "term": "botarga",
+        "otherTerms": "butarga, -i"
+      }
+    ],
+    "descIta": "pressed, salted and dried mullet or tuna roe, used as a starter or on pasta"
+  },
+  {
+    "termIta": "branzino",
+    "languages": [
+      {
+        "name": "US English",
+        "term": "branzino"
+      }
+    ],
+    "descIta": "sea bass, prized sea fish "
+  },
+  {
+    "termIta": "brasola [dial. it. sett.]",
+    "languages": [
+      {
+        "name": "Polish",
+        "term": "bryzol",
+        "otherTerms": "brizol",
+        "desc": "dish of veal or beef"
+      }
+    ],
+    "descIta": "chop, piece of meat roasted over hot coals"
+  },
+  {
+    "termIta": "bresaola",
+    "languages": [
+      {
+        "name": "UK English",
+        "term": "brasole",
+        "desc": "vagina (slang)"
+      }
+    ],
+    "descIta": "salted, dried beef, typical of Valtellina"
+  },
+  {
+    "termIta": "brindisi",
+    "languages": [
+      {
+        "name": "UK English",
+        "term": "brendice",
+        "desc": "chalice used for toasting"
+      }
+    ],
+    "descIta": "the raising and touching of glasses, inviting to drink, as a greeting or congratulations"
+  },
+  {
+    "termIta": "broccoli",
+    "languages": [
+      {
+        "name": "US English",
+        "term": "broccoli"
+      },
+      {
+        "name": "Arabic",
+        "term": "bruuklu"
+      },
+      {
+        "name": "Catalan",
+        "term": "bròquil",
+        "otherTerms": "bròcul"
+      },
+      {
+        "name": "Czech",
+        "term": "brokolice",
+        "otherTerms": "plur."
+      },
+      {
+        "name": "Korean",
+        "term": "pŭrok'olli"
+      },
+      {
+        "name": "Estonian",
+        "term": "brokoli"
+      },
+      {
+        "name": "Finnish",
+        "term": "broccoli",
+        "otherTerms": "brokkoli"
+      },
+      {
+        "name": "French",
+        "term": "brocoli",
+        "otherTerms": "-s"
+      },
+      {
+        "name": "Gaelic",
+        "term": "brocailí"
+      },
+      {
+        "name": "Japanese",
+        "term": "burokkorī"
+      },
+      {
+        "name": "UK English",
+        "term": "broc(c)oli"
+      },
+      {
+        "name": "Icelandic",
+        "term": "broccoli",
+        "otherTerms": "brokkóli"
+      },
+      {
+        "name": "Latvian",
+        "term": "brokoļi"
+      },
+      {
+        "name": "Lithuanian",
+        "term": "brokolis"
+      },
+      {
+        "name": "Polish",
+        "term": "brokuł"
+      },
+      {
+        "name": "Portuguese",
+        "term": "brócolos"
+      },
+      {
+        "name": "Spanish",
+        "term": "bróculi"
+      },
+      {
+        "name": "German",
+        "term": "brokkoli"
+      },
+      {
+        "name": "Hungarian",
+        "term": "brokkoli",
+        "otherTerms": "broccoli"
+      }
+    ],
+    "descIta": "clustered inflorescence, picked before the flowers bloom"
+  },
+  {
+    "termIta": "brodo",
+    "languages": [
+      {
+        "name": "Arabic",
+        "term": "bruudu"
+      },
+      {
+        "name": "Portuguese",
+        "term": "bródio",
+        "desc": "banquet, feast"
+      },
+      {
+        "name": "Spanish",
+        "term": "bodrio",
+        "desc": "cabbage, bread and potato soup"
+      }
+    ],
+    "descIta": "liquid obtained by cooking meat or vegetables in water with salt, herbs and spices, eaten alone or used to prepare soups"
+  },
+  {
+    "termIta": "bruschetta",
+    "languages": [
+      {
+        "name": "US English",
+        "term": "bruschetta"
+      },
+      {
+        "name": "Chinese",
+        "term": "Luómǎ tèsè jiā suànmò",
+        "otherTerms": "xīhóngshìpiàn de kǎo miànbāopiàn"
+      },
+      {
+        "name": "Finnish",
+        "term": "bruschetta"
+      },
+      {
+        "name": "UK English",
+        "term": "bruschetta",
+        "otherTerms": "-s, -tte"
+      },
+      {
+        "name": "Polish",
+        "term": "bruschetta"
+      },
+      {
+        "name": "Hungarian",
+        "term": "bruschetta",
+        "otherTerms": "brushetta, brusetta"
+      }
+    ],
+    "descIta": "slice of toasted bread rubbed with garlic and topped with olive oil and salt, sometimes tomato, etc."
+  },
+  {
+    "termIta": "bucato",
+    "languages": [
+      {
+        "name": "Lithuanian",
+        "term": "bukata",
+        "otherTerms": "bucata, bucato"
+      }
+    ],
+    "descIta": "type of Italian bread shape"
+  },
+  {
+    "termIta": "budino [bodino ant.]",
+    "languages": [
+      {
+        "name": "US English",
+        "term": "budino"
+      },
+      {
+        "name": "Chinese",
+        "term": "bùdīng"
+      },
+      {
+        "name": "UK English",
+        "term": "bodini",
+        "otherTerms": "budini",
+        "desc": "penis (slang)"
+      },
+      {
+        "name": "Polish",
+        "term": "budyń"
+      }
+    ],
+    "descIta": " cooked, gelatinous, pudding served cold"
+  },
+  {
+    "termIta": "buoni e brutti",
+    "languages": [
+      {
+        "name": "Hungarian",
+        "term": "bonaburuttya"
+      }
+    ],
+    "descIta": "irregularly shaped pastry made with almond or hazelnut paste"
+  },
+  {
+    "termIta": "burrata",
+    "languages": [
+      {
+        "name": "US English",
+        "term": "burrata"
+      }
+    ],
+    "descIta": "typical soft cheese of Southern Italy with a buttery filling"
+  },
+  {
+    "termIta": "cachi",
+    "languages": [
+      {
+        "name": "Arabic",
+        "term": "kaaki"
+      }
+    ],
+    "descIta": "spherical and yellow-orange fruit, with soft, sweet flesh that ripens in autumn"
+  },
+  {
+    "termIta": "cacio e pepe",
+    "languages": [
+      {
+        "name": "US English",
+        "term": "cacio e pepe"
+      }
+    ],
+    "descIta": "typical Roman dish made with cheese and pepper"
+  },
+  {
+    "termIta": "caciocavallo",
+    "languages": [
+      {
+        "name": "UK English",
+        "term": "c. cheese"
+      },
+      {
+        "name": "Hungarian",
+        "term": "kaskavál"
+      }
+    ],
+    "descIta": "sweet or spicy hard cheese, typical of Southern Italy, with a characteristic pear shape"
+  },
+  {
+    "termIta": "caciucco",
+    "languages": [
+      {
+        "name": "UK English",
+        "term": "caciuc(c)o"
+      }
+    ],
+    "descIta": "fish soup typical of Versilia and Livorno"
+  },
+  {
+    "termIta": "caffè",
+    "languages": [
+      {
+        "name": "Catalan",
+        "term": "cafè"
+      },
+      {
+        "name": "Chinese",
+        "term": "kāfēi"
+      },
+      {
+        "name": "Portuguese",
+        "term": "café"
+      },
+      {
+        "name": "Spanish",
+        "term": "café"
+      }
+    ],
+    "descIta": "aromatic dark-colored drink made from these roasted and ground coffee beans"
+  },
+  {
+    "termIta": "caffèlatte",
+    "languages": [
+      {
+        "name": "Finnish",
+        "term": "Caffè latte",
+        "otherTerms": "latte"
+      },
+      {
+        "name": "Japanese",
+        "term": "kaferatte"
+      },
+      {
+        "name": "Icelandic",
+        "term": "caffelatte"
+      },
+      {
+        "name": "Lithuanian",
+        "term": "cafe lat(t)e",
+        "otherTerms": "kava late, late"
+      }
+    ],
+    "descIta": "hot drink made of milk with a bit of coffee, usually drunk at breakfast"
+  },
+  {
+    "termIta": "Calabria (pomodori)",
+    "languages": [
+      {
+        "name": "Japanese",
+        "term": "caraburia"
+      }
+    ],
+    "descIta": "dried tomatoes"
+  },
+  {
+    "termIta": "calamari",
+    "languages": [
+      {
+        "name": "US English",
+        "term": "calamari"
+      },
+      {
+        "name": "Arabic",
+        "term": "kalamaari",
+        "otherTerms": "kalimaari"
+      },
+      {
+        "name": "Catalan",
+        "term": "calamar"
+      },
+      {
+        "name": "Portuguese",
+        "term": "calamar"
+      },
+      {
+        "name": "Spanish",
+        "term": "calamar"
+      },
+      {
+        "name": "Hungarian",
+        "term": "calamari"
+      }
+    ],
+    "descIta": "mollusks with 10 tentacles"
+  },
+  {
+    "termIta": "calzone",
+    "languages": [
+      {
+        "name": "Arabic",
+        "term": "kalzuuni"
+      },
+      {
+        "name": "US English",
+        "term": "calzone",
+        "otherTerms": "-s, -i"
+      },
+      {
+        "name": "Lithuanian",
+        "term": "calzone",
+        "otherTerms": "kalconas"
+      }
+    ],
+    "descIta": "bread dough disc folded in half, stuffed with various ingredients and baked like a pizza."
+  },
+  {
+    "termIta": "Campari",
+    "languages": [
+      {
+        "name": "Czech",
+        "term": "campari"
+      },
+      {
+        "name": "Latvian",
+        "term": "kampari"
+      }
+    ],
+    "descIta": "alcoholic aperitif named after the inventor of the recipe, Gaspare Campari"
+  },
+  {
+    "termIta": "candire",
+    "languages": [
+      {
+        "name": "French",
+        "term": "candir"
+      },
+      {
+        "name": "UK English",
+        "term": "candy",
+        "desc": "to sweeten"
+      },
+      {
+        "name": "German",
+        "term": "kandiren",
+        "desc": "to crystalize"
+      },
+      {
+        "name": "Hungarian",
+        "term": "kandíroz"
+      }
+    ],
+    "descIta": "fruit boiled and steeped in a sugar solution "
+  },
+  {
+    "termIta": "candito",
+    "languages": [
+      {
+        "name": "Czech",
+        "term": "kandys"
+      },
+      {
+        "name": "French",
+        "term": "candi"
+      },
+      {
+        "name": "German",
+        "term": "kanditen"
+      }
+    ],
+    "descIta": "candied fruit or piece of fruit"
+  },
+  {
+    "termIta": "cannellini",
+    "languages": [
+      {
+        "name": "US English",
+        "term": "cannellini bean"
+      },
+      {
+        "name": "UK English",
+        "term": "cannellini bean"
+      }
+    ],
+    "descIta": "typical Tuscan variety of white bean  "
+  },
+  {
+    "termIta": "cannelloni",
+    "languages": [
+      {
+        "name": "Catalan",
+        "term": "canelons"
+      },
+      {
+        "name": "Finnish",
+        "term": "kanneloni",
+        "otherTerms": "cannelloni"
+      },
+      {
+        "name": "French",
+        "term": "cannelloni(s)"
+      },
+      {
+        "name": "Japanese",
+        "term": "kaneroni",
+        "desc": "square pasta; dish includes maccheroni in Japan"
+      },
+      {
+        "name": "UK English",
+        "term": "cannellon(s)"
+      },
+      {
+        "name": "Lithuanian",
+        "term": "cannelloni"
+      },
+      {
+        "name": "Polish",
+        "term": "cannelloni"
+      },
+      {
+        "name": "Spanish",
+        "term": "canelón"
+      },
+      {
+        "name": "Hungarian",
+        "term": "cannelloni",
+        "otherTerms": "canelloni"
+      }
+    ],
+    "descIta": "stuffed and baked rolls of pasta, type of pasta in the shape of a hollow cylinder served with sauce"
+  },
+  {
+    "termIta": "cantalupo",
+    "languages": [
+      {
+        "name": "Lithuanian",
+        "term": "kantalupa"
+      },
+      {
+        "name": "Hungarian",
+        "term": "kantalup"
+      }
+    ],
+    "descIta": "very sweet melon with rough, wedge-shaped surface"
+  },
+  {
+    "termIta": "capelli d'angelo",
+    "languages": [
+      {
+        "name": "UK English",
+        "term": "angel hair"
+      }
+    ],
+    "descIta": "very thin type of pasta"
+  },
+  {
+    "termIta": "capocollo",
+    "languages": [
+      {
+        "name": "UK English",
+        "term": "capocollo",
+        "otherTerms": "-s, -i"
+      }
+    ],
+    "descIta": "pork sausage, specialty of central Italy"
+  },
+  {
+    "termIta": "caponata",
+    "languages": [
+      {
+        "name": "US English",
+        "term": "caponata"
+      },
+      {
+        "name": "UK English",
+        "term": "caponata"
+      }
+    ],
+    "descIta": "typical Sicilian dish made with eggplant, tomatoes, olives, capers, etc."
+  },
+  {
+    "termIta": "cappero [càppero, càpperi, milanese; capper, càpari, veneziano, cáppara, capperina, dial. sett., caparo, veneziano,]",
+    "languages": [
+      {
+        "name": "Czech",
+        "term": "kapara"
+      },
+      {
+        "name": "Polish",
+        "term": "kapar"
+      },
+      {
+        "name": "Hungarian",
+        "term": "kápri",
+        "otherTerms": "kapri, capri"
+      }
+    ],
+    "descIta": "bud  from a bushy shrub typical of the Mediterranean area, preserved in brine or vinegar"
+  },
+  {
+    "termIta": "cappuccino",
+    "languages": [
+      {
+        "name": "Arabic",
+        "term": "kabatšiinu"
+      },
+      {
+        "name": "Czech",
+        "term": "cappuccino",
+        "otherTerms": "kapučíno"
+      },
+      {
+        "name": "Korean",
+        "term": "k'ap'uch'ino"
+      },
+      {
+        "name": "Danish",
+        "term": "cappuccino"
+      },
+      {
+        "name": "Estonian",
+        "term": "kaputšiino"
+      },
+      {
+        "name": "Faroese",
+        "term": "cappuccino"
+      },
+      {
+        "name": "Finnish",
+        "term": "cappuccino",
+        "otherTerms": "capuccino, cappucino"
+      },
+      {
+        "name": "Japanese",
+        "term": "kapuchīno"
+      },
+      {
+        "name": "Icelandic",
+        "term": "cappuccino"
+      },
+      {
+        "name": "Latvian",
+        "term": "kapučīno"
+      },
+      {
+        "name": "Lithuanian",
+        "term": "kapučinas",
+        "otherTerms": "kapucinas"
+      },
+      {
+        "name": "Polish",
+        "term": "cappuccino"
+      },
+      {
+        "name": "Portuguese",
+        "term": "cappuccino"
+      },
+      {
+        "name": "Spanish",
+        "term": "capuchino"
+      },
+      {
+        "name": "Hungarian",
+        "term": "cappuccino",
+        "otherTerms": "capuccino, kapucsínó",
+        "desc": "strong coffee with plenty of milk"
+      }
+    ],
+    "descIta": "hot drink made from espresso coffee and frothy milk"
+  },
+  {
+    "termIta": "cappuccio (cavolo)",
+    "languages": [
+      {
+        "name": "Czech",
+        "term": "kapusta"
+      },
+      {
+        "name": "Polish",
+        "term": "kapusta"
+      }
+    ],
+    "descIta": "variety of cabbage with smooth leaves that form a compact ball"
+  },
+  {
+    "termIta": "caramella",
+    "languages": [
+      {
+        "name": "Faroese",
+        "term": "karamella"
+      }
+    ],
+    "descIta": "multi-colored colored and variously flavored sweet made of cooked sugar variously"
+  },
+  {
+    "termIta": "carciofo [articiocco, articioc, arziciocco it. sett.]",
+    "languages": [
+      {
+        "name": "US English",
+        "term": "artichoke"
+      },
+      {
+        "name": "Czech",
+        "term": "artyčok"
+      },
+      {
+        "name": "Finnish",
+        "term": "artisokka",
+        "desc": "artichoke', 'Jerusalem artichoke' in the compound maa-artisokka"
+      },
+      {
+        "name": "UK English",
+        "term": "artichoke"
+      },
+      {
+        "name": "Polish",
+        "term": "karczoch"
+      }
+    ],
+    "descIta": "vegetable with flower head and fleshy scales, eaten raw or cooked in various ways before it fully blooms"
+  },
+  {
+    "termIta": "carota",
+    "languages": [
+      {
+        "name": "Hungarian",
+        "term": "karotta"
+      }
+    ],
+    "descIta": "this reddish-orange, elongated vegetable, eaten raw or cooked, is the root of an herbaceous plant"
+  },
+  {
+    "termIta": "carpaccio",
+    "languages": [
+      {
+        "name": "US English",
+        "term": "carpaccio"
+      },
+      {
+        "name": "Japanese",
+        "term": "karupaccho"
+      },
+      {
+        "name": "UK English",
+        "term": "carpaccio"
+      },
+      {
+        "name": "Lithuanian",
+        "term": "carpaccio"
+      },
+      {
+        "name": "Spanish",
+        "term": "carpaccio"
+      },
+      {
+        "name": "German",
+        "term": "carpaccio",
+        "otherTerms": "-s"
+      }
+    ],
+    "descIta": "dish featuring raw meat or fish cut into thin slices"
+  },
+  {
+    "termIta": "cassata",
+    "languages": [
+      {
+        "name": "Arabic",
+        "term": "kasaata"
+      },
+      {
+        "name": "Chinese",
+        "term": "kǎsàtǎ dàngāo"
+      },
+      {
+        "name": "French",
+        "term": "cassate"
+      },
+      {
+        "name": "Japanese",
+        "term": "kassāta"
+      },
+      {
+        "name": "Polish",
+        "term": "cassate",
+        "otherTerms": "kassate, kassata, cassata, kasata"
+      },
+      {
+        "name": "German",
+        "term": "cassata",
+        "otherTerms": "-s"
+      }
+    ],
+    "descIta": "typical Sicilian dome-shaped dessert filled with ricotta, with chocolate, candied fruit and liquor"
+  },
+  {
+    "termIta": "castagna",
+    "languages": [
+      {
+        "name": "Finnish",
+        "term": "kastanja"
+      }
+    ],
+    "descIta": "fruit of the chestnut tree, with tough, dark brown skin and sweet, powdery white flesh"
+  },
+  {
+    "termIta": "caviale [caviare, arc.; caviar, ant. veneto]",
+    "languages": [
+      {
+        "name": "Czech",
+        "term": "kaviár"
+      },
+      {
+        "name": "French",
+        "term": "caviar"
+      },
+      {
+        "name": "UK English",
+        "term": "caviare (< fr.)"
+      },
+      {
+        "name": "Polish",
+        "term": "kawior"
+      },
+      {
+        "name": "Spanish",
+        "term": "cavial"
+      },
+      {
+        "name": "Spanish",
+        "term": "caviar"
+      },
+      {
+        "name": "German",
+        "term": "kaviar",
+        "otherTerms": "-s, -e"
+      },
+      {
+        "name": "Hungarian",
+        "term": "kaviár"
+      }
+    ],
+    "descIta": "prized sturgeon eggs preserved in salt"
+  },
+  {
+    "termIta": "cavolfiore",
+    "languages": [
+      {
+        "name": "US English",
+        "term": "cauliflower"
+      },
+      {
+        "name": "Catalan",
+        "term": "cauliflori",
+        "otherTerms": "col-i-flor, colflor, colflori"
+      },
+      {
+        "name": "Czech",
+        "term": "karfiól"
+      },
+      {
+        "name": "Korean",
+        "term": "k'ollip'ŭlawŏ"
+      },
+      {
+        "name": "UK English",
+        "term": "cauliflower"
+      },
+      {
+        "name": "Lithuanian",
+        "term": "kalafioras"
+      },
+      {
+        "name": "Polish",
+        "term": "kalafior",
+        "otherTerms": "region. karafioł"
+      },
+      {
+        "name": "Hungarian",
+        "term": "karfiol"
+      }
+    ],
+    "descIta": "ball-shaped vegetable with fleshy, compact, white to yellowish inflorescence"
+  },
+  {
+    "termIta": "cavolo nero",
+    "languages": [
+      {
+        "name": "UK English",
+        "term": "cavolo nero / cavalo nero"
+      }
+    ],
+    "descIta": "cabbage variety widespread in Tuscany with long very dark green leaves"
+  },
+  {
+    "termIta": "cavolo rapa",
+    "languages": [
+      {
+        "name": "Latvian",
+        "term": "kolrābis"
+      },
+      {
+        "name": "Polish",
+        "term": "kalarepa"
+      },
+      {
+        "name": "Hungarian",
+        "term": "karalábé"
+      }
+    ],
+    "descIta": "variety of cabbage with stem enlarged at the base"
+  },
+  {
+    "termIta": "cedro, cedrato",
+    "languages": [
+      {
+        "name": "French",
+        "term": "cédrat"
+      },
+      {
+        "name": "UK English",
+        "term": "cedrat"
+      },
+      {
+        "name": "Lithuanian",
+        "term": "cedra"
+      },
+      {
+        "name": "Lithuanian",
+        "term": "cedratas"
+      },
+      {
+        "name": "German",
+        "term": "zedrat",
+        "otherTerms": "-s, pl. -e"
+      }
+    ],
+    "descIta": "green-yellow citrus fruit, whose juice is used to prepare refreshing drinks and the zest is often candied"
+  },
+  {
+    "termIta": "Cerignola (ciliegie)",
+    "languages": [
+      {
+        "name": "UK English",
+        "term": "Cerignola"
+      }
+    ],
+    "descIta": "variety of cherry form Cerignola"
+  },
+  {
+    "termIta": "cervellata [zervelada, milanese; servelada, servalat, bresciano]",
+    "languages": [
+      {
+        "name": "Hungarian",
+        "term": "szafaládé"
+      }
+    ],
+    "descIta": "sausage made of pork, pig brain, blood  and cheese, typical in and around Milan; a sausage made with brains produced in and around Naples"
+  },
+  {
+    "termIta": "Chianti",
+    "languages": [
+      {
+        "name": "Japanese",
+        "term": "kyanti"
+      },
+      {
+        "name": "UK English",
+        "term": "Chianti / chianti"
+      },
+      {
+        "name": "Lithuanian",
+        "term": "kiantis"
+      },
+      {
+        "name": "Spanish",
+        "term": "quianti"
+      },
+      {
+        "name": "Hungarian",
+        "term": "chianti"
+      }
+    ],
+    "descIta": "Tuscan red wine, produced in the area of the same name using predominantly sangiovese grapes"
+  },
+  {
+    "termIta": "chiarello",
+    "languages": [
+      {
+        "name": "Catalan",
+        "term": "xarello",
+        "otherTerms": "xareŀlo"
+      }
+    ],
+    "descIta": "very light-colored red wine with low-alcohol content"
+  },
+  {
+    "termIta": "ciabatta",
+    "languages": [
+      {
+        "name": "Catalan",
+        "term": "xapata"
+      },
+      {
+        "name": "Finnish",
+        "term": "ciapatta",
+        "otherTerms": "chapatta"
+      },
+      {
+        "name": "Japanese",
+        "term": "chapata"
+      },
+      {
+        "name": "UK English",
+        "term": "ciabatta",
+        "otherTerms": "-ttas, -tte"
+      },
+      {
+        "name": "Icelandic",
+        "term": "ciabatta",
+        "otherTerms": "chiabatta"
+      },
+      {
+        "name": "Lithuanian",
+        "term": "ciabata",
+        "otherTerms": "ciabatta, džiabata"
+      },
+      {
+        "name": "Spanish",
+        "term": "chapata"
+      },
+      {
+        "name": "Hungarian",
+        "term": "ciabatta",
+        "otherTerms": "csiabatta, csabatta, chiabatta"
+      }
+    ],
+    "descIta": "flat, oblong bread"
+  },
+  {
+    "termIta": "ciccia",
+    "languages": [
+      {
+        "name": "Spanish",
+        "term": "chicha"
+      }
+    ],
+    "descIta": "meat, flesh of a slaughtered animal"
+  },
+  {
+    "termIta": "cicerchia",
+    "languages": [
+      {
+        "name": "Polish",
+        "term": "cieciorka",
+        "otherTerms": "cieciarka, ciecierzyca"
+      }
+    ],
+    "descIta": "leguminous plant with edible seeds, found throughout the Mediterranean"
+  },
+  {
+    "termIta": "cicoria",
+    "languages": [
+      {
+        "name": "Arabic",
+        "term": "šikurya"
+      },
+      {
+        "name": "Finnish",
+        "term": "sikuri"
+      }
+    ],
+    "descIta": "herbaceous plant with edible leaves and bitter roots used as a coffee substitute"
+  },
+  {
+    "termIta": "cioccolata",
+    "languages": [
+      {
+        "name": "Arabic",
+        "term": "šukulaata",
+        "otherTerms": "šukalaata, šakalaata, šikulaata"
+      },
+      {
+        "name": "Czech",
+        "term": "čokoláda"
+      },
+      {
+        "name": "Polish",
+        "term": "czekolada"
+      },
+      {
+        "name": "Hungarian",
+        "term": "csokoládé"
+      }
+    ],
+    "descIta": " hot drink made with sweetened cocoamixed with hot milk or water"
+  },
+  {
+    "termIta": "cipollata",
+    "languages": [
+      {
+        "name": "French",
+        "term": "chipolata",
+        "otherTerms": "-as",
+        "desc": "sauce with onions"
+      },
+      {
+        "name": "UK English",
+        "term": "chipolata (< fr.)"
+      },
+      {
+        "name": "German",
+        "term": "cipollata",
+        "otherTerms": "-s, -ten"
+      }
+    ],
+    "descIta": "onion-based dish"
+  },
+  {
+    "termIta": "cipolline",
+    "languages": [
+      {
+        "name": "US English",
+        "term": "cipolline onion"
+      }
+    ],
+    "descIta": "common name of some early varieties of onions with a small bulb,  eaten raw or pickled"
+  },
+  {
+    "termIta": "con panna (espresso)",
+    "languages": [
+      {
+        "name": "Japanese",
+        "term": "kon・panna"
+      },
+      {
+        "name": "Icelandic",
+        "term": "con panna"
+      }
+    ],
+    "descIta": "espresso coffee with whipped cream"
+  },
+  {
+    "termIta": "conchiglie",
+    "languages": [
+      {
+        "name": "Japanese",
+        "term": "kon・kirie"
+      },
+      {
+        "name": "UK English",
+        "term": "conchiglie"
+      }
+    ],
+    "descIta": "type of short, oval, shell-shaped pasta"
+  },
+  {
+    "termIta": "confetti",
+    "languages": [
+      {
+        "name": "Catalan",
+        "term": "confetti"
+      },
+      {
+        "name": "Estonian",
+        "term": "konfett"
+      },
+      {
+        "name": "Finnish",
+        "term": "konvehti"
+      },
+      {
+        "name": "French",
+        "term": "confetti",
+        "otherTerms": "-s"
+      },
+      {
+        "name": "UK English",
+        "term": "cohnfetti"
+      },
+      {
+        "name": "Latvian",
+        "term": "konfeti"
+      },
+      {
+        "name": "German",
+        "term": "konfetti",
+        "otherTerms": "-s"
+      }
+    ],
+    "descIta": "a small, sugar-coated almond, hazelnut or pistachio, typically offered at ceremonies"
+  },
+  {
+    "termIta": "cono",
+    "languages": [
+      {
+        "name": "Arabic",
+        "term": "koonu"
+      }
+    ],
+    "descIta": "conically shaped wafer used to contain ice cream"
+  },
+  {
+    "termIta": "costoletta",
+    "languages": [
+      {
+        "name": "Arabic",
+        "term": "kustaleeta",
+        "otherTerms": "kustuleeta, kustalitta"
+      }
+    ],
+    "descIta": "steak cut loin or rack of veal, lamb or pork"
+  },
+  {
+    "termIta": "crema",
+    "languages": [
+      {
+        "name": "Arabic",
+        "term": "kireema"
+      }
+    ],
+    "descIta": "soft mixture made with milk, eggs and sugar, sometimes with other ingredients added"
+  },
+  {
+    "termIta": "cremino",
+    "languages": [
+      {
+        "name": "US English",
+        "term": "cremini"
+      }
+    ],
+    "descIta": "type of chocolate with one or more creamy layers sandwiched between two layers of chocolate"
+  },
+  {
+    "termIta": "crostata",
+    "languages": [
+      {
+        "name": "US English",
+        "term": "crostata"
+      },
+      {
+        "name": "French",
+        "term": "croustade"
+      }
+    ],
+    "descIta": "cake baked in the oven formed by a layer of pastry covered with jam or cream"
+  },
+  {
+    "termIta": "crostino",
+    "languages": [
+      {
+        "name": "Hungarian",
+        "term": "crostini"
+      }
+    ],
+    "descIta": "slice of toasted bread spread with butter or covered with various ingredients, usually served as a starter"
+  },
+  {
+    "termIta": "crudo",
+    "languages": [
+      {
+        "name": "US English",
+        "term": "crudo"
+      }
+    ],
+    "descIta": "not subjected to cooking"
+  },
+  {
+    "termIta": "crusca",
+    "languages": [
+      {
+        "name": "Finnish",
+        "term": "kruska"
+      }
+    ],
+    "descIta": "residue from the milling of cereals made from seed casings "
+  },
+  {
+    "termIta": "cubebe",
+    "languages": [
+      {
+        "name": "Polish",
+        "term": "kubeba"
+      }
+    ],
+    "descIta": "fruit similar to a grain of pepper, with healing properties"
+  },
+  {
+    "termIta": "cuccagna [cocagna, bresciano; cucagna, veneziano]",
+    "languages": [
+      {
+        "name": "Hungarian",
+        "term": "dial.kókonya"
+      }
+    ],
+    "descIta": "Easter dish blessed by a priest"
+  },
+  {
+    "termIta": "culatta",
+    "languages": [
+      {
+        "name": "Arabic",
+        "term": "kulaaṭa",
+        "otherTerms": "kalaaṭa"
+      }
+    ],
+    "descIta": "with various regional names: cut from the upper thigh of cattle"
+  },
+  {
+    "termIta": "dattero [dàtolo, veneziano, triestino; dàtul, friulano]",
+    "languages": [
+      {
+        "name": "Hungarian",
+        "term": "datolya"
+      }
+    ],
+    "descIta": "edible fruit of the date palm, with sweet, very nutritious pulp "
+  },
+  {
+    "termIta": "dragoncello, dragone",
+    "languages": [
+      {
+        "name": "Hungarian",
+        "term": "tárkony"
+      }
+    ],
+    "descIta": "aromatic herb used in cooking, herbal medicine and perfumery"
+  },
+  {
+    "termIta": "espresso",
+    "languages": [
+      {
+        "name": "US English",
+        "term": "espresso"
+      },
+      {
+        "name": "Arabic",
+        "term": "’isbriisu"
+      },
+      {
+        "name": "Czech",
+        "term": "espreso",
+        "desc": "electric machine to make coffee quickly "
+      },
+      {
+        "name": "Korean",
+        "term": "esŭp'ŭreso"
+      },
+      {
+        "name": "Danish",
+        "term": "espresso"
+      },
+      {
+        "name": "Faroese",
+        "term": "espressokaffi"
+      },
+      {
+        "name": "Finnish",
+        "term": "espresso"
+      },
+      {
+        "name": "French",
+        "term": "(café) express"
+      },
+      {
+        "name": "Japanese",
+        "term": "esupuresso"
+      },
+      {
+        "name": "UK English",
+        "term": "espresso",
+        "otherTerms": "expresso, -os"
+      },
+      {
+        "name": "Icelandic",
+        "term": "espresso"
+      },
+      {
+        "name": "Lithuanian",
+        "term": "espresas",
+        "otherTerms": "espreso, ekspreso",
+        "desc": "espresso bar"
+      },
+      {
+        "name": "Polish",
+        "term": "ekspres",
+        "otherTerms": "espresso"
+      },
+      {
+        "name": "Spanish",
+        "term": "expreso"
+      },
+      {
+        "name": "German",
+        "term": "espresso",
+        "otherTerms": "-s, -ssi"
+      }
+    ],
+    "descIta": "espresso coffee"
+  },
+  {
+    "termIta": "fagiano [fasàn, veneziano]",
+    "languages": [
+      {
+        "name": "Hungarian",
+        "term": "fácán"
+      }
+    ],
+    "descIta": "bird with colorful plumage and a long tail, hunted and farmed for its prized meat "
+  },
+  {
+    "termIta": "fagiolo [fasol, fazol, fasola dial. sett.]",
+    "languages": [
+      {
+        "name": "Polish",
+        "term": "fasola"
+      }
+    ],
+    "descIta": "oblong, round edible seed"
+  },
+  {
+    "termIta": "farfalle",
+    "languages": [
+      {
+        "name": "Japanese",
+        "term": "farufarre"
+      }
+    ],
+    "descIta": "butterfly-shaped pasta"
+  },
+  {
+    "termIta": "farina",
+    "languages": [
+      {
+        "name": "Arabic",
+        "term": "fariina"
+      }
+    ],
+    "descIta": "product produced by milling grain"
+  },
+  {
+    "termIta": "farro",
+    "languages": [
+      {
+        "name": "UK English",
+        "term": "farro"
+      }
+    ],
+    "descIta": "variety of wheat used in grains or ground to prepare soups, focaccia, etc."
+  },
+  {
+    "termIta": "fava",
+    "languages": [
+      {
+        "name": "US English",
+        "term": "fava bean"
+      }
+    ],
+    "descIta": "flat edible seed, green or brown, eaten fresh or dried"
+  },
+  {
+    "termIta": "fegatello",
+    "languages": [
+      {
+        "name": "Polish",
+        "term": "plur. fegatele",
+        "otherTerms": "figatele"
+      }
+    ],
+    "descIta": "pig liver cooked on a spit or in a pan"
+  },
+  {
+    "termIta": "fegato",
+    "languages": [
+      {
+        "name": "UK English",
+        "term": "fegato"
+      }
+    ],
+    "descIta": "liver-based dish"
+  },
+  {
+    "termIta": "fernet",
+    "languages": [
+      {
+        "name": "Catalan",
+        "term": "fernet"
+      },
+      {
+        "name": "Czech",
+        "term": "fernet"
+      }
+    ],
+    "descIta": "bitter liqueur with a high alcohol content, made from medicinal and aromatic herbs"
+  },
+  {
+    "termIta": "fettuccine",
+    "languages": [
+      {
+        "name": "US English",
+        "term": "fettuccine"
+      },
+      {
+        "name": "Danish",
+        "term": "fettuccini"
+      },
+      {
+        "name": "French",
+        "term": "fetuccini"
+      },
+      {
+        "name": "Japanese",
+        "term": "fettochīne"
+      },
+      {
+        "name": "UK English",
+        "term": "fet(t)ucine",
+        "otherTerms": "-i/fettuccelle"
+      },
+      {
+        "name": "Icelandic",
+        "term": "fettuccini"
+      },
+      {
+        "name": "Hungarian",
+        "term": "fettuccine"
+      }
+    ],
+    "descIta": "or tagliatelle, type of pasta, usually egg, obtained by cutting the dough into thin strips"
+  },
+  {
+    "termIta": "fico [fíga, pl. fíghe, veneziano antico; figo, triestino]",
+    "languages": [
+      {
+        "name": "Czech",
+        "term": "fík"
+      },
+      {
+        "name": "Polish",
+        "term": "figa"
+      },
+      {
+        "name": "Hungarian",
+        "term": "füge"
+      }
+    ],
+    "descIta": "fruit with sweet, tender pulp formed by a mass of grains, eaten fresh or dried"
+  },
+  {
+    "termIta": "filetto",
+    "languages": [
+      {
+        "name": "Arabic",
+        "term": "filittu"
+      }
+    ],
+    "descIta": "choice cut of beef taken from the loins"
+  },
+  {
+    "termIta": "fiorentina (bistecca alla)",
+    "languages": [
+      {
+        "name": "UK English",
+        "term": "florentine"
+      }
+    ],
+    "descIta": "thick-cut rump steak cooked on a grill"
+  },
+  {
+    "termIta": "focaccia",
+    "languages": [
+      {
+        "name": "Finnish",
+        "term": "focaccia"
+      },
+      {
+        "name": "UK English",
+        "term": "fochachio",
+        "otherTerms": "focaccia, pl. -cce, -ccias"
+      },
+      {
+        "name": "German",
+        "term": "pl. fugazi"
+      },
+      {
+        "name": "Hungarian",
+        "term": "pogácsa"
+      }
+    ],
+    "descIta": "kind of flat bread seasoned with olive oil or other ingredients"
+  },
+  {
+    "termIta": "fontina",
+    "languages": [
+      {
+        "name": "US English",
+        "term": "fontina"
+      },
+      {
+        "name": "UK English",
+        "term": "fontina"
+      },
+      {
+        "name": "Polish",
+        "term": "fontina"
+      }
+    ],
+    "descIta": "fat soft cheese typical of  Val d'Aosta, produced with whole cows milk "
+  },
+  {
+    "termIta": "formaggio",
+    "languages": [
+      {
+        "name": "German",
+        "term": "formaggio",
+        "otherTerms": "-s"
+      }
+    ],
+    "descIta": "food product obtained from milk, with the possible addition of cream"
+  },
+  {
+    "termIta": "fragola",
+    "languages": [
+      {
+        "name": "Arabic",
+        "term": "firawla",
+        "otherTerms": "farawla"
+      }
+    ],
+    "descIta": "bright red, heart-shaped, sweet and fragrant fruit"
+  },
+  {
+    "termIta": "frappè",
+    "languages": [
+      {
+        "name": "Lithuanian",
+        "term": "frappe"
+      }
+    ],
+    "descIta": "blended drink made with sweetened milk and ice with fruit, coffee, chocolate, etc."
+  },
+  {
+    "termIta": "frittata",
+    "languages": [
+      {
+        "name": "UK English",
+        "term": "frittado (< sp.)/frittata"
+      },
+      {
+        "name": "German",
+        "term": "frittate",
+        "otherTerms": "-n"
+      }
+    ],
+    "descIta": "dish prepared by frying beaten eggs with the addition of various ingredients"
+  },
+  {
+    "termIta": "frittella",
+    "languages": [
+      {
+        "name": "Catalan",
+        "term": "friteŀla",
+        "desc": "meat and offal stew fried with potatoes or sweet potatoes"
+      }
+    ],
+    "descIta": "sweet or savory, fried in boiling oil"
+  },
+  {
+    "termIta": "frullato",
+    "languages": [
+      {
+        "name": "Lithuanian",
+        "term": "frullato"
+      }
+    ],
+    "descIta": "beverage obtained by blending fruit with milk, sugar and other ingredients "
+  },
+  {
+    "termIta": "frutta",
+    "languages": [
+      {
+        "name": "Arabic",
+        "term": "firutta",
+        "otherTerms": "furutta",
+        "desc": "fruit aromas (candy or ice cream)"
+      }
+    ],
+    "descIta": "final course, generally served at the end of a meal"
+  },
+  {
+    "termIta": "frutti di mare",
+    "languages": [
+      {
+        "name": "Finnish",
+        "term": "frutti di mare"
+      },
+      {
+        "name": "French",
+        "term": "fruits de mer (calco)"
+      },
+      {
+        "name": "Polish",
+        "term": "frutti di mare"
+      },
+      {
+        "name": "Hungarian",
+        "term": "frutti di mare",
+        "otherTerms": "frutta del mare"
+      }
+    ],
+    "descIta": "shellfish or other edible fish, such as sea urchins, mussels, clams, etc."
+  },
+  {
+    "termIta": "fusilli",
+    "languages": [
+      {
+        "name": "Hungarian",
+        "term": "fusilli",
+        "otherTerms": "fuzili"
+      }
+    ],
+    "descIta": "durum wheat asta with a twisted spiral shape"
+  },
+  {
+    "termIta": "gala (mela)",
+    "languages": [
+      {
+        "name": "US English",
+        "term": "Gala"
+      }
+    ],
+    "descIta": "variety of crunchy, juicy apple with red skin"
+  },
+  {
+    "termIta": "gambero",
+    "languages": [
+      {
+        "name": "Arabic",
+        "term": "gambari"
+      }
+    ],
+    "descIta": "prized edible crustacean which turns pink or red when cooked"
+  },
+  {
+    "termIta": "gazzosa",
+    "languages": [
+      {
+        "name": "Arabic",
+        "term": "gazuuza",
+        "otherTerms": "kazuuza"
+      }
+    ],
+    "descIta": "sweet lemon flavored carbonated drink"
+  },
+  {
+    "termIta": "gelatina",
+    "languages": [
+      {
+        "name": "US English",
+        "term": "gelatin"
+      },
+      {
+        "name": "Arabic",
+        "term": "jilatiina",
+        "otherTerms": "galatiina"
+      },
+      {
+        "name": "Catalan",
+        "term": "gelatina"
+      },
+      {
+        "name": "Gaelic",
+        "term": "geilitín"
+      },
+      {
+        "name": "UK English",
+        "term": "gelatine"
+      },
+      {
+        "name": "Hungarian",
+        "term": "zselatin"
+      }
+    ],
+    "descIta": "transparent preparation solidified by cooling, made with broth, unflavored gelatin or other thickeners"
+  },
+  {
+    "termIta": "gelato",
+    "languages": [
+      {
+        "name": "Arabic",
+        "term": "jilaati"
+      },
+      {
+        "name": "Japanese",
+        "term": "jerāto"
+      },
+      {
+        "name": "Hungarian",
+        "term": "gelato"
+      }
+    ],
+    "descIta": "creamy sweet made of milk and sugar with the addition of various ingredients, solidified by freezing in a special machine such as an ice cream maker"
+  },
+  {
+    "termIta": "gianduja",
+    "languages": [
+      {
+        "name": "US English",
+        "term": "gianduja"
+      }
+    ],
+    "descIta": "soft and creamy hazelnut flavored chocolate from Turin"
+  },
+  {
+    "termIta": "giglio",
+    "languages": [
+      {
+        "name": "UK English",
+        "term": "gigli"
+      }
+    ],
+    "descIta": "type of short pasta reminiscent of the namesake flower"
+  },
+  {
+    "termIta": "gnocchi",
+    "languages": [
+      {
+        "name": "US English",
+        "term": "gnocchi"
+      },
+      {
+        "name": "Finnish",
+        "term": "gnocchi",
+        "otherTerms": "gnokki"
+      },
+      {
+        "name": "French",
+        "term": "nioki (à la Viennoise)"
+      },
+      {
+        "name": "Japanese",
+        "term": "nyokki"
+      },
+      {
+        "name": "Polish",
+        "term": "gnocchi"
+      },
+      {
+        "name": "Spanish",
+        "term": "ñoqui"
+      },
+      {
+        "name": "Hungarian",
+        "term": "gnocchi"
+      }
+    ],
+    "descIta": "rounded pieces of soft dough made of flour and boiled potatoes, served boiled and seasoned in various ways"
+  },
+  {
+    "termIta": "gorgonzola",
+    "languages": [
+      {
+        "name": "US English",
+        "term": "gorgonzola"
+      },
+      {
+        "name": "Chinese",
+        "term": "gēgòngzuǒlā rǔlào"
+      },
+      {
+        "name": "Finnish",
+        "term": "gorgonzola",
+        "otherTerms": "gorgonzolajuusto, gorgonzolanjuusto"
+      },
+      {
+        "name": "Japanese",
+        "term": "gorugonzōra"
+      },
+      {
+        "name": "UK English",
+        "term": "gorgonzola"
+      },
+      {
+        "name": "Lithuanian",
+        "term": "gorgonzola"
+      },
+      {
+        "name": "Polish",
+        "term": "gorgonzola"
+      },
+      {
+        "name": "Spanish",
+        "term": "gorgonzola"
+      },
+      {
+        "name": "German",
+        "term": "gorgonzolas"
+      },
+      {
+        "name": "Hungarian",
+        "term": "gorgonzola"
+      }
+    ],
+    "descIta": "soft cow's milk cheese with a very intense aroma and spicy flavor and greenish veins"
+  },
+  {
+    "termIta": "Grana Padano",
+    "languages": [
+      {
+        "name": "US English",
+        "term": "Grana Padano"
+      },
+      {
+        "name": "Lithuanian",
+        "term": "granapadanas"
+      },
+      {
+        "name": "Polish",
+        "term": "grana"
+      }
+    ],
+    "descIta": "variety of hard cheese produced in the Po Valley"
+  },
+  {
+    "termIta": "granita",
+    "languages": [
+      {
+        "name": "Arabic",
+        "term": "garaniiṭa",
+        "otherTerms": "garanitta"
+      },
+      {
+        "name": "French",
+        "term": "granita",
+        "otherTerms": "-as"
+      },
+      {
+        "name": "UK English",
+        "term": "granita",
+        "otherTerms": "-as, -te"
+      }
+    ],
+    "descIta": "semi-frozen sweet with a grainy consistency, prepared with sugar solutions containing fruit, syrups and the like"
+  },
+  {
+    "termIta": "grappa",
+    "languages": [
+      {
+        "name": "Japanese",
+        "term": "gurappa"
+      },
+      {
+        "name": "Lithuanian",
+        "term": "grapa"
+      },
+      {
+        "name": "Polish",
+        "term": "grappa"
+      },
+      {
+        "name": "German",
+        "term": "grappa",
+        "otherTerms": "-as"
+      },
+      {
+        "name": "Hungarian",
+        "term": "grappa"
+      }
+    ],
+    "descIta": "spirits distilled from the pomance containing 45-50% alcohol"
+  },
+  {
+    "termIta": "gremolata",
+    "languages": [
+      {
+        "name": "US English",
+        "term": "gremolata"
+      }
+    ],
+    "descIta": "sherbet-like granita served in a cup or glass"
+  },
+  {
+    "termIta": "grignolino",
+    "languages": [
+      {
+        "name": "UK English",
+        "term": "grignoli(no)"
+      }
+    ],
+    "descIta": "dry red wine made from Grignolino grapes, a Piedmontese vine cultivated especially in the province of Asti"
+  },
+  {
+    "termIta": "grissini",
+    "languages": [
+      {
+        "name": "Polish",
+        "term": "grissini"
+      }
+    ],
+    "descIta": "thin, crispy bread stick"
+  },
+  {
+    "termIta": "grissino",
+    "languages": [
+      {
+        "name": "Chinese",
+        "term": "miànbāogùn"
+      },
+      {
+        "name": "French",
+        "term": "gres(s)in",
+        "otherTerms": "gres(s)in, grisini"
+      },
+      {
+        "name": "UK English",
+        "term": "grisino",
+        "otherTerms": "grissins"
+      },
+      {
+        "name": "German",
+        "term": "grissins",
+        "otherTerms": "-ni"
+      }
+    ],
+    "descIta": "thin, crispy bread stick"
+  },
+  {
+    "termIta": "guanciale",
+    "languages": [
+      {
+        "name": "UK English",
+        "term": "guanciale"
+      }
+    ],
+    "descIta": "pig cheek lard with lean streaks"
+  },
+  {
+    "termIta": "indivia (insalata)",
+    "languages": [
+      {
+        "name": "Finnish",
+        "term": "endiivi"
+      }
+    ],
+    "descIta": "vegetable used for salad, grows in heads"
+  },
+  {
+    "termIta": "infornata",
+    "languages": [
+      {
+        "name": "Arabic",
+        "term": "furnaaṭa"
+      }
+    ],
+    "descIta": "amount of bread or other baked foods cooked in the oven"
+  },
+  {
+    "termIta": "insalata [salata, salada dial. sett.]",
+    "languages": [
+      {
+        "name": "US English",
+        "term": "salata"
+      },
+      {
+        "name": "Arabic",
+        "term": "salaṭa",
+        "desc": "disorder"
+      },
+      {
+        "name": "Czech",
+        "term": "salát"
+      },
+      {
+        "name": "Chinese",
+        "term": "shālā"
+      },
+      {
+        "name": "Danish",
+        "term": "salat"
+      },
+      {
+        "name": "Finnish",
+        "term": "salaatti"
+      },
+      {
+        "name": "French",
+        "term": "salade",
+        "desc": "fight"
+      },
+      {
+        "name": "Icelandic",
+        "term": "salat"
+      },
+      {
+        "name": "Lithuanian",
+        "term": "salota"
+      },
+      {
+        "name": "Polish",
+        "term": "sałata"
+      },
+      {
+        "name": "German",
+        "term": "salat"
+      },
+      {
+        "name": "Hungarian",
+        "term": "saláta"
+      }
+    ],
+    "descIta": "name of various species of herbs, whose leaves are usually eaten raw; dish made of these herbs seasoned with oil, salt, vinegar or lemon"
+  },
+  {
+    "termIta": "Lacrima Christi",
+    "languages": [
+      {
+        "name": "UK English",
+        "term": "lacrima di Cristo"
+      }
+    ],
+    "descIta": "sweet wine produced in Campania "
+  },
+  {
+    "termIta": "lasagna",
+    "languages": [
+      {
+        "name": "US English",
+        "term": "lasagna"
+      },
+      {
+        "name": "Arabic",
+        "term": "lazanya"
+      },
+      {
+        "name": "Catalan",
+        "term": "lasanya"
+      },
+      {
+        "name": "Chinese",
+        "term": "Yìdàlì qiāncéngmiàn"
+      },
+      {
+        "name": "Danish",
+        "term": "lasagne"
+      },
+      {
+        "name": "Estonian",
+        "term": "lasanje"
+      },
+      {
+        "name": "Finnish",
+        "term": "lasagne"
+      },
+      {
+        "name": "French",
+        "term": "lasagne",
+        "otherTerms": "lasaigne, lasagne"
+      },
+      {
+        "name": "Japanese",
+        "term": "razānya"
+      },
+      {
+        "name": "US English",
+        "term": "lasagnes"
+      },
+      {
+        "name": "Icelandic",
+        "term": "lasagna",
+        "otherTerms": "lasagne"
+      },
+      {
+        "name": "Latvian",
+        "term": "lazanja"
+      },
+      {
+        "name": "Lithuanian",
+        "term": "lazanija"
+      },
+      {
+        "name": "Polish",
+        "term": "lasania",
+        "otherTerms": "lazania, łazanka, di solito al plur.: łazanki; lasagna, lasagne, lazanie, lasagne"
+      },
+      {
+        "name": "Portuguese",
+        "term": "lasanha"
+      },
+      {
+        "name": "Spanish",
+        "term": "lasaña"
+      },
+      {
+        "name": "German",
+        "term": "lasagne",
+        "otherTerms": "-n"
+      },
+      {
+        "name": "Hungarian",
+        "term": "lasagne",
+        "otherTerms": "lasagna, lazannya"
+      }
+    ],
+    "descIta": "sheet of egg pasta, cut into strips"
+  },
+  {
+    "termIta": "latte",
+    "languages": [
+      {
+        "name": "Hungarian",
+        "term": "latte"
+      }
+    ],
+    "descIta": "liquid food produced by cows"
+  },
+  {
+    "termIta": "latte macchiato",
+    "languages": [
+      {
+        "name": "Japanese",
+        "term": "makiāto",
+        "desc": "milk with a few drops of coffee, vanilla syrup and caramel"
+      },
+      {
+        "name": "UK English",
+        "term": "latte"
+      },
+      {
+        "name": "Icelandic",
+        "term": "macchiato"
+      },
+      {
+        "name": "Polish",
+        "term": "latte"
+      },
+      {
+        "name": "Hungarian",
+        "term": "latte macchiato"
+      }
+    ],
+    "descIta": "milk with a few drops of coffee"
+  },
+  {
+    "termIta": "lattuga (insalata)",
+    "languages": [
+      {
+        "name": "Estonian",
+        "term": "salat"
+      },
+      {
+        "name": "Latvian",
+        "term": "salāti"
+      },
+      {
+        "name": "Latvian",
+        "term": "salāts"
+      }
+    ],
+    "descIta": "leafy vegetable usually dressed with oil, vinegar and salt"
+  },
+  {
+    "termIta": "lauro",
+    "languages": [
+      {
+        "name": "Arabic",
+        "term": "lawru"
+      }
+    ],
+    "descIta": "laurel, plant with aromatic leaves used in cooking"
+  },
+  {
+    "termIta": "legare",
+    "languages": [
+      {
+        "name": "Czech",
+        "term": "legovat"
+      }
+    ],
+    "descIta": "to make denser and creamier"
+  },
+  {
+    "termIta": "limonata",
+    "languages": [
+      {
+        "name": "Arabic",
+        "term": "lamunaata",
+        "otherTerms": "lamunaaṭa"
+      },
+      {
+        "name": "Czech",
+        "term": "limonáda"
+      },
+      {
+        "name": "Hungarian",
+        "term": "limonádé"
+      }
+    ],
+    "descIta": "lemon juice diluted in water with added sugar"
+  },
+  {
+    "termIta": "limoncello",
+    "languages": [
+      {
+        "name": "US English",
+        "term": "limoncello"
+      }
+    ],
+    "descIta": "lemon-based liqueur typical of the Amalfi Coast"
+  },
+  {
+    "termIta": "limone",
+    "languages": [
+      {
+        "name": "Czech",
+        "term": "limon"
+      },
+      {
+        "name": "Finnish",
+        "term": "limonadi"
+      }
+    ],
+    "descIta": "highly acidic oval, light yellow fruit with juicy pulp"
+  },
+  {
+    "termIta": "limone [citrone dial.]",
+    "languages": [
+      {
+        "name": "Finnish",
+        "term": "situuna"
+      }
+    ],
+    "descIta": "highly acidic oval, light yellow fruit with juicy pulp"
+  },
+  {
+    "termIta": "linguine",
+    "languages": [
+      {
+        "name": "US English",
+        "term": "linguine"
+      },
+      {
+        "name": "UK English",
+        "term": "linguini"
+      }
+    ],
+    "descIta": "long, thin pasta, like flat spaghetti"
+  },
+  {
+    "termIta": "maccheroni",
+    "languages": [
+      {
+        "name": "Icelandic",
+        "term": "makkaróna"
+      },
+      {
+        "name": "Arabic",
+        "term": "makaroona"
+      },
+      {
+        "name": "Catalan",
+        "term": "Macarró"
+      },
+      {
+        "name": "Czech",
+        "term": "makaróny"
+      },
+      {
+        "name": "Czech",
+        "term": "makronek"
+      },
+      {
+        "name": "Korean",
+        "term": "mak'aroni"
+      },
+      {
+        "name": "Danish",
+        "term": "makaroni"
+      },
+      {
+        "name": "Estonian",
+        "term": "makaronid"
+      },
+      {
+        "name": "Faroese",
+        "term": "makaronni"
+      },
+      {
+        "name": "Finnish",
+        "term": "makaroni"
+      },
+      {
+        "name": "French",
+        "term": "macaron",
+        "otherTerms": "-s, macaroni, -is"
+      },
+      {
+        "name": "Gaelic",
+        "term": "macarón"
+      },
+      {
+        "name": "Japanese",
+        "term": "makaroni"
+      },
+      {
+        "name": "UK English",
+        "term": "mac(c)arone",
+        "otherTerms": "-i"
+      },
+      {
+        "name": "Latvian",
+        "term": "makaroni"
+      },
+      {
+        "name": "Lithuanian",
+        "term": "makaronai"
+      },
+      {
+        "name": "Portuguese",
+        "term": "macarrão"
+      },
+      {
+        "name": "Spanish",
+        "term": "macarrón"
+      },
+      {
+        "name": "German",
+        "term": "macarone / makkaroni",
+        "otherTerms": "macaroni, macharoni"
+      },
+      {
+        "name": "Hungarian",
+        "term": "makaróni"
+      }
+    ],
+    "descIta": "tube-shaped pasta of various lengths and dimensions"
+  },
+  {
+    "termIta": "malvasia [marvaxïa, genovese; malvaSia, giuliano; malvazìa, bresciano; malvasìa, veneziano]",
+    "languages": [
+      {
+        "name": "Polish",
+        "term": "małmazja"
+      },
+      {
+        "name": "Hungarian",
+        "term": "mazsola"
+      }
+    ],
+    "descIta": "sweet or dry wine made from the grape of the same name in many regions of Italy"
+  },
+  {
+    "termIta": "mandorla [màndola, veneziano; màndula, triestino]",
+    "languages": [
+      {
+        "name": "Hungarian",
+        "term": "mandula"
+      }
+    ],
+    "descIta": "the fruit of the almond tree, the inside of which, sweet or bitter, is consumed"
+  },
+  {
+    "termIta": "mangeria",
+    "languages": [
+      {
+        "name": "Arabic",
+        "term": "mangariyya"
+      }
+    ],
+    "descIta": "a term to indicate 'food', which has come to mean 'illegal gain'"
+  },
+  {
+    "termIta": "marasca",
+    "languages": [
+      {
+        "name": "Czech",
+        "term": "maraska"
+      },
+      {
+        "name": "Polish",
+        "term": "maraska"
+      },
+      {
+        "name": "Portuguese",
+        "term": "marasca"
+      }
+    ],
+    "descIta": "variety of cherry used for the distillation of spirits"
+  },
+  {
+    "termIta": "maraschino",
+    "languages": [
+      {
+        "name": "Catalan",
+        "term": "marrasquí"
+      },
+      {
+        "name": "Czech",
+        "term": "maraskýno"
+      },
+      {
+        "name": "Korean",
+        "term": "marasŭk'ino"
+      },
+      {
+        "name": "Estonian",
+        "term": "maraskiino"
+      },
+      {
+        "name": "French",
+        "term": "marasquin"
+      },
+      {
+        "name": "Gaelic",
+        "term": "maraiscín"
+      },
+      {
+        "name": "Japanese",
+        "term": "marasukīno"
+      },
+      {
+        "name": "UK English",
+        "term": "mareschino"
+      },
+      {
+        "name": "Latvian",
+        "term": "maraskīno"
+      },
+      {
+        "name": "Lithuanian",
+        "term": "maraskinas"
+      },
+      {
+        "name": "Polish",
+        "term": "maraskino"
+      },
+      {
+        "name": "Portuguese",
+        "term": "marasquino"
+      },
+      {
+        "name": "Spanish",
+        "term": "marrasquino"
+      },
+      {
+        "name": "German",
+        "term": "maraschins",
+        "otherTerms": "maraskino"
+      },
+      {
+        "name": "Hungarian",
+        "term": "maraschino"
+      }
+    ],
+    "descIta": "sweet liqueur produced from the distillation of morello cherries"
+  },
+  {
+    "termIta": "margherita (pizza)",
+    "languages": [
+      {
+        "name": "Arabic",
+        "term": "margariita"
+      }
+    ],
+    "descIta": "Pizza with tomato, mozzarella and basil"
+  },
+  {
+    "termIta": "marinare",
+    "languages": [
+      {
+        "name": "US English",
+        "term": "marinate"
+      },
+      {
+        "name": "French",
+        "term": "mariné"
+      },
+      {
+        "name": "French",
+        "term": "mariner"
+      },
+      {
+        "name": "UK English",
+        "term": "marinate",
+        "otherTerms": "marinat, marrionate"
+      },
+      {
+        "name": "Portuguese",
+        "term": "marinar"
+      }
+    ],
+    "descIta": "immerse a food, especially fish or meat, in vinegar, wine or another liquid to soften, conserve or flavor it"
+  },
+  {
+    "termIta": "marinata",
+    "languages": [
+      {
+        "name": "US English",
+        "term": "marinade"
+      },
+      {
+        "name": "Polish",
+        "term": "marynata"
+      },
+      {
+        "name": "Portuguese",
+        "term": "marinada"
+      }
+    ],
+    "descIta": "aromatic liquid made from vinegar, wine or other liquid in which food is immersed, especially meat or fish"
+  },
+  {
+    "termIta": "marrone [maron, romagnolo;maro–ni˛, veneziano; maro–ni, friulano]",
+    "languages": [
+      {
+        "name": "Polish",
+        "term": "libresco",
+        "otherTerms": "solo pl. Marony"
+      },
+      {
+        "name": "Hungarian",
+        "term": "desueto maróni"
+      }
+    ],
+    "descIta": "bigger and tastier type of chestnut"
+  },
+  {
+    "termIta": "marsala",
+    "languages": [
+      {
+        "name": "US English",
+        "term": "Marsala"
+      },
+      {
+        "name": "Chinese",
+        "term": "Mǎshālā báipútaojiǔ"
+      },
+      {
+        "name": "Finnish",
+        "term": "marsala",
+        "otherTerms": "marsalaviini"
+      },
+      {
+        "name": "Lithuanian",
+        "term": "marsala"
+      },
+      {
+        "name": "Polish",
+        "term": "marsala"
+      },
+      {
+        "name": "Hungarian",
+        "term": "marsala"
+      }
+    ],
+    "descIta": "fortified, amber yellow wine, with a high alcohol content, typical of Marsala in western Sicily"
+  },
+  {
+    "termIta": "Martini",
+    "languages": [
+      {
+        "name": "Japanese",
+        "term": "marutīni",
+        "desc": "a cocktail"
+      },
+      {
+        "name": "Lithuanian",
+        "term": "martinis"
+      }
+    ],
+    "descIta": "cocktail made with vermouth, fortified, flavored wine and gin"
+  },
+  {
+    "termIta": "marzapane",
+    "languages": [
+      {
+        "name": "Catalan",
+        "term": "marsapà",
+        "otherTerms": "marçapà, massapà, mersepà"
+      },
+      {
+        "name": "Czech",
+        "term": "marcipán"
+      },
+      {
+        "name": "Danish",
+        "term": "Mmarcipan"
+      },
+      {
+        "name": "Estonian",
+        "term": "martsipan"
+      },
+      {
+        "name": "Finnish",
+        "term": "marsipaani"
+      },
+      {
+        "name": "French",
+        "term": "massepain"
+      },
+      {
+        "name": "UK English",
+        "term": "marchpane",
+        "otherTerms": "marzipan",
+        "desc": "person or thing considered overly refined"
+      },
+      {
+        "name": "Icelandic",
+        "term": "marsipan"
+      },
+      {
+        "name": "Latvian",
+        "term": "marcipāns"
+      },
+      {
+        "name": "Polish",
+        "term": "marcepan"
+      },
+      {
+        "name": "Portuguese",
+        "term": "maçapão",
+        "otherTerms": "massapões"
+      },
+      {
+        "name": "German",
+        "term": "marzipan",
+        "otherTerms": "marczapan"
+      },
+      {
+        "name": "Hungarian",
+        "term": "marcipán"
+      }
+    ],
+    "descIta": "mixture of egg whites with ground almonds and sugar, used in pastry making"
+  },
+  {
+    "termIta": "marzolino",
+    "languages": [
+      {
+        "name": "UK English",
+        "term": "marsoline"
+      }
+    ],
+    "descIta": "fresh sheep’s cheese named after the fact that is is produced from the milk of March milkings"
+  },
+  {
+    "termIta": "mascarpone",
+    "languages": [
+      {
+        "name": "US English",
+        "term": "mascarpone"
+      },
+      {
+        "name": "Finnish",
+        "term": "mascarpone"
+      },
+      {
+        "name": "Japanese",
+        "term": "masukarupōne"
+      },
+      {
+        "name": "UK English",
+        "term": "mascherpone"
+      },
+      {
+        "name": "Lithuanian",
+        "term": "maskarponė"
+      },
+      {
+        "name": "Polish",
+        "term": "mascarpone"
+      },
+      {
+        "name": "German",
+        "term": "mascarponi",
+        "otherTerms": "-s"
+      },
+      {
+        "name": "Hungarian",
+        "term": "mascarpone"
+      }
+    ],
+    "descIta": "white,creamy cheese prepared with cream and used especially for the preparation of desserts, typical of Lombardy"
+  },
+  {
+    "termIta": "melissa",
+    "languages": [
+      {
+        "name": "Korean",
+        "term": "mellissa"
+      }
+    ],
+    "descIta": "plant with oval leaves the aroma of lemon or bergamot used also in the preparation of liquors"
+  },
+  {
+    "termIta": "melograno [pomogranato, sett.]",
+    "languages": [
+      {
+        "name": "Hungarian",
+        "term": "† pomagránát"
+      }
+    ],
+    "descIta": "pomegranate tree and fruit"
+  },
+  {
+    "termIta": "melone",
+    "languages": [
+      {
+        "name": "Czech",
+        "term": "meloun"
+      },
+      {
+        "name": "Estonian",
+        "term": "melon"
+      },
+      {
+        "name": "Finnish",
+        "term": "meloni"
+      },
+      {
+        "name": "Latvian",
+        "term": "melone"
+      },
+      {
+        "name": "Polish",
+        "term": "melon"
+      },
+      {
+        "name": "German",
+        "term": "malaunen",
+        "otherTerms": "milon, melauni"
+      }
+    ],
+    "descIta": "smooth or reticulated oval fruit usually with yellow-orange, but sometimes white, pulp"
+  },
+  {
+    "termIta": "minestra",
+    "languages": [
+      {
+        "name": "Catalan",
+        "term": "minestra"
+      },
+      {
+        "name": "Czech",
+        "term": "minestra"
+      },
+      {
+        "name": "French",
+        "term": "menestre"
+      },
+      {
+        "name": "Polish",
+        "term": "minestra"
+      },
+      {
+        "name": "Spanish",
+        "term": "menestra",
+        "desc": "dried legumes"
+      },
+      {
+        "name": "German",
+        "term": "minestren",
+        "otherTerms": "menestren"
+      },
+      {
+        "name": "Hungarian",
+        "term": "minestra"
+      }
+    ],
+    "descIta": "dish made of vegetables, cereals, legumes, pasta or rice cooked in broth or water and seasoned in various ways"
+  },
+  {
+    "termIta": "minestrone",
+    "languages": [
+      {
+        "name": "US English",
+        "term": "minestrone"
+      },
+      {
+        "name": "Korean",
+        "term": "minesŭt'ŭrone"
+      },
+      {
+        "name": "Gaelic",
+        "term": "mineastróine"
+      },
+      {
+        "name": "Japanese",
+        "term": "minesutorōne"
+      },
+      {
+        "name": "Lithuanian",
+        "term": "minestrone"
+      },
+      {
+        "name": "Polish",
+        "term": "minestrone"
+      },
+      {
+        "name": "Hungarian",
+        "term": "minestrone"
+      }
+    ],
+    "descIta": "dense soup with vegetables and legumes, with or without pasta and rice"
+  },
+  {
+    "termIta": "mirabella",
+    "languages": [
+      {
+        "name": "Hungarian",
+        "term": "mirabella"
+      }
+    ],
+    "descIta": "variety of small,round, very fragrant, yellow-gold plum"
+  },
+  {
+    "termIta": "mistella",
+    "languages": [
+      {
+        "name": "Catalan",
+        "term": "mistela"
+      }
+    ],
+    "descIta": "wort alcohol used in the preparation of liqueur wines, especially the marsala"
+  },
+  {
+    "termIta": "montebianco",
+    "languages": [
+      {
+        "name": "UK English",
+        "term": "montebianco"
+      }
+    ],
+    "descIta": "cone-shaped dessert made with a mixture of boiled and mashed chestnuts, milk and sugar, covered with whipped cream"
+  },
+  {
+    "termIta": "mortadella",
+    "languages": [
+      {
+        "name": "Arabic",
+        "term": "murtadella"
+      },
+      {
+        "name": "Catalan",
+        "term": "mordadeŀla"
+      },
+      {
+        "name": "Czech",
+        "term": "mortadela"
+      },
+      {
+        "name": "French",
+        "term": "mortadelle"
+      },
+      {
+        "name": "UK English",
+        "term": "mortadelle"
+      },
+      {
+        "name": "Polish",
+        "term": "mortadela",
+        "otherTerms": "mortadella"
+      },
+      {
+        "name": "Portuguese",
+        "term": "mortadela"
+      },
+      {
+        "name": "Spanish",
+        "term": "mortadela"
+      },
+      {
+        "name": "German",
+        "term": "mortadellen"
+      },
+      {
+        "name": "Hungarian",
+        "term": "mortadella"
+      }
+    ],
+    "descIta": "Bolognese slow cooked sausage made of finely chopped pork or mixed meats with lard  and spices"
+  },
+  {
+    "termIta": "moscatello [muscatella meridion.]",
+    "languages": [
+      {
+        "name": "Czech",
+        "term": "muškatel"
+      },
+      {
+        "name": "Gaelic",
+        "term": "moscadal"
+      },
+      {
+        "name": "UK English",
+        "term": "moscadelli"
+      },
+      {
+        "name": "Polish",
+        "term": "muszkatela",
+        "otherTerms": "muszkatel"
+      },
+      {
+        "name": "German",
+        "term": "muskateller",
+        "otherTerms": "-s"
+      },
+      {
+        "name": "Hungarian",
+        "term": "muskotály",
+        "otherTerms": "desueto muskatelló"
+      }
+    ],
+    "descIta": "dry white wine made from the grape of the same name"
+  },
+  {
+    "termIta": "moscato",
+    "languages": [
+      {
+        "name": "UK English",
+        "term": "Moscatel / moscatel [vinegar]"
+      },
+      {
+        "name": "German",
+        "term": "moscado"
+      }
+    ],
+    "descIta": "white grape from Piedmont used to make sparkling white wine or liqueur"
+  },
+  {
+    "termIta": "Mostacciuolo",
+    "languages": [
+      {
+        "name": "Spanish",
+        "term": "mostachón"
+      }
+    ],
+    "descIta": "diamond shaped Christmas cake made with flour, wine, raisins, candied fruit, dried figs and almonds, covered with chocolate or icing, typical of many Italian regions"
+  },
+  {
+    "termIta": "mostarda [mustarda, bolognese]",
+    "languages": [
+      {
+        "name": "Polish",
+        "term": "musztarda"
+      },
+      {
+        "name": "Hungarian",
+        "term": "mustár"
+      }
+    ],
+    "descIta": "sauce of boiled wort with mustard, vinegar, etc.."
+  },
+  {
+    "termIta": "mozzarella",
+    "languages": [
+      {
+        "name": "US English",
+        "term": "mozzarella"
+      },
+      {
+        "name": "Arabic",
+        "term": "mutsarilla"
+      },
+      {
+        "name": "Danish",
+        "term": "mozzarella"
+      },
+      {
+        "name": "Finnish",
+        "term": "mozzarella",
+        "otherTerms": "mozzarellajuusto"
+      },
+      {
+        "name": "Japanese",
+        "term": "mottsarera"
+      },
+      {
+        "name": "UK English",
+        "term": "m. cheese"
+      },
+      {
+        "name": "Icelandic",
+        "term": "mozzarella"
+      },
+      {
+        "name": "Latvian",
+        "term": "mocarella"
+      },
+      {
+        "name": "Lithuanian",
+        "term": "mocarela"
+      },
+      {
+        "name": "Polish",
+        "term": "mozzarella"
+      },
+      {
+        "name": "Portuguese",
+        "term": "mozarela"
+      },
+      {
+        "name": "Spanish",
+        "term": "mozzarella"
+      },
+      {
+        "name": "Hungarian",
+        "term": "mozzarella"
+      }
+    ],
+    "descIta": "fresh, white, soft cheese typical of Campania, made with buffalo or cow milk"
+  },
+  {
+    "termIta": "Mussolini",
+    "languages": [
+      {
+        "name": "Hungarian",
+        "term": "muszolini"
+      }
+    ],
+    "descIta": "carbonated drink composed of red wine and orange syrup or white wine and raspberry syrup"
+  },
+  {
+    "termIta": "negroni",
+    "languages": [
+      {
+        "name": "UK English",
+        "term": "negrone"
+      }
+    ],
+    "descIta": "cocktail made with red vermouth, bitters and gin"
+  },
+  {
+    "termIta": "nespola",
+    "languages": [
+      {
+        "name": "Hungarian",
+        "term": "naspolya"
+      }
+    ],
+    "descIta": "spherical fruit of the medlar tree, with brown skin and pinkish-white flesh"
+  },
+  {
+    "termIta": "nocchio, gnocco",
+    "languages": [
+      {
+        "name": "Spanish",
+        "term": "ñoclo"
+      }
+    ],
+    "descIta": "cake made with flour, sugar, butter, eggs, wine and anise "
+  },
+  {
+    "termIta": "Nutella",
+    "languages": [
+      {
+        "name": "Hungarian",
+        "term": "nutella"
+      }
+    ],
+    "descIta": "brand name of a sweet spreadable cocoa and hazelnut cream produced by Ferrero"
+  },
+  {
+    "termIta": "orata",
+    "languages": [
+      {
+        "name": "Arabic",
+        "term": "wraaṭa"
+      }
+    ],
+    "descIta": "fish common in the Mediterranean and the Atlantic, much prized for its meat"
+  },
+  {
+    "termIta": "orecchiette",
+    "languages": [
+      {
+        "name": "UK English",
+        "term": "orecchiette"
+      }
+    ],
+    "descIta": "small, flat, concaveshaped pasta from Puglia"
+  },
+  {
+    "termIta": "origano",
+    "languages": [
+      {
+        "name": "Lithuanian",
+        "term": "oreganas",
+        "otherTerms": "oregonas"
+      },
+      {
+        "name": "Polish",
+        "term": "oregano",
+        "otherTerms": "poco usato origano"
+      },
+      {
+        "name": "German",
+        "term": "origano",
+        "otherTerms": "-s"
+      },
+      {
+        "name": "Hungarian",
+        "term": "oregano",
+        "otherTerms": "oregánó, oreganó, oregáno, origano"
+      }
+    ],
+    "descIta": "herb used, dried, in the cuisine of Mediterranean countries"
+  },
+  {
+    "termIta": "orzata",
+    "languages": [
+      {
+        "name": "Arabic",
+        "term": "rujaata"
+      },
+      {
+        "name": "Catalan",
+        "term": "orxata"
+      }
+    ],
+    "descIta": "sweet syrup originally prepared with germinated barley grains and now made with chopped almonds and sugar; | beverage made bydiluting this syrup in water"
+  },
+  {
+    "termIta": "orzo",
+    "languages": [
+      {
+        "name": "US English",
+        "term": "orzo"
+      }
+    ],
+    "descIta": "cereal similar to wheat used in brewing or as a coffee substitute and in the preparation of soups"
+  },
+  {
+    "termIta": "ossobuco",
+    "languages": [
+      {
+        "name": "Finnish",
+        "term": "osso buco"
+      },
+      {
+        "name": "French",
+        "term": "osso buco"
+      },
+      {
+        "name": "Japanese",
+        "term": "ossobūko"
+      },
+      {
+        "name": "UK English",
+        "term": "osso buco",
+        "otherTerms": "ossi buchi"
+      },
+      {
+        "name": "Portuguese",
+        "term": "ossobuco"
+      },
+      {
+        "name": "Spanish",
+        "term": "ossobuco"
+      }
+    ],
+    "descIta": "typical Milanesemeat dish made froma stewed beef or veal tibia bone flavored with chopped parsley, garlic and lemon peel"
+  },
+  {
+    "termIta": "ostrica [òstriga, triestino, friulano, giuliano; òstrega, veneziano]",
+    "languages": [
+      {
+        "name": "Polish",
+        "term": "ostryga",
+        "otherTerms": "ostrega"
+      },
+      {
+        "name": "Hungarian",
+        "term": "osztriga"
+      }
+    ],
+    "descIta": "prized marine mollusk oftrn consumed raw"
+  },
+  {
+    "termIta": "pagnotta",
+    "languages": [
+      {
+        "name": "French",
+        "term": "pagnot(t)e",
+        "desc": "soldier who abandons his duty to procure bread"
+      },
+      {
+        "name": "German",
+        "term": "pagnotto",
+        "otherTerms": "-e"
+      }
+    ],
+    "descIta": "roundish, medium-sized loaf of bread"
+  },
+  {
+    "termIta": "pan buffetto",
+    "languages": [
+      {
+        "name": "UK English",
+        "term": "pane buffetto"
+      },
+      {
+        "name": "German",
+        "term": "pamfét"
+      }
+    ],
+    "descIta": "very soft, fine bread"
+  },
+  {
+    "termIta": "panata",
+    "languages": [
+      {
+        "name": "UK English",
+        "term": "panada"
+      },
+      {
+        "name": "German",
+        "term": "panadelsuppe"
+      }
+    ],
+    "descIta": "soup made from stale bread with the seasonings and, in some regions, eggs"
+  },
+  {
+    "termIta": "panatella",
+    "languages": [
+      {
+        "name": "UK English",
+        "term": "panatel"
+      },
+      {
+        "name": "Spanish",
+        "term": "panatela"
+      },
+      {
+        "name": "German",
+        "term": "panatell"
+      }
+    ],
+    "descIta": "wide, flat biscuit"
+  },
+  {
+    "termIta": "pancetta",
+    "languages": [
+      {
+        "name": "US English",
+        "term": "pancetta"
+      },
+      {
+        "name": "UK English",
+        "term": "pancetta"
+      }
+    ],
+    "descIta": "salted, fat-streaked meat with the rind, sometimes smoked or rolled, sliced and used as as a seasoning"
+  },
+  {
+    "termIta": "pandoro",
+    "languages": [
+      {
+        "name": "Hungarian",
+        "term": "pandoro"
+      }
+    ],
+    "descIta": "light traditional cake from Verona, in the shape of a truncated cone with a star-shaped base, made with flour, butter, eggs and yeast"
+  },
+  {
+    "termIta": "panettone",
+    "languages": [
+      {
+        "name": "Japanese",
+        "term": "panettōne"
+      },
+      {
+        "name": "UK English",
+        "term": "panettons",
+        "otherTerms": "-i"
+      },
+      {
+        "name": "Icelandic",
+        "term": "panettone"
+      },
+      {
+        "name": "Polish",
+        "term": "panettone"
+      },
+      {
+        "name": "Hungarian",
+        "term": "panettone"
+      }
+    ],
+    "descIta": "traditional Milanese dome-shaped Christmas cake made with flour, butter, eggs, sugar, candied citron and raisins"
+  },
+  {
+    "termIta": "panforte",
+    "languages": [
+      {
+        "name": "UK English",
+        "term": "panfortes",
+        "otherTerms": "-i"
+      }
+    ],
+    "descIta": "Sweet, flat cake from Siena eaten especially at Christmas time, made with flour, sugar or honey, spices, candied fruit, almonds and hazelnuts"
+  },
+  {
+    "termIta": "pangrattato",
+    "languages": [
+      {
+        "name": "UK English",
+        "term": "pangrattato"
+      }
+    ],
+    "descIta": "breadcrumbs used to bread, on casseroles, etc."
+  },
+  {
+    "termIta": "panino",
+    "languages": [
+      {
+        "name": "Finnish",
+        "term": "paniini",
+        "otherTerms": "panini"
+      },
+      {
+        "name": "Japanese",
+        "term": "panīni"
+      },
+      {
+        "name": "UK English",
+        "term": "panini (sing.)",
+        "otherTerms": "paninis, -i"
+      },
+      {
+        "name": "Polish",
+        "term": "panini"
+      }
+    ],
+    "descIta": "small loaf of bread cut horizontally and stuffed with different ingredients"
+  },
+  {
+    "termIta": "panna cotta",
+    "languages": [
+      {
+        "name": "US English",
+        "term": "panna cotta"
+      },
+      {
+        "name": "Finnish",
+        "term": "pannacotta"
+      },
+      {
+        "name": "Japanese",
+        "term": "panna・kotta"
+      },
+      {
+        "name": "Polish",
+        "term": "panna cotta"
+      }
+    ],
+    "descIta": "pudding made with cream and sugar, typical of Piedmont and some areas of Liguria"
+  },
+  {
+    "termIta": "pantesca",
+    "languages": [
+      {
+        "name": "US English",
+        "term": "Pantescan"
+      }
+    ],
+    "descIta": "cooked with garlic, tomato, pepper and eggplant"
+  },
+  {
+    "termIta": "panzanella",
+    "languages": [
+      {
+        "name": "Polish",
+        "term": "panzanella"
+      }
+    ],
+    "descIta": "dish made of stale bread topped with tomato, oil, vinegar, salt and herbs, typical of Tuscany and central-southern Italy"
+  },
+  {
+    "termIta": "pappa al pomodoro",
+    "languages": [
+      {
+        "name": "UK English",
+        "term": "pappa al pomodoro"
+      }
+    ],
+    "descIta": "Tuscan specialty made from stale bread cooked in water, with tomatoes, garlic, rosemary and bay leaves"
+  },
+  {
+    "termIta": "Parmigiano Reggiano",
+    "languages": [
+      {
+        "name": "US English",
+        "term": "Parmesan"
+      },
+      {
+        "name": "US English",
+        "term": "Parmigiano-Reggiano cheese / parmigiano-reggiano cheese"
+      },
+      {
+        "name": "Arabic",
+        "term": "barmigaan",
+        "otherTerms": "barmijaan"
+      },
+      {
+        "name": "Czech",
+        "term": "parmazán",
+        "otherTerms": "parmezán"
+      },
+      {
+        "name": "Chinese",
+        "term": "Pàěrmǎ gānlào"
+      },
+      {
+        "name": "Danish",
+        "term": "parmesan",
+        "otherTerms": "parmesanost"
+      },
+      {
+        "name": "Faroese",
+        "term": "parmaostur"
+      },
+      {
+        "name": "Finnish",
+        "term": "parmesaani",
+        "otherTerms": "parmesaanijuusto, parmanjuusto"
+      },
+      {
+        "name": "French",
+        "term": "parmesan",
+        "otherTerms": "fromage permigean/parmisan/parmesin"
+      },
+      {
+        "name": "Japanese",
+        "term": "parumezan"
+      },
+      {
+        "name": "UK English",
+        "term": "Parmesan / parmesan"
+      },
+      {
+        "name": "Lithuanian",
+        "term": "parmidžanas"
+      },
+      {
+        "name": "Polish",
+        "term": "parmezan"
+      },
+      {
+        "name": "Portuguese",
+        "term": "parmesão"
+      },
+      {
+        "name": "German",
+        "term": "parmesan (< fr.)"
+      },
+      {
+        "name": "Hungarian",
+        "term": "parmezán"
+      }
+    ],
+    "descIta": "hard cooked cow's milk cheese, aged twenty to twenty-four months, especially produced in Parma and Reggio Emilia"
+  },
+  {
+    "termIta": "pasqualina (torta)",
+    "languages": [
+      {
+        "name": "US English",
+        "term": "Pasqualina"
+      }
+    ],
+    "descIta": "Genovese savory pie traditionally prepared at Easter, with a puff pastry crust filled with chard, ricotta and whole eggs"
+  },
+  {
+    "termIta": "pasta frolla",
+    "languages": [
+      {
+        "name": "Spanish",
+        "term": "pastaflora"
+      }
+    ],
+    "descIta": "pastry dough made of flour, butter, sugar and egg yolks, used for cakes, cookies or pastries"
+  },
+  {
+    "termIta": "pasta, pastasciutta",
+    "languages": [
+      {
+        "name": "US English",
+        "term": "pasta"
+      },
+      {
+        "name": "Arabic",
+        "term": "basta"
+      },
+      {
+        "name": "Catalan",
+        "term": "pasta"
+      },
+      {
+        "name": "Czech",
+        "term": "pasta"
+      },
+      {
+        "name": "Korean",
+        "term": "p'asŭt'a"
+      },
+      {
+        "name": "Danish",
+        "term": "pasta"
+      },
+      {
+        "name": "Estonian",
+        "term": "pasta"
+      },
+      {
+        "name": "Faroese",
+        "term": "pasta"
+      },
+      {
+        "name": "Finnish",
+        "term": "pasta"
+      },
+      {
+        "name": "Japanese",
+        "term": "pasuta"
+      },
+      {
+        "name": "UK English",
+        "term": "pasta"
+      },
+      {
+        "name": "Icelandic",
+        "term": "pasta"
+      },
+      {
+        "name": "Latvian",
+        "term": "pasta"
+      },
+      {
+        "name": "Lithuanian",
+        "term": "pasta"
+      },
+      {
+        "name": "Polish",
+        "term": "pastasciutta"
+      },
+      {
+        "name": "Polish",
+        "term": "paszta",
+        "otherTerms": "pasta"
+      },
+      {
+        "name": "German",
+        "term": "paste",
+        "otherTerms": "pl. pasten"
+      },
+      {
+        "name": "German",
+        "term": "pl. paste asciutte"
+      },
+      {
+        "name": "Hungarian",
+        "term": "pasta"
+      },
+      {
+        "name": "Hungarian",
+        "term": "pastasciutta"
+      }
+    ],
+    "descIta": "durum wheat pasta boiled drained and served with sauces"
+  },
+  {
+    "termIta": "pastella [pastetta napoletano]",
+    "languages": [
+      {
+        "name": "Polish",
+        "term": "pasztet"
+      }
+    ],
+    "descIta": "semi-liquid mixture of water, flour and other ingredients used to prepare fritters or fried vegetables"
+  },
+  {
+    "termIta": "pasticcio",
+    "languages": [
+      {
+        "name": "Catalan",
+        "term": "pastitxo"
+      },
+      {
+        "name": "Czech",
+        "term": "paštet"
+      },
+      {
+        "name": "Polish",
+        "term": "pasticcio",
+        "otherTerms": "pastisio, pasticio"
+      }
+    ],
+    "descIta": "dish with meat, fish, vegetables, cooked and seasoned in various ways, enclosed in dough and baked in the oven"
+  },
+  {
+    "termIta": "pastiglia",
+    "languages": [
+      {
+        "name": "Arabic",
+        "term": "bastilya"
+      }
+    ],
+    "descIta": "compressed sugar and flavorings"
+  },
+  {
+    "termIta": "patata",
+    "languages": [
+      {
+        "name": "Arabic",
+        "term": "bṭaaṭa"
+      }
+    ],
+    "descIta": "starchy, roundish tuber"
+  },
+  {
+    "termIta": "pecorino",
+    "languages": [
+      {
+        "name": "US English",
+        "term": "pecorino"
+      },
+      {
+        "name": "UK English",
+        "term": "pecorino"
+      },
+      {
+        "name": "Polish",
+        "term": "pecorino"
+      }
+    ],
+    "descIta": "hard cheese, sweet or spicy, made with whole sheep's milk "
+  },
+  {
+    "termIta": "penne",
+    "languages": [
+      {
+        "name": "US English",
+        "term": "penne"
+      },
+      {
+        "name": "Japanese",
+        "term": "penne"
+      },
+      {
+        "name": "UK English",
+        "term": "penne"
+      },
+      {
+        "name": "Icelandic",
+        "term": "penne"
+      },
+      {
+        "name": "Polish",
+        "term": "penne"
+      },
+      {
+        "name": "Hungarian",
+        "term": "penne"
+      }
+    ],
+    "descIta": "short smooth or ribbed pasta, like a tube cut obliquely"
+  },
+  {
+    "termIta": "pepato (formaggio)",
+    "languages": [
+      {
+        "name": "US English",
+        "term": "pepato"
+      }
+    ],
+    "descIta": "sheep's milk cheese mixed black pepper from Sicily"
+  },
+  {
+    "termIta": "peperonata",
+    "languages": [
+      {
+        "name": "Lithuanian",
+        "term": "peperonata"
+      },
+      {
+        "name": "Polish",
+        "term": "peperonata"
+      }
+    ],
+    "descIta": "dish with tomato, peppers and onions cut into small pieces"
+  },
+  {
+    "termIta": "peperoncino",
+    "languages": [
+      {
+        "name": "Japanese",
+        "term": "peperonchīno",
+        "desc": "spaghetti with hot pepper"
+      }
+    ],
+    "descIta": "Small very spicy pepper used to flavor dishes"
+  },
+  {
+    "termIta": "peperone",
+    "languages": [
+      {
+        "name": "Finnish",
+        "term": "pepperoni",
+        "otherTerms": "peperoni",
+        "desc": "salami with hot pepper"
+      },
+      {
+        "name": "UK English",
+        "term": "pep(p)eroni",
+        "otherTerms": "-s",
+        "desc": "stuffed sausage"
+      },
+      {
+        "name": "Latvian",
+        "term": "peperoni"
+      },
+      {
+        "name": "German",
+        "term": "pfefferone",
+        "otherTerms": "pl., -n, -s"
+      },
+      {
+        "name": "Hungarian",
+        "term": "pepperoni",
+        "otherTerms": "pepperóni, peperoni, dial. feferóni",
+        "desc": "spicy pork or beef sausage"
+      }
+    ],
+    "descIta": "green, red or yellow, sweet or spicy vegetable"
+  },
+  {
+    "termIta": "pesto",
+    "languages": [
+      {
+        "name": "US English",
+        "term": "pesto"
+      },
+      {
+        "name": "Finnish",
+        "term": "pesto",
+        "otherTerms": "pestokastike"
+      },
+      {
+        "name": "UK English",
+        "term": "pesto"
+      },
+      {
+        "name": "Icelandic",
+        "term": "pestó",
+        "otherTerms": "pesto"
+      },
+      {
+        "name": "Polish",
+        "term": "pesto"
+      },
+      {
+        "name": "Hungarian",
+        "term": "pesto"
+      }
+    ],
+    "descIta": "Genoese sauce made with oil, basil, garlic, pine nuts and pecorino or Parmesan cheese used to flavor pasta and soups"
+  },
+  {
+    "termIta": "petto di monaca",
+    "languages": [
+      {
+        "name": "Catalan",
+        "term": "pet de monja"
+      }
+    ],
+    "descIta": " round, thin sweet for children, made of flour, eggs and sugar"
+  },
+  {
+    "termIta": "picante",
+    "languages": [
+      {
+        "name": "UK English",
+        "term": "piccant"
+      }
+    ],
+    "descIta": "tangy, pungent food, which causes a slight burning sensation to the tongue and the palate"
+  },
+  {
+    "termIta": "piccata",
+    "languages": [
+      {
+        "name": "Japanese",
+        "term": "pikata"
+      }
+    ],
+    "descIta": "slice of veal sautéed with butter and seasoned with lemon juice and chopped parsley"
+  },
+  {
+    "termIta": "pinolo, pignolo",
+    "languages": [
+      {
+        "name": "Czech",
+        "term": "pignol",
+        "otherTerms": "piniola, pinelka, piňolka, plur. pignoli,"
+      },
+      {
+        "name": "Polish",
+        "term": "piniole"
+      }
+    ],
+    "descIta": "edible seed of pine tree, contained between the scales of the pine cone, used in cookingand baking or to enrich sauces and dishes"
+  },
+  {
+    "termIta": "pinza [veneto, emiliano]",
+    "languages": [
+      {
+        "name": "Latvian",
+        "term": "pinca"
+      }
+    ],
+    "descIta": "leavened Easter cake with a cross stamped on the surface"
+  },
+  {
+    "termIta": "pisello",
+    "languages": [
+      {
+        "name": "Arabic",
+        "term": "bisilla"
+      }
+    ],
+    "descIta": "light green, bullet-shaped seed "
+  },
+  {
+    "termIta": "pistacchio",
+    "languages": [
+      {
+        "name": "US English",
+        "term": "pistachio"
+      },
+      {
+        "name": "Catalan",
+        "term": "pistatxo"
+      },
+      {
+        "name": "Estonian",
+        "term": "pistaatsia"
+      },
+      {
+        "name": "Finnish",
+        "term": "pistaasi"
+      },
+      {
+        "name": "French",
+        "term": "pistache",
+        "desc": "colloquial drunkenness"
+      },
+      {
+        "name": "UK English",
+        "term": "pistache",
+        "otherTerms": "pista(ch)io, pl. -s, -es, -a"
+      },
+      {
+        "name": "Latvian",
+        "term": "pistācija"
+      },
+      {
+        "name": "Spanish",
+        "term": "pistacho"
+      }
+    ],
+    "descIta": "green seed used in confectionary to make ice-cream and many dishes; Its oil is used for jams"
+  },
+  {
+    "termIta": "pizza",
+    "languages": [
+      {
+        "name": "US English",
+        "term": "pizza"
+      },
+      {
+        "name": "Catalan",
+        "term": "pizza"
+      },
+      {
+        "name": "Czech",
+        "term": "pizza"
+      },
+      {
+        "name": "Chinese",
+        "term": "bǐsābǐng"
+      },
+      {
+        "name": "Korean",
+        "term": "p'ija",
+        "desc": "Italian dish baked with sausage, cheese, tomato, meat and other ingredients"
+      },
+      {
+        "name": "Danish",
+        "term": "pizza"
+      },
+      {
+        "name": "Estonian",
+        "term": "pitsa"
+      },
+      {
+        "name": "Faroese",
+        "term": "pitsa"
+      },
+      {
+        "name": "Finnish",
+        "term": "pitsa",
+        "otherTerms": "pizza"
+      },
+      {
+        "name": "Japanese",
+        "term": "pittsa"
+      },
+      {
+        "name": "UK English",
+        "term": "pizza",
+        "otherTerms": "pizzas, pizze"
+      },
+      {
+        "name": "Icelandic",
+        "term": "pizza",
+        "otherTerms": "pitsa (pl. pizzur, pitsur)"
+      },
+      {
+        "name": "Latvian",
+        "term": "pica"
+      },
+      {
+        "name": "Lithuanian",
+        "term": "pica"
+      },
+      {
+        "name": "Polish",
+        "term": "pizza"
+      },
+      {
+        "name": "Portuguese",
+        "term": "piza"
+      },
+      {
+        "name": "Spanish",
+        "term": "pizza"
+      },
+      {
+        "name": "German",
+        "term": "pizzas",
+        "otherTerms": "pizzen"
+      },
+      {
+        "name": "Hungarian",
+        "term": "pizza"
+      }
+    ],
+    "descIta": "focaccia seasoned with olive oil, tomato sauce, mozzarella cheese or other ingredients, baked in the oven"
+  },
+  {
+    "termIta": "polenta",
+    "languages": [
+      {
+        "name": "US English",
+        "term": "polenta"
+      },
+      {
+        "name": "Czech",
+        "term": "polenta"
+      },
+      {
+        "name": "Korean",
+        "term": "p'ollent'a"
+      },
+      {
+        "name": "Finnish",
+        "term": "polenta"
+      },
+      {
+        "name": "French",
+        "term": "polentas"
+      },
+      {
+        "name": "Japanese",
+        "term": "porenta"
+      },
+      {
+        "name": "UK English",
+        "term": "polenta"
+      },
+      {
+        "name": "Lithuanian",
+        "term": "polenta"
+      },
+      {
+        "name": "Polish",
+        "term": "polenta"
+      },
+      {
+        "name": "German",
+        "term": "pl. polenten",
+        "otherTerms": "-s"
+      },
+      {
+        "name": "Hungarian",
+        "term": "polenta"
+      }
+    ],
+    "descIta": "dish from the northeastern regions of Italy, maize flour cooked in salted water and seasoned"
+  },
+  {
+    "termIta": "pollo",
+    "languages": [
+      {
+        "name": "UK English",
+        "term": "pollo"
+      }
+    ],
+    "descIta": "young rooster or hen"
+  },
+  {
+    "termIta": "pollo alla marengo",
+    "languages": [
+      {
+        "name": "French",
+        "term": "poulet à la M.",
+        "otherTerms": "marengos (pl.)"
+      }
+    ],
+    "descIta": "typical Piedmontese dish of chicken cooked with mushrooms, shrimp and wine"
+  },
+  {
+    "termIta": "polpetta",
+    "languages": [
+      {
+        "name": "Czech",
+        "term": "polpeta"
+      },
+      {
+        "name": "Polish",
+        "term": "pulpet",
+        "desc": "joking \"fat, used by children\""
+      },
+      {
+        "name": "Hungarian",
+        "term": "polpetti",
+        "desc": "cutlets stuffed with ham and cheese, with a side of macaroni"
+      }
+    ],
+    "descIta": "small ball of minced meat, seasoned with spices and other ingredients, cooked in a pan or breaded and fried"
+  },
+  {
+    "termIta": "pomarancio, pomarancia",
+    "languages": [
+      {
+        "name": "Czech",
+        "term": "pomeranč"
+      },
+      {
+        "name": "Finnish",
+        "term": "pomeranssi"
+      },
+      {
+        "name": "Polish",
+        "term": "disusato pomarańcza; dial. pomorańcza",
+        "otherTerms": "pomarańca, pomarańcia"
+      }
+    ],
+    "descIta": "fruit of the orange tree"
+  },
+  {
+    "termIta": "pomodoro",
+    "languages": [
+      {
+        "name": "Arabic",
+        "term": "banaduura",
+        "otherTerms": "banduura"
+      },
+      {
+        "name": "Lithuanian",
+        "term": "pomidoras"
+      },
+      {
+        "name": "Polish",
+        "term": "pomidor"
+      }
+    ],
+    "descIta": "round or elongated vegetable with red skin and juicy flesh, consumed as raw or cooked, used for making jams and sauces"
+  },
+  {
+    "termIta": "pomodoro Roma",
+    "languages": [
+      {
+        "name": "US English",
+        "term": "Roma [tomatoes]"
+      }
+    ],
+    "descIta": "small tomato suitable for juices, preserves and bottling"
+  },
+  {
+    "termIta": "porchetta",
+    "languages": [
+      {
+        "name": "US English",
+        "term": "porchetta"
+      }
+    ],
+    "descIta": "boned suckling or adult pig, emptied and coke on a spit or in the oven, seasoned with salt, pepper, rosemary, garlic and other seasonings"
+  },
+  {
+    "termIta": "porcini",
+    "languages": [
+      {
+        "name": "US English",
+        "term": "porcini"
+      },
+      {
+        "name": "Japanese",
+        "term": "poruchīni"
+      },
+      {
+        "name": "UK English",
+        "term": "porcini"
+      }
+    ],
+    "descIta": "prized mushrooms with a large white stem and white meat with a pleasing fragrance and taste"
+  },
+  {
+    "termIta": "porro, poro",
+    "languages": [
+      {
+        "name": "Polish",
+        "term": "por"
+      }
+    ],
+    "descIta": "onion-like vegetable, with a white bulb and tubular, light green leaves "
+  },
+  {
+    "termIta": "pospasto",
+    "languages": [
+      {
+        "name": "Czech",
+        "term": "pospas"
+      }
+    ],
+    "descIta": "course served at the end of ameal, a dinner"
+  },
+  {
+    "termIta": "potaggio [ven. potacio]",
+    "languages": [
+      {
+        "name": "Polish",
+        "term": "potaź"
+      }
+    ],
+    "descIta": "meat stew; dipping sauce"
+  },
+  {
+    "termIta": "prezzemolo [petrosino, petrusello, petrosello meridion.]",
+    "languages": [
+      {
+        "name": "Polish",
+        "term": "pietruszka; reg. e disusato piotrużka",
+        "otherTerms": "piotruszka"
+      }
+    ],
+    "descIta": "herb widely used in cooking to flavor foods and as an ingredient in many condiments and sauces"
+  },
+  {
+    "termIta": "prosciutto",
+    "languages": [
+      {
+        "name": "US English",
+        "term": "prosciutto"
+      },
+      {
+        "name": "UK English",
+        "term": "prosciutto ham"
+      },
+      {
+        "name": "Polish",
+        "term": "prosciutto"
+      }
+    ],
+    "descIta": "raw or cooked rear pork leg preserved whole, consumed usually in thin slices or small cubes used in the preparation of some dishes"
+  },
+  {
+    "termIta": "prosciutto di Parma",
+    "languages": [
+      {
+        "name": "Finnish",
+        "term": "parmankinkku",
+        "otherTerms": "Parman kinkku"
+      },
+      {
+        "name": "UK English",
+        "term": "Parma ham"
+      }
+    ],
+    "descIta": "variety of raw ham typical of Parma"
+  },
+  {
+    "termIta": "prosecco",
+    "languages": [
+      {
+        "name": "German",
+        "term": "pl. proseccos"
+      },
+      {
+        "name": "Hungarian",
+        "term": "prosecco"
+      }
+    ],
+    "descIta": "Venetian white grape vine used to produce aromatic white wine and dry or sweet sparkling wine "
+  },
+  {
+    "termIta": "provolone",
+    "languages": [
+      {
+        "name": "UK English",
+        "term": "provolone cheese"
+      },
+      {
+        "name": "Polish",
+        "term": "provolone"
+      }
+    ],
+    "descIta": "spherical or oblong, sweet or spicy hard cow's milk cheese, typical of southern Italy"
+  },
+  {
+    "termIta": "pugliese",
+    "languages": [
+      {
+        "name": "UK English",
+        "term": "Pugliese"
+      }
+    ],
+    "descIta": "large, round loaf of bread consumed in slices"
+  },
+  {
+    "termIta": "rabarbaro",
+    "languages": [
+      {
+        "name": "Hungarian",
+        "term": "rebarbara"
+      }
+    ],
+    "descIta": "perennial herb with large leaves and small greenish flowers"
+  },
+  {
+    "termIta": "radicchio",
+    "languages": [
+      {
+        "name": "US English",
+        "term": "radicchio"
+      },
+      {
+        "name": "UK English",
+        "term": "pl. radicchios"
+      },
+      {
+        "name": "German",
+        "term": "pl. radicchi"
+      }
+    ],
+    "descIta": "edible bitter herb eaten raw in salads or cooked in various ways"
+  },
+  {
+    "termIta": "ragù",
+    "languages": [
+      {
+        "name": "Japanese",
+        "term": "ragū"
+      },
+      {
+        "name": "UK English",
+        "term": "ragu"
+      }
+    ],
+    "descIta": "sauce for pasta or casseroles with whole or chopped meat, tomato, onion, spices, etc. which vary from region to region"
+  },
+  {
+    "termIta": "ramolaccio, ravanello",
+    "languages": [
+      {
+        "name": "Catalan",
+        "term": "remolatxa"
+      }
+    ],
+    "descIta": "round edible root, usually red with white flesh with a slightly spicy taste, eaten raw in salads or as a side dish"
+  },
+  {
+    "termIta": "raponzo, raperonzolo, raponzolo [rapónz, mantovano; desueto raponzo, pistoiese]",
+    "languages": [
+      {
+        "name": "Catalan",
+        "term": "repunxó"
+      }
+    ],
+    "descIta": "biennial herb with fleshy, edible carrot-shaped roots, commonly found in Mediterranean meadows and forests."
+  },
+  {
+    "termIta": "ravioli",
+    "languages": [
+      {
+        "name": "US English",
+        "term": "ravioli"
+      },
+      {
+        "name": "Catalan",
+        "term": "rubiol",
+        "otherTerms": "robiol, ravioli"
+      },
+      {
+        "name": "Czech",
+        "term": "raviola",
+        "otherTerms": "ravioly"
+      },
+      {
+        "name": "Korean",
+        "term": "rabiolli"
+      },
+      {
+        "name": "Estonian",
+        "term": "raviool"
+      },
+      {
+        "name": "Finnish",
+        "term": "ravioli"
+      },
+      {
+        "name": "French",
+        "term": "ravioli(s)",
+        "otherTerms": "raviolle",
+        "desc": "dish with turnips and meat"
+      },
+      {
+        "name": "Japanese",
+        "term": "rabiori"
+      },
+      {
+        "name": "UK English",
+        "term": "rafiol",
+        "otherTerms": "raviol"
+      },
+      {
+        "name": "Latvian",
+        "term": "ravioli"
+      },
+      {
+        "name": "Lithuanian",
+        "term": "ravioliai"
+      },
+      {
+        "name": "Polish",
+        "term": "ravioli"
+      },
+      {
+        "name": "Portuguese",
+        "term": "ravióis"
+      },
+      {
+        "name": "Spanish",
+        "term": "ravioli"
+      },
+      {
+        "name": "Hungarian",
+        "term": "ravioli"
+      }
+    ],
+    "descIta": "fresh pasta stuffed with roasted or boiled meat and minced vegetables or ricotta and vegetables"
+  },
+  {
+    "termIta": "refosco",
+    "languages": [
+      {
+        "name": "Hungarian",
+        "term": "refosˇk",
+        "otherTerms": "refosk"
+      }
+    ],
+    "descIta": "dry red wine with an intense flavor made from Refosco grapes which are bluish-black and spherical and grow in large bunches, cultivated in Friuli, Venezia Giulia and Istria."
+  },
+  {
+    "termIta": "ribollita",
+    "languages": [
+      {
+        "name": "UK English",
+        "term": "ribollita"
+      }
+    ],
+    "descIta": "Tuscan specialty. This soup is made of beans, cabbage and bread, cooked, cooled and then reheated,  It is served topped with raw olive oil"
+  },
+  {
+    "termIta": "ricotta",
+    "languages": [
+      {
+        "name": "US English",
+        "term": "ricotta"
+      },
+      {
+        "name": "Arabic",
+        "term": "rikutta"
+      },
+      {
+        "name": "Finnish",
+        "term": "ricotta"
+      },
+      {
+        "name": "Japanese",
+        "term": "rikotta・chīzu"
+      },
+      {
+        "name": "UK English",
+        "term": "ricoct",
+        "otherTerms": "ricotta cheese"
+      },
+      {
+        "name": "Lithuanian",
+        "term": "rikota",
+        "otherTerms": "ricotta"
+      },
+      {
+        "name": "Polish",
+        "term": "ricotta"
+      },
+      {
+        "name": "German",
+        "term": "rikotta"
+      },
+      {
+        "name": "Hungarian",
+        "term": "ricotta"
+      }
+    ],
+    "descIta": "soft dairy product, obtained by boiling the whey left over from the cheese making process"
+  },
+  {
+    "termIta": "rigata",
+    "languages": [
+      {
+        "name": "US English",
+        "term": "rigata"
+      }
+    ],
+    "descIta": "short pasta with fluted sides"
+  },
+  {
+    "termIta": "rigatoni",
+    "languages": [
+      {
+        "name": "UK English",
+        "term": "rigatoni (anche sing.)"
+      }
+    ],
+    "descIta": "short cylindrical pasta with fluted sides"
+  },
+  {
+    "termIta": "risi e bisi [veneziano]",
+    "languages": [
+      {
+        "name": "UK English",
+        "term": "risi [e bisi]"
+      },
+      {
+        "name": "Hungarian",
+        "term": "rizibizi"
+      }
+    ],
+    "descIta": "typical Venetian dish made with rice and peas"
+  },
+  {
+    "termIta": "riso",
+    "languages": [
+      {
+        "name": "US English",
+        "term": "rice"
+      },
+      {
+        "name": "UK English",
+        "term": "rice"
+      },
+      {
+        "name": "Icelandic",
+        "term": "hrís",
+        "otherTerms": "hrísgrjón, rís"
+      },
+      {
+        "name": "Polish",
+        "term": "ryż"
+      },
+      {
+        "name": "Hungarian",
+        "term": "rizs",
+        "otherTerms": "pop. Rizsa"
+      }
+    ],
+    "descIta": "herbaceous plant found all over the world of Asian origin,  grown in soil covered with  water. It is one of the staples of  human consumption"
+  },
+  {
+    "termIta": "risotto",
+    "languages": [
+      {
+        "name": "Arabic",
+        "term": "rizuttu"
+      },
+      {
+        "name": "Czech",
+        "term": "rizoto"
+      },
+      {
+        "name": "Chinese",
+        "term": "Yìshì tiáowèifàn"
+      },
+      {
+        "name": "Danish",
+        "term": "risotto"
+      },
+      {
+        "name": "Finnish",
+        "term": "risotto"
+      },
+      {
+        "name": "Japanese",
+        "term": "rizotto"
+      },
+      {
+        "name": "UK English",
+        "term": "risottos"
+      },
+      {
+        "name": "Icelandic",
+        "term": "risotto"
+      },
+      {
+        "name": "Lithuanian",
+        "term": "rizotas"
+      },
+      {
+        "name": "Polish",
+        "term": "risotto"
+      },
+      {
+        "name": "German",
+        "term": "risotto(s)"
+      },
+      {
+        "name": "Hungarian",
+        "term": "rizottó"
+      }
+    ],
+    "descIta": "first course prepared with rice and various ingredients and spices, cooked by adding water, stock or wine to obtain a more or less dense, creamy texture"
+  },
+  {
+    "termIta": "robiola",
+    "languages": [
+      {
+        "name": "US English",
+        "term": "robiola"
+      }
+    ],
+    "descIta": "soft, slightly seasoned cheese, square or round, typical of Piedmont and Lombardy, produced with whole milk from cows"
+  },
+  {
+    "termIta": "romanesco",
+    "languages": [
+      {
+        "name": "US English",
+        "term": "romanesco"
+      }
+    ],
+    "descIta": "vegetable alternative to cauliflower"
+  },
+  {
+    "termIta": "romano",
+    "languages": [
+      {
+        "name": "US English",
+        "term": "Romano / romano"
+      },
+      {
+        "name": "UK English",
+        "term": "romano"
+      }
+    ],
+    "descIta": "hard, savory, typically Italian cheese"
+  },
+  {
+    "termIta": "rosmarino",
+    "languages": [
+      {
+        "name": "Hungarian",
+        "term": "rozmaring"
+      }
+    ],
+    "descIta": "evergreen shrub whose needle-shaped leaves are used in cooking to add flavor"
+  },
+  {
+    "termIta": "rosolio",
+    "languages": [
+      {
+        "name": "Czech",
+        "term": "rosolka"
+      },
+      {
+        "name": "French",
+        "term": "rossoli(s)",
+        "otherTerms": "ros(s)olio, roso(g)lio"
+      },
+      {
+        "name": "UK English",
+        "term": "rosoglio"
+      },
+      {
+        "name": "Polish",
+        "term": "dial. rozolka",
+        "otherTerms": "rosolka"
+      }
+    ],
+    "descIta": "sweet, slightly alcoholic liqueur made by combining one or more aromatic essences soaked and distilled in a solution of  alcohol, water and sugar, in varying ratios"
+  },
+  {
+    "termIta": "ruchetta [rucola it. sett.]",
+    "languages": [
+      {
+        "name": "US English",
+        "term": "arugula"
+      },
+      {
+        "name": "Finnish",
+        "term": "rucola",
+        "otherTerms": "rukola"
+      },
+      {
+        "name": "Japanese",
+        "term": "rukkora"
+      },
+      {
+        "name": "UK English",
+        "term": "rachetta"
+      },
+      {
+        "name": "UK English",
+        "term": "rocket"
+      },
+      {
+        "name": "Icelandic",
+        "term": "rucola",
+        "otherTerms": "ruccola"
+      },
+      {
+        "name": "Lithuanian",
+        "term": "rukola",
+        "otherTerms": "rucola"
+      },
+      {
+        "name": "Polish",
+        "term": "rucola",
+        "otherTerms": "rukola, ruccola"
+      },
+      {
+        "name": "German",
+        "term": "rukola"
+      },
+      {
+        "name": "Hungarian",
+        "term": "ruccola",
+        "otherTerms": "rukkola, rucola"
+      }
+    ],
+    "descIta": "slightly spicy annual herb that grows wild in the Mediterranean region used mainly to add flavor to salads"
+  },
+  {
+    "termIta": "ruta",
+    "languages": [
+      {
+        "name": "Hungarian",
+        "term": "ruta"
+      }
+    ],
+    "descIta": "name commonly given to plants of the genus Ruta, known for their unpleasant odor"
+  },
+  {
+    "termIta": "salame",
+    "languages": [
+      {
+        "name": "Arabic",
+        "term": "salaama"
+      },
+      {
+        "name": "Czech",
+        "term": "salám"
+      },
+      {
+        "name": "Korean",
+        "term": "sallami"
+      },
+      {
+        "name": "Estonian",
+        "term": "salaami"
+      },
+      {
+        "name": "Finnish",
+        "term": "salami"
+      },
+      {
+        "name": "French",
+        "term": "salami",
+        "otherTerms": "pl. salamis"
+      },
+      {
+        "name": "Japanese",
+        "term": "sarami"
+      },
+      {
+        "name": "UK English",
+        "term": "salami",
+        "otherTerms": "pl. salames, -is"
+      },
+      {
+        "name": "Latvian",
+        "term": "salami"
+      },
+      {
+        "name": "Polish",
+        "term": "salami"
+      },
+      {
+        "name": "Portuguese",
+        "term": "salame"
+      },
+      {
+        "name": "Spanish",
+        "term": "salami"
+      },
+      {
+        "name": "German",
+        "term": "salami",
+        "otherTerms": "pl. salamis"
+      },
+      {
+        "name": "Hungarian",
+        "term": "szalámi"
+      }
+    ],
+    "descIta": "elongated sausage made ​​with  chopped, salted lean meat, especially pork, mixed with fat, pepper and spices and stuffed into pork entrails.  It is served sliced​​, after an appropriate seasoning period."
+  },
+  {
+    "termIta": "salsa",
+    "languages": [
+      {
+        "name": "Arabic",
+        "term": "ṣalṣa"
+      },
+      {
+        "name": "Finnish",
+        "term": "salsa"
+      }
+    ],
+    "descIta": "dressing which can vary in density and creaminess, made of different ingredients used to enhance raw or cooked foods and improve the taste"
+  },
+  {
+    "termIta": "salsiccia, salciccia",
+    "languages": [
+      {
+        "name": "Catalan",
+        "term": "salsitxa"
+      },
+      {
+        "name": "Portuguese",
+        "term": "salsicha"
+      },
+      {
+        "name": "Spanish",
+        "term": "salchicha"
+      },
+      {
+        "name": "German",
+        "term": "salsicie",
+        "otherTerms": "saltzits"
+      }
+    ],
+    "descIta": "meat, often pork, minced with salt and herbs and stuffed into long, thin casings, sometimes tied in small bunches, usually consumed after being cooked"
+  },
+  {
+    "termIta": "salsiccione",
+    "languages": [
+      {
+        "name": "French",
+        "term": "saucisson",
+        "desc": "cylindrical load of firewood"
+      },
+      {
+        "name": "Polish",
+        "term": "salceson"
+      },
+      {
+        "name": "German",
+        "term": "saltzisoni",
+        "otherTerms": "salczysony, salzizoni"
+      }
+    ],
+    "descIta": "type of large Lombard salami made with finely chopped ingredients"
+  },
+  {
+    "termIta": "saltimbocca alla romana",
+    "languages": [
+      {
+        "name": "US English",
+        "term": "saltimbocca"
+      },
+      {
+        "name": "UK English",
+        "term": "saltimbocca (alla) romana"
+      },
+      {
+        "name": "Portuguese",
+        "term": "saltimbocca"
+      }
+    ],
+    "descIta": "Roman specialty consisting of a floured andsauteed veal scallop topped with prosciutto and sage. Sometimes it is rolled up"
+  },
+  {
+    "termIta": "sambuca",
+    "languages": [
+      {
+        "name": "UK English",
+        "term": "pl. sambuccas"
+      },
+      {
+        "name": "German",
+        "term": "pl. sambucas"
+      }
+    ],
+    "descIta": "similar to aniseed liqueur, flavored with elderberries, from northern Lazio and Campania"
+  },
+  {
+    "termIta": "sardina, sardella",
+    "languages": [
+      {
+        "name": "Arabic",
+        "term": "sardiin"
+      },
+      {
+        "name": "Arabic",
+        "term": "sardilla"
+      },
+      {
+        "name": "Catalan",
+        "term": "sardella"
+      },
+      {
+        "name": "Czech",
+        "term": "sardel"
+      },
+      {
+        "name": "Czech",
+        "term": "sardinka"
+      },
+      {
+        "name": "Estonian",
+        "term": "sardiin"
+      },
+      {
+        "name": "Finnish",
+        "term": "sardelli"
+      },
+      {
+        "name": "Finnish",
+        "term": "sardiini"
+      },
+      {
+        "name": "French",
+        "term": "sardelle"
+      },
+      {
+        "name": "Gaelic",
+        "term": "sairdín"
+      },
+      {
+        "name": "UK English",
+        "term": "sardelle",
+        "desc": "combing hair to the side to hide baldness"
+      },
+      {
+        "name": "Latvian",
+        "term": "sardīne"
+      },
+      {
+        "name": "Lithuanian",
+        "term": "sardinė"
+      },
+      {
+        "name": "Polish",
+        "term": "sardela"
+      },
+      {
+        "name": "Polish",
+        "term": "sardynka"
+      },
+      {
+        "name": "German",
+        "term": "sardelle"
+      },
+      {
+        "name": "German",
+        "term": "sardine",
+        "otherTerms": "sardien"
+      },
+      {
+        "name": "Hungarian",
+        "term": "szardella"
+      },
+      {
+        "name": "Hungarian",
+        "term": "szardínia"
+      }
+    ],
+    "descIta": "small, silver-blue, flat sea fish which is eaten fresh or preserved"
+  },
+  {
+    "termIta": "sassicaia",
+    "languages": [
+      {
+        "name": "Japanese",
+        "term": "sasshikaia"
+      }
+    ],
+    "descIta": "one of the most famous Italian wines"
+  },
+  {
+    "termIta": "savoiardo",
+    "languages": [
+      {
+        "name": "UK English",
+        "term": "savoiardi biscuit"
+      }
+    ],
+    "descIta": "very light and soft oblong biscuit, made ​​of flour, sugar, egg yolks and whipped egg whites"
+  },
+  {
+    "termIta": "scampo",
+    "languages": [
+      {
+        "name": "US English",
+        "term": "scampi"
+      },
+      {
+        "name": "Japanese",
+        "term": "sukanpi"
+      },
+      {
+        "name": "Hungarian",
+        "term": "scampi"
+      }
+    ],
+    "descIta": "crustacean similar to a lobster but smaller, much sought after for its delicious meat"
+  },
+  {
+    "termIta": "scarola (insalata)",
+    "languages": [
+      {
+        "name": "US English",
+        "term": "escarole"
+      },
+      {
+        "name": "UK English",
+        "term": "scariole (< m. lat.)",
+        "otherTerms": "escarole (< fr.)"
+      },
+      {
+        "name": "German",
+        "term": "skariol",
+        "otherTerms": "eskariol (< fr.)"
+      }
+    ],
+    "descIta": "variety of endive with broad, wavy leaves, cultivated especially for salads"
+  },
+  {
+    "termIta": "scorzonera",
+    "languages": [
+      {
+        "name": "Latvian",
+        "term": "skorconera"
+      },
+      {
+        "name": "Polish",
+        "term": "skorzonera"
+      }
+    ],
+    "descIta": "perennial plant grown for its very tasty edible root"
+  },
+  {
+    "termIta": "secco",
+    "languages": [
+      {
+        "name": "UK English",
+        "term": "vino (secco)"
+      },
+      {
+        "name": "Icelandic",
+        "term": "sekk"
+      },
+      {
+        "name": "Polish",
+        "term": "sek"
+      },
+      {
+        "name": "German",
+        "term": "sekt",
+        "desc": "passito"
+      }
+    ],
+    "descIta": "refers to wine or liquor with low sugar content, the opposite of sweet"
+  },
+  {
+    "termIta": "sedano [sèllero; séler, pl. séleri, dial. sett.; sèllero romanesco]",
+    "languages": [
+      {
+        "name": "US English",
+        "term": "celery"
+      },
+      {
+        "name": "Czech",
+        "term": "celer"
+      },
+      {
+        "name": "Finnish",
+        "term": "selleri"
+      },
+      {
+        "name": "UK English",
+        "term": "celery"
+      },
+      {
+        "name": "Lithuanian",
+        "term": "salieras"
+      },
+      {
+        "name": "Polish",
+        "term": "seler"
+      },
+      {
+        "name": "Hungarian",
+        "term": "zeller"
+      }
+    ],
+    "descIta": "thickly ribbed vegetable used worldwide thanks to its strong, aromatic flavor"
+  },
+  {
+    "termIta": "sedano rapa",
+    "languages": [
+      {
+        "name": "US English",
+        "term": "celeriac"
+      }
+    ],
+    "descIta": "variety of celery whose thick, round root is consumed"
+  },
+  {
+    "termIta": "semola",
+    "languages": [
+      {
+        "name": "French",
+        "term": "semoule",
+        "otherTerms": "symole, semole",
+        "desc": "pasta made with water and flour"
+      },
+      {
+        "name": "Portuguese",
+        "term": "sêmola",
+        "desc": "rice starch"
+      }
+    ],
+    "descIta": "intermediate product from the milling of durum wheat which, if reground, is processed into flour"
+  },
+  {
+    "termIta": "semolino",
+    "languages": [
+      {
+        "name": "US English",
+        "term": "semolina"
+      },
+      {
+        "name": "Czech",
+        "term": "semolina"
+      },
+      {
+        "name": "Gaelic",
+        "term": "seimilín"
+      },
+      {
+        "name": "UK English",
+        "term": "semolina",
+        "otherTerms": "semoulina"
+      },
+      {
+        "name": "Portuguese",
+        "term": "semolina"
+      },
+      {
+        "name": "Spanish",
+        "term": "sémola",
+        "desc": "high-quality wheat without the seed casing "
+      }
+    ],
+    "descIta": "intermediate product from the milling of durum wheat which, if reground, is processed into flour"
+  },
+  {
+    "termIta": "seppia",
+    "languages": [
+      {
+        "name": "Arabic",
+        "term": "sibya"
+      },
+      {
+        "name": "Portuguese",
+        "term": "sépia"
+      }
+    ],
+    "descIta": "oval-shaped, flattened marine mollusk whose mouth is equipped with tentacles. Much sought after for its meat and the blackish liquid it secretes in case of danger"
+  },
+  {
+    "termIta": "siciliano",
+    "languages": [
+      {
+        "name": "US English",
+        "term": "Sicilian"
+      }
+    ],
+    "descIta": "food cooked Sicilian style"
+  },
+  {
+    "termIta": "soffritto",
+    "languages": [
+      {
+        "name": "UK English",
+        "term": "soffrito",
+        "otherTerms": "sof(f)rito"
+      }
+    ],
+    "descIta": "chopped onion, carrots, celery and herbs browned on low heat with small pieces of bacon or pancetta added, used to prepare sauces or seasoning meat and other dishes"
+  },
+  {
+    "termIta": "soppressata, soprassata",
+    "languages": [
+      {
+        "name": "Catalan",
+        "term": "sobrassada"
+      }
+    ],
+    "descIta": "In northern Italy, this pork meat sausage is made using parts of the head and the rind pressed together; in central and southern Italy, this abundantly spiced sausage is made ​​from lean meats and lard pressed together"
+  },
+  {
+    "termIta": "sorbetto",
+    "languages": [
+      {
+        "name": "Catalan",
+        "term": "sorbet"
+      },
+      {
+        "name": "Danish",
+        "term": "sorbet"
+      },
+      {
+        "name": "French",
+        "term": "sorbet"
+      },
+      {
+        "name": "Gaelic",
+        "term": "soirbéad"
+      },
+      {
+        "name": "UK English",
+        "term": "sorbet (< fr.)"
+      },
+      {
+        "name": "Icelandic",
+        "term": "sorbet"
+      },
+      {
+        "name": "Polish",
+        "term": "sorbetto",
+        "otherTerms": "sorbeto, sorbet"
+      },
+      {
+        "name": "Portuguese",
+        "term": "sorvete"
+      },
+      {
+        "name": "Spanish",
+        "term": "sorbete"
+      },
+      {
+        "name": "German",
+        "term": "sorbet",
+        "otherTerms": "-s, pl. -s"
+      }
+    ],
+    "descIta": "semi-dense and slightly frozen, made ​​from sugar syrup mixed with pulp or juice and sometimes with wine or spirits"
+  },
+  {
+    "termIta": "sorgo",
+    "languages": [
+      {
+        "name": "Catalan",
+        "term": "sorgo"
+      },
+      {
+        "name": "Estonian",
+        "term": "sorgo"
+      },
+      {
+        "name": "Latvian",
+        "term": "sorgo"
+      },
+      {
+        "name": "Lithuanian",
+        "term": "sorgas"
+      },
+      {
+        "name": "Polish",
+        "term": "sorgo"
+      },
+      {
+        "name": "Portuguese",
+        "term": "sorgo",
+        "desc": "broom"
+      }
+    ],
+    "descIta": "cereal plant grown worldwide"
+  },
+  {
+    "termIta": "spaghetti",
+    "languages": [
+      {
+        "name": "US English",
+        "term": "spaghetti"
+      },
+      {
+        "name": "Arabic",
+        "term": "’isbagitti",
+        "otherTerms": "’isbakitta"
+      },
+      {
+        "name": "Catalan",
+        "term": "espagueti",
+        "otherTerms": "spaghetti"
+      },
+      {
+        "name": "Czech",
+        "term": "špagety"
+      },
+      {
+        "name": "Chinese",
+        "term": "miàntiáo"
+      },
+      {
+        "name": "Korean",
+        "term": "sŭp'aget'i"
+      },
+      {
+        "name": "Danish",
+        "term": "spaghetti"
+      },
+      {
+        "name": "Estonian",
+        "term": "spagetid"
+      },
+      {
+        "name": "Faroese",
+        "term": "spagetti"
+      },
+      {
+        "name": "Finnish",
+        "term": "spagetti"
+      },
+      {
+        "name": "French",
+        "term": "pl. spaghetti(s)",
+        "desc": "colloquial/insulting in Italian"
+      },
+      {
+        "name": "Gaelic",
+        "term": "spaigití"
+      },
+      {
+        "name": "Japanese",
+        "term": "supagetti",
+        "otherTerms": "supagechi; supagetti・naporitan (spaghetti napoletani), supagetti・mītosōsu (spaghetti meat sauce 'spaghetti al sugo di carne')"
+      },
+      {
+        "name": "UK English",
+        "term": "spaghetti"
+      },
+      {
+        "name": "Icelandic",
+        "term": "spagetti",
+        "otherTerms": "spaghetti, spaghettí"
+      },
+      {
+        "name": "Latvian",
+        "term": "spageti"
+      },
+      {
+        "name": "Lithuanian",
+        "term": "spagečiai"
+      },
+      {
+        "name": "Polish",
+        "term": "spaghetti"
+      },
+      {
+        "name": "Portuguese",
+        "term": "esparguete"
+      },
+      {
+        "name": "Spanish",
+        "term": "espagueti"
+      },
+      {
+        "name": "German",
+        "term": "pl. spaghettis"
+      },
+      {
+        "name": "Hungarian",
+        "term": "spagetti"
+      }
+    ],
+    "descIta": "cylindrical, long, thin pasta which is eaten \"dry\""
+  },
+  {
+    "termIta": "spaghettini",
+    "languages": [
+      {
+        "name": "Arabic",
+        "term": "’isbagittiini",
+        "otherTerms": "’isbakittiini"
+      }
+    ],
+    "descIta": "smaller sized spaghetti"
+  },
+  {
+    "termIta": "spezzatino",
+    "languages": [
+      {
+        "name": "US English",
+        "term": "spezzatino"
+      }
+    ],
+    "descIta": "meat cut into small pieces, browned on low heat with olive oil and butter, then stewed"
+  },
+  {
+    "termIta": "spinaci",
+    "languages": [
+      {
+        "name": "Polish",
+        "term": "szpinak"
+      },
+      {
+        "name": "Hungarian",
+        "term": "spenót"
+      }
+    ],
+    "descIta": "widely grown vegetable whose leaves are rich in iron and vitamins, usually eaten cooked"
+  },
+  {
+    "termIta": "spirito",
+    "languages": [
+      {
+        "name": "Arabic",
+        "term": "sibirtu",
+        "otherTerms": "sibartu"
+      }
+    ],
+    "descIta": "ethyl alcohol"
+  },
+  {
+    "termIta": "spumante",
+    "languages": [
+      {
+        "name": "UK English",
+        "term": "Asti spumanti (sing.)"
+      },
+      {
+        "name": "Polish",
+        "term": "spumante"
+      },
+      {
+        "name": "German",
+        "term": "pl. spumantes"
+      },
+      {
+        "name": "Hungarian",
+        "term": "spumante"
+      }
+    ],
+    "descIta": "white or rosé wine obtained by a process of double fermentation in the bottle or in an autoclave which produces, when uncorked and poured into glasses, abundant light foam, due to the fermentation"
+  },
+  {
+    "termIta": "spumone",
+    "languages": [
+      {
+        "name": "Korean",
+        "term": "sŭp'umoni"
+      },
+      {
+        "name": "UK English",
+        "term": "spumoni"
+      }
+    ],
+    "descIta": "cocktail of Italian origin, the country of campari ; spumone comes from the Italian supmare, to foam, ie ' make bubbles ', with reference to the air bubbles that rise from the tonic water"
+  },
+  {
+    "termIta": "straccetti",
+    "languages": [
+      {
+        "name": "UK English",
+        "term": "straccetti"
+      }
+    ],
+    "descIta": "type of pasta"
+  },
+  {
+    "termIta": "stracchino",
+    "languages": [
+      {
+        "name": "French",
+        "term": "pl. stracchinos"
+      },
+      {
+        "name": "UK English",
+        "term": "strac(c)hino cheese"
+      }
+    ],
+    "descIta": "a rich, soft typical Lombard cheese made with whole milk and packed in squares"
+  },
+  {
+    "termIta": "stracciatella",
+    "languages": [
+      {
+        "name": "Polish",
+        "term": "stracciatella",
+        "otherTerms": "straciatella"
+      },
+      {
+        "name": "Hungarian",
+        "term": "stracsatella",
+        "otherTerms": "sztracsi"
+      }
+    ],
+    "descIta": "soup made by straining a paste made of beaten eggs and Parmesan into boiling water through a sieve"
+  },
+  {
+    "termIta": "Strega",
+    "languages": [
+      {
+        "name": "Polish",
+        "term": "strega"
+      }
+    ],
+    "descIta": "tipe of liquor"
+  },
+  {
+    "termIta": "stufato",
+    "languages": [
+      {
+        "name": "French",
+        "term": "estouffade",
+        "otherTerms": "étouffade, estoffade"
+      },
+      {
+        "name": "UK English",
+        "term": "stufata"
+      },
+      {
+        "name": "Polish",
+        "term": "sztufada"
+      },
+      {
+        "name": "German",
+        "term": "stufata",
+        "otherTerms": "pl. -s"
+      }
+    ],
+    "descIta": "meat stewed for a long time over very low heat in a tightly closed pot"
+  },
+  {
+    "termIta": "sugo",
+    "languages": [
+      {
+        "name": "Polish",
+        "term": "sugo"
+      }
+    ],
+    "descIta": "sauce for cooked pasta or rice, often made with tomatoes, olive oil or butter, herbs, etc."
+  },
+  {
+    "termIta": "tagliata",
+    "languages": [
+      {
+        "name": "US English",
+        "term": "tagliata"
+      }
+    ],
+    "descIta": "grilled rib of beef served in thin slices, seasoned with olive oil and herbs"
+  },
+  {
+    "termIta": "tagliatelle",
+    "languages": [
+      {
+        "name": "Finnish",
+        "term": "tagliatelle"
+      },
+      {
+        "name": "French",
+        "term": "tagliatelle(s)",
+        "otherTerms": "tagliatelli"
+      },
+      {
+        "name": "Japanese",
+        "term": "tariaterre"
+      },
+      {
+        "name": "UK English",
+        "term": "tagliatelli"
+      },
+      {
+        "name": "Icelandic",
+        "term": "tagliatelle"
+      },
+      {
+        "name": "Polish",
+        "term": "tagliatelle"
+      },
+      {
+        "name": "German",
+        "term": "tagliatelli"
+      }
+    ],
+    "descIta": "type of pasta, usually made with eggs, obtained by cutting a thin sheet into long narrow strips"
+  },
+  {
+    "termIta": "taglierini",
+    "languages": [
+      {
+        "name": "Catalan",
+        "term": "tallarí",
+        "otherTerms": "tallarina"
+      },
+      {
+        "name": "UK English",
+        "term": "tagliarini"
+      },
+      {
+        "name": "Portuguese",
+        "term": "talharim"
+      },
+      {
+        "name": "Spanish",
+        "term": "tallarín"
+      },
+      {
+        "name": "German",
+        "term": "tagliarini"
+      }
+    ],
+    "descIta": "variety of thin, narrow strips of pasta eaten in broth"
+  },
+  {
+    "termIta": "taglio bianco",
+    "languages": [
+      {
+        "name": "Arabic",
+        "term": "tiribyanku",
+        "otherTerms": "tilibiyanku"
+      }
+    ],
+    "descIta": "cut of beef"
+  },
+  {
+    "termIta": "taleggio",
+    "languages": [
+      {
+        "name": "US English",
+        "term": "taleggio"
+      }
+    ],
+    "descIta": "soft, rich, raw, pasty cheese made with whole cow's milk"
+  },
+  {
+    "termIta": "tartufo",
+    "languages": [
+      {
+        "name": "Icelandic",
+        "term": "tartufla"
+      },
+      {
+        "name": "German",
+        "term": "pl. tartufos"
+      }
+    ],
+    "descIta": "soft, round-shaped dessert,chocolate or vanilla flavored and dusted with cocoa"
+  },
+  {
+    "termIta": "tartufolo",
+    "languages": [
+      {
+        "name": "Danish",
+        "term": "kartoffel; ora solo dial. kartøffel",
+        "otherTerms": "dial. o volg. Kantøffel"
+      },
+      {
+        "name": "French",
+        "term": "tartoufle",
+        "otherTerms": "tartaufle"
+      },
+      {
+        "name": "UK English",
+        "term": "tartufali",
+        "otherTerms": "tartufale"
+      },
+      {
+        "name": "Icelandic",
+        "term": "kartafla"
+      },
+      {
+        "name": "German",
+        "term": "kartoffel"
+      }
+    ],
+    "descIta": "jerusalem artichoke"
+  },
+  {
+    "termIta": "tiglio",
+    "languages": [
+      {
+        "name": "Arabic",
+        "term": "tilyu"
+      }
+    ],
+    "descIta": "tree with heart-shaped leaves and very fragrant yellowish flowers used for infusions with sedative properties"
+  },
+  {
+    "termIta": "tiramisù",
+    "languages": [
+      {
+        "name": "US English",
+        "term": "tiramisu"
+      },
+      {
+        "name": "Czech",
+        "term": "tiramisu"
+      },
+      {
+        "name": "Chinese",
+        "term": "tílāmǐsū dàngāo"
+      },
+      {
+        "name": "Finnish",
+        "term": "tiramisu"
+      },
+      {
+        "name": "Japanese",
+        "term": "tiramisu"
+      },
+      {
+        "name": "Lithuanian",
+        "term": "tiramisu"
+      },
+      {
+        "name": "Polish",
+        "term": "tiramisù"
+      },
+      {
+        "name": "Spanish",
+        "term": "tiramisú"
+      },
+      {
+        "name": "German",
+        "term": "pl. tiramisùs"
+      },
+      {
+        "name": "Hungarian",
+        "term": "tiramisu",
+        "otherTerms": "tiramiszu"
+      }
+    ],
+    "descIta": "dessert made with layers of sponge cake, mascarpone, eggs and sugar, covered with a thin layer of cocoa"
+  },
+  {
+    "termIta": "tonnato",
+    "languages": [
+      {
+        "name": "UK English",
+        "term": "tonnato"
+      }
+    ],
+    "descIta": "mayonnaise-based sauce with capers, tuna, etc."
+  },
+  {
+    "termIta": "tonno",
+    "languages": [
+      {
+        "name": "Hungarian",
+        "term": "ton"
+      }
+    ],
+    "descIta": "large sea fish, up to 3 m long,with a tapered body with crescent-shaped tail whose meat is consumed fresh or preserved, especially in oil"
+  },
+  {
+    "termIta": "torrone",
+    "languages": [
+      {
+        "name": "Hungarian",
+        "term": "torrone"
+      }
+    ],
+    "descIta": "different sized bars can be soft or hard, made of almonds or hazelnuts and a paste of honey, sugar and egg whites, typical of the Christmas period"
+  },
+  {
+    "termIta": "torta",
+    "languages": [
+      {
+        "name": "US English",
+        "term": "torta"
+      },
+      {
+        "name": "Arabic",
+        "term": "turta",
+        "otherTerms": "ṭurṭa"
+      },
+      {
+        "name": "Czech",
+        "term": "torta"
+      },
+      {
+        "name": "Estonian",
+        "term": "tort"
+      },
+      {
+        "name": "UK English",
+        "term": "torte (< ted.)"
+      },
+      {
+        "name": "Latvian",
+        "term": "torte"
+      },
+      {
+        "name": "Polish",
+        "term": "tort"
+      },
+      {
+        "name": "German",
+        "term": "torte",
+        "otherTerms": "pl. torten",
+        "desc": "type of fruit salad"
+      },
+      {
+        "name": "Hungarian",
+        "term": "torta"
+      }
+    ],
+    "descIta": "cake has a typically flat, round shape, and is made using flour, butter, eggs and sugar, usually leavened and baked in the oven. Cakes are often named after a particular ingredient added to the basic recipe"
+  },
+  {
+    "termIta": "tortellini",
+    "languages": [
+      {
+        "name": "Catalan",
+        "term": "torteŀlini"
+      },
+      {
+        "name": "Finnish",
+        "term": "tortelliini"
+      },
+      {
+        "name": "Polish",
+        "term": "tortellini"
+      },
+      {
+        "name": "Hungarian",
+        "term": "tortellini"
+      }
+    ],
+    "descIta": "typically Emilian variety of stuffed egg pasta similar to cappelletto. The filling, a mixture of meat, cheese and various ingredients, varies from place to place."
+  },
+  {
+    "termIta": "tortelloni",
+    "languages": [
+      {
+        "name": "UK English",
+        "term": "tortelloni"
+      }
+    ],
+    "descIta": "similar to ravioli stuffed with ricotta and spinach, but larger"
+  },
+  {
+    "termIta": "tortino",
+    "languages": [
+      {
+        "name": "UK English",
+        "term": "tortino"
+      }
+    ],
+    "descIta": "savory small cake-shaped dish, usually made of vegetables or cheese, fried in a pan or baked in the oven"
+  },
+  {
+    "termIta": "tramezzino",
+    "languages": [
+      {
+        "name": "Hungarian",
+        "term": "tramezzini",
+        "otherTerms": "tramezzino"
+      }
+    ],
+    "descIta": "sandwich with different ingredients"
+  },
+  {
+    "termIta": "trevisana (insalata)",
+    "languages": [
+      {
+        "name": "UK English",
+        "term": "treviso"
+      }
+    ],
+    "descIta": "variety of radicchio with a reduced taproot and red or purple leaves "
+  },
+  {
+    "termIta": "triglia",
+    "languages": [
+      {
+        "name": "Arabic",
+        "term": "triilya"
+      }
+    ],
+    "descIta": "fish common in the Mediterranean, with its typical reddish color, very sought after for its meat"
+  },
+  {
+    "termIta": "trippa",
+    "languages": [
+      {
+        "name": "French",
+        "term": "tripe (< sp. o it.)"
+      }
+    ],
+    "descIta": "cow stomach, boiled and sliced into thin strips, cooked in various ways"
+  },
+  {
+    "termIta": "tutti frutti",
+    "languages": [
+      {
+        "name": "Czech",
+        "term": "tutti-frutti",
+        "desc": "fruit salad"
+      },
+      {
+        "name": "Danish",
+        "term": "Tutti frutti"
+      },
+      {
+        "name": "Finnish",
+        "term": "tuttifrutti"
+      },
+      {
+        "name": "French",
+        "term": "tutti(-)frutti",
+        "desc": "tupe of fruit liqueur"
+      },
+      {
+        "name": "UK English",
+        "term": "tutti-frutti",
+        "desc": "mixed fruit jam used to flavor ice cream"
+      },
+      {
+        "name": "Lithuanian",
+        "term": "tutti frutti",
+        "desc": "fruit jam"
+      },
+      {
+        "name": "Polish",
+        "term": "tutti frutti",
+        "desc": "fruit salad with ice cream and fresh fruit"
+      },
+      {
+        "name": "German",
+        "term": "tuttifrutti",
+        "otherTerms": "tutti-frutti"
+      },
+      {
+        "name": "Hungarian",
+        "term": "tuttifrutti"
+      }
+    ],
+    "descIta": "sliced fruit with sugar; also in ice cream"
+  },
+  {
+    "termIta": "uva sultanina",
+    "languages": [
+      {
+        "name": "UK English",
+        "term": "sultana"
+      }
+    ],
+    "descIta": "small, golden seedless variety of grape from Asia Minor used in cooking especially as raisins"
+  },
+  {
+    "termIta": "Valtellina",
+    "languages": [
+      {
+        "name": "Hungarian",
+        "term": "veltelini",
+        "otherTerms": "velteliner, veltliner"
+      }
+    ],
+    "descIta": "high quality red wines produced in Valtellina with a mixture of Nebbiolo and other grapes"
+  },
+  {
+    "termIta": "vaniglia",
+    "languages": [
+      {
+        "name": "Arabic",
+        "term": "fanilya",
+        "otherTerms": "vanilya"
+      },
+      {
+        "name": "Hungarian",
+        "term": "vanília"
+      }
+    ],
+    "descIta": "aromatic substance derived from the fruit of this plant, used in the confectionery industry, in perfumery and in the manufacture of liquor"
+  },
+  {
+    "termIta": "vermicelli",
+    "languages": [
+      {
+        "name": "Finnish",
+        "term": "vermiselli"
+      },
+      {
+        "name": "French",
+        "term": "vermicelle",
+        "desc": "vermicelli soup"
+      },
+      {
+        "name": "Gaelic",
+        "term": "veirmisilí"
+      },
+      {
+        "name": "Japanese",
+        "term": "bāmiseri"
+      },
+      {
+        "name": "UK English",
+        "term": "vermicelli soup",
+        "desc": "vermicelli soup"
+      },
+      {
+        "name": "Lithuanian",
+        "term": "vermišeliai"
+      },
+      {
+        "name": "Polish",
+        "term": "wermiszel",
+        "otherTerms": "poco usato vermicelli"
+      },
+      {
+        "name": "German",
+        "term": "pl. vermicellen"
+      }
+    ],
+    "descIta": "type of durum wheat pasta similar to spaghetti"
+  },
+  {
+    "termIta": "vernaccia",
+    "languages": [
+      {
+        "name": "Catalan",
+        "term": "vernatxa",
+        "otherTerms": "garnatxa"
+      },
+      {
+        "name": "French",
+        "term": "grenache",
+        "otherTerms": "vin de garnace/grenache"
+      },
+      {
+        "name": "UK English",
+        "term": "vernage (< fr.)",
+        "otherTerms": "vernazza"
+      },
+      {
+        "name": "Spanish",
+        "term": "garnacha",
+        "desc": "species of red grapes almost purple, very fine and tasty and very sweet"
+      },
+      {
+        "name": "German",
+        "term": "wernacza wein",
+        "otherTerms": "vernätscher"
+      }
+    ],
+    "descIta": "dry or sweet white wine or liqueur made from the Vernaccia white grape originally from Liguria but grown in different regions, especially in Tuscany and Sardinia"
+  },
+  {
+    "termIta": "Verona",
+    "languages": [
+      {
+        "name": "Hungarian",
+        "term": "veronai"
+      }
+    ],
+    "descIta": "type of coldcut"
+  },
+  {
+    "termIta": "vin santo",
+    "languages": [
+      {
+        "name": "UK English",
+        "term": "vino santo"
+      },
+      {
+        "name": "German",
+        "term": "vino santo"
+      }
+    ],
+    "descIta": "dessert wine with a high alcohol content, produced with dried, destemmed white grapes "
+  },
+  {
+    "termIta": "vino",
+    "languages": [
+      {
+        "name": "Chinese",
+        "term": "pútaojiǔ"
+      }
+    ],
+    "descIta": "alcoholic beverage made from fermented grape juice"
+  },
+  {
+    "termIta": "vitello (carne di)",
+    "languages": [
+      {
+        "name": "Arabic",
+        "term": "bitillu"
+      }
+    ],
+    "descIta": "veal"
+  },
+  {
+    "termIta": "vongola",
+    "languages": [
+      {
+        "name": "Japanese",
+        "term": "bongore"
+      },
+      {
+        "name": "UK English",
+        "term": "vongole"
+      }
+    ],
+    "descIta": "mollusk with an oval light-colored shell, highly sought after for some specialties"
+  },
+  {
+    "termIta": "zabaglione",
+    "languages": [
+      {
+        "name": "US English",
+        "term": "zabaglione"
+      },
+      {
+        "name": "Finnish",
+        "term": "zabaione",
+        "otherTerms": "zabaglione"
+      },
+      {
+        "name": "French",
+        "term": "sabayon",
+        "otherTerms": "sabaillon, sabaione",
+        "desc": "drink made of white wine and sugar"
+      },
+      {
+        "name": "UK English",
+        "term": "zabaglione",
+        "otherTerms": "sambaglione, zabajone"
+      },
+      {
+        "name": "Polish",
+        "term": "zabaglione",
+        "otherTerms": "zabaione, zabajone",
+        "desc": "vanilla ice cream with alcohol"
+      }
+    ],
+    "descIta": "thick, frothy cream obtained by cooking egg yolk and sugar diluted with marsala or another sweet wine or liqueur in a double boiler"
+  },
+  {
+    "termIta": "zeppo, zeppare",
+    "languages": [
+      {
+        "name": "Hungarian",
+        "term": "cipó"
+      }
+    ],
+    "descIta": "round loaf of bread, not too large"
+  },
+  {
+    "termIta": "zeppola",
+    "languages": [
+      {
+        "name": "UK English",
+        "term": "pl. zeppoli"
+      }
+    ],
+    "descIta": "fritter typical of some regions in southern Italy traditionally prepared with local variations during Carnival"
+  },
+  {
+    "termIta": "zibibbo",
+    "languages": [
+      {
+        "name": "UK English",
+        "term": "zibibo"
+      },
+      {
+        "name": "Polish",
+        "term": "plur. Cybeby"
+      },
+      {
+        "name": "German",
+        "term": "zibibe",
+        "otherTerms": "pl. zybeben, zibiben, züböben, züböbn"
+      }
+    ],
+    "descIta": "very sweet and aromatic dessert wine made from zibibbo grapes in the provinces of Trapani and Syracuse"
+  },
+  {
+    "termIta": "ziti",
+    "languages": [
+      {
+        "name": "US English",
+        "term": "ziti"
+      },
+      {
+        "name": "UK English",
+        "term": "pl. zite/ziti"
+      }
+    ],
+    "descIta": "elongated, tubular and hollow durum wheat pasta similar to bucatini but with a larger diameter"
+  },
+  {
+    "termIta": "zucca",
+    "languages": [
+      {
+        "name": "German",
+        "term": "pl. zuchen",
+        "desc": "joking name for the human head"
+      }
+    ],
+    "descIta": "yellow, floury, sweet vegetable which is cooked in various ways"
+  },
+  {
+    "termIta": "zuccata",
+    "languages": [
+      {
+        "name": "Polish",
+        "term": "cykata"
+      }
+    ],
+    "descIta": "Sicilian sweet made from candied pumpkin "
+  },
+  {
+    "termIta": "zucchero",
+    "languages": [
+      {
+        "name": "Icelandic",
+        "term": "sykur"
+      },
+      {
+        "name": "US English",
+        "term": "sugar"
+      },
+      {
+        "name": "Danish",
+        "term": "sukker"
+      },
+      {
+        "name": "Finnish",
+        "term": "sokeri"
+      },
+      {
+        "name": "UK English",
+        "term": "sugar"
+      },
+      {
+        "name": "Hungarian",
+        "term": "cukor"
+      }
+    ],
+    "descIta": "white, sweet crystalline substance extracted from sugar beet or sugar cane, used to sweeten foods and beverages"
+  },
+  {
+    "termIta": "zucchero candito",
+    "languages": [
+      {
+        "name": "German",
+        "term": "kandiszucker",
+        "otherTerms": "kandelzucker"
+      }
+    ],
+    "descIta": "refined sugar used in confectionery, made of large, colorless or artificially colored crystals"
+  },
+  {
+    "termIta": "zucchetta",
+    "languages": [
+      {
+        "name": "Czech",
+        "term": "cuketa"
+      }
+    ],
+    "descIta": "creeping variety of gourds with short stems, with edible fruit known as zucchini"
+  },
+  {
+    "termIta": "zucchina",
+    "languages": [
+      {
+        "name": "US English",
+        "term": "zucchini"
+      },
+      {
+        "name": "Japanese",
+        "term": "zukkīni"
+      },
+      {
+        "name": "UK English",
+        "term": "pl. anche succini"
+      },
+      {
+        "name": "Lithuanian",
+        "term": "cukinija"
+      },
+      {
+        "name": "Polish",
+        "term": "cukinia"
+      },
+      {
+        "name": "Polish",
+        "term": "invar. zucchini"
+      },
+      {
+        "name": "Hungarian",
+        "term": "cukkíni",
+        "otherTerms": "cukkini, zucchini, zukkini"
+      }
+    ],
+    "descIta": "immature fruit of a variety of gourd widely used as a vegetable and cooked in various ways"
+  }
+]
