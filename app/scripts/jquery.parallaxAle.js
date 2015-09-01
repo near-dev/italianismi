@@ -145,7 +145,16 @@ plugin.bind('mouseup touchend', function(event){ touchEnd(event); });
 
 /*$('#cominciare').click(function() { 
   $('#parallax').css(edge, -1032);
+  //$('#parallax').scrollTo(0);
 });*/
+
+$('.credits').click(function() { 
+  $('#parallax').css(edge, -8900);
+});
+
+$('.box_crediti .logo').click(function() { 
+  $('#parallax').css(edge, 0);
+});
 
 } //end options
 })(jQuery)

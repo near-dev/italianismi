@@ -129,6 +129,7 @@ body input.form-control, body textarea.form-control{
     display: block;
     width: 44%;
     margin: 20px auto 0;
+    font-family: $sans;
     height: auto;
     padding: 15px 30px;
     font-size: 21px;
@@ -292,6 +293,14 @@ body {
       z-index: 200;
     }
 
+
+  }
+
+  .view_credits{
+      background:url('../images/credits_bk.jpg') center fixed;
+  }
+
+  .cover, .view_credits{
     ul.lang{
       margin: 0;
       padding: 0px 0 80px;
@@ -318,6 +327,15 @@ body {
         }
       }
     }
+  }
+
+  .credits{
+    height: 160px;
+    width: 285px;
+    position: absolute;
+    z-index: 100;
+    bottom: 30px;
+    right: 146px;
   }
 
   .cover_layer{
@@ -583,6 +601,12 @@ body {
       top:0;
       padding-top:60px;
     }
+    .form-control.attivo {
+      background:$giallo;
+      color: $bianco;
+      text-transform: uppercase;
+      font-style: normal;
+    }
     h3{
       color: $giallo;
     }
@@ -729,10 +753,44 @@ body {
   }
 }
 
-/*.swiper-wrapper{
-  xz-index: 10;
-}*/
+.giustificato{
+  text-align: justify;
+}
 
+.box_crediti{
+    background: $bianco;
+    padding: 90px;
+    width: 50%;
+    margin: 200px auto;
+    font-family: $sans;
+    font-size:16px;
+
+    .logo{
+      width:120px;
+      float: none !important;
+    }
+
+    .QR-vivit{
+      width:90px;
+      float: none !important;
+    }
+
+    h4{
+      font-weight: bolder;
+      font-size:21px;
+      margin-top: 30px;
+    }
+
+    table{
+      margin:30px auto;
+      text-align: left;
+      tr{
+        td{
+          padding:5px;
+        }
+      }
+    }
+}
 
 .swiper-button-prev {
     background: url("../images/left_arrow.gif") transparent !important;
