@@ -152,7 +152,7 @@ $('.credits').click(function() {
   $('#parallax').css(edge, -8900);
 });
 
-$('.box_crediti .logo').click(function() { 
+$('.box_crediti .logo, .cominciare').click(function() { 
   $('#parallax').css(edge, 0);
 });
 

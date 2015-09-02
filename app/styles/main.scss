@@ -281,6 +281,9 @@ body {
       margin-top: 0;
       float: left;
       margin-bottom: 60px;
+      &.cominciare{
+        float:none !important;
+      }
     } 
 
     h1{
@@ -828,6 +831,10 @@ body {
   padding-top: 200px;
   top: 0;
   left:0;
+
+  .panel{
+    box-shadow: 0 !important;
+  }
 }
 
 #layer1 {
@@ -867,16 +874,6 @@ body {
   top: 0;
   left:0;
 }
-.panel {
-  /*float: left;*/
-  margin: 0px;
-  padding: 0px;
-  width: 100%;
-  min-height: 100%;
-  background-color: transparent;
-  box-shadow:0 !important;
-  border:0 !important;
-}
 
 #balloon1 {
     position: absolute;
@@ -886,4 +883,14 @@ body {
     height: 50000px;
     pointer-events: none;
     background: transparent url("../images/vivit_layer_2.png");
+}
+
+.panel{
+  margin: 0px;
+  padding: 0px;
+  width: 100%;
+  min-height: 100%;
+  background-color: transparent;
+  box-shadow: 0;
+  border:0 !important;
 }
