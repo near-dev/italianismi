@@ -58,7 +58,7 @@ var languageMap= {
 		eng: 'sentence'
 	},
 	termsNotFound: {
-		ita: 'Nessun termine trovato.',
+		ita: 'Non è stata trovata nessuna parola corrispondente alla tua ricerca. <br> Desideri aggiungere il termine cercato? <a class="btn form-control attivo half" href="#form">Aggiungi una parola straniera</a>',
 		eng: 'sentence'
 	},
 	cardSentence1: {

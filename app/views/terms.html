@@ -9,7 +9,7 @@
 				<input type="text" class="form-control" placeholder="{{ languageMap.termsSearchPH[languageSel] }}" title="" ng-model="search.termIta" id="search">
 				<span class="glyphicon glyphicon-search"></span>
 		   	</header>
-		   	<div class="box_parole">
+		   	<div class="box_parole" >
 				<ul class="quattro_colonne" ng-show="filteredTerms.length">
 					<li ng-repeat="term in filteredTerms = (terms | filter:search:startWith)">
 						<!--a href="#{{ 'languages/' + term.termIta + '/' + search.termIta }}" ng-bind="term.termIta"></a-->	
