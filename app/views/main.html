@@ -8,16 +8,10 @@
             <li class="eng{{ languageSel === 'eng' ? ' active' : '' }}"><a ng-click="changeLanguage('eng')">English</a></li>
           </ul>
           <a href="#terms" class="transparent"></a>
-          <!--div class="antipasto" id="entra">
-            <a href="#languages">
-              <label>entra</label>
-            </a>
-          </div-->
 
           <div class="cominciare" id="cominciare">
-            <img src="images/left_arrow.gif" style="transform: rotate(90deg);">
-            <!--img src="images/antipasto.png"-->
             <div>Antipasto per cominciare</div>
+            <img src="images/left_arrow.gif" style="transform: rotate(-90deg);">
           </div>
           <div class="bubble">
             <h1>I</h1>
@@ -32,21 +26,18 @@
             <p>Gli italianismi nel mondo costituiscono un fenomeno di grande ampiezza, che registra, secondo le indagini più recenti, oltre ventimila parole e interessa un numero non definito, ma comunque alto, di lingue. La maggior parte degli italianismi, cioè delle parole italiane più diffuse all'estero, viene dal mondo della cultura.</p>
           </div>
 
-          <ul class="linkbar">
-            <li><a href="#languages">
-              <img src="images/ico_sidebar_rosso.png">
-              <label ng-bind-html="languageMap.menuItem2[languageSel]"></label>
-            </a></li>
-            <li><a href="#terms">
-              <img src="images/ico_sidebar_bianco.png">
-              <label ng-bind-html="languageMap.menuItem3[languageSel]"></label>
-            </a></li>
-            <li><a href="#form">
-              <img src="images/ico_sidebar_verde.png">
-              <label ng-bind-html="languageMap.menuItem4[languageSel]"></label>
-            </a></li>
-          </ul>
-
+          <a href="#terms">
+            <div class="bubble negativo">
+              <h1>Entra</h1>
+              <h3>Cerca una parola italiana<br>e scopri dove viene usata</h3>
+            </a>
+          </div>
+            <br>
+            <br>
+            <br>
+            <h3>Oppure</h3>
+            <p>continua a leggere</p>
+            <img src="images/left_arrow.gif" style="transform: rotate(-90deg);">
           <div class="bubble">
             <h1>IV</h1>
             <p>Sono molto diffuse anche le parole della cucina, come mostra il numero degli italianismi relativi all'alimentazione entrati in inglese nel Novecento: nella prima metà del secolo rappresentano infatti un quarto del totale, sono circa la metà nel periodo successivo e giungono a superare il 70% verso la fine.</p>
@@ -238,10 +229,10 @@
 
     <div class="container cover_layer" onselectstart="return false">
       <div id="layer2" > <!--cloud1.png layer-->
-          <a class="logo" >
+          <div class="logo" >
             <img src="images/pep_logo.png">
             <h1 class="ui">{{ languageMap.subtitle1[languageSel] }}<br>{{ languageMap.subtitle2[languageSel] }}</h3>
-          </a>
+          </div>
       </div>
     </div>
 </div>
