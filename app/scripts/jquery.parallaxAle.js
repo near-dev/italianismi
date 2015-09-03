@@ -25,12 +25,13 @@ if (o.HORIZ==true) {
 
 this.parallaxSwipe.getSize = function(i){ if (sliderW>'') { return sliderW; } else { return sliderH; }};
 
-window.setTimeout(function() {$('#layer1, #layer2').css(edge, '0px'); $('#entra, #cominciare, #lang').css('opacity', 1); }, 100); 
+window.setTimeout(function() {$('#layer1, #layer2').css(edge, '0px'); $('#layer2 .logo, #cominciare, #lang').css('opacity', 1); }, 100); 
 
 var mouseswipe=function(sliderLT) {
 
-  $('#entra').css('opacity', Math.max(0, Math.min(1, 1+((88 + parseInt(plugin.css(edge))) / 72))));
-  $('#cominciare').css('opacity', Math.max(0, Math.min(1, 1+((418 + parseInt(plugin.css(edge))) / 72))));
+  //$('#entra').css('opacity', Math.max(0, Math.min(1, 1+((88 + parseInt(plugin.css(edge))) / 72))));
+  $('#layer2 .logo').css('opacity', Math.max(0, Math.min(1, 1+((450 + parseInt(plugin.css(edge))) / 350))));
+  $('#cominciare').css('opacity', Math.max(0, Math.min(1, 1+((140 + parseInt(plugin.css(edge))) / 72))));
   $('#lang').css('opacity', Math.max(0, Math.min(1, 1+((-60 + parseInt(plugin.css(edge))) / -72))));
   
 
@@ -117,9 +118,11 @@ var touchMove=function(e) { //mouse move
     _velocity += ((MouseXY - _lastMouseDownXY) * o.SPEED_SPRING);
     _lastMouseDownXY = MouseXY;
 
-    $('#entra').css('opacity', Math.max(0, Math.min(1, 1+((88 + parseInt(plugin.css(edge))) / 72))));
-    $('#cominciare').css('opacity', Math.max(0, Math.min(1, 1+((418 + parseInt(plugin.css(edge))) / 72))));
+    //$('#entra').css('opacity', Math.max(0, Math.min(1, 1+((88 + parseInt(plugin.css(edge))) / 72))));
+    $('#cominciare').css('opacity', Math.max(0, Math.min(1, 1+((140 + parseInt(plugin.css(edge))) / 72))));
     $('#lang').css('opacity', Math.max(0, Math.min(1, 1+((-60 + parseInt(plugin.css(edge))) / -72))));
+    $('#layer2 .logo').css('opacity', Math.max(0, Math.min(1, 1+((450 + parseInt(plugin.css(edge))) / 350))));
+    
   }
 
 };
@@ -152,7 +155,7 @@ $('.credits').click(function() {
   $('#parallax').css(edge, -8900);
 });
 
-$('.box_crediti .logo').click(function() { 
+$('.box_crediti .logo, .cominciare').click(function() { 
   $('#parallax').css(edge, 0);
 });
 

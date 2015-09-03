@@ -8,16 +8,10 @@
             <li class="eng{{ languageSel === 'eng' ? ' active' : '' }}"><a ng-click="changeLanguage('eng')">English</a></li>
           </ul>
           <a href="#terms" class="transparent"></a>
-          <!--div class="antipasto" id="entra">
-            <a href="#languages">
-              <label>entra</label>
-            </a>
-          </div-->
 
           <div class="cominciare" id="cominciare">
-            <img src="images/left_arrow.gif" style="transform: rotate(90deg);">
-            <!--img src="images/antipasto.png"-->
             <div>Antipasto per cominciare</div>
+            <img src="images/left_arrow.gif" style="transform: rotate(-90deg);">
           </div>
           <div class="bubble">
             <h1>I</h1>
@@ -32,21 +26,18 @@
             <p>Gli italianismi nel mondo costituiscono un fenomeno di grande ampiezza, che registra, secondo le indagini più recenti, oltre ventimila parole e interessa un numero non definito, ma comunque alto, di lingue. La maggior parte degli italianismi, cioè delle parole italiane più diffuse all'estero, viene dal mondo della cultura.</p>
           </div>
 
-          <ul class="linkbar">
-            <li><a href="#languages">
-              <img src="images/ico_sidebar_rosso.png">
-              <label ng-bind-html="languageMap.menuItem2[languageSel]"></label>
-            </a></li>
-            <li><a href="#terms">
-              <img src="images/ico_sidebar_bianco.png">
-              <label ng-bind-html="languageMap.menuItem3[languageSel]"></label>
-            </a></li>
-            <li><a href="#form">
-              <img src="images/ico_sidebar_verde.png">
-              <label ng-bind-html="languageMap.menuItem4[languageSel]"></label>
-            </a></li>
-          </ul>
-
+          <a href="#terms">
+            <div class="bubble negativo">
+              <h1>Entra</h1>
+              <h3>Cerca una parola italiana<br>e scopri dove viene usata</h3>
+            </a>
+          </div>
+            <br>
+            <br>
+            <br>
+            <h3>Oppure</h3>
+            <p>continua a leggere</p>
+            <img src="images/left_arrow.gif" style="transform: rotate(-90deg);">
           <div class="bubble">
             <h1>IV</h1>
             <p>Sono molto diffuse anche le parole della cucina, come mostra il numero degli italianismi relativi all'alimentazione entrati in inglese nel Novecento: nella prima metà del secolo rappresentano infatti un quarto del totale, sono circa la metà nel periodo successivo e giungono a superare il 70% verso la fine.</p>
@@ -104,110 +95,111 @@
               La fonte dei dati è prevalentemente lessicografica (in  alcuni casi ci si è basati su attestazioni recentemente introdotte anche nell&rsquo;uso  orale o in menu di ristoranti). <br />
             </p>
             
-            <table border="1" cellspacing="0" cellpadding="0">
+            <table border="0" cellspacing="0" cellpadding="0" class="table">
               <tr>
-                <td width="94" valign="top">1</td>
-                <td width="137" valign="top"><p>Arabo</p></td>
-                <td width="256" valign="top"><p>Guido Cifoletti</p></td>
+                <td width="25" valign="top">1</td>
+                <td width="160" valign="top">Arabo</td>
+                <td width="302" valign="top">Guido Cifoletti</td>
               </tr>
               <tr>
-                <td width="94" valign="top">2</td>
-                <td width="137" valign="top"><p>Catalano </p></td>
-                <td width="256" valign="top"><p>Yorik Gomez Gane, <em>Gli italianismi nel catalano.    Dizionario storico-etimologico</em>, Roma, Aracne, 2012</p></td>
+                <td width="25" valign="top">2</td>
+                <td width="160" valign="top">Catalano </td>
+                <td width="302" valign="top">Yorik Gomez Gane, <em>Gli italianismi nel catalano.    Dizionario storico-etimologico</em>, Roma, Aracne, 2012</td>
               </tr>
               <tr>
-                <td width="94" valign="top">3</td>
-                <td width="137" valign="top"><p>Ceco</p></td>
-                <td width="256" valign="top"><p>Wojciech Sowa</p></td>
+                <td width="25" valign="top">3</td>
+                <td width="160" valign="top">Ceco</td>
+                <td width="302" valign="top">Wojciech Sowa</td>
               </tr>
               <tr>
-                <td width="94" valign="top">4</td>
-                <td width="137" valign="top"><p>Coreano </p></td>
-                <td width="256" valign="top"><p>Antonetta Bruno </p></td>
+                <td width="25" valign="top">4</td>
+                <td width="160" valign="top">Coreano </td>
+                <td width="302" valign="top">Antonetta Bruno </td>
               </tr>
               <tr>
-                <td width="94" valign="top">5</td>
-                <td width="137" valign="top"><p>Danese</p></td>
-                <td width="256" valign="top"><p>Pierpaolo Caserta</p></td>
+                <td width="25" valign="top">5</td>
+                <td width="160" valign="top">Danese</td>
+                <td width="302" valign="top">Pierpaolo Caserta</td>
               </tr>
               <tr>
-                <td width="94" valign="top">6</td>
-                <td width="137" valign="top"><p>Estone</p></td>
-                <td width="256" valign="top"><p>Fulvio Meguschar</p></td>
+                <td width="25" valign="top">6</td>
+                <td width="160" valign="top">Estone</td>
+                <td width="302" valign="top">Fulvio Meguschar</td>
               </tr>
               <tr>
-                <td width="94" valign="top">7</td>
-                <td width="137" valign="top"><p>Faroese</p></td>
-                <td width="256" valign="top"><p>Gianfranco Contri</p></td>
+                <td width="25" valign="top">7</td>
+                <td width="160" valign="top">Faroese</td>
+                <td width="302" valign="top">Gianfranco Contri</td>
               </tr>
               <tr>
-                <td width="94" valign="top">8</td>
-                <td width="137" valign="top"><p>Finnico </p></td>
-                <td width="256" valign="top"><p>Delfina Sessa </p></td>
+                <td width="25" valign="top">8</td>
+                <td width="160" valign="top">Finnico </td>
+                <td width="302" valign="top">Delfina Sessa </td>
               </tr>
               <tr>
-                <td width="94" valign="top">9</td>
-                <td width="137" valign="top"><p>Giapponese</p></td>
-                <td width="256" valign="top"><p>Maki Imazu</p></td>
+                <td width="25" valign="top">9</td>
+                <td width="160" valign="top">Giapponese</td>
+                <td width="302" valign="top">Maki Imazu</td>
               </tr>
               <tr>
-                <td width="94" valign="top">10</td>
-                <td width="137" valign="top"><p>Irlandese (gaelico)</p></td>
-                <td width="256" valign="top"><p>Elisa Roma</p></td>
+                <td width="25" valign="top">10</td>
+                <td width="160" valign="top">Irlandese (gaelico)</td>
+                <td width="302" valign="top">Elisa Roma</td>
               </tr>
               <tr>
-                <td width="94" valign="top">11</td>
-                <td width="137" valign="top"><p>Lettone</p></td>
-                <td width="256" valign="top"><p>Fulvio Meguschar</p></td>
+                <td width="25" valign="top">11</td>
+                <td width="160" valign="top">Lettone</td>
+                <td width="302" valign="top">Fulvio Meguschar</td>
               </tr>
               <tr>
-                <td width="94" valign="top">12</td>
-                <td width="137" valign="top"><p>Lituano</p></td>
-                <td width="256" valign="top"><p>Stefano Lanza </p></td>
+                <td width="25" valign="top">12</td>
+                <td width="160" valign="top">Lituano</td>
+                <td width="302" valign="top">Stefano Lanza </td>
               </tr>
               <tr>
-                <td width="94" valign="top">13</td>
-                <td width="137" valign="top"><p>Polacco</p></td>
-                <td width="256" valign="top"><p>Roman Sosnowski</p></td>
+                <td width="25" valign="top">13</td>
+                <td width="160" valign="top">Polacco</td>
+                <td width="302" valign="top">Roman Sosnowski</td>
               </tr>
               <tr>
-                <td width="94" valign="top">14</td>
-                <td width="137" valign="top"><p>Portoghese</p></td>
-                <td width="256" valign="top"><p>Gianluca Miraglia</p></td>
+                <td width="25" valign="top">14</td>
+                <td width="160" valign="top">Portoghese</td>
+                <td width="302" valign="top">Gianluca Miraglia</td>
               </tr>
               <tr>
-                <td width="94" valign="top">15</td>
-                <td width="137" valign="top"><p>Russo</p></td>
-                <td width="256" valign="top"><p>Ettore Gherbezza</p></td>
+                <td width="25" valign="top">15</td>
+                <td width="160" valign="top">Russo</td>
+                <td width="302" valign="top">Ettore Gherbezza</td>
               </tr>
               <tr>
-                <td width="94" valign="top">16</td>
-                <td width="137" valign="top"><p>Slovacco </p></td>
-                <td width="256" valign="top"><p>Wojciech Sowa</p></td>
+                <td width="25" valign="top">16</td>
+                <td width="160" valign="top">Slovacco </td>
+                <td width="302" valign="top">Wojciech Sowa</td>
               </tr>
               <tr>
-                <td width="94" valign="top">17</td>
-                <td width="137" valign="top"><p>Sloveno</p></td>
-                <td width="256" valign="top"><p>MartinaOzbot</p></td>
+                <td width="25" valign="top">17</td>
+                <td width="160" valign="top">Sloveno</td>
+                <td width="302" valign="top">MartinaOzbot</td>
               </tr>
               <tr>
-                <td width="94" valign="top">18</td>
-                <td width="137" valign="top"><p>Spagnolo </p></td>
-                <td width="256" valign="top"><p>Paula QuirogaMunguía</p></td>
+                <td width="25" valign="top">18</td>
+                <td width="160" valign="top">Spagnolo </td>
+                <td width="302" valign="top">Paula QuirogaMunguía</td>
               </tr>
               <tr>
-                <td width="94" valign="top">19</td>
-                <td width="137" valign="top"><p>Ungherese </p></td>
-                <td width="256" valign="top"><p>FábiánZsuzsanna – SzabóGyőző, <em>Dall&rsquo;Italia    all&rsquo;Ungheria: parole di origine italiana nella lingua ungherese</em>,    Udine,Forum Editrice, 2010</a>(A Polis KulturálisEgyesületÉs A Pro    Renovanda Cultura HungariaeAlapítványTámogatásával) </p></td>
+                <td width="25" valign="top">19</td>
+                <td width="160" valign="top">Ungherese </td>
+                <td width="302" valign="top">FábiánZsuzsanna – SzabóGyőző, <em>Dall&rsquo;Italia    all&rsquo;Ungheria: parole di origine italiana nella lingua ungherese</em>,    Udine,Forum Editrice, 2010</a>(A Polis KulturálisEgyesületÉs A Pro    Renovanda Cultura HungariaeAlapítványTámogatásával) </td>
               </tr>
             </table>
+            <hr>
             <h4>Altre fonti e curatori:</h4>
             <p class="giustificato">
-              <strong><em>Dizionario di italianismi in francese, inglese e  tedesco</em></strong> (DIFIT) , Firenze, Accademia della Crusca, 2008,a cura di  HarroStammerjohann, con la collaborazione di Enrico Arcaini, Gabriella Cartago,  Pia Galetto, Matthias Heinz, Maurice Mayer, Giovanni Rovere, GesineSeymer.<br />
+              <strong><em>Dizionario di italianismi in francese, inglese e tedesco</em></strong> (DIFIT), Firenze, Accademia della Crusca, 2008,a cura di HarroStammerjohann, con la collaborazione di Enrico Arcaini, Gabriella Cartago, Pia Galetto, Matthias Heinz, Maurice Mayer, Giovanni Rovere, GesineSeymer.<br />
               Estrazione e revisione degli italianismi gastronomici nel  DIFIT a cura di  Andrea Felici, Giovanna  Frosini.<br />
               Francesca Perissinotto, <strong><em>Meal in Italy. Italianismi nel  linguaggio gastronomico inglese ed angloamericano</em></strong>, in «Italiano  LinguaDue» 7 (2015), pp.265- 295.<br />
               Maurizio Tani, <strong><em>Gli italianismi nella lingua islandese</em></strong>,  in «Italiano LinguaDue», 2 (2010), pp. 170-195.<br />
-              <strong><em>Voca3. Vocabolario della gastronomia italiano-inglese-  cinese</em></strong>, Università degli studi di Milano- Dipartimento di Scienze della  Mediazione linguistica.<br />
+              <strong><em>Voca3. Vocabolario della gastronomia italiano-inglese-cinese</em></strong>, Università degli studi di Milano- Dipartimento di Scienze della  Mediazione linguistica.<br />
               Estrazione e revisione degli italianismi gastronomici  (lingua cinese) a cura di Clara Bulfoni e Eleonora Nava.<br />
             </p>
             <hr>
@@ -217,8 +209,12 @@
             <strong>Progettazione e gestione informatica: </strong>Aleco<br />
             <strong>Progetto grafico e userinterface: </strong>Aleco
             <hr>
-            <div class="logo">Torna</div>
           </div>
+            <div class="cominciare logo" id="cominciare">
+              <img src="images/left_arrow.gif" style="transform: rotate(90deg);">
+              <!--img src="images/antipasto.png"-->
+              <div>Torna</div>
+            </div>
         </div>
       </div>
     </div> 
@@ -233,10 +229,10 @@
 
     <div class="container cover_layer" onselectstart="return false">
       <div id="layer2" > <!--cloud1.png layer-->
-          <a class="logo" >
+          <div class="logo" >
             <img src="images/pep_logo.png">
             <h1 class="ui">{{ languageMap.subtitle1[languageSel] }}<br>{{ languageMap.subtitle2[languageSel] }}</h3>
-          </a>
+          </div>
       </div>
     </div>
 </div>
