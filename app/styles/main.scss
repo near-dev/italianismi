@@ -172,29 +172,6 @@ body input.form-control, body textarea.form-control{
   margin-top: 60px;
   letter-spacing: -1px;
 
-  &.negativo{
-    background-color: rgba(0, 0, 0, 0.95);
-    color: $bianco;
-    width: 300px;
-    height: 300px;
-    a{
-      color: $bianco;
-      h1{
-        margin-top: 70px;
-      }
-      h3{
-        margin-top: 10px;
-        font-weight: lighter;
-        font-size: 16px;
-        letter-spacing: 0;
-      }
-    }
-    p{
-      margin-bottom: 30px;
-      height: auto;
-    }
-  }
-
   h1{
     font-size: 51px !important;
     margin-bottom: 20px;
@@ -206,6 +183,28 @@ body input.form-control, body textarea.form-control{
     margin: 0 0 0px 11%;
     font-weight: normal;
     float: left;
+  }
+}
+
+a{
+  .bubble.negativo{
+    background-color: rgba(0, 0, 0, 0.95);
+    color: $bianco;
+    width: 300px;
+    height: 300px;
+    p{
+      margin-bottom: 30px;
+      height: auto;
+    }
+  }
+  h1{
+    margin-top: 70px !important;
+  }
+  h3{
+    margin-top: 10px;
+    font-weight: lighter;
+    font-size: 16px;
+    letter-spacing: 0;
   }
 }
 
