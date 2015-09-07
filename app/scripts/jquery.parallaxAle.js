@@ -152,7 +152,7 @@ plugin.bind('mouseup touchend', function(event){ touchEnd(event); window.idleTim
 });*/
 
 $('.credits').click(function() { 
-  $('#parallax').css(edge, -9350);
+  $('#parallax').css(edge, -9250);
 });
 
 $('.box_crediti .logo, .cominciare').click(function() { 

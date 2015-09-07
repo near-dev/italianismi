@@ -186,12 +186,15 @@ body input.form-control, body textarea.form-control{
   }
 }
 
-a{
-  .bubble.negativo{
+a.negativo{
+  display: inline-block;
+  margin-top: 60px;
+  .bubble{
     background-color: rgba(0, 0, 0, 0.95);
     color: $bianco;
     width: 300px;
     height: 300px;
+    margin-top: 0;
     p{
       margin-bottom: 30px;
       height: auto;
@@ -875,6 +878,7 @@ body {
   cursor: move;
   z-index: 2;
   margin-top: -60px;
+  margin-bottom: -400px;
   top: 0;
   left:0;
 }
@@ -909,4 +913,17 @@ body {
   background-color: transparent;
   box-shadow: 0;
   border:0 !important;
+}
+
+.arrow_top{
+    -ms-transform: rotate(90deg); /* IE 9 */
+    -webkit-transform: rotate(90deg); /* Chrome, Safari, Opera */
+    transform: rotate(90deg);
+    //@include transform(rotate(90deg));
+}
+.arrow_down{
+    -ms-transform: rotate(-90deg); /* IE 9 */
+    -webkit-transform: rotate(-90deg); /* Chrome, Safari, Opera */
+    transform: rotate(-90deg);
+   // @include transform(rotate(-90deg));
 }
