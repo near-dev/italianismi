@@ -7,11 +7,12 @@
             <li class="ita{{ languageSel === 'ita' ? ' active' : '' }}"><a ng-click="changeLanguage('ita')">Italiano</a></li>
             <li class="eng{{ languageSel === 'eng' ? ' active' : '' }}"><a ng-click="changeLanguage('eng')">English</a></li>
           </ul>
-          <a href="#terms" class="transparent"></a>
+		  
+          <a href="#terms" ng-click="go('/terms')" class="transparent"></a>
 
           <div class="cominciare" id="cominciare">
             <div>Antipasto per cominciare</div>
-            <img src="images/left_arrow.gif" style="transform: rotate(-90deg);">
+            <img src="images/left_arrow.gif" style="transform: rotate(-90deg); transform: -webkit-rotate(-90deg);">
           </div>
           <div class="bubble">
             <h1>I</h1>
@@ -26,18 +27,18 @@
             <p>Gli italianismi nel mondo costituiscono un fenomeno di grande ampiezza, che registra, secondo le indagini più recenti, oltre ventimila parole e interessa un numero non definito, ma comunque alto, di lingue. La maggior parte degli italianismi, cioè delle parole italiane più diffuse all'estero, viene dal mondo della cultura.</p>
           </div>
 
-          <a href="#terms">
+          <a href="#terms" ng-click="go('/terms')">
             <div class="bubble negativo">
               <h1>Entra</h1>
               <h3>Cerca una parola italiana<br>e scopri dove viene usata</h3>
-            </a>
-          </div>
-            <br>
-            <br>
-            <br>
-            <h3>Oppure</h3>
-            <p>continua a leggere</p>
-            <img src="images/left_arrow.gif" style="transform: rotate(-90deg);">
+            </div>
+          </a>
+    	  <br>
+		  <br>
+		  <br>
+		  <h3>Oppure</h3>
+          <p>continua a leggere</p>
+            <img src="images/left_arrow.gif" style="transform: rotate(-90deg); transform: -webkit-rotate(-90deg);">
           <div class="bubble">
             <h1>IV</h1>
             <p>Sono molto diffuse anche le parole della cucina, come mostra il numero degli italianismi relativi all'alimentazione entrati in inglese nel Novecento: nella prima metà del secolo rappresentano infatti un quarto del totale, sono circa la metà nel periodo successivo e giungono a superare il 70% verso la fine.</p>
@@ -82,7 +83,7 @@
             Silvia Morgana, Massimo Prada, Giuseppe Polimeni, Giuseppe  Sergio; collaborazione di Maria Polita.<br />
             <h4>Contenuti:</h4>
             Accademia della Crusca: sezione <strong>cucina</strong><br>
-            di<br><a href="http://www.VIV-it.org">www.VIV-it.org</a><br>
+            di<br><a>www.VIV-it.org</a><br>
             <img src="images/QR-vivit.png" class="QR-vivit"><br>
             a cura di Giovanna Frosini,  Marzia Caria, Anna Colia <br>
             (pagina 7 <em>Il lessico della gastronomia</em>; 7.1 <em>Geosinonimi  e dialettismiculinari</em>; 7.2 <em>Italianismi gastronomici</em>).<br><br>
@@ -211,7 +212,7 @@
             <hr>
           </div>
             <div class="cominciare logo" id="cominciare">
-              <img src="images/left_arrow.gif" style="transform: rotate(90deg);">
+              <img src="images/left_arrow.gif" style="transform: rotate(90deg); transform: -webkit-rotate(-90deg);">
               <!--img src="images/antipasto.png"-->
               <div>Torna</div>
             </div>

@@ -156,7 +156,7 @@ angular
         redirectTo: '/'
       });
   })
-  .run(function($rootScope, $window, $templateCache, engine) {
+  .run(function($rootScope, $window, $location, $templateCache, engine) {
 	  $rootScope.languageSel = engine.getLanguage();
 	  $rootScope.languageMap = languageMap;
 	  
@@ -165,6 +165,10 @@ angular
 			  engine.setLanguage(language);
 			  $window.location.reload();
 		  }
+	  }
+	  
+	  $rootScope.go = function(path) {
+		  $location.path(path);
 	  }
   });
 
@@ -181,6 +185,30 @@ $(document).ready(function () {
     $(this).keypress(function (e) {
         idleTime = 0;
     });
+	
+	var initKeyboard = function() {
+		if ($('#virtualKeyboardChromeExtensionOverlayScrollExtend').length) {
+			$('#virtualKeyboardChromeExtensionOverlayScrollExtend').attrchange({
+				callback: function (event) { 
+					if ($('#virtualKeyboardChromeExtensionOverlayScrollExtend').css('display') === 'none') {
+						$( 'input' ).blur();
+						$('html').animate({top: '0'});
+					}
+					else {
+						if ($('#formverde').length)
+						{
+							$('html').animate({top: '-250px'});
+						}        
+					}
+				}
+			});	
+		}
+		else {
+			setTimeout(initKeyboard, 100);
+		}
+	};
+	initKeyboard();
+
 });
 
 function timerIncrement() {
