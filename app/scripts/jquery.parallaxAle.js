@@ -141,9 +141,9 @@ var touchEnd=function(e) { //mouse up
 };
 
 hasTouch = 'ontouchstart' in window;
-plugin.bind('mousedown touchstart', function(event){ touchStart(event); }); 
-plugin.bind('mousemove touchmove', function(event){ touchMove(event); }); 
-plugin.bind('mouseup touchend', function(event){ touchEnd(event); });
+plugin.bind('mousedown touchstart', function(event){ touchStart(event); window.idleTime = 0;}); 
+plugin.bind('mousemove touchmove', function(event){ touchMove(event); window.idleTime = 0; }); 
+plugin.bind('mouseup touchend', function(event){ touchEnd(event); window.idleTime = 0; });
 
 
 /*$('#cominciare').click(function() { 

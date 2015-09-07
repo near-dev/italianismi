@@ -177,24 +177,19 @@ angular
   });
 
 
-var idleTime = 0;
+window.idleTime = 0;
 $(document).ready(function () {
     //Increment the idle time counter every minute.
     var idleInterval = setInterval(timerIncrement, 1000); // 1 second
 
     //Zero the idle timer on mouse movement.
     $(this).mousemove(function (e) {
-        idleTime = 0;
+        window.idleTime = 0;
     });
     $(this).keypress(function (e) {
-        idleTime = 0;
+        window.idleTime = 0;
     });
 
-    $(this).addEventListener('touchmove', function (e) {
-        idleTime = 0;
-		alert("event");
-    });
-	
 	
 	var initKeyboard = function() {
 		if ($('#virtualKeyboardChromeExtensionOverlayScrollExtend').length) {
@@ -222,8 +217,8 @@ $(document).ready(function () {
 });
 
 function timerIncrement() {
-    idleTime = idleTime + 1;
-    if (idleTime > 119 && window.location.hash !== '#/') { // 2 minutes
+    window.idleTime = window.idleTime + 1;
+    if (window.idleTime > 119 && window.location.hash !== '#/') { // 2 minutes
         window.location = '.';
     }
 }  
