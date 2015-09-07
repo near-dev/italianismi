@@ -10,7 +10,8 @@
     "descIta": "butchered lamb, typical of Rome"
   },
   {
-    "termIta": "acciuga [ancioa, genovese]",
+    "termIta": "acciuga",
+    "termIta2": "ancioa, genovese",
     "languages": [
       {
         "name": "Arabic",
@@ -228,7 +229,8 @@
     "descIta": "in the Venetian manner"
   },
   {
-    "termIta": "amarella [dial.]",
+    "termIta": "amarella",
+    "termIta2": "dial.",
     "languages": [
       {
         "name": "Czech",
@@ -367,7 +369,8 @@
     "descIta": "a starter at the beginning of a meal to stimulate the appetite"
   },
   {
-    "termIta": "arancia [narancia, narancio, antico istriano; naransa, naranso, giuliano; naranzˇ, romagnolo; naranza, narancia, veneziano]",
+    "termIta": "arancia",
+    "termIta2": "narancia, narancio, antico istriano; naransa, naranso, giuliano; naranzˇ, romagnolo; naranza, narancia, veneziano",
     "languages": [
       {
         "name": "Hungarian",
@@ -418,7 +421,8 @@
     "descIta": "roasted meat"
   },
   {
-    "termIta": "asparago, sparágio [spargo, sparago desueto; sparego, veneziano; sparg, friulano]",
+    "termIta": "asparago, sparágio",
+    "termIta2": "spargo, sparago desueto; sparego, veneziano; sparg, friulano",
     "languages": [
       {
         "name": "Estonian",
@@ -694,7 +698,8 @@
     "descIta": "sea bass, prized sea fish "
   },
   {
-    "termIta": "brasola [dial. it. sett.]",
+    "termIta": "brasola",
+    "termIta2": "dial. it. sett.",
     "languages": [
       {
         "name": "Polish",
@@ -880,7 +885,8 @@
     "descIta": "type of Italian bread shape"
   },
   {
-    "termIta": "budino [bodino ant.]",
+    "termIta": "budino",
+    "termIta2": "bodino ant.",
     "languages": [
       {
         "name": "US English",
@@ -1239,7 +1245,8 @@
     "descIta": "typical Sicilian dish made with eggplant, tomatoes, olives, capers, etc."
   },
   {
-    "termIta": "cappero [càppero, càpperi, milanese; capper, càpari, veneziano, cáppara, capperina, dial. sett., caparo, veneziano,]",
+    "termIta": "cappero",
+    "termIta2": "càppero, càpperi, milanese; capper, càpari, veneziano, cáppara, capperina, dial. sett., caparo, veneziano,",
     "languages": [
       {
         "name": "Czech",
@@ -1353,7 +1360,8 @@
     "descIta": "multi-colored colored and variously flavored sweet made of cooked sugar variously"
   },
   {
-    "termIta": "carciofo [articiocco, articioc, arziciocco it. sett.]",
+    "termIta": "carciofo",
+    "termIta2": "articiocco, articioc, arziciocco it. sett.",
     "languages": [
       {
         "name": "US English",
@@ -1463,7 +1471,8 @@
     "descIta": "fruit of the chestnut tree, with tough, dark brown skin and sweet, powdery white flesh"
   },
   {
-    "termIta": "caviale [caviare, arc.; caviar, ant. veneto]",
+    "termIta": "caviale",
+    "termIta2": "caviare, arc.; caviar, ant. veneto",
     "languages": [
       {
         "name": "Czech",
@@ -1607,7 +1616,8 @@
     "descIta": "variety of cherry form Cerignola"
   },
   {
-    "termIta": "cervellata [zervelada, milanese; servelada, servalat, bresciano]",
+    "termIta": "cervellata",
+    "termIta2": "zervelada, milanese; servelada, servalat, bresciano",
     "languages": [
       {
         "name": "Hungarian",
@@ -1945,7 +1955,8 @@
     "descIta": "fruit similar to a grain of pepper, with healing properties"
   },
   {
-    "termIta": "cuccagna [cocagna, bresciano; cucagna, veneziano]",
+    "termIta": "cuccagna",
+    "termIta2": "cocagna, bresciano; cucagna, veneziano",
     "languages": [
       {
         "name": "Hungarian",
@@ -1966,7 +1977,8 @@
     "descIta": "with various regional names: cut from the upper thigh of cattle"
   },
   {
-    "termIta": "dattero [dàtolo, veneziano, triestino; dàtul, friulano]",
+    "termIta": "dattero",
+    "termIta2": "dàtolo, veneziano, triestino; dàtul, friulano",
     "languages": [
       {
         "name": "Hungarian",
@@ -2058,7 +2070,8 @@
     "descIta": "espresso coffee"
   },
   {
-    "termIta": "fagiano [fasàn, veneziano]",
+    "termIta": "fagiano",
+    "termIta2": "fasàn, veneziano",
     "languages": [
       {
         "name": "Hungarian",
@@ -2068,7 +2081,8 @@
     "descIta": "bird with colorful plumage and a long tail, hunted and farmed for its prized meat "
   },
   {
-    "termIta": "fagiolo [fasol, fazol, fasola dial. sett.]",
+    "termIta": "fagiolo",
+    "termIta2": "fasol, fazol, fasola dial. sett.",
     "languages": [
       {
         "name": "Polish",
@@ -2188,7 +2202,8 @@
     "descIta": "or tagliatelle, type of pasta, usually egg, obtained by cutting the dough into thin strips"
   },
   {
-    "termIta": "fico [fíga, pl. fíghe, veneziano antico; figo, triestino]",
+    "termIta": "fico",
+    "termIta2": "fíga, pl. fíghe, veneziano antico; figo, triestino",
     "languages": [
       {
         "name": "Czech",
@@ -2714,7 +2729,8 @@
     "descIta": "amount of bread or other baked foods cooked in the oven"
   },
   {
-    "termIta": "insalata [salata, salada dial. sett.]",
+    "termIta": "insalata",
+    "termIta2": "salata, salada dial. sett.",
     "languages": [
       {
         "name": "US English",
@@ -2976,13 +2992,7 @@
       {
         "name": "Finnish",
         "term": "limonadi"
-      }
-    ],
-    "descIta": "highly acidic oval, light yellow fruit with juicy pulp"
-  },
-  {
-    "termIta": "limone [citrone dial.]",
-    "languages": [
+      },
       {
         "name": "Finnish",
         "term": "situuna"
@@ -3094,7 +3104,8 @@
     "descIta": "tube-shaped pasta of various lengths and dimensions"
   },
   {
-    "termIta": "malvasia [marvaxïa, genovese; malvaSia, giuliano; malvazìa, bresciano; malvasìa, veneziano]",
+    "termIta": "malvasia",
+    "termIta2": "marvaxïa, genovese; malvaSia, giuliano; malvazìa, bresciano; malvasìa, veneziano",
     "languages": [
       {
         "name": "Polish",
@@ -3108,7 +3119,8 @@
     "descIta": "sweet or dry wine made from the grape of the same name in many regions of Italy"
   },
   {
-    "termIta": "mandorla [màndola, veneziano; màndula, triestino]",
+    "termIta": "mandorla",
+    "termIta2": "màndola, veneziano; màndula, triestino",
     "languages": [
       {
         "name": "Hungarian",
@@ -3268,7 +3280,8 @@
     "descIta": "aromatic liquid made from vinegar, wine or other liquid in which food is immersed, especially meat or fish"
   },
   {
-    "termIta": "marrone [maron, romagnolo;maro–ni˛, veneziano; maro–ni, friulano]",
+    "termIta": "marrone",
+    "termIta2": "maron, romagnolo;maro–ni˛, veneziano; maro–ni, friulano",
     "languages": [
       {
         "name": "Polish",
@@ -3451,7 +3464,8 @@
     "descIta": "plant with oval leaves the aroma of lemon or bergamot used also in the preparation of liquors"
   },
   {
-    "termIta": "melograno [pomogranato, sett.]",
+    "termIta": "melograno",
+    "termIta2": "pomogranato, sett.",
     "languages": [
       {
         "name": "Hungarian",
@@ -3639,7 +3653,8 @@
     "descIta": "Bolognese slow cooked sausage made of finely chopped pork or mixed meats with lard  and spices"
   },
   {
-    "termIta": "moscatello [muscatella meridion.]",
+    "termIta": "moscatello",
+    "termIta2": "muscatella meridion.",
     "languages": [
       {
         "name": "Czech",
@@ -3696,7 +3711,8 @@
     "descIta": "diamond shaped Christmas cake made with flour, wine, raisins, candied fruit, dried figs and almonds, covered with chocolate or icing, typical of many Italian regions"
   },
   {
-    "termIta": "mostarda [mustarda, bolognese]",
+    "termIta": "mostarda",
+    "termIta2": "mustarda, bolognese",
     "languages": [
       {
         "name": "Polish",
@@ -3920,7 +3936,8 @@
     "descIta": "typical Milanesemeat dish made froma stewed beef or veal tibia bone flavored with chopped parsley, garlic and lemon peel"
   },
   {
-    "termIta": "ostrica [òstriga, triestino, friulano, giuliano; òstrega, veneziano]",
+    "termIta": "ostrica",
+    "termIta2": "òstriga, triestino, friulano, giuliano; òstrega, veneziano",
     "languages": [
       {
         "name": "Polish",
@@ -4328,7 +4345,8 @@
     "descIta": "durum wheat pasta boiled drained and served with sauces"
   },
   {
-    "termIta": "pastella [pastetta napoletano]",
+    "termIta": "pastella",
+    "termIta2": "pastetta napoletano",
     "languages": [
       {
         "name": "Polish",
@@ -4570,7 +4588,8 @@
     "descIta": "edible seed of pine tree, contained between the scales of the pine cone, used in cookingand baking or to enrich sauces and dishes"
   },
   {
-    "termIta": "pinza [veneto, emiliano]",
+    "termIta": "pinza",
+    "termIta2": "veneto, emiliano",
     "languages": [
       {
         "name": "Latvian",
@@ -4905,7 +4924,8 @@
     "descIta": "course served at the end of ameal, a dinner"
   },
   {
-    "termIta": "potaggio [ven. potacio]",
+    "termIta": "potaggio",
+    "termIta2": "ven. potacio",
     "languages": [
       {
         "name": "Polish",
@@ -4915,7 +4935,8 @@
     "descIta": "meat stew; dipping sauce"
   },
   {
-    "termIta": "prezzemolo [petrosino, petrusello, petrosello meridion.]",
+    "termIta": "prezzemolo",
+    "termIta2": "petrosino, petrusello, petrosello meridion.",
     "languages": [
       {
         "name": "Polish",
@@ -5049,7 +5070,8 @@
     "descIta": "round edible root, usually red with white flesh with a slightly spicy taste, eaten raw in salads or as a side dish"
   },
   {
-    "termIta": "raponzo, raperonzolo, raponzolo [rapónz, mantovano; desueto raponzo, pistoiese]",
+    "termIta": "raponzo, raperonzolo, raponzolo",
+    "termIta2": "rapónz, mantovano; desueto raponzo, pistoiese",
     "languages": [
       {
         "name": "Catalan",
@@ -5215,7 +5237,8 @@
     "descIta": "short cylindrical pasta with fluted sides"
   },
   {
-    "termIta": "risi e bisi [veneziano]",
+    "termIta": "risi e bisi",
+    "termIta2": "veneziano",
     "languages": [
       {
         "name": "UK English",
@@ -5379,7 +5402,8 @@
     "descIta": "sweet, slightly alcoholic liqueur made by combining one or more aromatic essences soaked and distilled in a solution of  alcohol, water and sugar, in varying ratios"
   },
   {
-    "termIta": "ruchetta [rucola it. sett.]",
+    "termIta": "ruchetta",
+    "termIta2": "rucola it. sett.",
     "languages": [
       {
         "name": "US English",
@@ -5773,7 +5797,8 @@
     "descIta": "refers to wine or liquor with low sugar content, the opposite of sweet"
   },
   {
-    "termIta": "sedano [sèllero; séler, pl. séleri, dial. sett.; sèllero romanesco]",
+    "termIta": "sedano",
+    "termIta2": "sèllero; séler, pl. séleri, dial. sett.; sèllero romanesco",
     "languages": [
       {
         "name": "US English",

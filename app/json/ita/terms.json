@@ -10,7 +10,8 @@
     "descIta": "agnello da latte macellato, tipico romano"
   },
   {
-    "termIta": "acciuga [ancioa, genovese]",
+    "termIta": "acciuga",
+    "termIta2": "ancioa, genovese",
     "languages": [
       {
         "name": "arabo",
@@ -228,7 +229,8 @@
     "descIta": "alla maniera dei veneziani o di Venezia"
   },
   {
-    "termIta": "amarella [dial.]",
+    "termIta": "amarella",
+    "termIta2": "dial.",
     "languages": [
       {
         "name": "ceco",
@@ -367,7 +369,8 @@
     "descIta": "portata che in un pranzo precede i primi piatti e può stimolare l'appetito "
   },
   {
-    "termIta": "arancia [narancia, narancio, antico istriano; naransa, naranso, giuliano; naranzˇ, romagnolo; naranza, narancia, veneziano]",
+    "termIta": "arancia",
+    "termIta2": "narancia, narancio, antico istriano; naransa, naranso, giuliano; naranzˇ, romagnolo; naranza, narancia, veneziano",
     "languages": [
       {
         "name": "ungherese",
@@ -418,7 +421,8 @@
     "descIta": "pezzo di carne arrostita"
   },
   {
-    "termIta": "asparago, sparágio [spargo, sparago desueto; sparego, veneziano; sparg, friulano]",
+    "termIta": "asparago, sparágio",
+    "termIta2": "spargo, sparago desueto; sparego, veneziano; sparg, friulano",
     "languages": [
       {
         "name": "estone",
@@ -694,7 +698,8 @@
     "descIta": "spigola, pesce marino pregiato"
   },
   {
-    "termIta": "brasola [dial. it. sett.]",
+    "termIta": "brasola",
+    "termIta2": "dial. it. sett.",
     "languages": [
       {
         "name": "polacco",
@@ -880,7 +885,8 @@
     "descIta": "tipo di forma di pane italiana"
   },
   {
-    "termIta": "budino [bodino ant.]",
+    "termIta": "budino",
+    "termIta2": "bodino ant.",
     "languages": [
       {
         "name": "americano",
@@ -1239,7 +1245,8 @@
     "descIta": "piatto tipico siciliano a base di melanzane, pomodori, olive, capperi, ecc."
   },
   {
-    "termIta": "cappero [càppero, càpperi, milanese; capper, càpari, veneziano, cáppara, capperina, dial. sett., caparo, veneziano,]",
+    "termIta": "cappero",
+    "termIta2": "càppero, càpperi, milanese; capper, càpari, veneziano, cáppara, capperina, dial. sett., caparo, veneziano,",
     "languages": [
       {
         "name": "ceco",
@@ -1353,7 +1360,8 @@
     "descIta": "dolciume, dalle dimensioni di un grossa pastiglia, a base di zucchero cotto variamente colorato e aromatizzato"
   },
   {
-    "termIta": "carciofo [articiocco, articioc, arziciocco it. sett.]",
+    "termIta": "carciofo",
+    "termIta2": "articiocco, articioc, arziciocco it. sett.",
     "languages": [
       {
         "name": "americano",
@@ -1463,7 +1471,8 @@
     "descIta": "frutto del castagno, con buccia dura di colore marrone scuro e con polpa bianca, dolce e farinose"
   },
   {
-    "termIta": "caviale [caviare, arc.; caviar, ant. veneto]",
+    "termIta": "caviale",
+    "termIta2": "caviare, arc.; caviar, ant. veneto",
     "languages": [
       {
         "name": "ceco",
@@ -1607,7 +1616,8 @@
     "descIta": "varietà di ciliegia raccolte a Cerignola."
   },
   {
-    "termIta": "cervellata [zervelada, milanese; servelada, servalat, bresciano]",
+    "termIta": "cervellata",
+    "termIta2": "zervelada, milanese; servelada, servalat, bresciano",
     "languages": [
       {
         "name": "ungherese",
@@ -1945,7 +1955,8 @@
     "descIta": "frutto simile a un grano di pepe, dotato di proprietà curative"
   },
   {
-    "termIta": "cuccagna [cocagna, bresciano; cucagna, veneziano]",
+    "termIta": "cuccagna",
+    "termIta2": "cocagna, bresciano; cucagna, veneziano",
     "languages": [
       {
         "name": "ungherese",
@@ -1966,7 +1977,8 @@
     "descIta": "in varie denominazioni regionali: taglio ricavato dalla parte superiore della coscia dei bovini"
   },
   {
-    "termIta": "dattero [dàtolo, veneziano, triestino; dàtul, friulano]",
+    "termIta": "dattero",
+    "termIta2": "dàtolo, veneziano, triestino; dàtul, friulano",
     "languages": [
       {
         "name": "ungherese",
@@ -2058,7 +2070,8 @@
     "descIta": "caffè espresso "
   },
   {
-    "termIta": "fagiano [fasàn, veneziano]",
+    "termIta": "fagiano",
+    "termIta2": "fasàn, veneziano",
     "languages": [
       {
         "name": "ungherese",
@@ -2068,7 +2081,8 @@
     "descIta": "uccello con piumaggio molto variopinto e lunga coda, cacciato e allevato per le carni assai pregiate "
   },
   {
-    "termIta": "fagiolo [fasol, fazol, fasola dial. sett.]",
+    "termIta": "fagiolo",
+    "termIta2": "fasol, fazol, fasola dial. sett.",
     "languages": [
       {
         "name": "polacco",
@@ -2188,7 +2202,8 @@
     "descIta": "o tagliatelle; tipo di pasta, generalmente all’uovo, ottenuta tagliando la sfoglia a strisce sottili"
   },
   {
-    "termIta": "fico [fíga, pl. fíghe, veneziano antico; figo, triestino]",
+    "termIta": "fico",
+    "termIta2": "fíga, pl. fíghe, veneziano antico; figo, triestino",
     "languages": [
       {
         "name": "ceco",
@@ -2714,7 +2729,8 @@
     "descIta": "quantità di pane o altri alimenti infornati, cioè messi a cuocere nel forno"
   },
   {
-    "termIta": "insalata [salata, salada dial. sett.]",
+    "termIta": "insalata",
+    "termIta2": "salata, salada dial. sett.",
     "languages": [
       {
         "name": "americano",
@@ -2976,13 +2992,7 @@
       {
         "name": "finnico",
         "term": "limonadi"
-      }
-    ],
-    "descIta": "frutto ovale, di colore giallo chiaro, con polpa succosa e sapore molto acido "
-  },
-  {
-    "termIta": "limone [citrone dial.]",
-    "languages": [
+      },
       {
         "name": "finnico",
         "term": "situuna"
@@ -3094,7 +3104,8 @@
     "descIta": "pasta alimentare a forma di tubo, di varia lunghezza e dimensione"
   },
   {
-    "termIta": "malvasia [marvaxïa, genovese; malvaSia, giuliano; malvazìa, bresciano; malvasìa, veneziano]",
+    "termIta": "malvasia",
+    "termIta2": "marvaxïa, genovese; malvaSia, giuliano; malvazìa, bresciano; malvasìa, veneziano",
     "languages": [
       {
         "name": "polacco",
@@ -3108,7 +3119,8 @@
     "descIta": "vino dolce o secco ottenuto dal vitigno dello stesso nome in molte regioni d'Italia"
   },
   {
-    "termIta": "mandorla [màndola, veneziano; màndula, triestino]",
+    "termIta": "mandorla",
+    "termIta2": "màndola, veneziano; màndula, triestino",
     "languages": [
       {
         "name": "ungherese",
@@ -3268,7 +3280,8 @@
     "descIta": "liquido aromatico a base di aceto, vino o altro in cui si tiene immerso un alimento, specialmente la carne o il pesce"
   },
   {
-    "termIta": "marrone [maron, romagnolo;maro–ni˛, veneziano; maro–ni, friulano]",
+    "termIta": "marrone",
+    "termIta2": "maron, romagnolo;maro–ni˛, veneziano; maro–ni, friulano",
     "languages": [
       {
         "name": "polacco",
@@ -3451,7 +3464,8 @@
     "descIta": "pianta con foglie ovali dal profumo di limone o bergamotto usata anche per la preparazione di liquori"
   },
   {
-    "termIta": "melograno [pomogranato, sett.]",
+    "termIta": "melograno",
+    "termIta2": "pomogranato, sett.",
     "languages": [
       {
         "name": "ungherese",
@@ -3639,7 +3653,8 @@
     "descIta": "salume di origine bolognese composto di carne suina o mista, tritata finemente, mescolata con lardo e spezie e cotta lentamente"
   },
   {
-    "termIta": "moscatello [muscatella meridion.]",
+    "termIta": "moscatello",
+    "termIta2": "muscatella meridion.",
     "languages": [
       {
         "name": "ceco",
@@ -3696,7 +3711,8 @@
     "descIta": "dolce natalizio a forma di rombo prodotto con farina, mosto, uva passa, canditi, fichi secchi e mandorle pestate, anche ricoperto di cioccolato o glassa, tipico di molte regioni italiane"
   },
   {
-    "termIta": "mostarda [mustarda, bolognese]",
+    "termIta": "mostarda",
+    "termIta2": "mustarda, bolognese",
     "languages": [
       {
         "name": "polacco",
@@ -3920,7 +3936,8 @@
     "descIta": "pietanza di carne, tipica di  Milano, osso della tibia di manzo o vitello cotto in umido e aromatizzato con un trito di prezzemolo, aglio e buccia di limone"
   },
   {
-    "termIta": "ostrica [òstriga, triestino, friulano, giuliano; òstrega, veneziano]",
+    "termIta": "ostrica",
+    "termIta2": "òstriga, triestino, friulano, giuliano; òstrega, veneziano",
     "languages": [
       {
         "name": "polacco",
@@ -4328,7 +4345,8 @@
     "descIta": "pasta di grano duro bollita scolata e condita con salse e sughi"
   },
   {
-    "termIta": "pastella [pastetta napoletano]",
+    "termIta": "pastella",
+    "termIta2": "pastetta napoletano",
     "languages": [
       {
         "name": "polacco",
@@ -4570,7 +4588,8 @@
     "descIta": "seme edule specialmente del pino domestico, contenuto fra le scaglie della pigna, la cui mandorla è usata in cucina nella preparazione di dolci o per arricchire salse e pietanze"
   },
   {
-    "termIta": "pinza [veneto, emiliano]",
+    "termIta": "pinza",
+    "termIta2": "veneto, emiliano",
     "languages": [
       {
         "name": "lettone",
@@ -4905,7 +4924,8 @@
     "descIta": "portata servita alla fine di un pranzo, di una cena"
   },
   {
-    "termIta": "potaggio [ven. potacio]",
+    "termIta": "potaggio",
+    "termIta2": "ven. potacio",
     "languages": [
       {
         "name": "polacco",
@@ -4915,7 +4935,8 @@
     "descIta": "pietanza a base di carne in umido; intingolo sugoso"
   },
   {
-    "termIta": "prezzemolo [petrosino, petrusello, petrosello meridion.]",
+    "termIta": "prezzemolo",
+    "termIta2": "petrosino, petrusello, petrosello meridion.",
     "languages": [
       {
         "name": "polacco",
@@ -5049,7 +5070,8 @@
     "descIta": "radice commestibile rotondeggiante specialmente di colore rosso, con polpa bianca, dal sapore leggermente piccante, da mangiare cruda come contorno o in insalata "
   },
   {
-    "termIta": "raponzo, raperonzolo, raponzolo [rapónz, mantovano; desueto raponzo, pistoiese]",
+    "termIta": "raponzo, raperonzolo, raponzolo",
+    "termIta2": "rapónz, mantovano; desueto raponzo, pistoiese",
     "languages": [
       {
         "name": "catalano",
@@ -5215,7 +5237,8 @@
     "descIta": "tipo di pasta a forma di corto cilindro scanalato all'esterno"
   },
   {
-    "termIta": "risi e bisi [veneziano]",
+    "termIta": "risi e bisi",
+    "termIta2": "veneziano",
     "languages": [
       {
         "name": "inglese",
@@ -5379,7 +5402,8 @@
     "descIta": "liquore dolce e di bassa gradazione alcolica ottenuto unendo una o più essenze aromatiche macerate e distillate in una soluzione di alcol, acqua e zucchero in rapporti variabili"
   },
   {
-    "termIta": "ruchetta [rucola it. sett.]",
+    "termIta": "ruchetta",
+    "termIta2": "rucola it. sett.",
     "languages": [
       {
         "name": "americano",
@@ -5773,7 +5797,8 @@
     "descIta": "di vino o liquore, con basso contenuto zuccherino, in contrapposizione a dolce"
   },
   {
-    "termIta": "sedano [sèllero; séler, pl. séleri, dial. sett.; sèllero romanesco]",
+    "termIta": "sedano",
+    "termIta2": "sèllero; séler, pl. séleri, dial. sett.; sèllero romanesco",
     "languages": [
       {
         "name": "americano",

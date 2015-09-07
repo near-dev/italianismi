@@ -189,6 +189,12 @@ $(document).ready(function () {
     $(this).keypress(function (e) {
         idleTime = 0;
     });
+
+    $(this).addEventListener('touchmove', function (e) {
+        idleTime = 0;
+		alert("event");
+    });
+	
 	
 	var initKeyboard = function() {
 		if ($('#virtualKeyboardChromeExtensionOverlayScrollExtend').length) {
