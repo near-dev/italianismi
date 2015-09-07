@@ -8,7 +8,7 @@
     "url": "abbacchio.png"
   },
   {
-    "termIta": "acciuga [ancioa, genovese]",
+    "termIta": "acciuga",
     "url": "acciughe.png"
   },
   {
@@ -92,7 +92,7 @@
     "url": "antipasto.png"
   },
   {
-    "termIta": "arancia [narancia, narancio, antico istriano; naransa, naranso, giuliano; naranzˇ, romagnolo; naranza, narancia, veneziano]",
+    "termIta": "arancia",
     "url": "arancia.png"
   },
   {
@@ -112,7 +112,7 @@
     "url": "arrosto.png"
   },
   {
-    "termIta": "asparago, sparágio [spargo, sparago desueto; sparego, veneziano; sparg, friulano]",
+    "termIta": "asparago, sparágio",
     "url": ""
   },
   {
@@ -200,7 +200,7 @@
     "url": ""
   },
   {
-    "termIta": "brasola [dial. it. sett.]",
+    "termIta": "brasola",
     "url": ""
   },
   {
@@ -228,7 +228,7 @@
     "url": ""
   },
   {
-    "termIta": "budino [bodino ant.]",
+    "termIta": "budino",
     "url": "budino.png"
   },
   {
@@ -312,7 +312,7 @@
     "url": "caponata.png"
   },
   {
-    "termIta": "cappero [càppero, càpperi, milanese; capper, càpari, veneziano, cáppara, capperina, dial. sett., caparo, veneziano,]",
+    "termIta": "cappero",
     "url": ""
   },
   {
@@ -332,7 +332,7 @@
     "url": "caramella.png"
   },
   {
-    "termIta": "carciofo [articiocco, articioc, arziciocco it. sett.]",
+    "termIta": "carciofo",
     "url": "carciofo.png"
   },
   {
@@ -352,7 +352,7 @@
     "url": "castagna.png"
   },
   {
-    "termIta": "caviale [caviare, arc.; caviar, ant. veneto]",
+    "termIta": "caviale",
     "url": "caviale.png"
   },
   {
@@ -376,11 +376,11 @@
     "url": ""
   },
   {
-    "termIta": "cervellata [zervelada, milanese; servelada, servalat, bresciano]",
+    "termIta": "cervellata",
     "url": ""
   },
   {
-    "termIta": "cetriolo [citrulo, napol.; cetrulo, meridion.]",
+    "termIta": "cetriolo",
     "url": "cetriolo.png"
   },
   {
@@ -484,7 +484,7 @@
     "url": ""
   },
   {
-    "termIta": "cuccagna [cocagna, bresciano; cucagna, veneziano]",
+    "termIta": "cuccagna",
     "url": ""
   },
   {
@@ -492,7 +492,7 @@
     "url": ""
   },
   {
-    "termIta": "dattero [dàtolo, veneziano, triestino; dàtul, friulano]",
+    "termIta": "dattero",
     "url": ""
   },
   {
@@ -504,11 +504,11 @@
     "url": "caffe.png"
   },
   {
-    "termIta": "fagiano [fasàn, veneziano]",
+    "termIta": "fagiano",
     "url": ""
   },
   {
-    "termIta": "fagiolo [fasol, fazol, fasola dial. sett.]",
+    "termIta": "fagiolo",
     "url": "fagiolo.png"
   },
   {
@@ -548,7 +548,7 @@
     "url": "fettuccine.png"
   },
   {
-    "termIta": "fico [fíga, pl. fíghe, veneziano antico; figo, triestino]",
+    "termIta": "fico",
     "url": "fico.png"
   },
   {
@@ -680,7 +680,7 @@
     "url": ""
   },
   {
-    "termIta": "insalata [salata, salada dial. sett.]",
+    "termIta": "insalata",
     "url": ""
   },
   {
@@ -724,7 +724,7 @@
     "url": ""
   },
   {
-    "termIta": "limone [citrone dial.]",
+    "termIta": "limone",
     "url": ""
   },
   {
@@ -736,11 +736,11 @@
     "url": "maccheroni.png"
   },
   {
-    "termIta": "malvasia [marvaxïa, genovese; malvaSia, giuliano; malvazìa, bresciano; malvasìa, veneziano]",
+    "termIta": "malvasia",
     "url": ""
   },
   {
-    "termIta": "mandorla [màndola, veneziano; màndula, triestino]",
+    "termIta": "mandorla",
     "url": ""
   },
   {
@@ -772,7 +772,7 @@
     "url": "marmellata.png"
   },
   {
-    "termIta": "marrone [maron, romagnolo;maro–ni˛, veneziano; maro–ni, friulano]",
+    "termIta": "marrone",
     "url": "castagna.png"
   },
   {
@@ -800,7 +800,7 @@
     "url": ""
   },
   {
-    "termIta": "melograno [pomogranato, sett.]",
+    "termIta": "melograno",
     "url": "melograno.png"
   },
   {
@@ -832,7 +832,7 @@
     "url": "bologna.png"
   },
   {
-    "termIta": "moscatello [muscatella meridion.]",
+    "termIta": "moscatello",
     "url": ""
   },
   {
@@ -844,7 +844,7 @@
     "url": ""
   },
   {
-    "termIta": "mostarda [mustarda, bolognese]",
+    "termIta": "mostarda",
     "url": ""
   },
   {
@@ -896,7 +896,7 @@
     "url": ""
   },
   {
-    "termIta": "ostrica [òstriga, triestino, friulano, giuliano; òstrega, veneziano]",
+    "termIta": "ostrica",
     "url": "ostrica.png"
   },
   {
@@ -972,7 +972,7 @@
     "url": "allaputtanesca.png"
   },
   {
-    "termIta": "pastella [pastetta napoletano]",
+    "termIta": "pastella",
     "url": "pastella.png"
   },
   {
@@ -1001,7 +1001,7 @@
   },
   {
     "termIta": "peperonata",
-    "url": "capinata.png"
+    "url": "caponata.png"
   },
   {
     "termIta": "peperoncino",
@@ -1040,7 +1040,7 @@
     "url": "pinoli.png"
   },
   {
-    "termIta": "pinza [veneto, emiliano]",
+    "termIta": "pinza",
     "url": ""
   },
   {
@@ -1100,11 +1100,11 @@
     "url": ""
   },
   {
-    "termIta": "potaggio [ven. potacio]",
+    "termIta": "potaggio",
     "url": ""
   },
   {
-    "termIta": "prezzemolo [petrosino, petrusello, petrosello meridion.]",
+    "termIta": "prezzemolo",
     "url": "prezzemolo.png"
   },
   {
@@ -1144,7 +1144,7 @@
     "url": "ravanello.png"
   },
   {
-    "termIta": "raponzo, raperonzolo, raponzolo [rapónz, mantovano; desueto raponzo, pistoiese]",
+    "termIta": "raponzo, raperonzolo, raponzolo",
     "url": ""
   },
   {
@@ -1172,7 +1172,7 @@
     "url": "maccheroni.png"
   },
   {
-    "termIta": "risi e bisi [veneziano]",
+    "termIta": "risi e bisi",
     "url": ""
   },
   {
@@ -1204,7 +1204,7 @@
     "url": ""
   },
   {
-    "termIta": "ruchetta [rucola it. sett.]",
+    "termIta": "ruchetta",
     "url": "ruchetta.png"
   },
   {
@@ -1240,7 +1240,7 @@
     "url": ""
   },
   {
-    "termIta": "sambuco [sambúk, sambúgo, friulano; sˇambúk, romagnolo]",
+    "termIta": "sambuco",
     "url": ""
   },
   {
@@ -1280,7 +1280,7 @@
     "url": ""
   },
   {
-    "termIta": "sedano [sèllero; séler, pl. séleri, dial. sett.; sèllero romanesco]",
+    "termIta": "sedano",
     "url": "sedano.png"
   },
   {
@@ -1492,7 +1492,7 @@
     "url": ""
   },
   {
-    "termIta": "verzin [verzèn desueto milanese; verzìn, veneziano]",
+    "termIta": "verzin",
     "url": ""
   },
   {
