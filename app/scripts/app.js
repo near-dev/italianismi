@@ -58,7 +58,11 @@ var languageMap= {
 		eng: 'sentence'
 	},
 	termsNotFound: {
-		ita: 'Non è stata trovata nessuna parola corrispondente alla tua ricerca. <br> Desideri aggiungere il termine cercato? <a class="btn form-control attivo half" href="#form">Aggiungi una parola straniera</a>',
+		ita: 'Non è stata trovata nessuna parola corrispondente alla tua ricerca. <br> Desideri aggiungere il termine cercato?',
+		eng: 'sentence'
+	},
+	termsNotFoundLink: {
+		ita: 'Aggiungi una parola straniera',
 		eng: 'sentence'
 	},
 	cardSentence1: {
@@ -140,7 +144,7 @@ angular
         templateUrl: 'views/vivit.html',
         controller: 'VivitCtrl'
       })
-      .when('/form', {
+      .when('/form/:term?', {
         templateUrl: 'views/form.html',
         controller: 'FormCtrl'
       })
