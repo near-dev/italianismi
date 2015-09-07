@@ -240,7 +240,7 @@ body {
   margin: 0;
   padding: 0;
   text-align: center;
-  background:url('../images/bk.jpg');
+  background:#f4f4f2;
 
   .container-fluid{
     margin:0;
@@ -302,6 +302,7 @@ body {
       margin-bottom: 60px;
       &.cominciare{
         float:none !important;
+        display: inline-block;
       }
     } 
 
@@ -357,8 +358,8 @@ body {
     width: 285px;
     position: absolute;
     z-index: 100;
-    bottom: 30px;
-    right: 146px;
+    bottom: 47px;
+    right: 180px;
   }
 
   .cover_layer{

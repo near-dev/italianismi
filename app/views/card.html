@@ -19,13 +19,14 @@
 										<div class=" col-md-offset-2 col-md-4 left">
 											<label ng-bind-html="languageMap.cardSentence2[languageSel]"></label>
 											<h1 ng-bind="term.termIta"></h1>
+											<span ng-if="term.termIta2"><i ng-bind="term.termIta2"></i></span>
 											<p ng-bind="term.descIta"></p>
 										</div>
 										<div class="col-md-4 right">
 											<label ng-bind-html="languageMap.cardSentence3[languageSel]"></label>
 											<h1><strong ng-bind="language.term"></strong></h1>
-											<p ng-if="language.otherTerms" style="height: auto !important;; min-height: auto !important;"><i ng-bind="language.otherTerms"></i></p>
-											<p ng-if="language.desc" ng-bind="language.desc" style="height: auto !important; min-height: auto !important;"></p>
+											<p ng-if="language.otherTerms"><i ng-bind="language.otherTerms"></i></p>
+											<p ng-if="language.desc" ng-bind="language.desc"></p>
 										</div>
 										<!--hr-->
 										<div class="col-md-12 contenuto">
