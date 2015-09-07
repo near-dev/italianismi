@@ -6,7 +6,7 @@
 				<h2 ng-hide="language" ng-bind-html="languageMap.termsTitle3[languageSel]"></h2>
 				<h3 ng-show="language" ng-bind-html="languageMap.termsTitle4[languageSel]"></h3>
 				<h2 ng-show="language" ng-bind="language" class="sel"></h2>
-				<input type="text" class="form-control" placeholder="{{ languageMap.termsSearchPH[languageSel] }}" title="" ng-model="search.termIta" id="search">
+				<input type="text" class="form-control" placeholder="{{ languageMap.termsSearchPH[languageSel] }}" title="" ng-model="search.termIta" id="search" autocomplete="off">
 				<span class="glyphicon glyphicon-search"></span>
 		   	</header>
 		   	<div class="box_parole" >
@@ -16,7 +16,10 @@
 						<a href="#{{ language ? 'card/' + term.termIta + '/' + language + '/' + search.termIta : 'languages/' + term.termIta + '/' + search.termIta }}" ng-bind="term.termIta"></a>
 					</li>
 				</ul>
-				<p ng-hide="filteredTerms.length"><em ng-bind-html="languageMap.termsNotFound[languageSel]"></em></p>
+				<p ng-hide="filteredTerms.length">
+					<em ng-bind-html="languageMap.termsNotFound[languageSel]"></em>
+					<a class="btn form-control attivo half" href="#form/{{ search.termIta }}" ng-bind-html="languageMap.termsNotFoundLink[languageSel]"></a>
+				</p>
 			</div>
         </div>
         <div ng-include="'views/menu.html'"></div>

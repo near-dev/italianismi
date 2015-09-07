@@ -58,7 +58,11 @@ var languageMap= {
 		eng: 'sentence'
 	},
 	termsNotFound: {
-		ita: 'Non è stata trovata nessuna parola corrispondente alla tua ricerca. <br> Desideri aggiungere il termine cercato? <a class="btn form-control attivo half" href="#form">Aggiungi una parola straniera</a>',
+		ita: 'Non è stata trovata nessuna parola corrispondente alla tua ricerca. <br> Desideri aggiungere il termine cercato?',
+		eng: 'sentence'
+	},
+	termsNotFoundLink: {
+		ita: 'Aggiungi una parola straniera',
 		eng: 'sentence'
 	},
 	cardSentence1: {
@@ -140,7 +144,7 @@ angular
         templateUrl: 'views/vivit.html',
         controller: 'VivitCtrl'
       })
-      .when('/form', {
+      .when('/form/:term?', {
         templateUrl: 'views/form.html',
         controller: 'FormCtrl'
       })
@@ -156,7 +160,7 @@ angular
         redirectTo: '/'
       });
   })
-  .run(function($rootScope, $window, $templateCache, engine) {
+  .run(function($rootScope, $window, $location, $templateCache, engine) {
 	  $rootScope.languageSel = engine.getLanguage();
 	  $rootScope.languageMap = languageMap;
 	  
@@ -165,6 +169,10 @@ angular
 			  engine.setLanguage(language);
 			  $window.location.reload();
 		  }
+	  }
+	  
+	  $rootScope.go = function(path) {
+		  $location.path(path);
 	  }
   });
 
@@ -181,6 +189,30 @@ $(document).ready(function () {
     $(this).keypress(function (e) {
         idleTime = 0;
     });
+	
+	var initKeyboard = function() {
+		if ($('#virtualKeyboardChromeExtensionOverlayScrollExtend').length) {
+			$('#virtualKeyboardChromeExtensionOverlayScrollExtend').attrchange({
+				callback: function (event) { 
+					if ($('#virtualKeyboardChromeExtensionOverlayScrollExtend').css('display') === 'none') {
+						$( 'input' ).blur();
+						$('html').animate({top: '0'});
+					}
+					else {
+						if ($('#formverde').length)
+						{
+							$('html').animate({top: '-250px'});
+						}        
+					}
+				}
+			});	
+		}
+		else {
+			setTimeout(initKeyboard, 100);
+		}
+	};
+	initKeyboard();
+
 });
 
 function timerIncrement() {
