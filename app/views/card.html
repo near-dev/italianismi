@@ -62,12 +62,14 @@
 		if ($('.x.swiper-slide').length === window.count) { 
 			var swiperH = new Swiper('#swiper-container-h', {
 				initialSlide: window.index,
-				//pagination: '.swiper-pagination-h',
-				//paginationClickable: true,
 				spaceBetween: 0,
 				nextButton: '.swiper-button-next',
 				prevButton: '.swiper-button-prev',
-				loop:true
+				loop:true,
+				autoplay: 2500,
+       			autoplayDisableOnInteraction: false,
+       			parallax: true,
+       			speed: 600,
 			});
 		} else { 
 			setTimeout(bootstrap, 100) 
