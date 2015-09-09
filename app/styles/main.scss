@@ -637,7 +637,7 @@ body {
     .box_parole{
       margin-top:210px;
       margin-bottom: 200px;
-      height: 740px; 
+      height: 670px; 
       overflow-y:auto;
       padding-top: 45px;
       padding-bottom: 30px;
@@ -665,6 +665,15 @@ body {
     .form-control:focus, textarea:focus, input[type="text"]:focus, input[type="password"]:focus, input[type="datetime"]:focus, input[type="datetime-local"]:focus, input[type="date"]:focus, input[type="month"]:focus, input[type="time"]:focus, input[type="week"]:focus, input[type="number"]:focus, input[type="email"]:focus, input[type="url"]:focus, input[type="search"]:focus, input[type="tel"]:focus, input[type="color"]:focus, .uneditable-input:focus {   
       border-color: rgba(250, 166, 26, 0.8);
       box-shadow: 0 1px 1px rgba(250, 166, 26, 0.075) inset, 0 0 8px rgba(250, 166, 26, 0.6);
+    }
+
+    .arrow_down{
+      position: absolute;
+      bottom: 60px;
+      z-index: 100;
+      float: none;
+      right: 50%;
+      margin-right: -40px;
     }
   }
 
@@ -785,7 +794,7 @@ body {
     background: $bianco;
     padding: 90px;
     width: 50%;
-    margin: 200px auto;
+    margin: 50px auto;
     font-family: $sans;
     font-size:16px;
 
