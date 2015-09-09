@@ -13,7 +13,7 @@
           <a href="#terms" ng-click="go('/terms')" class="transparent"></a>
 
           <div class="cominciare" id="cominciare">
-            <div>Antipasto per cominciare</div>
+            <div>Antipasto per cominciare</div><br>
             <img src="images/left_arrow.gif" class="arrow_down">
           </div>
           <div class="bubble">
@@ -35,7 +35,7 @@
               <h3>Cerca una parola italiana<br>e scopri dove viene usata</h3>
             </div>
           </a>
-          <br>
+          <br><br>
           <h3><small>Oppure</small></h3>
           <p>Continua a leggere</p>
           <img src="images/left_arrow.gif" class="arrow_down">
@@ -71,7 +71,7 @@
               <h3>Cerca una parola italiana<br>e scopri dove viene usata</h3>
             </div>
           </a>
-          <br>
+          <br><br>
           <h3><small>Oppure</small></h3>
           <p>Continua a leggere</p>
           <img src="images/left_arrow.gif" class="arrow_down">
@@ -87,6 +87,11 @@
           <div class="bubble">
             <h1>XII</h1>
             <p><br><br>Non mancano infine termini anche più specifici, quali ad esempio parmigiano, mozzarella, olio d'oliva, aceto balsamico, così come fra i formati di pasta le farfalle sono ormai conosciute quasi quanto le tagliatelle.</p>
+          </div>
+          <br> <br>
+          <div class="cominciare torna logo">
+            <img src="images/left_arrow.gif" class="arrow_top">
+            <div>Torna</div>
           </div>
           <div class="box_crediti">
             <img src="images/pep_logo.png" class="logo">
@@ -268,10 +273,11 @@
       //layer2 and layer3 have no elements. We need to know the parallax's real hidden height.
       //depending on HORIZ: call function to get width or height
       var layerHeight = $('#parallax').parallaxSwipe.getSize();
-      $('#layer2').css('height',layerHeight+500); //add some more height for fast moving layers.
+      $('#layer2').css('height',layerHeight+400); //add some more height for fast moving layers.
       //$('#layer3').css('height',layerHeight); //static background but need to add a height.
     });
 
+    $('.panel').css('box-shadow', 0);
   });
 
     </script>
