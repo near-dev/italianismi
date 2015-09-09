@@ -55,7 +55,8 @@ angular.module('italianismiApp')
 		angular.forEach(this.images, function(image) {
 			if (image.termIta === termStr) {
 				if (image.url) {
-					retUrl = "http://ariel.ariel.ctu.unimi.it/italianismi/tempImages/" + image.url;
+					//retUrl = "http://ariel.ariel.ctu.unimi.it/italianismi/tempImages/" + image.url;
+					retUrl = "images/italianismi/" + image.url;
 				}
 			}
 		});
