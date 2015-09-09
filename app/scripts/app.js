@@ -85,6 +85,50 @@ var languageMap= {
 		ita: 'Lingua Selezionata',
 		eng: 'sentence'
 	},
+	formTitle: {
+		ita: 'Aggiungi una parola Straniera',
+		eng: 'sentence'
+	},
+	formText: {
+		ita: 'Lo scopo del progetto è Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint',
+		eng: 'sentence'
+	},
+	formPh1: {
+		ita: 'Nome / Cognome *',
+		eng: 'sentence'
+	},
+	formPh2: {
+		ita: 'E-mail *',
+		eng: 'sentence'
+	},
+	formPh3: {
+		ita: 'Nuova Parola',
+		eng: 'sentence'
+	},
+	formPh4: {
+		ita: 'Lingua',
+		eng: 'sentence'
+	},
+	formPh5: {
+		ita: 'Significato e note',
+		eng: 'sentence'
+	},
+	formSubmit: {
+		ita: 'Invia',
+		eng: 'sentence'
+	},
+	formCancel: {
+		ita: 'Annulla',
+		eng: 'sentence'
+	},
+	confirmText1: {
+		ita: 'Grazie $$name,<br>la parola <span>$$term</span> è stata inserita<br> fra gli italianismi in lingua <span>$$language</span>',
+		eng: 'sentence $$name $$term $$language'
+	},
+	confirmText2: {
+		ita: 'Il tuo aiuto è prezioso per arricchire<br>il nostro “vocabolario degli italianismi”.<br>Conosci altri termini utili?',
+		eng: 'sentence'
+	}
 }
 /**
  * @ngdoc overview

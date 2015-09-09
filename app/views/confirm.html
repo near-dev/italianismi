@@ -1,18 +1,11 @@
     <div class="container-fluid verde popup" style="background:url(images/OPP_AggiungiPopup.png)">
       <div class="row">
         <div class="col-md-offset-2 col-md-8">
-        	<h5>Parole italiane della cucina nelle lingue del mondo</h5>
+        	<h5 ng-bind-html="languageMap.termsTitle1[languageSel]"></h5>
         	<div class="popup_txt">
         		<a class="chiudi glyphicon glyphicon-remove" href="#form"></a>
-        		<div class="spiega">
-        			Grazie Nome Cognome, <br>
-        			la parola <span>Ciapati</span> è stata inserita<br> fra gli italianismi in lingua <span>Hindi</span>
-        		</div>
-        		<div class="note">
-	        		Il tuo aiuto è prezioso per arricchire<br>
-                    il nostro “vocabolario degli italianismi”.<br>
-                    Conosci altri termini utili?
-	        	</div>
+        		<div class="spiega" ng-bind-html="text"></div>
+        		<div class="note" ng-bind-html="languageMap.confirmText2[languageSel]"></div>
 				<a class="btn form-control attivo half" href="#form">Aggiungi un'altra parola</a>
         	</div>
         </div>
