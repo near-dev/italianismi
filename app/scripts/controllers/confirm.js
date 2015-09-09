@@ -8,10 +8,6 @@
  * Controller of the italianismiApp
  */
 angular.module('italianismiApp')
-  .controller('ConfirmCtrl', function ($scope) {
-    $scope.awesomeThings = [
-      'HTML5 Boilerplate',
-      'AngularJS',
-      'Karma'
-    ];
+  .controller('ConfirmCtrl', function ($rootScope, $scope) {
+	  $scope.text = $rootScope.languageMap.confirmText1[$rootScope.languageSel];
   });
