@@ -40,7 +40,7 @@ angular.module('italianismiApp')
     	});
     };	
 	
-	this.getTerm = function(termStr) {
+	this.getTerm = function(termStr) { 
 		var retTerm = null;
 		angular.forEach(this.terms, function(term) {
 			if (term.termIta === termStr) {
@@ -55,7 +55,7 @@ angular.module('italianismiApp')
 		angular.forEach(this.images, function(image) {
 			if (image.termIta === termStr) {
 				if (image.url) {
-					retUrl = "http://ariel.ariel.ctu.unimi.it/italianismi/tempImages/" + image.url;
+					retUrl = "photos/" + image.url;
 				}
 			}
 		});
