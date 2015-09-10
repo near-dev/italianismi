@@ -13,6 +13,8 @@ angular.module('italianismiApp')
   	$scope.search = $routeParams.search;
   	$scope.terms = engine.getFilteredTerms($scope.language, $scope.search);
 	
+	$scope.languageName = engine.getLanguageName($scope.language);
+
 	$scope.startWith = function(actual, expected) {
 		var lowerStr = (actual + "").toLowerCase();
 		return lowerStr.indexOf(expected.toLowerCase()) === 0;

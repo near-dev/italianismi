@@ -13,14 +13,25 @@ angular.module('italianismiApp')
 
     var that = this;
 	
-
+	this.getLanguageName = function(language) {
+		var languageName = "";
+		if (language) {
+			angular.forEach(that.languages, function(_language) {
+				if (_language.ref === language) {
+					languageName = _language.name;
+				}
+			});
+		}
+		return languageName;
+		
+	};
+	
     this.getFilteredTerms = function(language, search) {
-    	return $filter('filter')(this.terms, function(value) {
+    	return $filter('filter')(that.terms, function(value) {
     		var found = false;
-
     		if (language) {
 	    		angular.forEach(value.languages, function(_language) {
-	    			if (_language.name === language) {
+	    			if (_language.ref === language) {
 	    				found = true;
 	    			}
 	    		});
@@ -55,12 +66,7 @@ angular.module('italianismiApp')
 		angular.forEach(this.images, function(image) {
 			if (image.termIta === termStr) {
 				if (image.url) {
-<<<<<<< HEAD
-					//retUrl = "http://ariel.ariel.ctu.unimi.it/italianismi/tempImages/" + image.url;
-					retUrl = "images/italianismi/" + image.url;
-=======
 					retUrl = "photos/" + image.url;
->>>>>>> 9f79e95c183147947072e8cc22de30bb80b75822
 				}
 			}
 		});
