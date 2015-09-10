@@ -180,8 +180,11 @@ angular
         controller: 'CardCtrl',
         resolve: {
           terms: function(engine) {
-            return engine.termsPromise;
-          }
+            return engine.termsPromise
+          },
+		  languages: function(engine) {
+			return engine.languagePromise;  
+		  }
         }
       })
       .when('/vivit', {

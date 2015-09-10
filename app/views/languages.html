@@ -11,10 +11,10 @@
 		
 	<ul class="quattro_colonne">
 		<li ng-repeat="language in languages">
-			<span ng-if="!term || hasLanguage(language.name)" ng-class="{sel:term}">
-				<a href="#{{ term ? 'card/' + term.termIta + '/' + language.name + '/' + search : 'terms/' + language.name }}" ng-bind="language.name"></a> <!--span ng-if="hasLanguage(language)" class="label label-success">sel</span-->
+			<span ng-if="!term || hasLanguage(language.ref)" ng-class="{sel:term}">
+				<a href="#{{ term ? 'card/' + term.termIta + '/' + language.ref + '/' + search : 'terms/' + language.ref }}" ng-bind="language.name"></a> <!--span ng-if="hasLanguage(language)" class="label label-success">sel</span-->
 			</span>
-			<span ng-if="term && !hasLanguage(language.name)" ng-bind="language.name"></span>
+			<span ng-if="term && !hasLanguage(language.ref)" ng-bind="language.name"></span>
 		</li>
 	</ul>
   </div>

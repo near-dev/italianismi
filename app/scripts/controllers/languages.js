@@ -20,7 +20,7 @@ angular.module('italianismiApp')
 			if ($scope.term) {
 				var found = false;
 				angular.forEach($scope.term.languages, function(l) {
-					if (l.name === language) {
+					if (l.ref === language) {
 						found = true;
 					}
 				});
@@ -39,14 +39,13 @@ angular.module('italianismiApp')
 			angular.forEach($scope.term.languages, function(language) {
 				var l = null;
 				angular.forEach($scope.languages, function(lItem) {
-					if (lItem.name === language.name) {
+					if (lItem.ref === language.ref) {
 						l = lItem;
 					}
 				});
 				if (l && l.countries) {
 					lines.push({ latitudes: l.latitudes, longitudes: l.longitudes } );
 					for (var i = 0; i < l.countries.length; i++) {
-						console.log(l.countries[i]);
 						areas.push({ 'id': l.countries[i], 'showAsSelected': true, 'groupId': 'whole' });
 					}
 				}

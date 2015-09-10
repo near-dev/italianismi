@@ -17,13 +17,16 @@ angular.module('italianismiApp')
 	
   	$scope.terms = engine.getFilteredTerms($scope.language);
 	
+	$scope.languageName = engine.getLanguageName($scope.language);
 
 	$window.count = $scope.terms.length;
 
+	console.log($window.count);
+	
   	angular.forEach($scope.terms, function(term, index) {
 		if ($scope.language) {
 			angular.forEach(term.languages, function(language, index) {
-				if (language.name == $scope.language) {
+				if (language.ref == $scope.language) {
 					term.languageIndex = index;
 				}
 			});
@@ -39,16 +42,17 @@ angular.module('italianismiApp')
   		}
   	});
 	
-	$scope.changeLanguage = function(dir, term) {
-		var newIndex = term.languageIndex + dir;
-		if (newIndex >= term.languages.length) {
-			newIndex = 0;
-		}
-		if (newIndex < 0) {
-			newIndex = term.languages.length - 1;
-		}
-		term.languageIndex = newIndex;
-	}
+	// $scope.changeLanguage = function(dir, term) {
+		// console.log("click");
+		// var newIndex = term.languageIndex + dir;
+		// if (newIndex >= term.languages.length) {
+			// newIndex = 0;
+		// }
+		// if (newIndex < 0) {
+			// newIndex = term.languages.length - 1;
+		// }
+		// term.languageIndex = newIndex;
+	// }
 	
 	$scope.getLanguageCount = function(term) {
 		if ($rootScope.languageSel === 'ita') {

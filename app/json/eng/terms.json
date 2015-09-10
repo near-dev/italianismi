@@ -4,6 +4,7 @@
     "languages": [
       {
         "name": "Chinese",
+        "ref": "cinese",
         "term": "Luómǎ fēngwèi de gāoyángròu"
       }
     ],
@@ -15,14 +16,17 @@
     "languages": [
       {
         "name": "Arabic",
+        "ref": "arabo",
         "term": "’anšuuga"
       },
       {
         "name": "Catalan",
+        "ref": "catalano",
         "term": "anxova"
       },
       {
         "name": "Portuguese",
+        "ref": "portoghese",
         "term": "anchova"
       }
     ],
@@ -33,22 +37,27 @@
     "languages": [
       {
         "name": "US English",
+        "ref": "americano",
         "term": "balsamic vinegar"
       },
       {
         "name": "Finnish",
+        "ref": "finnico",
         "term": "balsamietikka, balsamiviinietikka, balsamico"
       },
       {
         "name": "Japanese",
+        "ref": "giapponese",
         "term": "barusamiko-su"
       },
       {
         "name": "UK English",
+        "ref": "inglese",
         "term": "balsamic vinegar, balsamic"
       },
       {
         "name": "Polish",
+        "ref": "polacco",
         "term": "balsamiczny [ocet]"
       }
     ],
@@ -59,6 +68,7 @@
     "languages": [
       {
         "name": "UK English",
+        "ref": "inglese",
         "term": "acqua vita"
       }
     ],
@@ -69,6 +79,7 @@
     "languages": [
       {
         "name": "Latvian",
+        "ref": "lettone",
         "term": "agrests"
       }
     ],
@@ -79,6 +90,7 @@
     "languages": [
       {
         "name": "US English",
+        "ref": "americano",
         "term": "agrodolce"
       }
     ],
@@ -89,12 +101,14 @@
     "languages": [
       {
         "name": "Estonian",
+        "ref": "estone",
         "term": "agruumid"
       },
       {
         "name": "Latvian",
+        "ref": "lettone",
         "term": "agrumeļļas",
-        "desc": "in this language it means: aromatic oils extracted from orange and lemon peels"
+        "desc": "in this language it means aromatic oils extracted from orange and lemon peels"
       }
     ],
     "descIta": "fruit of the shrub or tree of the Cedar genus, divided in segments with a sour taste, including oranges, mandarins, lemons and bergamots."
@@ -104,30 +118,37 @@
     "languages": [
       {
         "name": "US English",
+        "ref": "americano",
         "term": "al dente"
       },
       {
         "name": "Finnish",
+        "ref": "finnico",
         "term": "al dente"
       },
       {
         "name": "Japanese",
+        "ref": "giapponese",
         "term": "aru・dente"
       },
       {
         "name": "UK English",
+        "ref": "inglese",
         "term": "al dente"
       },
       {
         "name": "Polish",
+        "ref": "polacco",
         "term": "al dente"
       },
       {
         "name": "Spanish",
+        "ref": "spagnolo",
         "term": "al dente"
       },
       {
         "name": "Hungarian",
+        "ref": "ungherese",
         "term": "al dente"
       }
     ],
@@ -138,22 +159,27 @@
     "languages": [
       {
         "name": "US English",
+        "ref": "americano",
         "term": "Bolognese"
       },
       {
         "name": "Finnish",
+        "ref": "finnico",
         "term": "bolognankastike, bolognesekastike"
       },
       {
         "name": "UK English",
+        "ref": "inglese",
         "term": "bolognese, Bolognese"
       },
       {
         "name": "Icelandic",
+        "ref": "islandese",
         "term": "bolognese"
       },
       {
         "name": "Hungarian",
+        "ref": "ungherese",
         "term": "bolognai"
       }
     ],
@@ -164,18 +190,22 @@
     "languages": [
       {
         "name": "US English",
+        "ref": "americano",
         "term": "carbonara"
       },
       {
         "name": "French",
+        "ref": "francese",
         "term": "carbon(n)ade"
       },
       {
         "name": "Japanese",
+        "ref": "giapponese",
         "term": "karubonāra"
       },
       {
         "name": "UK English",
+        "ref": "inglese",
         "term": "carbonara"
       }
     ],
@@ -186,6 +216,7 @@
     "languages": [
       {
         "name": "US English",
+        "ref": "americano",
         "term": "alla Norma"
       }
     ],
@@ -196,6 +227,7 @@
     "languages": [
       {
         "name": "Japanese",
+        "ref": "giapponese",
         "term": "pesukatōre"
       }
     ],
@@ -206,10 +238,12 @@
     "languages": [
       {
         "name": "US English",
+        "ref": "americano",
         "term": "puttanesca"
       },
       {
         "name": "Japanese",
+        "ref": "giapponese",
         "term": "puttanesuka"
       }
     ],
@@ -220,6 +254,7 @@
     "languages": [
       {
         "name": "UK English",
+        "ref": "inglese",
         "term": "alla veneziana, Venetian-style"
       }
     ],
@@ -230,10 +265,12 @@
     "languages": [
       {
         "name": "Czech",
+        "ref": "ceco",
         "term": "amarena"
       },
       {
         "name": "Polish",
+        "ref": "polacco",
         "term": "amarena"
       }
     ],
@@ -244,26 +281,32 @@
     "languages": [
       {
         "name": "Japanese",
+        "ref": "giapponese",
         "term": "amaretto"
       },
       {
         "name": "Latvian",
+        "ref": "lettone",
         "term": "amareto"
       },
       {
         "name": "Polish",
+        "ref": "polacco",
         "term": "amarettini"
       },
       {
         "name": "Polish",
+        "ref": "polacco",
         "term": "amaretto"
       },
       {
         "name": "German",
+        "ref": "tedesco",
         "term": "amaretto, -s"
       },
       {
         "name": "German",
+        "ref": "tedesco",
         "term": "amaretto, -s"
       }
     ],
@@ -274,6 +317,7 @@
     "languages": [
       {
         "name": "French",
+        "ref": "francese",
         "term": "amaro, -s"
       }
     ],
@@ -284,6 +328,7 @@
     "languages": [
       {
         "name": "Icelandic",
+        "ref": "islandese",
         "term": "americano"
       }
     ],
@@ -294,10 +339,12 @@
     "languages": [
       {
         "name": "Latvian",
+        "ref": "lettone",
         "term": "amarone"
       },
       {
         "name": "German",
+        "ref": "tedesco",
         "term": "amarone, -s"
       }
     ],
@@ -308,6 +355,7 @@
     "languages": [
       {
         "name": "Hungarian",
+        "ref": "ungherese",
         "term": "ánizs"
       }
     ],
@@ -318,6 +366,7 @@
     "languages": [
       {
         "name": "French",
+        "ref": "francese",
         "term": "animelles"
       }
     ],
@@ -328,18 +377,22 @@
     "languages": [
       {
         "name": "Czech",
+        "ref": "ceco",
         "term": "antipasta"
       },
       {
         "name": "Japanese",
+        "ref": "giapponese",
         "term": "antipasuto"
       },
       {
         "name": "Polish",
+        "ref": "polacco",
         "term": "antypast"
       },
       {
         "name": "Hungarian",
+        "ref": "ungherese",
         "term": "antipasto"
       }
     ],
@@ -351,6 +404,7 @@
     "languages": [
       {
         "name": "Hungarian",
+        "ref": "ungherese",
         "term": "narancs"
       }
     ],
@@ -361,6 +415,7 @@
     "languages": [
       {
         "name": "French",
+        "ref": "francese",
         "term": "orangeade"
       }
     ],
@@ -371,8 +426,9 @@
     "languages": [
       {
         "name": "German",
+        "ref": "tedesco",
         "term": "aranzini",
-        "desc": "in this language it means: candied orange peels"
+        "desc": "in this language it means candied orange peels"
       }
     ],
     "descIta": "fried rice ball, filled with cheese, chicken giblets and meat sauce, typical of Southern cuisine"
@@ -382,6 +438,7 @@
     "languages": [
       {
         "name": "Catalan",
+        "ref": "catalano",
         "term": "arlequí"
       }
     ],
@@ -392,6 +449,7 @@
     "languages": [
       {
         "name": "Arabic",
+        "ref": "arabo",
         "term": "rustu"
       }
     ],
@@ -403,30 +461,37 @@
     "languages": [
       {
         "name": "Estonian",
+        "ref": "estone",
         "term": "spargel"
       },
       {
         "name": "Finnish",
+        "ref": "finnico",
         "term": "parsa"
       },
       {
         "name": "Latvian",
+        "ref": "lettone",
         "term": "sparģeļi"
       },
       {
         "name": "Polish",
+        "ref": "polacco",
         "term": "szparag"
       },
       {
         "name": "German",
+        "ref": "tedesco",
         "term": "spargel, speragen, spargen"
       },
       {
         "name": "Hungarian",
+        "ref": "ungherese",
         "term": "spárga"
       },
       {
         "name": "Hungarian",
+        "ref": "ungherese",
         "term": "spargo"
       }
     ],
@@ -437,6 +502,7 @@
     "languages": [
       {
         "name": "Arabic",
+        "ref": "arabo",
         "term": "bakalååh"
       }
     ],
@@ -447,10 +513,12 @@
     "languages": [
       {
         "name": "US English",
+        "ref": "americano",
         "term": "bagna cauda"
       },
       {
         "name": "UK English",
+        "ref": "inglese",
         "term": "bagna càuda"
       }
     ],
@@ -461,6 +529,7 @@
     "languages": [
       {
         "name": "Hungarian",
+        "ref": "ungherese",
         "term": "bardolino"
       }
     ],
@@ -471,10 +540,12 @@
     "languages": [
       {
         "name": "Czech",
+        "ref": "ceco",
         "term": "barolo"
       },
       {
         "name": "Polish",
+        "ref": "polacco",
         "term": "barolo"
       }
     ],
@@ -485,6 +556,7 @@
     "languages": [
       {
         "name": "Japanese",
+        "ref": "giapponese",
         "term": "bajiriko"
       }
     ],
@@ -495,6 +567,7 @@
     "languages": [
       {
         "name": "German",
+        "ref": "tedesco",
         "term": "belpaese"
       }
     ],
@@ -505,6 +578,7 @@
     "languages": [
       {
         "name": "Hungarian",
+        "ref": "ungherese",
         "term": "Bellini, bellini"
       }
     ],
@@ -515,10 +589,12 @@
     "languages": [
       {
         "name": "Lithuanian",
+        "ref": "lituano",
         "term": "bergamotė"
       },
       {
         "name": "Portuguese",
+        "ref": "portoghese",
         "term": "bergamota"
       }
     ],
@@ -529,6 +605,7 @@
     "languages": [
       {
         "name": "French",
+        "ref": "francese",
         "term": "berlinguaux, berlingot"
       }
     ],
@@ -539,6 +616,7 @@
     "languages": [
       {
         "name": "Hungarian",
+        "ref": "ungherese",
         "term": "bianka, bianca"
       }
     ],
@@ -549,10 +627,12 @@
     "languages": [
       {
         "name": "Arabic",
+        "ref": "arabo",
         "term": "biirra"
       },
       {
         "name": "Catalan",
+        "ref": "catalano",
         "term": "birra"
       }
     ],
@@ -563,6 +643,7 @@
     "languages": [
       {
         "name": "Spanish",
+        "ref": "spagnolo",
         "term": "bizcotela"
       }
     ],
@@ -573,50 +654,61 @@
     "languages": [
       {
         "name": "US English",
+        "ref": "americano",
         "term": "biscotti"
       },
       {
         "name": "Arabic",
+        "ref": "arabo",
         "term": "baskuut"
       },
       {
         "name": "Czech",
+        "ref": "ceco",
         "term": "piškot"
       },
       {
         "name": "Estonian",
+        "ref": "estone",
         "term": "biskviit"
       },
       {
         "name": "French",
+        "ref": "francese",
         "term": "biscotin"
       },
       {
         "name": "French",
+        "ref": "francese",
         "term": "biscotte",
-        "desc": "in this language it means: toast crisp "
+        "desc": "in this language it means toast crisp "
       },
       {
         "name": "Japanese",
+        "ref": "giapponese",
         "term": "bisukottī",
-        "desc": "in this language it means: Tuscan cantucci (hard biscuits cooked without butter,  to be dunked in wine)"
+        "desc": "in this language it means Tuscan cantucci (hard biscuits cooked without butter,  to be dunked in wine)"
       },
       {
         "name": "Latvian",
+        "ref": "lettone",
         "term": "biskvīts"
       },
       {
         "name": "Polish",
+        "ref": "polacco",
         "term": "biszkopt"
       },
       {
         "name": "German",
+        "ref": "tedesco",
         "term": "biskotte"
       },
       {
         "name": "Hungarian",
+        "ref": "ungherese",
         "term": "piskóta",
-        "desc": "in this language it means: sponge cake"
+        "desc": "in this language it means sponge cake"
       }
     ],
     "descIta": "small sweet in various shapes, made of flour and other ingredients, baked in the oven"
@@ -626,6 +718,7 @@
     "languages": [
       {
         "name": "Korean",
+        "ref": "coreano",
         "term": "bologna"
       }
     ],
@@ -636,6 +729,7 @@
     "languages": [
       {
         "name": "Arabic",
+        "ref": "arabo",
         "term": "bambaluuni"
       }
     ],
@@ -646,10 +740,12 @@
     "languages": [
       {
         "name": "UK English",
+        "ref": "inglese",
         "term": "borargo"
       },
       {
         "name": "German",
+        "ref": "tedesco",
         "term": "botarga, butarga, -i"
       }
     ],
@@ -660,6 +756,7 @@
     "languages": [
       {
         "name": "US English",
+        "ref": "americano",
         "term": "branzino"
       }
     ],
@@ -671,8 +768,9 @@
     "languages": [
       {
         "name": "Polish",
+        "ref": "polacco",
         "term": "bryzol, brizol",
-        "desc": "in this language it means: dish of veal or beef"
+        "desc": "in this language it means dish of veal or beef"
       }
     ],
     "descIta": "chop, piece of meat roasted over hot coals"
@@ -682,8 +780,9 @@
     "languages": [
       {
         "name": "UK English",
+        "ref": "inglese",
         "term": "brasole",
-        "desc": "in this language it also means: slang vagina "
+        "desc": "in this language it also means slang vagina "
       }
     ],
     "descIta": "salted, dried beef, typical of Valtellina"
@@ -693,8 +792,9 @@
     "languages": [
       {
         "name": "UK English",
+        "ref": "inglese",
         "term": "brendice",
-        "desc": "in this language it means: chalice used for toasting"
+        "desc": "in this language it means chalice used for toasting"
       }
     ],
     "descIta": "the raising and touching of glasses, inviting to drink, as a greeting or congratulations"
@@ -704,78 +804,97 @@
     "languages": [
       {
         "name": "US English",
+        "ref": "americano",
         "term": "broccoli"
       },
       {
         "name": "Arabic",
+        "ref": "arabo",
         "term": "bruuklu"
       },
       {
         "name": "Catalan",
+        "ref": "catalano",
         "term": "bròquil, bròcul"
       },
       {
         "name": "Czech",
+        "ref": "ceco",
         "term": "brokolice"
       },
       {
         "name": "Korean",
+        "ref": "coreano",
         "term": "pŭrok'olli"
       },
       {
         "name": "Estonian",
+        "ref": "estone",
         "term": "brokoli"
       },
       {
         "name": "Finnish",
+        "ref": "finnico",
         "term": "broccoli, brokkoli"
       },
       {
         "name": "French",
+        "ref": "francese",
         "term": "brocoli, -s"
       },
       {
         "name": "Gaelic",
+        "ref": "gaelico",
         "term": "brocailí"
       },
       {
         "name": "Japanese",
+        "ref": "giapponese",
         "term": "burokkorī"
       },
       {
         "name": "UK English",
+        "ref": "inglese",
         "term": "broc(c)oli"
       },
       {
         "name": "Icelandic",
+        "ref": "islandese",
         "term": "broccoli, brokkóli"
       },
       {
         "name": "Latvian",
+        "ref": "lettone",
         "term": "brokoļi"
       },
       {
         "name": "Lithuanian",
+        "ref": "lituano",
         "term": "brokolis"
       },
       {
         "name": "Polish",
+        "ref": "polacco",
         "term": "brokuł"
       },
       {
         "name": "Portuguese",
+        "ref": "portoghese",
         "term": "brócolos"
       },
       {
         "name": "Spanish",
+        "ref": "spagnolo",
         "term": "bróculi"
       },
       {
         "name": "German",
+        "ref": "tedesco",
         "term": "brokkoli"
       },
       {
         "name": "Hungarian",
+        "ref": "ungherese",
         "term": "brokkoli, broccoli"
       }
     ],
@@ -786,17 +905,20 @@
     "languages": [
       {
         "name": "Arabic",
+        "ref": "arabo",
         "term": "bruudu"
       },
       {
         "name": "Portuguese",
+        "ref": "portoghese",
         "term": "bródio",
-        "desc": "in this language it means: banquet, feast"
+        "desc": "in this language it means banquet, feast"
       },
       {
         "name": "Spanish",
+        "ref": "spagnolo",
         "term": "bodrio",
-        "desc": "in this language it means: cabbage, bread and potato soup"
+        "desc": "in this language it means cabbage, bread and potato soup"
       }
     ],
     "descIta": "liquid obtained by cooking meat or vegetables in water with salt, herbs and spices, eaten alone or used to prepare soups"
@@ -806,26 +928,32 @@
     "languages": [
       {
         "name": "US English",
+        "ref": "americano",
         "term": "bruschetta"
       },
       {
         "name": "Chinese",
+        "ref": "cinese",
         "term": "Luómǎ tèsè jiā suànmò, xīhóngshìpiàn de kǎo miànbāopiàn"
       },
       {
         "name": "Finnish",
+        "ref": "finnico",
         "term": "bruschetta"
       },
       {
         "name": "UK English",
+        "ref": "inglese",
         "term": "bruschetta, -s, -tte"
       },
       {
         "name": "Polish",
+        "ref": "polacco",
         "term": "bruschetta"
       },
       {
         "name": "Hungarian",
+        "ref": "ungherese",
         "term": "bruschetta, brushetta, brusetta"
       }
     ],
@@ -836,6 +964,7 @@
     "languages": [
       {
         "name": "Lithuanian",
+        "ref": "lituano",
         "term": "bukata, bucata, bucato"
       }
     ],
@@ -847,19 +976,23 @@
     "languages": [
       {
         "name": "US English",
+        "ref": "americano",
         "term": "budino"
       },
       {
         "name": "Chinese",
+        "ref": "cinese",
         "term": "bùdīng"
       },
       {
         "name": "UK English",
+        "ref": "inglese",
         "term": "bodini, budini",
-        "desc": "in this language it also means: slang penis"
+        "desc": "in this language it also means slang penis"
       },
       {
         "name": "Polish",
+        "ref": "polacco",
         "term": "budyń"
       }
     ],
@@ -870,6 +1003,7 @@
     "languages": [
       {
         "name": "Hungarian",
+        "ref": "ungherese",
         "term": "bonaburuttya"
       }
     ],
@@ -880,6 +1014,7 @@
     "languages": [
       {
         "name": "US English",
+        "ref": "americano",
         "term": "burrata"
       }
     ],
@@ -890,6 +1025,7 @@
     "languages": [
       {
         "name": "Arabic",
+        "ref": "arabo",
         "term": "kaaki"
       }
     ],
@@ -900,6 +1036,7 @@
     "languages": [
       {
         "name": "US English",
+        "ref": "americano",
         "term": "cacio e pepe"
       }
     ],
@@ -910,10 +1047,12 @@
     "languages": [
       {
         "name": "UK English",
+        "ref": "inglese",
         "term": "caciocavallo cheese"
       },
       {
         "name": "Hungarian",
+        "ref": "ungherese",
         "term": "kaskavál"
       }
     ],
@@ -924,6 +1063,7 @@
     "languages": [
       {
         "name": "UK English",
+        "ref": "inglese",
         "term": "caciuc(c)o"
       }
     ],
@@ -934,18 +1074,22 @@
     "languages": [
       {
         "name": "Catalan",
+        "ref": "catalano",
         "term": "cafè"
       },
       {
         "name": "Chinese",
+        "ref": "cinese",
         "term": "kāfēi"
       },
       {
         "name": "Portuguese",
+        "ref": "portoghese",
         "term": "café"
       },
       {
         "name": "Spanish",
+        "ref": "spagnolo",
         "term": "café"
       }
     ],
@@ -956,18 +1100,22 @@
     "languages": [
       {
         "name": "Finnish",
+        "ref": "finnico",
         "term": "Caffè latte, latte"
       },
       {
         "name": "Japanese",
+        "ref": "giapponese",
         "term": "kaferatte"
       },
       {
         "name": "Icelandic",
+        "ref": "islandese",
         "term": "caffelatte"
       },
       {
         "name": "Lithuanian",
+        "ref": "lituano",
         "term": "cafe lat(t)e, kava late, late"
       }
     ],
@@ -978,6 +1126,7 @@
     "languages": [
       {
         "name": "Japanese",
+        "ref": "giapponese",
         "term": "caraburia"
       }
     ],
@@ -988,26 +1137,32 @@
     "languages": [
       {
         "name": "US English",
+        "ref": "americano",
         "term": "calamari"
       },
       {
         "name": "Arabic",
+        "ref": "arabo",
         "term": "kalamaari, kalimaari"
       },
       {
         "name": "Catalan",
+        "ref": "catalano",
         "term": "calamar"
       },
       {
         "name": "Portuguese",
+        "ref": "portoghese",
         "term": "calamar"
       },
       {
         "name": "Spanish",
+        "ref": "spagnolo",
         "term": "calamar"
       },
       {
         "name": "Hungarian",
+        "ref": "ungherese",
         "term": "calamari"
       }
     ],
@@ -1018,14 +1173,17 @@
     "languages": [
       {
         "name": "Arabic",
+        "ref": "arabo",
         "term": "kalzuuni"
       },
       {
         "name": "US English",
+        "ref": "inglese",
         "term": "calzone, -s, -i"
       },
       {
         "name": "Lithuanian",
+        "ref": "lituano",
         "term": "calzone, kalconas"
       }
     ],
@@ -1036,10 +1194,12 @@
     "languages": [
       {
         "name": "Czech",
+        "ref": "ceco",
         "term": "campari"
       },
       {
         "name": "Latvian",
+        "ref": "lettone",
         "term": "kampari"
       }
     ],
@@ -1050,20 +1210,24 @@
     "languages": [
       {
         "name": "French",
+        "ref": "francese",
         "term": "candir"
       },
       {
         "name": "UK English",
+        "ref": "inglese",
         "term": "candy",
-        "desc": "in this language it means: to sweeten"
+        "desc": "in this language it means to sweeten"
       },
       {
         "name": "German",
+        "ref": "tedesco",
         "term": "kandiren",
-        "desc": "in this language it means: to crystalize"
+        "desc": "in this language it means to crystalize"
       },
       {
         "name": "Hungarian",
+        "ref": "ungherese",
         "term": "kandíroz"
       }
     ],
@@ -1074,14 +1238,17 @@
     "languages": [
       {
         "name": "Czech",
+        "ref": "ceco",
         "term": "kandys"
       },
       {
         "name": "French",
+        "ref": "francese",
         "term": "candi"
       },
       {
         "name": "German",
+        "ref": "tedesco",
         "term": "kanditen"
       }
     ],
@@ -1092,10 +1259,12 @@
     "languages": [
       {
         "name": "US English",
+        "ref": "americano",
         "term": "cannellini bean"
       },
       {
         "name": "UK English",
+        "ref": "inglese",
         "term": "cannellini bean"
       }
     ],
@@ -1106,39 +1275,48 @@
     "languages": [
       {
         "name": "Catalan",
+        "ref": "catalano",
         "term": "canelons"
       },
       {
         "name": "Finnish",
+        "ref": "finnico",
         "term": "kanneloni, cannelloni"
       },
       {
         "name": "French",
+        "ref": "francese",
         "term": "cannelloni(s)"
       },
       {
         "name": "Japanese",
+        "ref": "giapponese",
         "term": "kaneroni",
-        "desc": "in this language it means: square pasta; dish includes maccheroni in Japan"
+        "desc": "in this language it means square pasta; dish includes maccheroni in Japan"
       },
       {
         "name": "UK English",
+        "ref": "inglese",
         "term": "cannellon(s)"
       },
       {
         "name": "Lithuanian",
+        "ref": "lituano",
         "term": "cannelloni"
       },
       {
         "name": "Polish",
+        "ref": "polacco",
         "term": "cannelloni"
       },
       {
         "name": "Spanish",
+        "ref": "spagnolo",
         "term": "canelón"
       },
       {
         "name": "Hungarian",
+        "ref": "ungherese",
         "term": "cannelloni, canelloni"
       }
     ],
@@ -1149,10 +1327,12 @@
     "languages": [
       {
         "name": "Lithuanian",
+        "ref": "lituano",
         "term": "kantalupa"
       },
       {
         "name": "Hungarian",
+        "ref": "ungherese",
         "term": "kantalup"
       }
     ],
@@ -1163,6 +1343,7 @@
     "languages": [
       {
         "name": "UK English",
+        "ref": "inglese",
         "term": "angel hair"
       }
     ],
@@ -1173,6 +1354,7 @@
     "languages": [
       {
         "name": "UK English",
+        "ref": "inglese",
         "term": "capocollo, -s, -i"
       }
     ],
@@ -1183,10 +1365,12 @@
     "languages": [
       {
         "name": "US English",
+        "ref": "americano",
         "term": "caponata"
       },
       {
         "name": "UK English",
+        "ref": "inglese",
         "term": "caponata"
       }
     ],
@@ -1198,14 +1382,17 @@
     "languages": [
       {
         "name": "Czech",
+        "ref": "ceco",
         "term": "kapara"
       },
       {
         "name": "Polish",
+        "ref": "polacco",
         "term": "kapar"
       },
       {
         "name": "Hungarian",
+        "ref": "ungherese",
         "term": "kápri, kapri, capri"
       }
     ],
@@ -1216,64 +1403,79 @@
     "languages": [
       {
         "name": "Arabic",
+        "ref": "arabo",
         "term": "kabatšiinu"
       },
       {
         "name": "Czech",
+        "ref": "ceco",
         "term": "cappuccino, kapučíno"
       },
       {
         "name": "Korean",
+        "ref": "coreano",
         "term": "k'ap'uch'ino"
       },
       {
         "name": "Danish",
+        "ref": "danese",
         "term": "cappuccino"
       },
       {
         "name": "Estonian",
+        "ref": "estone",
         "term": "kaputšiino"
       },
       {
         "name": "Faroese",
+        "ref": "faroese",
         "term": "cappuccino"
       },
       {
         "name": "Finnish",
+        "ref": "finnico",
         "term": "cappuccino, capuccino, cappucino"
       },
       {
         "name": "Japanese",
+        "ref": "giapponese",
         "term": "kapuchīno"
       },
       {
         "name": "Icelandic",
+        "ref": "islandese",
         "term": "cappuccino"
       },
       {
         "name": "Latvian",
+        "ref": "lettone",
         "term": "kapučīno"
       },
       {
         "name": "Lithuanian",
+        "ref": "lituano",
         "term": "kapučinas, kapucinas"
       },
       {
         "name": "Polish",
+        "ref": "polacco",
         "term": "cappuccino"
       },
       {
         "name": "Portuguese",
+        "ref": "portoghese",
         "term": "cappuccino"
       },
       {
         "name": "Spanish",
+        "ref": "spagnolo",
         "term": "capuchino"
       },
       {
         "name": "Hungarian",
+        "ref": "ungherese",
         "term": "cappuccino, capuccino, kapucsínó",
-        "desc": "in this language it means: strong coffee with plenty of milk"
+        "desc": "in this language it means strong coffee with plenty of milk"
       }
     ],
     "descIta": "hot drink made from espresso coffee and frothy milk"
@@ -1283,10 +1485,12 @@
     "languages": [
       {
         "name": "Czech",
+        "ref": "ceco",
         "term": "kapusta"
       },
       {
         "name": "Polish",
+        "ref": "polacco",
         "term": "kapusta"
       }
     ],
@@ -1297,6 +1501,7 @@
     "languages": [
       {
         "name": "Faroese",
+        "ref": "faroese",
         "term": "karamella"
       }
     ],
@@ -1308,23 +1513,28 @@
     "languages": [
       {
         "name": "US English",
+        "ref": "americano",
         "term": "artichoke"
       },
       {
         "name": "Czech",
+        "ref": "ceco",
         "term": "artyčok"
       },
       {
         "name": "Finnish",
+        "ref": "finnico",
         "term": "artisokka",
-        "desc": "in this language it means: artichoke', 'Jerusalem artichoke' in the compound maa-artisokka"
+        "desc": "in this language it means artichoke', 'Jerusalem artichoke' in the compound maa-artisokka"
       },
       {
         "name": "UK English",
+        "ref": "inglese",
         "term": "artichoke"
       },
       {
         "name": "Polish",
+        "ref": "polacco",
         "term": "karczoch"
       }
     ],
@@ -1335,6 +1545,7 @@
     "languages": [
       {
         "name": "Hungarian",
+        "ref": "ungherese",
         "term": "karotta"
       }
     ],
@@ -1345,26 +1556,32 @@
     "languages": [
       {
         "name": "US English",
+        "ref": "americano",
         "term": "carpaccio"
       },
       {
         "name": "Japanese",
+        "ref": "giapponese",
         "term": "karupaccho"
       },
       {
         "name": "UK English",
+        "ref": "inglese",
         "term": "carpaccio"
       },
       {
         "name": "Lithuanian",
+        "ref": "lituano",
         "term": "carpaccio"
       },
       {
         "name": "Spanish",
+        "ref": "spagnolo",
         "term": "carpaccio"
       },
       {
         "name": "German",
+        "ref": "tedesco",
         "term": "carpaccio, -s"
       }
     ],
@@ -1375,26 +1592,32 @@
     "languages": [
       {
         "name": "Arabic",
+        "ref": "arabo",
         "term": "kasaata"
       },
       {
         "name": "Chinese",
+        "ref": "cinese",
         "term": "kǎsàtǎ dàngāo"
       },
       {
         "name": "French",
+        "ref": "francese",
         "term": "cassate"
       },
       {
         "name": "Japanese",
+        "ref": "giapponese",
         "term": "kassāta"
       },
       {
         "name": "Polish",
+        "ref": "polacco",
         "term": "cassate, kassate, kassata, cassata, kasata"
       },
       {
         "name": "German",
+        "ref": "tedesco",
         "term": "cassata, -s"
       }
     ],
@@ -1405,6 +1628,7 @@
     "languages": [
       {
         "name": "Finnish",
+        "ref": "finnico",
         "term": "kastanja"
       }
     ],
@@ -1416,30 +1640,37 @@
     "languages": [
       {
         "name": "Czech",
+        "ref": "ceco",
         "term": "kaviár"
       },
       {
         "name": "French",
+        "ref": "francese",
         "term": "caviar"
       },
       {
         "name": "Polish",
+        "ref": "polacco",
         "term": "kawior"
       },
       {
         "name": "Spanish",
+        "ref": "spagnolo",
         "term": "cavial"
       },
       {
         "name": "Spanish",
+        "ref": "spagnolo",
         "term": "caviar"
       },
       {
         "name": "German",
+        "ref": "tedesco",
         "term": "kaviar, -s, -e"
       },
       {
         "name": "Hungarian",
+        "ref": "ungherese",
         "term": "kaviár"
       }
     ],
@@ -1450,34 +1681,42 @@
     "languages": [
       {
         "name": "US English",
+        "ref": "americano",
         "term": "cauliflower"
       },
       {
         "name": "Catalan",
+        "ref": "catalano",
         "term": "cauliflori, col-i-flor, colflor, colflori"
       },
       {
         "name": "Czech",
+        "ref": "ceco",
         "term": "karfiól"
       },
       {
         "name": "Korean",
+        "ref": "coreano",
         "term": "k'ollip'ŭlawŏ"
       },
       {
         "name": "UK English",
+        "ref": "inglese",
         "term": "cauliflower"
       },
       {
         "name": "Lithuanian",
+        "ref": "lituano",
         "term": "kalafioras"
       },
       {
         "name": "Polish",
+        "ref": "polacco",
         "term": "kalafior, region. karafioł"
       },
       {
         "name": "Hungarian",
+        "ref": "ungherese",
         "term": "karfiol"
       }
     ],
@@ -1488,6 +1727,7 @@
     "languages": [
       {
         "name": "UK English",
+        "ref": "inglese",
         "term": "cavolo nero, cavalo nero"
       }
     ],
@@ -1498,14 +1738,17 @@
     "languages": [
       {
         "name": "Latvian",
+        "ref": "lettone",
         "term": "kolrābis"
       },
       {
         "name": "Polish",
+        "ref": "polacco",
         "term": "kalarepa"
       },
       {
         "name": "Hungarian",
+        "ref": "ungherese",
         "term": "karalábé"
       }
     ],
@@ -1516,22 +1759,27 @@
     "languages": [
       {
         "name": "French",
+        "ref": "francese",
         "term": "cédrat"
       },
       {
         "name": "UK English",
+        "ref": "inglese",
         "term": "cedrat"
       },
       {
         "name": "Lithuanian",
+        "ref": "lituano",
         "term": "cedra"
       },
       {
         "name": "Lithuanian",
+        "ref": "lituano",
         "term": "cedratas"
       },
       {
         "name": "German",
+        "ref": "tedesco",
         "term": "zedrat, -s, -e"
       }
     ],
@@ -1542,6 +1790,7 @@
     "languages": [
       {
         "name": "UK English",
+        "ref": "inglese",
         "term": "Cerignola"
       }
     ],
@@ -1553,6 +1802,7 @@
     "languages": [
       {
         "name": "Hungarian",
+        "ref": "ungherese",
         "term": "szafaládé"
       }
     ],
@@ -1563,22 +1813,27 @@
     "languages": [
       {
         "name": "Japanese",
+        "ref": "giapponese",
         "term": "kyanti"
       },
       {
         "name": "UK English",
+        "ref": "inglese",
         "term": "Chianti, chianti"
       },
       {
         "name": "Lithuanian",
+        "ref": "lituano",
         "term": "kiantis"
       },
       {
         "name": "Spanish",
+        "ref": "spagnolo",
         "term": "quianti"
       },
       {
         "name": "Hungarian",
+        "ref": "ungherese",
         "term": "chianti"
       }
     ],
@@ -1589,6 +1844,7 @@
     "languages": [
       {
         "name": "Catalan",
+        "ref": "catalano",
         "term": "xarello, xareŀlo"
       }
     ],
@@ -1599,34 +1855,42 @@
     "languages": [
       {
         "name": "Catalan",
+        "ref": "catalano",
         "term": "xapata"
       },
       {
         "name": "Finnish",
+        "ref": "finnico",
         "term": "ciapatta, chapatta"
       },
       {
         "name": "Japanese",
+        "ref": "giapponese",
         "term": "chapata"
       },
       {
         "name": "UK English",
+        "ref": "inglese",
         "term": "ciabatta, -ttas, -tte"
       },
       {
         "name": "Icelandic",
+        "ref": "islandese",
         "term": "ciabatta, chiabatta"
       },
       {
         "name": "Lithuanian",
+        "ref": "lituano",
         "term": "ciabata, ciabatta, džiabata"
       },
       {
         "name": "Spanish",
+        "ref": "spagnolo",
         "term": "chapata"
       },
       {
         "name": "Hungarian",
+        "ref": "ungherese",
         "term": "ciabatta, csiabatta, csabatta, chiabatta"
       }
     ],
@@ -1637,6 +1901,7 @@
     "languages": [
       {
         "name": "Spanish",
+        "ref": "spagnolo",
         "term": "chicha"
       }
     ],
@@ -1647,6 +1912,7 @@
     "languages": [
       {
         "name": "Polish",
+        "ref": "polacco",
         "term": "cieciorka, cieciarka, ciecierzyca"
       }
     ],
@@ -1657,10 +1923,12 @@
     "languages": [
       {
         "name": "Arabic",
+        "ref": "arabo",
         "term": "šikurya"
       },
       {
         "name": "Finnish",
+        "ref": "finnico",
         "term": "sikuri"
       }
     ],
@@ -1671,18 +1939,22 @@
     "languages": [
       {
         "name": "Arabic",
+        "ref": "arabo",
         "term": "šukulaata, šukalaata, šakalaata, šikulaata"
       },
       {
         "name": "Czech",
+        "ref": "ceco",
         "term": "čokoláda"
       },
       {
         "name": "Polish",
+        "ref": "polacco",
         "term": "czekolada"
       },
       {
         "name": "Hungarian",
+        "ref": "ungherese",
         "term": "csokoládé"
       }
     ],
@@ -1693,11 +1965,13 @@
     "languages": [
       {
         "name": "French",
+        "ref": "francese",
         "term": "chipolata, -as",
-        "desc": "in this language it means: sauce with onions"
+        "desc": "in this language it means sauce with onions"
       },
       {
         "name": "German",
+        "ref": "tedesco",
         "term": "cipollata, -s, -ten"
       }
     ],
@@ -1708,6 +1982,7 @@
     "languages": [
       {
         "name": "US English",
+        "ref": "americano",
         "term": "cipolline onion"
       }
     ],
@@ -1718,10 +1993,12 @@
     "languages": [
       {
         "name": "Japanese",
+        "ref": "giapponese",
         "term": "kon・panna"
       },
       {
         "name": "Icelandic",
+        "ref": "islandese",
         "term": "con panna"
       }
     ],
@@ -1732,10 +2009,12 @@
     "languages": [
       {
         "name": "Japanese",
+        "ref": "giapponese",
         "term": "kon・kirie"
       },
       {
         "name": "UK English",
+        "ref": "inglese",
         "term": "conchiglie"
       }
     ],
@@ -1746,30 +2025,37 @@
     "languages": [
       {
         "name": "Catalan",
+        "ref": "catalano",
         "term": "confetti"
       },
       {
         "name": "Estonian",
+        "ref": "estone",
         "term": "konfett"
       },
       {
         "name": "Finnish",
+        "ref": "finnico",
         "term": "konvehti"
       },
       {
         "name": "French",
+        "ref": "francese",
         "term": "confetti, -s"
       },
       {
         "name": "UK English",
+        "ref": "inglese",
         "term": "cohnfetti"
       },
       {
         "name": "Latvian",
+        "ref": "lettone",
         "term": "konfeti"
       },
       {
         "name": "German",
+        "ref": "tedesco",
         "term": "konfetti, -s"
       }
     ],
@@ -1780,6 +2066,7 @@
     "languages": [
       {
         "name": "Arabic",
+        "ref": "arabo",
         "term": "koonu"
       }
     ],
@@ -1790,6 +2077,7 @@
     "languages": [
       {
         "name": "Arabic",
+        "ref": "arabo",
         "term": "kustaleeta, kustuleeta, kustalitta"
       }
     ],
@@ -1800,6 +2088,7 @@
     "languages": [
       {
         "name": "Arabic",
+        "ref": "arabo",
         "term": "kireema"
       }
     ],
@@ -1810,6 +2099,7 @@
     "languages": [
       {
         "name": "US English",
+        "ref": "americano",
         "term": "cremini"
       }
     ],
@@ -1820,10 +2110,12 @@
     "languages": [
       {
         "name": "US English",
+        "ref": "americano",
         "term": "crostata"
       },
       {
         "name": "French",
+        "ref": "francese",
         "term": "croustade"
       }
     ],
@@ -1834,6 +2126,7 @@
     "languages": [
       {
         "name": "Hungarian",
+        "ref": "ungherese",
         "term": "crostini"
       }
     ],
@@ -1844,6 +2137,7 @@
     "languages": [
       {
         "name": "US English",
+        "ref": "americano",
         "term": "crudo"
       }
     ],
@@ -1854,6 +2148,7 @@
     "languages": [
       {
         "name": "Finnish",
+        "ref": "finnico",
         "term": "kruska"
       }
     ],
@@ -1864,6 +2159,7 @@
     "languages": [
       {
         "name": "Polish",
+        "ref": "polacco",
         "term": "kubeba"
       }
     ],
@@ -1875,6 +2171,7 @@
     "languages": [
       {
         "name": "Hungarian",
+        "ref": "ungherese",
         "term": "kókonya dialettale"
       }
     ],
@@ -1885,6 +2182,7 @@
     "languages": [
       {
         "name": "Arabic",
+        "ref": "arabo",
         "term": "kulaaṭa, kalaaṭa"
       }
     ],
@@ -1896,6 +2194,7 @@
     "languages": [
       {
         "name": "Hungarian",
+        "ref": "ungherese",
         "term": "datolya"
       }
     ],
@@ -1906,6 +2205,7 @@
     "languages": [
       {
         "name": "Hungarian",
+        "ref": "ungherese",
         "term": "tárkony"
       }
     ],
@@ -1916,64 +2216,79 @@
     "languages": [
       {
         "name": "US English",
+        "ref": "americano",
         "term": "espresso"
       },
       {
         "name": "Arabic",
+        "ref": "arabo",
         "term": "’isbriisu"
       },
       {
         "name": "Czech",
+        "ref": "ceco",
         "term": "espreso",
-        "desc": "in this language it means: electric machine to make coffee quickly "
+        "desc": "in this language it means electric machine to make coffee quickly "
       },
       {
         "name": "Korean",
+        "ref": "coreano",
         "term": "esŭp'ŭreso"
       },
       {
         "name": "Danish",
+        "ref": "danese",
         "term": "espresso"
       },
       {
         "name": "Faroese",
+        "ref": "faroese",
         "term": "espressokaffi"
       },
       {
         "name": "Finnish",
+        "ref": "finnico",
         "term": "espresso"
       },
       {
         "name": "French",
+        "ref": "francese",
         "term": "(café) express"
       },
       {
         "name": "Japanese",
+        "ref": "giapponese",
         "term": "esupuresso"
       },
       {
         "name": "UK English",
+        "ref": "inglese",
         "term": "espresso, expresso, -os"
       },
       {
         "name": "Icelandic",
+        "ref": "islandese",
         "term": "espresso"
       },
       {
         "name": "Lithuanian",
+        "ref": "lituano",
         "term": "espresas, espreso, ekspreso",
-        "desc": "in this language it means: espresso bar"
+        "desc": "in this language it means espresso bar"
       },
       {
         "name": "Polish",
+        "ref": "polacco",
         "term": "ekspres, espresso"
       },
       {
         "name": "Spanish",
+        "ref": "spagnolo",
         "term": "expreso"
       },
       {
         "name": "German",
+        "ref": "tedesco",
         "term": "espresso, -s, -ssi"
       }
     ],
@@ -1985,6 +2300,7 @@
     "languages": [
       {
         "name": "Hungarian",
+        "ref": "ungherese",
         "term": "fácán"
       }
     ],
@@ -1996,6 +2312,7 @@
     "languages": [
       {
         "name": "Polish",
+        "ref": "polacco",
         "term": "fasola"
       }
     ],
@@ -2006,6 +2323,7 @@
     "languages": [
       {
         "name": "Japanese",
+        "ref": "giapponese",
         "term": "farufarre"
       }
     ],
@@ -2016,6 +2334,7 @@
     "languages": [
       {
         "name": "Arabic",
+        "ref": "arabo",
         "term": "fariina"
       }
     ],
@@ -2026,6 +2345,7 @@
     "languages": [
       {
         "name": "UK English",
+        "ref": "inglese",
         "term": "farro"
       }
     ],
@@ -2036,6 +2356,7 @@
     "languages": [
       {
         "name": "US English",
+        "ref": "americano",
         "term": "fava bean"
       }
     ],
@@ -2046,6 +2367,7 @@
     "languages": [
       {
         "name": "Polish",
+        "ref": "polacco",
         "term": "fegatele, figatele"
       }
     ],
@@ -2056,6 +2378,7 @@
     "languages": [
       {
         "name": "UK English",
+        "ref": "inglese",
         "term": "fegato"
       }
     ],
@@ -2066,10 +2389,12 @@
     "languages": [
       {
         "name": "Catalan",
+        "ref": "catalano",
         "term": "fernet"
       },
       {
         "name": "Czech",
+        "ref": "ceco",
         "term": "fernet"
       }
     ],
@@ -2080,30 +2405,37 @@
     "languages": [
       {
         "name": "US English",
+        "ref": "americano",
         "term": "fettuccine"
       },
       {
         "name": "Danish",
+        "ref": "danese",
         "term": "fettuccini"
       },
       {
         "name": "French",
+        "ref": "francese",
         "term": "fetuccini"
       },
       {
         "name": "Japanese",
+        "ref": "giapponese",
         "term": "fettochīne"
       },
       {
         "name": "UK English",
+        "ref": "inglese",
         "term": "fet(t)ucine, -i, fettuccelle"
       },
       {
         "name": "Icelandic",
+        "ref": "islandese",
         "term": "fettuccini"
       },
       {
         "name": "Hungarian",
+        "ref": "ungherese",
         "term": "fettuccine"
       }
     ],
@@ -2115,14 +2447,17 @@
     "languages": [
       {
         "name": "Czech",
+        "ref": "ceco",
         "term": "fík"
       },
       {
         "name": "Polish",
+        "ref": "polacco",
         "term": "figa"
       },
       {
         "name": "Hungarian",
+        "ref": "ungherese",
         "term": "füge"
       }
     ],
@@ -2133,6 +2468,7 @@
     "languages": [
       {
         "name": "Arabic",
+        "ref": "arabo",
         "term": "filittu"
       }
     ],
@@ -2143,6 +2479,7 @@
     "languages": [
       {
         "name": "UK English",
+        "ref": "inglese",
         "term": "florentine"
       }
     ],
@@ -2153,18 +2490,22 @@
     "languages": [
       {
         "name": "Finnish",
+        "ref": "finnico",
         "term": "focaccia"
       },
       {
         "name": "UK English",
+        "ref": "inglese",
         "term": "fochachio, focaccia, -cce, -ccias"
       },
       {
         "name": "German",
+        "ref": "tedesco",
         "term": "fugazi"
       },
       {
         "name": "Hungarian",
+        "ref": "ungherese",
         "term": "pogácsa"
       }
     ],
@@ -2175,14 +2516,17 @@
     "languages": [
       {
         "name": "US English",
+        "ref": "americano",
         "term": "fontina"
       },
       {
         "name": "UK English",
+        "ref": "inglese",
         "term": "fontina"
       },
       {
         "name": "Polish",
+        "ref": "polacco",
         "term": "fontina"
       }
     ],
@@ -2193,6 +2537,7 @@
     "languages": [
       {
         "name": "German",
+        "ref": "tedesco",
         "term": "formaggio, -s"
       }
     ],
@@ -2203,6 +2548,7 @@
     "languages": [
       {
         "name": "Arabic",
+        "ref": "arabo",
         "term": "firawla, farawla"
       }
     ],
@@ -2213,6 +2559,7 @@
     "languages": [
       {
         "name": "Lithuanian",
+        "ref": "lituano",
         "term": "frappe"
       }
     ],
@@ -2223,10 +2570,12 @@
     "languages": [
       {
         "name": "UK English",
+        "ref": "inglese",
         "term": "frittata"
       },
       {
         "name": "German",
+        "ref": "tedesco",
         "term": "frittate, -n"
       }
     ],
@@ -2237,8 +2586,9 @@
     "languages": [
       {
         "name": "Catalan",
+        "ref": "catalano",
         "term": "friteŀla",
-        "desc": "in this language it means: meat and offal stew fried with potatoes or sweet potatoes"
+        "desc": "in this language it means meat and offal stew fried with potatoes or sweet potatoes"
       }
     ],
     "descIta": "sweet or savory, fried in boiling oil"
@@ -2248,6 +2598,7 @@
     "languages": [
       {
         "name": "Lithuanian",
+        "ref": "lituano",
         "term": "frullato"
       }
     ],
@@ -2258,8 +2609,9 @@
     "languages": [
       {
         "name": "Arabic",
+        "ref": "arabo",
         "term": "firutta, furutta",
-        "desc": "in this language it means: fruit aromas (candy or ice cream)"
+        "desc": "in this language it means fruit aromas (candy or ice cream)"
       }
     ],
     "descIta": "final course, generally served at the end of a meal"
@@ -2269,18 +2621,22 @@
     "languages": [
       {
         "name": "Finnish",
+        "ref": "finnico",
         "term": "frutti di mare"
       },
       {
         "name": "French",
+        "ref": "francese",
         "term": "fruits de mer"
       },
       {
         "name": "Polish",
+        "ref": "polacco",
         "term": "frutti di mare"
       },
       {
         "name": "Hungarian",
+        "ref": "ungherese",
         "term": "frutti di mare, frutta del mare"
       }
     ],
@@ -2291,6 +2647,7 @@
     "languages": [
       {
         "name": "Hungarian",
+        "ref": "ungherese",
         "term": "fusilli, fuzili"
       }
     ],
@@ -2301,6 +2658,7 @@
     "languages": [
       {
         "name": "US English",
+        "ref": "americano",
         "term": "Gala"
       }
     ],
@@ -2311,6 +2669,7 @@
     "languages": [
       {
         "name": "Arabic",
+        "ref": "arabo",
         "term": "gambari"
       }
     ],
@@ -2321,6 +2680,7 @@
     "languages": [
       {
         "name": "Arabic",
+        "ref": "arabo",
         "term": "gazuuza, kazuuza"
       }
     ],
@@ -2331,26 +2691,32 @@
     "languages": [
       {
         "name": "US English",
+        "ref": "americano",
         "term": "gelatin"
       },
       {
         "name": "Arabic",
+        "ref": "arabo",
         "term": "jilatiina, galatiina"
       },
       {
         "name": "Catalan",
+        "ref": "catalano",
         "term": "gelatina"
       },
       {
         "name": "Gaelic",
+        "ref": "gaelico",
         "term": "geilitín"
       },
       {
         "name": "UK English",
+        "ref": "inglese",
         "term": "gelatine"
       },
       {
         "name": "Hungarian",
+        "ref": "ungherese",
         "term": "zselatin"
       }
     ],
@@ -2361,14 +2727,17 @@
     "languages": [
       {
         "name": "Arabic",
+        "ref": "arabo",
         "term": "jilaati"
       },
       {
         "name": "Japanese",
+        "ref": "giapponese",
         "term": "jerāto"
       },
       {
         "name": "Hungarian",
+        "ref": "ungherese",
         "term": "gelato"
       }
     ],
@@ -2379,6 +2748,7 @@
     "languages": [
       {
         "name": "US English",
+        "ref": "americano",
         "term": "gianduja"
       }
     ],
@@ -2389,6 +2759,7 @@
     "languages": [
       {
         "name": "UK English",
+        "ref": "inglese",
         "term": "gigli"
       }
     ],
@@ -2399,30 +2770,37 @@
     "languages": [
       {
         "name": "US English",
+        "ref": "americano",
         "term": "gnocchi"
       },
       {
         "name": "Finnish",
+        "ref": "finnico",
         "term": "gnocchi, gnokki"
       },
       {
         "name": "French",
+        "ref": "francese",
         "term": "nioki (à la Viennoise)"
       },
       {
         "name": "Japanese",
+        "ref": "giapponese",
         "term": "nyokki"
       },
       {
         "name": "Polish",
+        "ref": "polacco",
         "term": "gnocchi"
       },
       {
         "name": "Spanish",
+        "ref": "spagnolo",
         "term": "ñoqui"
       },
       {
         "name": "Hungarian",
+        "ref": "ungherese",
         "term": "gnocchi"
       }
     ],
@@ -2433,42 +2811,52 @@
     "languages": [
       {
         "name": "US English",
+        "ref": "americano",
         "term": "gorgonzola"
       },
       {
         "name": "Chinese",
+        "ref": "cinese",
         "term": "gēgòngzuǒlā rǔlào"
       },
       {
         "name": "Finnish",
+        "ref": "finnico",
         "term": "gorgonzola, gorgonzolajuusto, gorgonzolanjuusto"
       },
       {
         "name": "Japanese",
+        "ref": "giapponese",
         "term": "gorugonzōra"
       },
       {
         "name": "UK English",
+        "ref": "inglese",
         "term": "gorgonzola"
       },
       {
         "name": "Lithuanian",
+        "ref": "lituano",
         "term": "gorgonzola"
       },
       {
         "name": "Polish",
+        "ref": "polacco",
         "term": "gorgonzola"
       },
       {
         "name": "Spanish",
+        "ref": "spagnolo",
         "term": "gorgonzola"
       },
       {
         "name": "German",
+        "ref": "tedesco",
         "term": "gorgonzolas"
       },
       {
         "name": "Hungarian",
+        "ref": "ungherese",
         "term": "gorgonzola"
       }
     ],
@@ -2479,14 +2867,17 @@
     "languages": [
       {
         "name": "US English",
+        "ref": "americano",
         "term": "Grana Padano"
       },
       {
         "name": "Lithuanian",
+        "ref": "lituano",
         "term": "granapadanas"
       },
       {
         "name": "Polish",
+        "ref": "polacco",
         "term": "grana"
       }
     ],
@@ -2497,14 +2888,17 @@
     "languages": [
       {
         "name": "Arabic",
+        "ref": "arabo",
         "term": "garaniiṭa, garanitta"
       },
       {
         "name": "French",
+        "ref": "francese",
         "term": "granita, -as"
       },
       {
         "name": "UK English",
+        "ref": "inglese",
         "term": "granita, -as, -te"
       }
     ],
@@ -2515,22 +2909,27 @@
     "languages": [
       {
         "name": "Japanese",
+        "ref": "giapponese",
         "term": "gurappa"
       },
       {
         "name": "Lithuanian",
+        "ref": "lituano",
         "term": "grapa"
       },
       {
         "name": "Polish",
+        "ref": "polacco",
         "term": "grappa"
       },
       {
         "name": "German",
+        "ref": "tedesco",
         "term": "grappa, -as"
       },
       {
         "name": "Hungarian",
+        "ref": "ungherese",
         "term": "grappa"
       }
     ],
@@ -2541,6 +2940,7 @@
     "languages": [
       {
         "name": "US English",
+        "ref": "americano",
         "term": "gremolata"
       }
     ],
@@ -2551,6 +2951,7 @@
     "languages": [
       {
         "name": "UK English",
+        "ref": "inglese",
         "term": "grignoli(no)"
       }
     ],
@@ -2561,6 +2962,7 @@
     "languages": [
       {
         "name": "Polish",
+        "ref": "polacco",
         "term": "grissini"
       }
     ],
@@ -2571,18 +2973,22 @@
     "languages": [
       {
         "name": "Chinese",
+        "ref": "cinese",
         "term": "miànbāogùn"
       },
       {
         "name": "French",
+        "ref": "francese",
         "term": "gres(s)in, gres(s)in, grisini"
       },
       {
         "name": "UK English",
+        "ref": "inglese",
         "term": "grisino, grissins"
       },
       {
         "name": "German",
+        "ref": "tedesco",
         "term": "grissins, -ni"
       }
     ],
@@ -2593,6 +2999,7 @@
     "languages": [
       {
         "name": "UK English",
+        "ref": "inglese",
         "term": "guanciale"
       }
     ],
@@ -2603,6 +3010,7 @@
     "languages": [
       {
         "name": "Finnish",
+        "ref": "finnico",
         "term": "endiivi"
       }
     ],
@@ -2613,6 +3021,7 @@
     "languages": [
       {
         "name": "Arabic",
+        "ref": "arabo",
         "term": "furnaaṭa"
       }
     ],
@@ -2624,52 +3033,64 @@
     "languages": [
       {
         "name": "US English",
+        "ref": "americano",
         "term": "salata"
       },
       {
         "name": "Arabic",
+        "ref": "arabo",
         "term": "salaṭa",
-        "desc": "in this language it also means: disorder"
+        "desc": "in this language it also means disorder"
       },
       {
         "name": "Czech",
+        "ref": "ceco",
         "term": "salát"
       },
       {
         "name": "Chinese",
+        "ref": "cinese",
         "term": "shālā"
       },
       {
         "name": "Danish",
+        "ref": "danese",
         "term": "salat"
       },
       {
         "name": "Finnish",
+        "ref": "finnico",
         "term": "salaatti"
       },
       {
         "name": "French",
+        "ref": "francese",
         "term": "salade",
-        "desc": "in this language it also means: fight"
+        "desc": "in this language it also means fight"
       },
       {
         "name": "Icelandic",
+        "ref": "islandese",
         "term": "salat"
       },
       {
         "name": "Lithuanian",
+        "ref": "lituano",
         "term": "salota"
       },
       {
         "name": "Polish",
+        "ref": "polacco",
         "term": "sałata"
       },
       {
         "name": "German",
+        "ref": "tedesco",
         "term": "salat"
       },
       {
         "name": "Hungarian",
+        "ref": "ungherese",
         "term": "saláta"
       }
     ],
@@ -2680,6 +3101,7 @@
     "languages": [
       {
         "name": "UK English",
+        "ref": "inglese",
         "term": "lacrima di Cristo"
       }
     ],
@@ -2690,74 +3112,92 @@
     "languages": [
       {
         "name": "US English",
+        "ref": "americano",
         "term": "lasagna"
       },
       {
         "name": "Arabic",
+        "ref": "arabo",
         "term": "lazanya"
       },
       {
         "name": "Catalan",
+        "ref": "catalano",
         "term": "lasanya"
       },
       {
         "name": "Chinese",
+        "ref": "cinese",
         "term": "Yìdàlì qiāncéngmiàn"
       },
       {
         "name": "Danish",
+        "ref": "danese",
         "term": "lasagne"
       },
       {
         "name": "Estonian",
+        "ref": "estone",
         "term": "lasanje"
       },
       {
         "name": "Finnish",
+        "ref": "finnico",
         "term": "lasagne"
       },
       {
         "name": "French",
+        "ref": "francese",
         "term": "lasagne, lasaigne, lasagne"
       },
       {
         "name": "Japanese",
+        "ref": "giapponese",
         "term": "razānya"
       },
       {
         "name": "US English",
+        "ref": "inglese",
         "term": "lasagnes"
       },
       {
         "name": "Icelandic",
+        "ref": "islandese",
         "term": "lasagna, lasagne"
       },
       {
         "name": "Latvian",
+        "ref": "lettone",
         "term": "lazanja"
       },
       {
         "name": "Lithuanian",
+        "ref": "lituano",
         "term": "lazanija"
       },
       {
         "name": "Polish",
+        "ref": "polacco",
         "term": "lasania, lazania, łazanka, łazanki; lasagna, lasagne, lazanie, lasagne"
       },
       {
         "name": "Portuguese",
+        "ref": "portoghese",
         "term": "lasanha"
       },
       {
         "name": "Spanish",
+        "ref": "spagnolo",
         "term": "lasaña"
       },
       {
         "name": "German",
+        "ref": "tedesco",
         "term": "lasagne, -n"
       },
       {
         "name": "Hungarian",
+        "ref": "ungherese",
         "term": "lasagne, lasagna, lazannya"
       }
     ],
@@ -2768,6 +3208,7 @@
     "languages": [
       {
         "name": "Hungarian",
+        "ref": "ungherese",
         "term": "latte"
       }
     ],
@@ -2778,23 +3219,28 @@
     "languages": [
       {
         "name": "Japanese",
+        "ref": "giapponese",
         "term": "makiāto",
-        "desc": "in this language it means: milk with a few drops of coffee, vanilla syrup and caramel"
+        "desc": "in this language it means milk with a few drops of coffee, vanilla syrup and caramel"
       },
       {
         "name": "UK English",
+        "ref": "inglese",
         "term": "latte"
       },
       {
         "name": "Icelandic",
+        "ref": "islandese",
         "term": "macchiato"
       },
       {
         "name": "Polish",
+        "ref": "polacco",
         "term": "latte"
       },
       {
         "name": "Hungarian",
+        "ref": "ungherese",
         "term": "latte macchiato"
       }
     ],
@@ -2805,14 +3251,17 @@
     "languages": [
       {
         "name": "Estonian",
+        "ref": "estone",
         "term": "salat"
       },
       {
         "name": "Latvian",
+        "ref": "lettone",
         "term": "salāti"
       },
       {
         "name": "Latvian",
+        "ref": "lettone",
         "term": "salāts"
       }
     ],
@@ -2823,6 +3272,7 @@
     "languages": [
       {
         "name": "Arabic",
+        "ref": "arabo",
         "term": "lawru"
       }
     ],
@@ -2833,6 +3283,7 @@
     "languages": [
       {
         "name": "Czech",
+        "ref": "ceco",
         "term": "legovat"
       }
     ],
@@ -2843,14 +3294,17 @@
     "languages": [
       {
         "name": "Arabic",
+        "ref": "arabo",
         "term": "lamunaata, lamunaaṭa"
       },
       {
         "name": "Czech",
+        "ref": "ceco",
         "term": "limonáda"
       },
       {
         "name": "Hungarian",
+        "ref": "ungherese",
         "term": "limonádé"
       }
     ],
@@ -2861,6 +3315,7 @@
     "languages": [
       {
         "name": "US English",
+        "ref": "americano",
         "term": "limoncello"
       }
     ],
@@ -2871,14 +3326,17 @@
     "languages": [
       {
         "name": "Czech",
+        "ref": "ceco",
         "term": "limon"
       },
       {
         "name": "Finnish",
+        "ref": "finnico",
         "term": "limonadi"
       },
       {
         "name": "Finnish",
+        "ref": "finnico",
         "term": "situuna"
       }
     ],
@@ -2889,10 +3347,12 @@
     "languages": [
       {
         "name": "US English",
+        "ref": "americano",
         "term": "linguine"
       },
       {
         "name": "UK English",
+        "ref": "inglese",
         "term": "linguini"
       }
     ],
@@ -2903,82 +3363,102 @@
     "languages": [
       {
         "name": "Icelandic",
+        "ref": "islandese",
         "term": "makkaróna"
       },
       {
         "name": "Arabic",
+        "ref": "arabo",
         "term": "makaroona"
       },
       {
         "name": "Catalan",
+        "ref": "catalano",
         "term": "Macarró"
       },
       {
         "name": "Czech",
+        "ref": "ceco",
         "term": "makaróny"
       },
       {
         "name": "Czech",
+        "ref": "ceco",
         "term": "makronek"
       },
       {
         "name": "Korean",
+        "ref": "coreano",
         "term": "mak'aroni"
       },
       {
         "name": "Danish",
+        "ref": "danese",
         "term": "makaroni"
       },
       {
         "name": "Estonian",
+        "ref": "estone",
         "term": "makaronid"
       },
       {
         "name": "Faroese",
+        "ref": "faroese",
         "term": "makaronni"
       },
       {
         "name": "Finnish",
+        "ref": "finnico",
         "term": "makaroni"
       },
       {
         "name": "French",
+        "ref": "francese",
         "term": "macaron, -s, macaroni, -is"
       },
       {
         "name": "Gaelic",
+        "ref": "gaelico",
         "term": "macarón"
       },
       {
         "name": "Japanese",
+        "ref": "giapponese",
         "term": "makaroni"
       },
       {
         "name": "UK English",
+        "ref": "inglese",
         "term": "mac(c)arone, -i"
       },
       {
         "name": "Latvian",
+        "ref": "lettone",
         "term": "makaroni"
       },
       {
         "name": "Lithuanian",
+        "ref": "lituano",
         "term": "makaronai"
       },
       {
         "name": "Portuguese",
+        "ref": "portoghese",
         "term": "macarrão"
       },
       {
         "name": "Spanish",
+        "ref": "spagnolo",
         "term": "macarrón"
       },
       {
         "name": "German",
+        "ref": "tedesco",
         "term": "macarone, makkaroni, macaroni, macharoni"
       },
       {
         "name": "Hungarian",
+        "ref": "ungherese",
         "term": "makaróni"
       }
     ],
@@ -2990,10 +3470,12 @@
     "languages": [
       {
         "name": "Polish",
+        "ref": "polacco",
         "term": "małmazja"
       },
       {
         "name": "Hungarian",
+        "ref": "ungherese",
         "term": "mazsola"
       }
     ],
@@ -3005,6 +3487,7 @@
     "languages": [
       {
         "name": "Hungarian",
+        "ref": "ungherese",
         "term": "mandula"
       }
     ],
@@ -3015,6 +3498,7 @@
     "languages": [
       {
         "name": "Arabic",
+        "ref": "arabo",
         "term": "mangariyya"
       }
     ],
@@ -3025,14 +3509,17 @@
     "languages": [
       {
         "name": "Czech",
+        "ref": "ceco",
         "term": "maraska"
       },
       {
         "name": "Polish",
+        "ref": "polacco",
         "term": "maraska"
       },
       {
         "name": "Portuguese",
+        "ref": "portoghese",
         "term": "marasca"
       }
     ],
@@ -3043,62 +3530,77 @@
     "languages": [
       {
         "name": "Catalan",
+        "ref": "catalano",
         "term": "marrasquí"
       },
       {
         "name": "Czech",
+        "ref": "ceco",
         "term": "maraskýno"
       },
       {
         "name": "Korean",
+        "ref": "coreano",
         "term": "marasŭk'ino"
       },
       {
         "name": "Estonian",
+        "ref": "estone",
         "term": "maraskiino"
       },
       {
         "name": "French",
+        "ref": "francese",
         "term": "marasquin"
       },
       {
         "name": "Gaelic",
+        "ref": "gaelico",
         "term": "maraiscín"
       },
       {
         "name": "Japanese",
+        "ref": "giapponese",
         "term": "marasukīno"
       },
       {
         "name": "UK English",
+        "ref": "inglese",
         "term": "mareschino"
       },
       {
         "name": "Latvian",
+        "ref": "lettone",
         "term": "maraskīno"
       },
       {
         "name": "Lithuanian",
+        "ref": "lituano",
         "term": "maraskinas"
       },
       {
         "name": "Polish",
+        "ref": "polacco",
         "term": "maraskino"
       },
       {
         "name": "Portuguese",
+        "ref": "portoghese",
         "term": "marasquino"
       },
       {
         "name": "Spanish",
+        "ref": "spagnolo",
         "term": "marrasquino"
       },
       {
         "name": "German",
+        "ref": "tedesco",
         "term": "maraschins, maraskino"
       },
       {
         "name": "Hungarian",
+        "ref": "ungherese",
         "term": "maraschino"
       }
     ],
@@ -3109,6 +3611,7 @@
     "languages": [
       {
         "name": "Arabic",
+        "ref": "arabo",
         "term": "margariita"
       }
     ],
@@ -3119,22 +3622,27 @@
     "languages": [
       {
         "name": "US English",
+        "ref": "americano",
         "term": "marinate"
       },
       {
         "name": "French",
+        "ref": "francese",
         "term": "mariné"
       },
       {
         "name": "French",
+        "ref": "francese",
         "term": "mariner"
       },
       {
         "name": "UK English",
+        "ref": "inglese",
         "term": "marinate, marinat, marrionate"
       },
       {
         "name": "Portuguese",
+        "ref": "portoghese",
         "term": "marinar"
       }
     ],
@@ -3145,14 +3653,17 @@
     "languages": [
       {
         "name": "US English",
+        "ref": "americano",
         "term": "marinade"
       },
       {
         "name": "Polish",
+        "ref": "polacco",
         "term": "marynata"
       },
       {
         "name": "Portuguese",
+        "ref": "portoghese",
         "term": "marinada"
       }
     ],
@@ -3164,10 +3675,12 @@
     "languages": [
       {
         "name": "Polish",
+        "ref": "polacco",
         "term": "Marony"
       },
       {
         "name": "Hungarian",
+        "ref": "ungherese",
         "term": "maróni"
       }
     ],
@@ -3178,26 +3691,32 @@
     "languages": [
       {
         "name": "US English",
+        "ref": "americano",
         "term": "Marsala"
       },
       {
         "name": "Chinese",
+        "ref": "cinese",
         "term": "Mǎshālā báipútaojiǔ"
       },
       {
         "name": "Finnish",
+        "ref": "finnico",
         "term": "marsala, marsalaviini"
       },
       {
         "name": "Lithuanian",
+        "ref": "lituano",
         "term": "marsala"
       },
       {
         "name": "Polish",
+        "ref": "polacco",
         "term": "marsala"
       },
       {
         "name": "Hungarian",
+        "ref": "ungherese",
         "term": "marsala"
       }
     ],
@@ -3208,11 +3727,13 @@
     "languages": [
       {
         "name": "Japanese",
+        "ref": "giapponese",
         "term": "marutīni",
-        "desc": "in this language it means: a cocktail"
+        "desc": "in this language it means a cocktail"
       },
       {
         "name": "Lithuanian",
+        "ref": "lituano",
         "term": "martinis"
       }
     ],
@@ -3223,55 +3744,68 @@
     "languages": [
       {
         "name": "Catalan",
+        "ref": "catalano",
         "term": "marsapà, marçapà, massapà, mersepà"
       },
       {
         "name": "Czech",
+        "ref": "ceco",
         "term": "marcipán"
       },
       {
         "name": "Danish",
+        "ref": "danese",
         "term": "Mmarcipan"
       },
       {
         "name": "Estonian",
+        "ref": "estone",
         "term": "martsipan"
       },
       {
         "name": "Finnish",
+        "ref": "finnico",
         "term": "marsipaani"
       },
       {
         "name": "French",
+        "ref": "francese",
         "term": "massepain"
       },
       {
         "name": "UK English",
+        "ref": "inglese",
         "term": "marchpane, marzipan",
-        "desc": "in this language it also means: person or thing considered overly refined"
+        "desc": "in this language it also means person or thing considered overly refined"
       },
       {
         "name": "Icelandic",
+        "ref": "islandese",
         "term": "marsipan"
       },
       {
         "name": "Latvian",
+        "ref": "lettone",
         "term": "marcipāns"
       },
       {
         "name": "Polish",
+        "ref": "polacco",
         "term": "marcepan"
       },
       {
         "name": "Portuguese",
+        "ref": "portoghese",
         "term": "maçapão, massapões"
       },
       {
         "name": "German",
+        "ref": "tedesco",
         "term": "marzipan, marczapan"
       },
       {
         "name": "Hungarian",
+        "ref": "ungherese",
         "term": "marcipán"
       }
     ],
@@ -3282,6 +3816,7 @@
     "languages": [
       {
         "name": "UK English",
+        "ref": "inglese",
         "term": "marsoline"
       }
     ],
@@ -3292,34 +3827,42 @@
     "languages": [
       {
         "name": "US English",
+        "ref": "americano",
         "term": "mascarpone"
       },
       {
         "name": "Finnish",
+        "ref": "finnico",
         "term": "mascarpone"
       },
       {
         "name": "Japanese",
+        "ref": "giapponese",
         "term": "masukarupōne"
       },
       {
         "name": "UK English",
+        "ref": "inglese",
         "term": "mascherpone"
       },
       {
         "name": "Lithuanian",
+        "ref": "lituano",
         "term": "maskarponė"
       },
       {
         "name": "Polish",
+        "ref": "polacco",
         "term": "mascarpone"
       },
       {
         "name": "German",
+        "ref": "tedesco",
         "term": "mascarponi, -s"
       },
       {
         "name": "Hungarian",
+        "ref": "ungherese",
         "term": "mascarpone"
       }
     ],
@@ -3330,6 +3873,7 @@
     "languages": [
       {
         "name": "Korean",
+        "ref": "coreano",
         "term": "mellissa"
       }
     ],
@@ -3340,26 +3884,32 @@
     "languages": [
       {
         "name": "Czech",
+        "ref": "ceco",
         "term": "meloun"
       },
       {
         "name": "Estonian",
+        "ref": "estone",
         "term": "melon"
       },
       {
         "name": "Finnish",
+        "ref": "finnico",
         "term": "meloni"
       },
       {
         "name": "Latvian",
+        "ref": "lettone",
         "term": "melone"
       },
       {
         "name": "Polish",
+        "ref": "polacco",
         "term": "melon"
       },
       {
         "name": "German",
+        "ref": "tedesco",
         "term": "malaunen, milon, melauni"
       }
     ],
@@ -3370,31 +3920,38 @@
     "languages": [
       {
         "name": "Catalan",
+        "ref": "catalano",
         "term": "minestra"
       },
       {
         "name": "Czech",
+        "ref": "ceco",
         "term": "minestra"
       },
       {
         "name": "French",
+        "ref": "francese",
         "term": "menestre"
       },
       {
         "name": "Polish",
+        "ref": "polacco",
         "term": "minestra"
       },
       {
         "name": "Spanish",
+        "ref": "spagnolo",
         "term": "menestra",
-        "desc": "in this language it means: dried legumes"
+        "desc": "in this language it means dried legumes"
       },
       {
         "name": "German",
+        "ref": "tedesco",
         "term": "minestren, menestren"
       },
       {
         "name": "Hungarian",
+        "ref": "ungherese",
         "term": "minestra"
       }
     ],
@@ -3405,30 +3962,37 @@
     "languages": [
       {
         "name": "US English",
+        "ref": "americano",
         "term": "minestrone"
       },
       {
         "name": "Korean",
+        "ref": "coreano",
         "term": "minesŭt'ŭrone"
       },
       {
         "name": "Gaelic",
+        "ref": "gaelico",
         "term": "mineastróine"
       },
       {
         "name": "Japanese",
+        "ref": "giapponese",
         "term": "minesutorōne"
       },
       {
         "name": "Lithuanian",
+        "ref": "lituano",
         "term": "minestrone"
       },
       {
         "name": "Polish",
+        "ref": "polacco",
         "term": "minestrone"
       },
       {
         "name": "Hungarian",
+        "ref": "ungherese",
         "term": "minestrone"
       }
     ],
@@ -3439,6 +4003,7 @@
     "languages": [
       {
         "name": "Hungarian",
+        "ref": "ungherese",
         "term": "mirabella"
       }
     ],
@@ -3449,6 +4014,7 @@
     "languages": [
       {
         "name": "Catalan",
+        "ref": "catalano",
         "term": "mistela"
       }
     ],
@@ -3459,6 +4025,7 @@
     "languages": [
       {
         "name": "UK English",
+        "ref": "inglese",
         "term": "montebianco"
       }
     ],
@@ -3469,42 +4036,52 @@
     "languages": [
       {
         "name": "Arabic",
+        "ref": "arabo",
         "term": "murtadella"
       },
       {
         "name": "Catalan",
+        "ref": "catalano",
         "term": "mordadeŀla"
       },
       {
         "name": "Czech",
+        "ref": "ceco",
         "term": "mortadela"
       },
       {
         "name": "French",
+        "ref": "francese",
         "term": "mortadelle"
       },
       {
         "name": "UK English",
+        "ref": "inglese",
         "term": "mortadelle"
       },
       {
         "name": "Polish",
+        "ref": "polacco",
         "term": "mortadela, mortadella"
       },
       {
         "name": "Portuguese",
+        "ref": "portoghese",
         "term": "mortadela"
       },
       {
         "name": "Spanish",
+        "ref": "spagnolo",
         "term": "mortadela"
       },
       {
         "name": "German",
+        "ref": "tedesco",
         "term": "mortadellen"
       },
       {
         "name": "Hungarian",
+        "ref": "ungherese",
         "term": "mortadella"
       }
     ],
@@ -3516,26 +4093,32 @@
     "languages": [
       {
         "name": "Czech",
+        "ref": "ceco",
         "term": "muškatel"
       },
       {
         "name": "Gaelic",
+        "ref": "gaelico",
         "term": "moscadal"
       },
       {
         "name": "UK English",
+        "ref": "inglese",
         "term": "moscadelli"
       },
       {
         "name": "Polish",
+        "ref": "polacco",
         "term": "muszkatela, muszkatel"
       },
       {
         "name": "German",
+        "ref": "tedesco",
         "term": "muskateller, -s"
       },
       {
         "name": "Hungarian",
+        "ref": "ungherese",
         "term": "muskotály, muskatelló"
       }
     ],
@@ -3546,10 +4129,12 @@
     "languages": [
       {
         "name": "UK English",
+        "ref": "inglese",
         "term": "Moscatel, moscatel [vinegar]"
       },
       {
         "name": "German",
+        "ref": "tedesco",
         "term": "moscado"
       }
     ],
@@ -3560,6 +4145,7 @@
     "languages": [
       {
         "name": "Spanish",
+        "ref": "spagnolo",
         "term": "mostachón"
       }
     ],
@@ -3571,10 +4157,12 @@
     "languages": [
       {
         "name": "Polish",
+        "ref": "polacco",
         "term": "musztarda"
       },
       {
         "name": "Hungarian",
+        "ref": "ungherese",
         "term": "mustár"
       }
     ],
@@ -3585,54 +4173,67 @@
     "languages": [
       {
         "name": "US English",
+        "ref": "americano",
         "term": "mozzarella"
       },
       {
         "name": "Arabic",
+        "ref": "arabo",
         "term": "mutsarilla"
       },
       {
         "name": "Danish",
+        "ref": "danese",
         "term": "mozzarella"
       },
       {
         "name": "Finnish",
+        "ref": "finnico",
         "term": "mozzarella, mozzarellajuusto"
       },
       {
         "name": "Japanese",
+        "ref": "giapponese",
         "term": "mottsarera"
       },
       {
         "name": "UK English",
+        "ref": "inglese",
         "term": "mozzarella cheese"
       },
       {
         "name": "Icelandic",
+        "ref": "islandese",
         "term": "mozzarella"
       },
       {
         "name": "Latvian",
+        "ref": "lettone",
         "term": "mocarella"
       },
       {
         "name": "Lithuanian",
+        "ref": "lituano",
         "term": "mocarela"
       },
       {
         "name": "Polish",
+        "ref": "polacco",
         "term": "mozzarella"
       },
       {
         "name": "Portuguese",
+        "ref": "portoghese",
         "term": "mozarela"
       },
       {
         "name": "Spanish",
+        "ref": "spagnolo",
         "term": "mozzarella"
       },
       {
         "name": "Hungarian",
+        "ref": "ungherese",
         "term": "mozzarella"
       }
     ],
@@ -3643,6 +4244,7 @@
     "languages": [
       {
         "name": "Hungarian",
+        "ref": "ungherese",
         "term": "muszolini"
       }
     ],
@@ -3653,6 +4255,7 @@
     "languages": [
       {
         "name": "UK English",
+        "ref": "inglese",
         "term": "negrone"
       }
     ],
@@ -3663,6 +4266,7 @@
     "languages": [
       {
         "name": "Hungarian",
+        "ref": "ungherese",
         "term": "naspolya"
       }
     ],
@@ -3673,6 +4277,7 @@
     "languages": [
       {
         "name": "Hungarian",
+        "ref": "ungherese",
         "term": "nutella"
       }
     ],
@@ -3683,6 +4288,7 @@
     "languages": [
       {
         "name": "Arabic",
+        "ref": "arabo",
         "term": "wraaṭa"
       }
     ],
@@ -3693,6 +4299,7 @@
     "languages": [
       {
         "name": "UK English",
+        "ref": "inglese",
         "term": "orecchiette"
       }
     ],
@@ -3703,18 +4310,22 @@
     "languages": [
       {
         "name": "Lithuanian",
+        "ref": "lituano",
         "term": "oreganas, oregonas"
       },
       {
         "name": "Polish",
+        "ref": "polacco",
         "term": "oregano, origano"
       },
       {
         "name": "German",
+        "ref": "tedesco",
         "term": "origano, -s"
       },
       {
         "name": "Hungarian",
+        "ref": "ungherese",
         "term": "oregano, oregánó, oreganó, oregáno, origano"
       }
     ],
@@ -3725,10 +4336,12 @@
     "languages": [
       {
         "name": "Arabic",
+        "ref": "arabo",
         "term": "rujaata"
       },
       {
         "name": "Catalan",
+        "ref": "catalano",
         "term": "orxata"
       }
     ],
@@ -3739,6 +4352,7 @@
     "languages": [
       {
         "name": "US English",
+        "ref": "americano",
         "term": "orzo"
       }
     ],
@@ -3749,26 +4363,32 @@
     "languages": [
       {
         "name": "Finnish",
+        "ref": "finnico",
         "term": "osso buco"
       },
       {
         "name": "French",
+        "ref": "francese",
         "term": "osso buco"
       },
       {
         "name": "Japanese",
+        "ref": "giapponese",
         "term": "ossobūko"
       },
       {
         "name": "UK English",
+        "ref": "inglese",
         "term": "osso buco, ossi buchi"
       },
       {
         "name": "Portuguese",
+        "ref": "portoghese",
         "term": "ossobuco"
       },
       {
         "name": "Spanish",
+        "ref": "spagnolo",
         "term": "ossobuco"
       }
     ],
@@ -3780,10 +4400,12 @@
     "languages": [
       {
         "name": "Polish",
+        "ref": "polacco",
         "term": "ostryga, ostrega"
       },
       {
         "name": "Hungarian",
+        "ref": "ungherese",
         "term": "osztriga"
       }
     ],
@@ -3794,11 +4416,13 @@
     "languages": [
       {
         "name": "French",
+        "ref": "francese",
         "term": "pagnot(t)e",
-        "desc": "in this language it also means: soldier who abandons his duty to procure bread"
+        "desc": "in this language it also means soldier who abandons his duty to procure bread"
       },
       {
         "name": "German",
+        "ref": "tedesco",
         "term": "pagnotto, -e"
       }
     ],
@@ -3809,10 +4433,12 @@
     "languages": [
       {
         "name": "UK English",
+        "ref": "inglese",
         "term": "pane buffetto"
       },
       {
         "name": "German",
+        "ref": "tedesco",
         "term": "pamfét"
       }
     ],
@@ -3823,10 +4449,12 @@
     "languages": [
       {
         "name": "UK English",
+        "ref": "inglese",
         "term": "panada"
       },
       {
         "name": "German",
+        "ref": "tedesco",
         "term": "panadelsuppe"
       }
     ],
@@ -3837,14 +4465,17 @@
     "languages": [
       {
         "name": "UK English",
+        "ref": "inglese",
         "term": "panatel"
       },
       {
         "name": "Spanish",
+        "ref": "spagnolo",
         "term": "panatela"
       },
       {
         "name": "German",
+        "ref": "tedesco",
         "term": "panatell"
       }
     ],
@@ -3855,10 +4486,12 @@
     "languages": [
       {
         "name": "US English",
+        "ref": "americano",
         "term": "pancetta"
       },
       {
         "name": "UK English",
+        "ref": "inglese",
         "term": "pancetta"
       }
     ],
@@ -3869,6 +4502,7 @@
     "languages": [
       {
         "name": "Hungarian",
+        "ref": "ungherese",
         "term": "pandoro"
       }
     ],
@@ -3879,22 +4513,27 @@
     "languages": [
       {
         "name": "Japanese",
+        "ref": "giapponese",
         "term": "panettōne"
       },
       {
         "name": "UK English",
+        "ref": "inglese",
         "term": "panettons, -i"
       },
       {
         "name": "Icelandic",
+        "ref": "islandese",
         "term": "panettone"
       },
       {
         "name": "Polish",
+        "ref": "polacco",
         "term": "panettone"
       },
       {
         "name": "Hungarian",
+        "ref": "ungherese",
         "term": "panettone"
       }
     ],
@@ -3905,6 +4544,7 @@
     "languages": [
       {
         "name": "UK English",
+        "ref": "inglese",
         "term": "panfortes, -i"
       }
     ],
@@ -3915,6 +4555,7 @@
     "languages": [
       {
         "name": "UK English",
+        "ref": "inglese",
         "term": "pangrattato"
       }
     ],
@@ -3925,18 +4566,22 @@
     "languages": [
       {
         "name": "Finnish",
+        "ref": "finnico",
         "term": "paniini, panini"
       },
       {
         "name": "Japanese",
+        "ref": "giapponese",
         "term": "panīni"
       },
       {
         "name": "UK English",
+        "ref": "inglese",
         "term": "panini, paninis, -i"
       },
       {
         "name": "Polish",
+        "ref": "polacco",
         "term": "panini"
       }
     ],
@@ -3947,18 +4592,22 @@
     "languages": [
       {
         "name": "US English",
+        "ref": "americano",
         "term": "panna cotta"
       },
       {
         "name": "Finnish",
+        "ref": "finnico",
         "term": "pannacotta"
       },
       {
         "name": "Japanese",
+        "ref": "giapponese",
         "term": "panna・kotta"
       },
       {
         "name": "Polish",
+        "ref": "polacco",
         "term": "panna cotta"
       }
     ],
@@ -3969,6 +4618,7 @@
     "languages": [
       {
         "name": "US English",
+        "ref": "americano",
         "term": "Pantescan"
       }
     ],
@@ -3979,6 +4629,7 @@
     "languages": [
       {
         "name": "Polish",
+        "ref": "polacco",
         "term": "panzanella"
       }
     ],
@@ -3989,6 +4640,7 @@
     "languages": [
       {
         "name": "UK English",
+        "ref": "inglese",
         "term": "pappa al pomodoro"
       }
     ],
@@ -3999,62 +4651,77 @@
     "languages": [
       {
         "name": "US English",
+        "ref": "americano",
         "term": "Parmesan"
       },
       {
         "name": "US English",
+        "ref": "americano",
         "term": "Parmigiano-Reggiano cheese, parmigiano-reggiano cheese"
       },
       {
         "name": "Arabic",
+        "ref": "arabo",
         "term": "barmigaan, barmijaan"
       },
       {
         "name": "Czech",
+        "ref": "ceco",
         "term": "parmazán, parmezán"
       },
       {
         "name": "Chinese",
+        "ref": "cinese",
         "term": "Pàěrmǎ gānlào"
       },
       {
         "name": "Danish",
+        "ref": "danese",
         "term": "parmesan, parmesanost"
       },
       {
         "name": "Faroese",
+        "ref": "faroese",
         "term": "parmaostur"
       },
       {
         "name": "Finnish",
+        "ref": "finnico",
         "term": "parmesaani, parmesaanijuusto, parmanjuusto"
       },
       {
         "name": "French",
+        "ref": "francese",
         "term": "parmesan, fromage permigean, parmisan, parmesin"
       },
       {
         "name": "Japanese",
+        "ref": "giapponese",
         "term": "parumezan"
       },
       {
         "name": "UK English",
+        "ref": "inglese",
         "term": "Parmesan, parmesan"
       },
       {
         "name": "Lithuanian",
+        "ref": "lituano",
         "term": "parmidžanas"
       },
       {
         "name": "Polish",
+        "ref": "polacco",
         "term": "parmezan"
       },
       {
         "name": "Portuguese",
+        "ref": "portoghese",
         "term": "parmesão"
       },
       {
         "name": "Hungarian",
+        "ref": "ungherese",
         "term": "parmezán"
       }
     ],
@@ -4065,6 +4732,7 @@
     "languages": [
       {
         "name": "US English",
+        "ref": "americano",
         "term": "Pasqualina"
       }
     ],
@@ -4075,6 +4743,7 @@
     "languages": [
       {
         "name": "Spanish",
+        "ref": "spagnolo",
         "term": "pastaflora"
       }
     ],
@@ -4085,82 +4754,102 @@
     "languages": [
       {
         "name": "US English",
+        "ref": "americano",
         "term": "pasta"
       },
       {
         "name": "Arabic",
+        "ref": "arabo",
         "term": "basta"
       },
       {
         "name": "Catalan",
+        "ref": "catalano",
         "term": "pasta"
       },
       {
         "name": "Czech",
+        "ref": "ceco",
         "term": "pasta"
       },
       {
         "name": "Korean",
+        "ref": "coreano",
         "term": "p'asŭt'a"
       },
       {
         "name": "Danish",
+        "ref": "danese",
         "term": "pasta"
       },
       {
         "name": "Estonian",
+        "ref": "estone",
         "term": "pasta"
       },
       {
         "name": "Faroese",
+        "ref": "faroese",
         "term": "pasta"
       },
       {
         "name": "Finnish",
+        "ref": "finnico",
         "term": "pasta"
       },
       {
         "name": "Japanese",
+        "ref": "giapponese",
         "term": "pasuta"
       },
       {
         "name": "UK English",
+        "ref": "inglese",
         "term": "pasta"
       },
       {
         "name": "Icelandic",
+        "ref": "islandese",
         "term": "pasta"
       },
       {
         "name": "Latvian",
+        "ref": "lettone",
         "term": "pasta"
       },
       {
         "name": "Lithuanian",
+        "ref": "lituano",
         "term": "pasta"
       },
       {
         "name": "Polish",
+        "ref": "polacco",
         "term": "pastasciutta"
       },
       {
         "name": "Polish",
+        "ref": "polacco",
         "term": "paszta, pasta"
       },
       {
         "name": "German",
+        "ref": "tedesco",
         "term": "paste, pasten"
       },
       {
         "name": "German",
+        "ref": "tedesco",
         "term": "paste asciutte"
       },
       {
         "name": "Hungarian",
+        "ref": "ungherese",
         "term": "pasta"
       },
       {
         "name": "Hungarian",
+        "ref": "ungherese",
         "term": "pastasciutta"
       }
     ],
@@ -4172,6 +4861,7 @@
     "languages": [
       {
         "name": "Polish",
+        "ref": "polacco",
         "term": "pasztet"
       }
     ],
@@ -4182,14 +4872,17 @@
     "languages": [
       {
         "name": "Catalan",
+        "ref": "catalano",
         "term": "pastitxo"
       },
       {
         "name": "Czech",
+        "ref": "ceco",
         "term": "paštet"
       },
       {
         "name": "Polish",
+        "ref": "polacco",
         "term": "pasticcio, pastisio, pasticio"
       }
     ],
@@ -4200,6 +4893,7 @@
     "languages": [
       {
         "name": "Arabic",
+        "ref": "arabo",
         "term": "bastilya"
       }
     ],
@@ -4210,6 +4904,7 @@
     "languages": [
       {
         "name": "Arabic",
+        "ref": "arabo",
         "term": "bṭaaṭa"
       }
     ],
@@ -4220,14 +4915,17 @@
     "languages": [
       {
         "name": "US English",
+        "ref": "americano",
         "term": "pecorino"
       },
       {
         "name": "UK English",
+        "ref": "inglese",
         "term": "pecorino"
       },
       {
         "name": "Polish",
+        "ref": "polacco",
         "term": "pecorino"
       }
     ],
@@ -4238,26 +4936,32 @@
     "languages": [
       {
         "name": "US English",
+        "ref": "americano",
         "term": "penne"
       },
       {
         "name": "Japanese",
+        "ref": "giapponese",
         "term": "penne"
       },
       {
         "name": "UK English",
+        "ref": "inglese",
         "term": "penne"
       },
       {
         "name": "Icelandic",
+        "ref": "islandese",
         "term": "penne"
       },
       {
         "name": "Polish",
+        "ref": "polacco",
         "term": "penne"
       },
       {
         "name": "Hungarian",
+        "ref": "ungherese",
         "term": "penne"
       }
     ],
@@ -4268,6 +4972,7 @@
     "languages": [
       {
         "name": "US English",
+        "ref": "americano",
         "term": "pepato"
       }
     ],
@@ -4278,10 +4983,12 @@
     "languages": [
       {
         "name": "Lithuanian",
+        "ref": "lituano",
         "term": "peperonata"
       },
       {
         "name": "Polish",
+        "ref": "polacco",
         "term": "peperonata"
       }
     ],
@@ -4292,8 +4999,9 @@
     "languages": [
       {
         "name": "Japanese",
+        "ref": "giapponese",
         "term": "peperonchīno",
-        "desc": "in this language it means: spaghetti with hot pepper"
+        "desc": "in this language it means spaghetti with hot pepper"
       }
     ],
     "descIta": "Small very spicy pepper used to flavor dishes"
@@ -4303,26 +5011,31 @@
     "languages": [
       {
         "name": "Finnish",
+        "ref": "finnico",
         "term": "pepperoni, peperoni",
-        "desc": "in this language it means: salami with hot pepper"
+        "desc": "in this language it means salami with hot pepper"
       },
       {
         "name": "UK English",
+        "ref": "inglese",
         "term": "pep(p)eroni, -s",
-        "desc": "in this language it means: stuffed sausage"
+        "desc": "in this language it means stuffed sausage"
       },
       {
         "name": "Latvian",
+        "ref": "lettone",
         "term": "peperoni"
       },
       {
         "name": "German",
+        "ref": "tedesco",
         "term": "pfefferone,, -n, -s"
       },
       {
         "name": "Hungarian",
+        "ref": "ungherese",
         "term": "pepperoni, pepperóni, peperoni, feferóni dialettale",
-        "desc": "in this language it means: spicy pork or beef sausage"
+        "desc": "in this language it means spicy pork or beef sausage"
       }
     ],
     "descIta": "green, red or yellow, sweet or spicy vegetable"
@@ -4332,26 +5045,32 @@
     "languages": [
       {
         "name": "US English",
+        "ref": "americano",
         "term": "pesto"
       },
       {
         "name": "Finnish",
+        "ref": "finnico",
         "term": "pesto, pestokastike"
       },
       {
         "name": "UK English",
+        "ref": "inglese",
         "term": "pesto"
       },
       {
         "name": "Icelandic",
+        "ref": "islandese",
         "term": "pestó, pesto"
       },
       {
         "name": "Polish",
+        "ref": "polacco",
         "term": "pesto"
       },
       {
         "name": "Hungarian",
+        "ref": "ungherese",
         "term": "pesto"
       }
     ],
@@ -4362,6 +5081,7 @@
     "languages": [
       {
         "name": "Catalan",
+        "ref": "catalano",
         "term": "pet de monja"
       }
     ],
@@ -4372,6 +5092,7 @@
     "languages": [
       {
         "name": "UK English",
+        "ref": "inglese",
         "term": "piccant"
       }
     ],
@@ -4382,6 +5103,7 @@
     "languages": [
       {
         "name": "Japanese",
+        "ref": "giapponese",
         "term": "pikata"
       }
     ],
@@ -4392,11 +5114,13 @@
     "languages": [
       {
         "name": "Czech",
+        "ref": "ceco",
         "term": "pignol, piniola, pinelka, piňolka, pignoli,",
-        "desc": "in this language it means: PIGNOLO è VARIANTE NON TOSCANA, CON L'ACCEZIONE DI METICOLOSO, PROBABILMENTE NASCE A ROMA"
+        "desc": "in this language it means PIGNOLO è VARIANTE NON TOSCANA, CON L'ACCEZIONE DI METICOLOSO, PROBABILMENTE NASCE A ROMA"
       },
       {
         "name": "Polish",
+        "ref": "polacco",
         "term": "piniole"
       }
     ],
@@ -4407,6 +5131,7 @@
     "languages": [
       {
         "name": "Latvian",
+        "ref": "lettone",
         "term": "pinca"
       }
     ],
@@ -4417,6 +5142,7 @@
     "languages": [
       {
         "name": "Arabic",
+        "ref": "arabo",
         "term": "bisilla"
       }
     ],
@@ -4427,35 +5153,43 @@
     "languages": [
       {
         "name": "US English",
+        "ref": "americano",
         "term": "pistachio"
       },
       {
         "name": "Catalan",
+        "ref": "catalano",
         "term": "pistatxo"
       },
       {
         "name": "Estonian",
+        "ref": "estone",
         "term": "pistaatsia"
       },
       {
         "name": "Finnish",
+        "ref": "finnico",
         "term": "pistaasi"
       },
       {
         "name": "French",
+        "ref": "francese",
         "term": "pistache",
-        "desc": "in this language it also means: colloquial drunkenness"
+        "desc": "in this language it also means colloquial drunkenness"
       },
       {
         "name": "UK English",
+        "ref": "inglese",
         "term": "pistache, pista(ch)io, -s, -es, -a"
       },
       {
         "name": "Latvian",
+        "ref": "lettone",
         "term": "pistācija"
       },
       {
         "name": "Spanish",
+        "ref": "spagnolo",
         "term": "pistacho"
       }
     ],
@@ -4466,79 +5200,98 @@
     "languages": [
       {
         "name": "US English",
+        "ref": "americano",
         "term": "pizza"
       },
       {
         "name": "Catalan",
+        "ref": "catalano",
         "term": "pizza"
       },
       {
         "name": "Czech",
+        "ref": "ceco",
         "term": "pizza"
       },
       {
         "name": "Chinese",
+        "ref": "cinese",
         "term": "bǐsābǐng"
       },
       {
         "name": "Korean",
+        "ref": "coreano",
         "term": "p'ija",
-        "desc": "in this language it means: Italian dish baked with sausage, cheese, tomato, meat and other ingredients"
+        "desc": "in this language it means Italian dish baked with sausage, cheese, tomato, meat and other ingredients"
       },
       {
         "name": "Danish",
+        "ref": "danese",
         "term": "pizza"
       },
       {
         "name": "Estonian",
+        "ref": "estone",
         "term": "pitsa"
       },
       {
         "name": "Faroese",
+        "ref": "faroese",
         "term": "pitsa"
       },
       {
         "name": "Finnish",
+        "ref": "finnico",
         "term": "pitsa, pizza"
       },
       {
         "name": "Japanese",
+        "ref": "giapponese",
         "term": "pittsa"
       },
       {
         "name": "UK English",
+        "ref": "inglese",
         "term": "pizza, pizzas, pizze"
       },
       {
         "name": "Icelandic",
+        "ref": "islandese",
         "term": "pizza, pitsa, pizzur, pitsur"
       },
       {
         "name": "Latvian",
+        "ref": "lettone",
         "term": "pica"
       },
       {
         "name": "Lithuanian",
+        "ref": "lituano",
         "term": "pica"
       },
       {
         "name": "Polish",
+        "ref": "polacco",
         "term": "pizza"
       },
       {
         "name": "Portuguese",
+        "ref": "portoghese",
         "term": "piza"
       },
       {
         "name": "Spanish",
+        "ref": "spagnolo",
         "term": "pizza"
       },
       {
         "name": "German",
+        "ref": "tedesco",
         "term": "pizzas, pizzen"
       },
       {
         "name": "Hungarian",
+        "ref": "ungherese",
         "term": "pizza"
       }
     ],
@@ -4549,46 +5302,57 @@
     "languages": [
       {
         "name": "US English",
+        "ref": "americano",
         "term": "polenta"
       },
       {
         "name": "Czech",
+        "ref": "ceco",
         "term": "polenta"
       },
       {
         "name": "Korean",
+        "ref": "coreano",
         "term": "p'ollent'a"
       },
       {
         "name": "Finnish",
+        "ref": "finnico",
         "term": "polenta"
       },
       {
         "name": "French",
+        "ref": "francese",
         "term": "polentas"
       },
       {
         "name": "Japanese",
+        "ref": "giapponese",
         "term": "porenta"
       },
       {
         "name": "UK English",
+        "ref": "inglese",
         "term": "polenta"
       },
       {
         "name": "Lithuanian",
+        "ref": "lituano",
         "term": "polenta"
       },
       {
         "name": "Polish",
+        "ref": "polacco",
         "term": "polenta"
       },
       {
         "name": "German",
+        "ref": "tedesco",
         "term": "polenten, -s"
       },
       {
         "name": "Hungarian",
+        "ref": "ungherese",
         "term": "polenta"
       }
     ],
@@ -4599,6 +5363,7 @@
     "languages": [
       {
         "name": "UK English",
+        "ref": "inglese",
         "term": "pollo"
       }
     ],
@@ -4609,6 +5374,7 @@
     "languages": [
       {
         "name": "French",
+        "ref": "francese",
         "term": "poulet à la M., marengos"
       }
     ],
@@ -4619,17 +5385,20 @@
     "languages": [
       {
         "name": "Czech",
+        "ref": "ceco",
         "term": "polpeta"
       },
       {
         "name": "Polish",
+        "ref": "polacco",
         "term": "pulpet",
-        "desc": "in this language it also means: joking \"fat, used by children\""
+        "desc": "in this language it also means joking \"fat, used by children\""
       },
       {
         "name": "Hungarian",
+        "ref": "ungherese",
         "term": "polpetti",
-        "desc": "in this language it means: cutlets stuffed with ham and cheese, with a side of macaroni"
+        "desc": "in this language it means cutlets stuffed with ham and cheese, with a side of macaroni"
       }
     ],
     "descIta": "small ball of minced meat, seasoned with spices and other ingredients, cooked in a pan or breaded and fried"
@@ -4639,14 +5408,17 @@
     "languages": [
       {
         "name": "Czech",
+        "ref": "ceco",
         "term": "pomeranč"
       },
       {
         "name": "Finnish",
+        "ref": "finnico",
         "term": "pomeranssi"
       },
       {
         "name": "Polish",
+        "ref": "polacco",
         "term": "pomorańcza, pomarańca, pomarańcia"
       }
     ],
@@ -4657,14 +5429,17 @@
     "languages": [
       {
         "name": "Arabic",
+        "ref": "arabo",
         "term": "banaduura, banduura"
       },
       {
         "name": "Lithuanian",
+        "ref": "lituano",
         "term": "pomidoras"
       },
       {
         "name": "Polish",
+        "ref": "polacco",
         "term": "pomidor"
       }
     ],
@@ -4675,6 +5450,7 @@
     "languages": [
       {
         "name": "US English",
+        "ref": "americano",
         "term": "Roma [tomatoes]"
       }
     ],
@@ -4685,6 +5461,7 @@
     "languages": [
       {
         "name": "US English",
+        "ref": "americano",
         "term": "porchetta"
       }
     ],
@@ -4695,14 +5472,17 @@
     "languages": [
       {
         "name": "US English",
+        "ref": "americano",
         "term": "porcini"
       },
       {
         "name": "Japanese",
+        "ref": "giapponese",
         "term": "poruchīni"
       },
       {
         "name": "UK English",
+        "ref": "inglese",
         "term": "porcini"
       }
     ],
@@ -4713,6 +5493,7 @@
     "languages": [
       {
         "name": "Polish",
+        "ref": "polacco",
         "term": "por"
       }
     ],
@@ -4723,6 +5504,7 @@
     "languages": [
       {
         "name": "Czech",
+        "ref": "ceco",
         "term": "pospas"
       }
     ],
@@ -4734,6 +5516,7 @@
     "languages": [
       {
         "name": "Polish",
+        "ref": "polacco",
         "term": "pietruszka, piotrużka, piotruszka"
       }
     ],
@@ -4744,14 +5527,17 @@
     "languages": [
       {
         "name": "US English",
+        "ref": "americano",
         "term": "prosciutto"
       },
       {
         "name": "UK English",
+        "ref": "inglese",
         "term": "prosciutto ham"
       },
       {
         "name": "Polish",
+        "ref": "polacco",
         "term": "prosciutto"
       }
     ],
@@ -4762,10 +5548,12 @@
     "languages": [
       {
         "name": "Finnish",
+        "ref": "finnico",
         "term": "parmankinkku, Parman kinkku"
       },
       {
         "name": "UK English",
+        "ref": "inglese",
         "term": "Parma ham"
       }
     ],
@@ -4776,10 +5564,12 @@
     "languages": [
       {
         "name": "German",
+        "ref": "tedesco",
         "term": "proseccos"
       },
       {
         "name": "Hungarian",
+        "ref": "ungherese",
         "term": "prosecco"
       }
     ],
@@ -4790,10 +5580,12 @@
     "languages": [
       {
         "name": "UK English",
+        "ref": "inglese",
         "term": "provolone cheese"
       },
       {
         "name": "Polish",
+        "ref": "polacco",
         "term": "provolone"
       }
     ],
@@ -4804,6 +5596,7 @@
     "languages": [
       {
         "name": "UK English",
+        "ref": "inglese",
         "term": "Pugliese"
       }
     ],
@@ -4814,6 +5607,7 @@
     "languages": [
       {
         "name": "Hungarian",
+        "ref": "ungherese",
         "term": "rebarbara"
       }
     ],
@@ -4824,14 +5618,17 @@
     "languages": [
       {
         "name": "US English",
+        "ref": "americano",
         "term": "radicchio"
       },
       {
         "name": "UK English",
+        "ref": "inglese",
         "term": "radicchios"
       },
       {
         "name": "German",
+        "ref": "tedesco",
         "term": "radicchi"
       }
     ],
@@ -4842,10 +5639,12 @@
     "languages": [
       {
         "name": "Japanese",
+        "ref": "giapponese",
         "term": "ragū"
       },
       {
         "name": "UK English",
+        "ref": "inglese",
         "term": "ragu"
       }
     ],
@@ -4857,8 +5656,9 @@
     "languages": [
       {
         "name": "Catalan",
+        "ref": "catalano",
         "term": "remolatxa",
-        "desc": "in this language it means: IL RAMOLACCIO è UNA VARIETà DI RAVANELLO"
+        "desc": "in this language it means IL RAMOLACCIO è UNA VARIETà DI RAVANELLO"
       }
     ],
     "descIta": "round edible root, usually red with white flesh with a slightly spicy taste, eaten raw in salads or as a side dish"
@@ -4869,6 +5669,7 @@
     "languages": [
       {
         "name": "Catalan",
+        "ref": "catalano",
         "term": "repunxó"
       }
     ],
@@ -4879,63 +5680,78 @@
     "languages": [
       {
         "name": "US English",
+        "ref": "americano",
         "term": "ravioli"
       },
       {
         "name": "Catalan",
+        "ref": "catalano",
         "term": "rubiol, robiol, ravioli"
       },
       {
         "name": "Czech",
+        "ref": "ceco",
         "term": "raviola, ravioly"
       },
       {
         "name": "Korean",
+        "ref": "coreano",
         "term": "rabiolli"
       },
       {
         "name": "Estonian",
+        "ref": "estone",
         "term": "raviool"
       },
       {
         "name": "Finnish",
+        "ref": "finnico",
         "term": "ravioli"
       },
       {
         "name": "French",
+        "ref": "francese",
         "term": "ravioli(s), raviolle",
-        "desc": "in this language it means: dish with turnips and meat"
+        "desc": "in this language it means dish with turnips and meat"
       },
       {
         "name": "Japanese",
+        "ref": "giapponese",
         "term": "rabiori"
       },
       {
         "name": "UK English",
+        "ref": "inglese",
         "term": "rafiol, raviol"
       },
       {
         "name": "Latvian",
+        "ref": "lettone",
         "term": "ravioli"
       },
       {
         "name": "Lithuanian",
+        "ref": "lituano",
         "term": "ravioliai"
       },
       {
         "name": "Polish",
+        "ref": "polacco",
         "term": "ravioli"
       },
       {
         "name": "Portuguese",
+        "ref": "portoghese",
         "term": "ravióis"
       },
       {
         "name": "Spanish",
+        "ref": "spagnolo",
         "term": "ravioli"
       },
       {
         "name": "Hungarian",
+        "ref": "ungherese",
         "term": "ravioli"
       }
     ],
@@ -4946,6 +5762,7 @@
     "languages": [
       {
         "name": "Hungarian",
+        "ref": "ungherese",
         "term": "refosˇk, refosk"
       }
     ],
@@ -4956,6 +5773,7 @@
     "languages": [
       {
         "name": "UK English",
+        "ref": "inglese",
         "term": "ribollita"
       }
     ],
@@ -4966,38 +5784,47 @@
     "languages": [
       {
         "name": "US English",
+        "ref": "americano",
         "term": "ricotta"
       },
       {
         "name": "Arabic",
+        "ref": "arabo",
         "term": "rikutta"
       },
       {
         "name": "Finnish",
+        "ref": "finnico",
         "term": "ricotta"
       },
       {
         "name": "Japanese",
+        "ref": "giapponese",
         "term": "rikotta・chīzu"
       },
       {
         "name": "UK English",
+        "ref": "inglese",
         "term": "ricoct, ricotta cheese"
       },
       {
         "name": "Lithuanian",
+        "ref": "lituano",
         "term": "rikota, ricotta"
       },
       {
         "name": "Polish",
+        "ref": "polacco",
         "term": "ricotta"
       },
       {
         "name": "German",
+        "ref": "tedesco",
         "term": "rikotta"
       },
       {
         "name": "Hungarian",
+        "ref": "ungherese",
         "term": "ricotta"
       }
     ],
@@ -5008,6 +5835,7 @@
     "languages": [
       {
         "name": "US English",
+        "ref": "americano",
         "term": "rigata"
       }
     ],
@@ -5018,6 +5846,7 @@
     "languages": [
       {
         "name": "UK English",
+        "ref": "inglese",
         "term": "rigatoni"
       }
     ],
@@ -5028,10 +5857,12 @@
     "languages": [
       {
         "name": "UK English",
+        "ref": "inglese",
         "term": "risi [e bisi]"
       },
       {
         "name": "Hungarian",
+        "ref": "ungherese",
         "term": "rizibizi"
       }
     ],
@@ -5042,22 +5873,27 @@
     "languages": [
       {
         "name": "US English",
+        "ref": "americano",
         "term": "rice"
       },
       {
         "name": "UK English",
+        "ref": "inglese",
         "term": "rice"
       },
       {
         "name": "Icelandic",
+        "ref": "islandese",
         "term": "hrís, hrísgrjón, rís"
       },
       {
         "name": "Polish",
+        "ref": "polacco",
         "term": "ryż"
       },
       {
         "name": "Hungarian",
+        "ref": "ungherese",
         "term": "rizs, Rizsa"
       }
     ],
@@ -5068,50 +5904,62 @@
     "languages": [
       {
         "name": "Arabic",
+        "ref": "arabo",
         "term": "rizuttu"
       },
       {
         "name": "Czech",
+        "ref": "ceco",
         "term": "rizoto"
       },
       {
         "name": "Chinese",
+        "ref": "cinese",
         "term": "Yìshì tiáowèifàn"
       },
       {
         "name": "Danish",
+        "ref": "danese",
         "term": "risotto"
       },
       {
         "name": "Finnish",
+        "ref": "finnico",
         "term": "risotto"
       },
       {
         "name": "Japanese",
+        "ref": "giapponese",
         "term": "rizotto"
       },
       {
         "name": "UK English",
+        "ref": "inglese",
         "term": "risottos"
       },
       {
         "name": "Icelandic",
+        "ref": "islandese",
         "term": "risotto"
       },
       {
         "name": "Lithuanian",
+        "ref": "lituano",
         "term": "rizotas"
       },
       {
         "name": "Polish",
+        "ref": "polacco",
         "term": "risotto"
       },
       {
         "name": "German",
+        "ref": "tedesco",
         "term": "risotto(s)"
       },
       {
         "name": "Hungarian",
+        "ref": "ungherese",
         "term": "rizottó"
       }
     ],
@@ -5122,6 +5970,7 @@
     "languages": [
       {
         "name": "US English",
+        "ref": "americano",
         "term": "robiola"
       }
     ],
@@ -5132,6 +5981,7 @@
     "languages": [
       {
         "name": "US English",
+        "ref": "americano",
         "term": "romanesco"
       }
     ],
@@ -5142,10 +5992,12 @@
     "languages": [
       {
         "name": "US English",
+        "ref": "americano",
         "term": "Romano, romano"
       },
       {
         "name": "UK English",
+        "ref": "inglese",
         "term": "romano"
       }
     ],
@@ -5156,6 +6008,7 @@
     "languages": [
       {
         "name": "Hungarian",
+        "ref": "ungherese",
         "term": "rozmaring"
       }
     ],
@@ -5166,18 +6019,22 @@
     "languages": [
       {
         "name": "Czech",
+        "ref": "ceco",
         "term": "rosolka"
       },
       {
         "name": "French",
+        "ref": "francese",
         "term": "rossoli(s), ros(s)olio, roso(g)lio"
       },
       {
         "name": "UK English",
+        "ref": "inglese",
         "term": "rosoglio"
       },
       {
         "name": "Polish",
+        "ref": "polacco",
         "term": "rozolka, rosolka"
       }
     ],
@@ -5189,42 +6046,52 @@
     "languages": [
       {
         "name": "US English",
+        "ref": "americano",
         "term": "arugula"
       },
       {
         "name": "Finnish",
+        "ref": "finnico",
         "term": "rucola, rukola"
       },
       {
         "name": "Japanese",
+        "ref": "giapponese",
         "term": "rukkora"
       },
       {
         "name": "UK English",
+        "ref": "inglese",
         "term": "rachetta"
       },
       {
         "name": "UK English",
+        "ref": "inglese",
         "term": "rocket"
       },
       {
         "name": "Icelandic",
+        "ref": "islandese",
         "term": "rucola, ruccola"
       },
       {
         "name": "Lithuanian",
+        "ref": "lituano",
         "term": "rukola, rucola"
       },
       {
         "name": "Polish",
+        "ref": "polacco",
         "term": "rucola, rukola, ruccola"
       },
       {
         "name": "German",
+        "ref": "tedesco",
         "term": "rukola"
       },
       {
         "name": "Hungarian",
+        "ref": "ungherese",
         "term": "ruccola, rukkola, rucola"
       }
     ],
@@ -5235,6 +6102,7 @@
     "languages": [
       {
         "name": "Hungarian",
+        "ref": "ungherese",
         "term": "ruta"
       }
     ],
@@ -5245,58 +6113,72 @@
     "languages": [
       {
         "name": "Arabic",
+        "ref": "arabo",
         "term": "salaama"
       },
       {
         "name": "Czech",
+        "ref": "ceco",
         "term": "salám"
       },
       {
         "name": "Korean",
+        "ref": "coreano",
         "term": "sallami"
       },
       {
         "name": "Estonian",
+        "ref": "estone",
         "term": "salaami"
       },
       {
         "name": "Finnish",
+        "ref": "finnico",
         "term": "salami"
       },
       {
         "name": "French",
+        "ref": "francese",
         "term": "salami, salamis"
       },
       {
         "name": "Japanese",
+        "ref": "giapponese",
         "term": "sarami"
       },
       {
         "name": "UK English",
+        "ref": "inglese",
         "term": "salami, salames, -is"
       },
       {
         "name": "Latvian",
+        "ref": "lettone",
         "term": "salami"
       },
       {
         "name": "Polish",
+        "ref": "polacco",
         "term": "salami"
       },
       {
         "name": "Portuguese",
+        "ref": "portoghese",
         "term": "salame"
       },
       {
         "name": "Spanish",
+        "ref": "spagnolo",
         "term": "salami"
       },
       {
         "name": "German",
+        "ref": "tedesco",
         "term": "salami, salamis"
       },
       {
         "name": "Hungarian",
+        "ref": "ungherese",
         "term": "szalámi"
       }
     ],
@@ -5307,10 +6189,12 @@
     "languages": [
       {
         "name": "Arabic",
+        "ref": "arabo",
         "term": "ṣalṣa"
       },
       {
         "name": "Finnish",
+        "ref": "finnico",
         "term": "salsa"
       }
     ],
@@ -5321,18 +6205,22 @@
     "languages": [
       {
         "name": "Catalan",
+        "ref": "catalano",
         "term": "salsitxa"
       },
       {
         "name": "Portuguese",
+        "ref": "portoghese",
         "term": "salsicha"
       },
       {
         "name": "Spanish",
+        "ref": "spagnolo",
         "term": "salchicha"
       },
       {
         "name": "German",
+        "ref": "tedesco",
         "term": "salsicie, saltzits"
       }
     ],
@@ -5343,15 +6231,18 @@
     "languages": [
       {
         "name": "French",
+        "ref": "francese",
         "term": "saucisson",
-        "desc": "in this language it also means: cylindrical load of firewood"
+        "desc": "in this language it also means cylindrical load of firewood"
       },
       {
         "name": "Polish",
+        "ref": "polacco",
         "term": "salceson"
       },
       {
         "name": "German",
+        "ref": "tedesco",
         "term": "saltzisoni, salczysony, salzizoni"
       }
     ],
@@ -5362,14 +6253,17 @@
     "languages": [
       {
         "name": "US English",
+        "ref": "americano",
         "term": "saltimbocca"
       },
       {
         "name": "UK English",
+        "ref": "inglese",
         "term": "saltimbocca (alla) romana"
       },
       {
         "name": "Portuguese",
+        "ref": "portoghese",
         "term": "saltimbocca"
       }
     ],
@@ -5380,10 +6274,12 @@
     "languages": [
       {
         "name": "UK English",
+        "ref": "inglese",
         "term": "sambuccas"
       },
       {
         "name": "German",
+        "ref": "tedesco",
         "term": "sambucas"
       }
     ],
@@ -5394,79 +6290,98 @@
     "languages": [
       {
         "name": "Arabic",
+        "ref": "arabo",
         "term": "sardiin"
       },
       {
         "name": "Arabic",
+        "ref": "arabo",
         "term": "sardilla"
       },
       {
         "name": "Catalan",
+        "ref": "catalano",
         "term": "sardella"
       },
       {
         "name": "Czech",
+        "ref": "ceco",
         "term": "sardel"
       },
       {
         "name": "Czech",
+        "ref": "ceco",
         "term": "sardinka"
       },
       {
         "name": "Estonian",
+        "ref": "estone",
         "term": "sardiin"
       },
       {
         "name": "Finnish",
+        "ref": "finnico",
         "term": "sardelli"
       },
       {
         "name": "Finnish",
+        "ref": "finnico",
         "term": "sardiini"
       },
       {
         "name": "French",
+        "ref": "francese",
         "term": "sardelle"
       },
       {
         "name": "Gaelic",
+        "ref": "gaelico",
         "term": "sairdín"
       },
       {
         "name": "UK English",
+        "ref": "inglese",
         "term": "sardelle",
-        "desc": "in this language it also means: combing hair to the side to hide baldness"
+        "desc": "in this language it also means combing hair to the side to hide baldness"
       },
       {
         "name": "Latvian",
+        "ref": "lettone",
         "term": "sardīne"
       },
       {
         "name": "Lithuanian",
+        "ref": "lituano",
         "term": "sardinė"
       },
       {
         "name": "Polish",
+        "ref": "polacco",
         "term": "sardela"
       },
       {
         "name": "Polish",
+        "ref": "polacco",
         "term": "sardynka"
       },
       {
         "name": "German",
+        "ref": "tedesco",
         "term": "sardelle"
       },
       {
         "name": "German",
+        "ref": "tedesco",
         "term": "sardine, sardien"
       },
       {
         "name": "Hungarian",
+        "ref": "ungherese",
         "term": "szardella"
       },
       {
         "name": "Hungarian",
+        "ref": "ungherese",
         "term": "szardínia"
       }
     ],
@@ -5477,6 +6392,7 @@
     "languages": [
       {
         "name": "Japanese",
+        "ref": "giapponese",
         "term": "sasshikaia"
       }
     ],
@@ -5487,6 +6403,7 @@
     "languages": [
       {
         "name": "UK English",
+        "ref": "inglese",
         "term": "savoiardi biscuit"
       }
     ],
@@ -5497,14 +6414,17 @@
     "languages": [
       {
         "name": "US English",
+        "ref": "americano",
         "term": "scampi"
       },
       {
         "name": "Japanese",
+        "ref": "giapponese",
         "term": "sukanpi"
       },
       {
         "name": "Hungarian",
+        "ref": "ungherese",
         "term": "scampi"
       }
     ],
@@ -5515,14 +6435,17 @@
     "languages": [
       {
         "name": "US English",
+        "ref": "americano",
         "term": "escarole"
       },
       {
         "name": "UK English",
+        "ref": "inglese",
         "term": "scariole"
       },
       {
         "name": "German",
+        "ref": "tedesco",
         "term": "skariol"
       }
     ],
@@ -5533,10 +6456,12 @@
     "languages": [
       {
         "name": "Latvian",
+        "ref": "lettone",
         "term": "skorconera"
       },
       {
         "name": "Polish",
+        "ref": "polacco",
         "term": "skorzonera"
       }
     ],
@@ -5547,20 +6472,24 @@
     "languages": [
       {
         "name": "UK English",
+        "ref": "inglese",
         "term": "vino (secco)"
       },
       {
         "name": "Icelandic",
+        "ref": "islandese",
         "term": "sekk"
       },
       {
         "name": "Polish",
+        "ref": "polacco",
         "term": "sek"
       },
       {
         "name": "German",
+        "ref": "tedesco",
         "term": "sekt",
-        "desc": "in this language it means: passito"
+        "desc": "in this language it means passito"
       }
     ],
     "descIta": "refers to wine or liquor with low sugar content, the opposite of sweet"
@@ -5571,30 +6500,37 @@
     "languages": [
       {
         "name": "US English",
+        "ref": "americano",
         "term": "celery"
       },
       {
         "name": "Czech",
+        "ref": "ceco",
         "term": "celer"
       },
       {
         "name": "Finnish",
+        "ref": "finnico",
         "term": "selleri"
       },
       {
         "name": "UK English",
+        "ref": "inglese",
         "term": "celery"
       },
       {
         "name": "Lithuanian",
+        "ref": "lituano",
         "term": "salieras"
       },
       {
         "name": "Polish",
+        "ref": "polacco",
         "term": "seler"
       },
       {
         "name": "Hungarian",
+        "ref": "ungherese",
         "term": "zeller"
       }
     ],
@@ -5605,6 +6541,7 @@
     "languages": [
       {
         "name": "US English",
+        "ref": "americano",
         "term": "celeriac"
       }
     ],
@@ -5615,13 +6552,15 @@
     "languages": [
       {
         "name": "French",
+        "ref": "francese",
         "term": "semoule, symole, semole",
-        "desc": "in this language it means: pasta made with water and flour"
+        "desc": "in this language it means pasta made with water and flour"
       },
       {
         "name": "Portuguese",
+        "ref": "portoghese",
         "term": "sêmola",
-        "desc": "in this language it means: rice starch"
+        "desc": "in this language it means rice starch"
       }
     ],
     "descIta": "intermediate product from the milling of durum wheat which, if reground, is processed into flour"
@@ -5631,28 +6570,34 @@
     "languages": [
       {
         "name": "US English",
+        "ref": "americano",
         "term": "semolina"
       },
       {
         "name": "Czech",
+        "ref": "ceco",
         "term": "semolina"
       },
       {
         "name": "Gaelic",
+        "ref": "gaelico",
         "term": "seimilín"
       },
       {
         "name": "UK English",
+        "ref": "inglese",
         "term": "semolina, semoulina"
       },
       {
         "name": "Portuguese",
+        "ref": "portoghese",
         "term": "semolina"
       },
       {
         "name": "Spanish",
+        "ref": "spagnolo",
         "term": "sémola",
-        "desc": "in this language it means: high-quality wheat without the seed casing "
+        "desc": "in this language it means high-quality wheat without the seed casing "
       }
     ],
     "descIta": "intermediate product from the milling of durum wheat which, if reground, is processed into flour"
@@ -5662,10 +6607,12 @@
     "languages": [
       {
         "name": "Arabic",
+        "ref": "arabo",
         "term": "sibya"
       },
       {
         "name": "Portuguese",
+        "ref": "portoghese",
         "term": "sépia"
       }
     ],
@@ -5676,6 +6623,7 @@
     "languages": [
       {
         "name": "US English",
+        "ref": "americano",
         "term": "Sicilian"
       }
     ],
@@ -5686,6 +6634,7 @@
     "languages": [
       {
         "name": "UK English",
+        "ref": "inglese",
         "term": "soffrito, sof(f)rito"
       }
     ],
@@ -5696,6 +6645,7 @@
     "languages": [
       {
         "name": "Catalan",
+        "ref": "catalano",
         "term": "sobrassada"
       }
     ],
@@ -5706,38 +6656,47 @@
     "languages": [
       {
         "name": "Catalan",
+        "ref": "catalano",
         "term": "sorbet"
       },
       {
         "name": "Danish",
+        "ref": "danese",
         "term": "sorbet"
       },
       {
         "name": "French",
+        "ref": "francese",
         "term": "sorbet"
       },
       {
         "name": "Gaelic",
+        "ref": "gaelico",
         "term": "soirbéad"
       },
       {
         "name": "Icelandic",
+        "ref": "islandese",
         "term": "sorbet"
       },
       {
         "name": "Polish",
+        "ref": "polacco",
         "term": "sorbetto, sorbeto, sorbet"
       },
       {
         "name": "Portuguese",
+        "ref": "portoghese",
         "term": "sorvete"
       },
       {
         "name": "Spanish",
+        "ref": "spagnolo",
         "term": "sorbete"
       },
       {
         "name": "German",
+        "ref": "tedesco",
         "term": "sorbet, -s"
       }
     ],
@@ -5748,28 +6707,34 @@
     "languages": [
       {
         "name": "Catalan",
+        "ref": "catalano",
         "term": "sorgo"
       },
       {
         "name": "Estonian",
+        "ref": "estone",
         "term": "sorgo"
       },
       {
         "name": "Latvian",
+        "ref": "lettone",
         "term": "sorgo"
       },
       {
         "name": "Lithuanian",
+        "ref": "lituano",
         "term": "sorgas"
       },
       {
         "name": "Polish",
+        "ref": "polacco",
         "term": "sorgo"
       },
       {
         "name": "Portuguese",
+        "ref": "portoghese",
         "term": "sorgo",
-        "desc": "in this language it also means: broom"
+        "desc": "in this language it also means broom"
       }
     ],
     "descIta": "cereal plant grown worldwide"
@@ -5779,91 +6744,113 @@
     "languages": [
       {
         "name": "US English",
+        "ref": "americano",
         "term": "spaghetti"
       },
       {
         "name": "Arabic",
+        "ref": "arabo",
         "term": "’isbagitti, ’isbakitta"
       },
       {
         "name": "Catalan",
+        "ref": "catalano",
         "term": "espagueti, spaghetti"
       },
       {
         "name": "Czech",
+        "ref": "ceco",
         "term": "špagety"
       },
       {
         "name": "Chinese",
+        "ref": "cinese",
         "term": "miàntiáo"
       },
       {
         "name": "Korean",
+        "ref": "coreano",
         "term": "sŭp'aget'i"
       },
       {
         "name": "Danish",
+        "ref": "danese",
         "term": "spaghetti"
       },
       {
         "name": "Estonian",
+        "ref": "estone",
         "term": "spagetid"
       },
       {
         "name": "Faroese",
+        "ref": "faroese",
         "term": "spagetti"
       },
       {
         "name": "Finnish",
+        "ref": "finnico",
         "term": "spagetti"
       },
       {
         "name": "French",
+        "ref": "francese",
         "term": "spaghetti(s)",
-        "desc": "in this language it also means: insulting Italian"
+        "desc": "in this language it also means insulting Italian"
       },
       {
         "name": "Gaelic",
+        "ref": "gaelico",
         "term": "spaigití"
       },
       {
         "name": "Japanese",
+        "ref": "giapponese",
         "term": "supagetti, supagechi; supagetti・naporitan (spaghetti napoletani), supagetti・mītosōsu (spaghetti meat sauce 'spaghetti al sugo di carne')"
       },
       {
         "name": "UK English",
+        "ref": "inglese",
         "term": "spaghetti"
       },
       {
         "name": "Icelandic",
+        "ref": "islandese",
         "term": "spagetti, spaghetti, spaghettí"
       },
       {
         "name": "Latvian",
+        "ref": "lettone",
         "term": "spageti"
       },
       {
         "name": "Lithuanian",
+        "ref": "lituano",
         "term": "spagečiai"
       },
       {
         "name": "Polish",
+        "ref": "polacco",
         "term": "spaghetti"
       },
       {
         "name": "Portuguese",
+        "ref": "portoghese",
         "term": "esparguete"
       },
       {
         "name": "Spanish",
+        "ref": "spagnolo",
         "term": "espagueti"
       },
       {
         "name": "German",
+        "ref": "tedesco",
         "term": "spaghettis"
       },
       {
         "name": "Hungarian",
+        "ref": "ungherese",
         "term": "spagetti"
       }
     ],
@@ -5874,6 +6861,7 @@
     "languages": [
       {
         "name": "Arabic",
+        "ref": "arabo",
         "term": "’isbagittiini, ’isbakittiini"
       }
     ],
@@ -5884,6 +6872,7 @@
     "languages": [
       {
         "name": "US English",
+        "ref": "americano",
         "term": "spezzatino"
       }
     ],
@@ -5894,10 +6883,12 @@
     "languages": [
       {
         "name": "Polish",
+        "ref": "polacco",
         "term": "szpinak"
       },
       {
         "name": "Hungarian",
+        "ref": "ungherese",
         "term": "spenót"
       }
     ],
@@ -5908,6 +6899,7 @@
     "languages": [
       {
         "name": "Arabic",
+        "ref": "arabo",
         "term": "sibirtu, sibartu"
       }
     ],
@@ -5918,18 +6910,22 @@
     "languages": [
       {
         "name": "UK English",
+        "ref": "inglese",
         "term": "Asti spumanti"
       },
       {
         "name": "Polish",
+        "ref": "polacco",
         "term": "spumante"
       },
       {
         "name": "German",
+        "ref": "tedesco",
         "term": "spumantes"
       },
       {
         "name": "Hungarian",
+        "ref": "ungherese",
         "term": "spumante"
       }
     ],
@@ -5940,10 +6936,12 @@
     "languages": [
       {
         "name": "Korean",
+        "ref": "coreano",
         "term": "sŭp'umoni"
       },
       {
         "name": "UK English",
+        "ref": "inglese",
         "term": "spumoni"
       }
     ],
@@ -5954,6 +6952,7 @@
     "languages": [
       {
         "name": "UK English",
+        "ref": "inglese",
         "term": "straccetti"
       }
     ],
@@ -5964,10 +6963,12 @@
     "languages": [
       {
         "name": "French",
+        "ref": "francese",
         "term": "stracchinos"
       },
       {
         "name": "UK English",
+        "ref": "inglese",
         "term": "strac(c)hino cheese"
       }
     ],
@@ -5978,10 +6979,12 @@
     "languages": [
       {
         "name": "Polish",
+        "ref": "polacco",
         "term": "stracciatella, straciatella"
       },
       {
         "name": "Hungarian",
+        "ref": "ungherese",
         "term": "stracsatella, sztracsi"
       }
     ],
@@ -5992,6 +6995,7 @@
     "languages": [
       {
         "name": "Polish",
+        "ref": "polacco",
         "term": "strega"
       }
     ],
@@ -6002,18 +7006,22 @@
     "languages": [
       {
         "name": "French",
+        "ref": "francese",
         "term": "estouffade, étouffade, estoffade"
       },
       {
         "name": "UK English",
+        "ref": "inglese",
         "term": "stufata"
       },
       {
         "name": "Polish",
+        "ref": "polacco",
         "term": "sztufada"
       },
       {
         "name": "German",
+        "ref": "tedesco",
         "term": "stufata, -s"
       }
     ],
@@ -6024,6 +7032,7 @@
     "languages": [
       {
         "name": "Polish",
+        "ref": "polacco",
         "term": "sugo"
       }
     ],
@@ -6034,6 +7043,7 @@
     "languages": [
       {
         "name": "US English",
+        "ref": "americano",
         "term": "tagliata"
       }
     ],
@@ -6044,30 +7054,37 @@
     "languages": [
       {
         "name": "Finnish",
+        "ref": "finnico",
         "term": "tagliatelle"
       },
       {
         "name": "French",
+        "ref": "francese",
         "term": "tagliatelle(s), tagliatelli"
       },
       {
         "name": "Japanese",
+        "ref": "giapponese",
         "term": "tariaterre"
       },
       {
         "name": "UK English",
+        "ref": "inglese",
         "term": "tagliatelli"
       },
       {
         "name": "Icelandic",
+        "ref": "islandese",
         "term": "tagliatelle"
       },
       {
         "name": "Polish",
+        "ref": "polacco",
         "term": "tagliatelle"
       },
       {
         "name": "German",
+        "ref": "tedesco",
         "term": "tagliatelli"
       }
     ],
@@ -6078,22 +7095,27 @@
     "languages": [
       {
         "name": "Catalan",
+        "ref": "catalano",
         "term": "tallarí, tallarina"
       },
       {
         "name": "UK English",
+        "ref": "inglese",
         "term": "tagliarini"
       },
       {
         "name": "Portuguese",
+        "ref": "portoghese",
         "term": "talharim"
       },
       {
         "name": "Spanish",
+        "ref": "spagnolo",
         "term": "tallarín"
       },
       {
         "name": "German",
+        "ref": "tedesco",
         "term": "tagliarini"
       }
     ],
@@ -6104,6 +7126,7 @@
     "languages": [
       {
         "name": "Arabic",
+        "ref": "arabo",
         "term": "tiribyanku, tilibiyanku"
       }
     ],
@@ -6114,6 +7137,7 @@
     "languages": [
       {
         "name": "US English",
+        "ref": "americano",
         "term": "taleggio"
       }
     ],
@@ -6124,10 +7148,12 @@
     "languages": [
       {
         "name": "Icelandic",
+        "ref": "islandese",
         "term": "tartufla"
       },
       {
         "name": "German",
+        "ref": "tedesco",
         "term": "tartufos"
       }
     ],
@@ -6138,22 +7164,27 @@
     "languages": [
       {
         "name": "Danish",
+        "ref": "danese",
         "term": "kartoffel, kartøffel dialettale, Kantøffel dialettale"
       },
       {
         "name": "French",
+        "ref": "francese",
         "term": "tartoufle, tartaufle"
       },
       {
         "name": "UK English",
+        "ref": "inglese",
         "term": "tartufali, tartufale"
       },
       {
         "name": "Icelandic",
+        "ref": "islandese",
         "term": "kartafla"
       },
       {
         "name": "German",
+        "ref": "tedesco",
         "term": "kartoffel"
       }
     ],
@@ -6164,6 +7195,7 @@
     "languages": [
       {
         "name": "Arabic",
+        "ref": "arabo",
         "term": "tilyu"
       }
     ],
@@ -6174,42 +7206,52 @@
     "languages": [
       {
         "name": "US English",
+        "ref": "americano",
         "term": "tiramisu"
       },
       {
         "name": "Czech",
+        "ref": "ceco",
         "term": "tiramisu"
       },
       {
         "name": "Chinese",
+        "ref": "cinese",
         "term": "tílāmǐsū dàngāo"
       },
       {
         "name": "Finnish",
+        "ref": "finnico",
         "term": "tiramisu"
       },
       {
         "name": "Japanese",
+        "ref": "giapponese",
         "term": "tiramisu"
       },
       {
         "name": "Lithuanian",
+        "ref": "lituano",
         "term": "tiramisu"
       },
       {
         "name": "Polish",
+        "ref": "polacco",
         "term": "tiramisù"
       },
       {
         "name": "Spanish",
+        "ref": "spagnolo",
         "term": "tiramisú"
       },
       {
         "name": "German",
+        "ref": "tedesco",
         "term": "tiramisùs"
       },
       {
         "name": "Hungarian",
+        "ref": "ungherese",
         "term": "tiramisu, tiramiszu"
       }
     ],
@@ -6220,6 +7262,7 @@
     "languages": [
       {
         "name": "UK English",
+        "ref": "inglese",
         "term": "tonnato"
       }
     ],
@@ -6230,6 +7273,7 @@
     "languages": [
       {
         "name": "Hungarian",
+        "ref": "ungherese",
         "term": "ton"
       }
     ],
@@ -6240,6 +7284,7 @@
     "languages": [
       {
         "name": "Hungarian",
+        "ref": "ungherese",
         "term": "torrone"
       }
     ],
@@ -6250,35 +7295,43 @@
     "languages": [
       {
         "name": "US English",
+        "ref": "americano",
         "term": "torta"
       },
       {
         "name": "Arabic",
+        "ref": "arabo",
         "term": "turta, ṭurṭa"
       },
       {
         "name": "Czech",
+        "ref": "ceco",
         "term": "torta"
       },
       {
         "name": "Estonian",
+        "ref": "estone",
         "term": "tort"
       },
       {
         "name": "Latvian",
+        "ref": "lettone",
         "term": "torte"
       },
       {
         "name": "Polish",
+        "ref": "polacco",
         "term": "tort"
       },
       {
         "name": "German",
+        "ref": "tedesco",
         "term": "torte, torten",
-        "desc": "in this language it means: type of fruit salad"
+        "desc": "in this language it means type of fruit salad"
       },
       {
         "name": "Hungarian",
+        "ref": "ungherese",
         "term": "torta"
       }
     ],
@@ -6289,18 +7342,22 @@
     "languages": [
       {
         "name": "Catalan",
+        "ref": "catalano",
         "term": "torteŀlini"
       },
       {
         "name": "Finnish",
+        "ref": "finnico",
         "term": "tortelliini"
       },
       {
         "name": "Polish",
+        "ref": "polacco",
         "term": "tortellini"
       },
       {
         "name": "Hungarian",
+        "ref": "ungherese",
         "term": "tortellini"
       }
     ],
@@ -6311,6 +7368,7 @@
     "languages": [
       {
         "name": "UK English",
+        "ref": "inglese",
         "term": "tortelloni"
       }
     ],
@@ -6321,6 +7379,7 @@
     "languages": [
       {
         "name": "UK English",
+        "ref": "inglese",
         "term": "tortino"
       }
     ],
@@ -6331,6 +7390,7 @@
     "languages": [
       {
         "name": "Hungarian",
+        "ref": "ungherese",
         "term": "tramezzini, tramezzino"
       }
     ],
@@ -6341,6 +7401,7 @@
     "languages": [
       {
         "name": "UK English",
+        "ref": "inglese",
         "term": "treviso"
       }
     ],
@@ -6351,6 +7412,7 @@
     "languages": [
       {
         "name": "Arabic",
+        "ref": "arabo",
         "term": "triilya"
       }
     ],
@@ -6361,6 +7423,7 @@
     "languages": [
       {
         "name": "French",
+        "ref": "francese",
         "term": "tripe"
       }
     ],
@@ -6371,43 +7434,52 @@
     "languages": [
       {
         "name": "Czech",
+        "ref": "ceco",
         "term": "tutti-frutti",
-        "desc": "in this language it means: fruit salad"
+        "desc": "in this language it means fruit salad"
       },
       {
         "name": "Danish",
+        "ref": "danese",
         "term": "Tutti frutti"
       },
       {
         "name": "Finnish",
+        "ref": "finnico",
         "term": "tuttifrutti"
       },
       {
         "name": "French",
+        "ref": "francese",
         "term": "tutti(-)frutti",
-        "desc": "in this language it means: tupe of fruit liqueur"
+        "desc": "in this language it means tupe of fruit liqueur"
       },
       {
         "name": "UK English",
+        "ref": "inglese",
         "term": "tutti-frutti",
-        "desc": "in this language it means: mixed fruit jam used to flavor ice cream"
+        "desc": "in this language it means mixed fruit jam used to flavor ice cream"
       },
       {
         "name": "Lithuanian",
+        "ref": "lituano",
         "term": "tutti frutti",
-        "desc": "in this language it means: fruit jam"
+        "desc": "in this language it means fruit jam"
       },
       {
         "name": "Polish",
+        "ref": "polacco",
         "term": "tutti frutti",
-        "desc": "in this language it means: fruit salad with ice cream and fresh fruit"
+        "desc": "in this language it means fruit salad with ice cream and fresh fruit"
       },
       {
         "name": "German",
+        "ref": "tedesco",
         "term": "tuttifrutti, tutti-frutti"
       },
       {
         "name": "Hungarian",
+        "ref": "ungherese",
         "term": "tuttifrutti"
       }
     ],
@@ -6418,6 +7490,7 @@
     "languages": [
       {
         "name": "UK English",
+        "ref": "inglese",
         "term": "sultana"
       }
     ],
@@ -6428,6 +7501,7 @@
     "languages": [
       {
         "name": "Hungarian",
+        "ref": "ungherese",
         "term": "veltelini, velteliner, veltliner"
       }
     ],
@@ -6438,10 +7512,12 @@
     "languages": [
       {
         "name": "Arabic",
+        "ref": "arabo",
         "term": "fanilya, vanilya"
       },
       {
         "name": "Hungarian",
+        "ref": "ungherese",
         "term": "vanília"
       }
     ],
@@ -6452,36 +7528,44 @@
     "languages": [
       {
         "name": "Finnish",
+        "ref": "finnico",
         "term": "vermiselli"
       },
       {
         "name": "French",
+        "ref": "francese",
         "term": "vermicelle",
-        "desc": "in this language it means: vermicelli soup"
+        "desc": "in this language it means vermicelli soup"
       },
       {
         "name": "Gaelic",
+        "ref": "gaelico",
         "term": "veirmisilí"
       },
       {
         "name": "Japanese",
+        "ref": "giapponese",
         "term": "bāmiseri"
       },
       {
         "name": "UK English",
+        "ref": "inglese",
         "term": "vermicelli soup",
-        "desc": "in this language it means: vermicelli soup"
+        "desc": "in this language it means vermicelli soup"
       },
       {
         "name": "Lithuanian",
+        "ref": "lituano",
         "term": "vermišeliai"
       },
       {
         "name": "Polish",
+        "ref": "polacco",
         "term": "wermiszel, vermicelli"
       },
       {
         "name": "German",
+        "ref": "tedesco",
         "term": "vermicellen"
       }
     ],
@@ -6492,23 +7576,28 @@
     "languages": [
       {
         "name": "Catalan",
+        "ref": "catalano",
         "term": "vernatxa, garnatxa"
       },
       {
         "name": "French",
+        "ref": "francese",
         "term": "grenache, vin de garnace/grenache"
       },
       {
         "name": "UK English",
+        "ref": "inglese",
         "term": "vernazza"
       },
       {
         "name": "Spanish",
+        "ref": "spagnolo",
         "term": "garnacha",
-        "desc": "in this language it means: species of red grapes almost purple, very fine and tasty and very sweet"
+        "desc": "in this language it means species of red grapes almost purple, very fine and tasty and very sweet"
       },
       {
         "name": "German",
+        "ref": "tedesco",
         "term": "wernacza wein, vernätscher"
       }
     ],
@@ -6519,6 +7608,7 @@
     "languages": [
       {
         "name": "Hungarian",
+        "ref": "ungherese",
         "term": "veronai"
       }
     ],
@@ -6529,10 +7619,12 @@
     "languages": [
       {
         "name": "UK English",
+        "ref": "inglese",
         "term": "vino santo"
       },
       {
         "name": "German",
+        "ref": "tedesco",
         "term": "vino santo"
       }
     ],
@@ -6543,6 +7635,7 @@
     "languages": [
       {
         "name": "Chinese",
+        "ref": "cinese",
         "term": "pútaojiǔ"
       }
     ],
@@ -6553,6 +7646,7 @@
     "languages": [
       {
         "name": "Arabic",
+        "ref": "arabo",
         "term": "bitillu"
       }
     ],
@@ -6563,10 +7657,12 @@
     "languages": [
       {
         "name": "Japanese",
+        "ref": "giapponese",
         "term": "bongore"
       },
       {
         "name": "UK English",
+        "ref": "inglese",
         "term": "vongole"
       }
     ],
@@ -6577,25 +7673,30 @@
     "languages": [
       {
         "name": "US English",
+        "ref": "americano",
         "term": "zabaglione"
       },
       {
         "name": "Finnish",
+        "ref": "finnico",
         "term": "zabaione, zabaglione"
       },
       {
         "name": "French",
+        "ref": "francese",
         "term": "sabayon, sabaillon, sabaione",
-        "desc": "in this language it means: drink made of white wine and sugar"
+        "desc": "in this language it means drink made of white wine and sugar"
       },
       {
         "name": "UK English",
+        "ref": "inglese",
         "term": "zabaglione, sambaglione, zabajone"
       },
       {
         "name": "Polish",
+        "ref": "polacco",
         "term": "zabaglione, zabaione, zabajone",
-        "desc": "in this language it means: vanilla ice cream with alcohol"
+        "desc": "in this language it means vanilla ice cream with alcohol"
       }
     ],
     "descIta": "thick, frothy cream obtained by cooking egg yolk and sugar diluted with marsala or another sweet wine or liqueur in a double boiler"
@@ -6605,6 +7706,7 @@
     "languages": [
       {
         "name": "Hungarian",
+        "ref": "ungherese",
         "term": "cipó"
       }
     ],
@@ -6615,6 +7717,7 @@
     "languages": [
       {
         "name": "UK English",
+        "ref": "inglese",
         "term": "pl. zeppoli"
       }
     ],
@@ -6625,14 +7728,17 @@
     "languages": [
       {
         "name": "UK English",
+        "ref": "inglese",
         "term": "zibibo"
       },
       {
         "name": "Polish",
+        "ref": "polacco",
         "term": "Cybeby"
       },
       {
         "name": "German",
+        "ref": "tedesco",
         "term": "zibibe, zybeben, zibiben, züböben, züböbn"
       }
     ],
@@ -6643,10 +7749,12 @@
     "languages": [
       {
         "name": "US English",
+        "ref": "americano",
         "term": "ziti"
       },
       {
         "name": "UK English",
+        "ref": "inglese",
         "term": "zite, ziti"
       }
     ],
@@ -6657,8 +7765,9 @@
     "languages": [
       {
         "name": "German",
+        "ref": "tedesco",
         "term": "zuchen",
-        "desc": "in this language it also means: joking name for the human head"
+        "desc": "in this language it also means joking name for the human head"
       }
     ],
     "descIta": "yellow, floury, sweet vegetable which is cooked in various ways"
@@ -6668,6 +7777,7 @@
     "languages": [
       {
         "name": "Polish",
+        "ref": "polacco",
         "term": "cykata"
       }
     ],
@@ -6678,26 +7788,32 @@
     "languages": [
       {
         "name": "Icelandic",
+        "ref": "islandese",
         "term": "sykur"
       },
       {
         "name": "US English",
+        "ref": "americano",
         "term": "sugar"
       },
       {
         "name": "Danish",
+        "ref": "danese",
         "term": "sukker"
       },
       {
         "name": "Finnish",
+        "ref": "finnico",
         "term": "sokeri"
       },
       {
         "name": "UK English",
+        "ref": "inglese",
         "term": "sugar"
       },
       {
         "name": "Hungarian",
+        "ref": "ungherese",
         "term": "cukor"
       }
     ],
@@ -6708,6 +7824,7 @@
     "languages": [
       {
         "name": "German",
+        "ref": "tedesco",
         "term": "kandiszucker, kandelzucker"
       }
     ],
@@ -6718,6 +7835,7 @@
     "languages": [
       {
         "name": "Czech",
+        "ref": "ceco",
         "term": "cuketa"
       }
     ],
@@ -6728,30 +7846,37 @@
     "languages": [
       {
         "name": "US English",
+        "ref": "americano",
         "term": "zucchini"
       },
       {
         "name": "Japanese",
+        "ref": "giapponese",
         "term": "zukkīni"
       },
       {
         "name": "UK English",
+        "ref": "inglese",
         "term": "succini"
       },
       {
         "name": "Lithuanian",
+        "ref": "lituano",
         "term": "cukinija"
       },
       {
         "name": "Polish",
+        "ref": "polacco",
         "term": "cukinia"
       },
       {
         "name": "Polish",
+        "ref": "polacco",
         "term": "zucchini"
       },
       {
         "name": "Hungarian",
+        "ref": "ungherese",
         "term": "cukkíni, cukkini, zucchini, zukkini"
       }
     ],

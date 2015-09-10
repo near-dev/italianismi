@@ -13,14 +13,25 @@ angular.module('italianismiApp')
 
     var that = this;
 	
-
+	this.getLanguageName = function(language) {
+		var languageName = "";
+		if (language) {
+			angular.forEach(that.languages, function(_language) {
+				if (_language.ref === language) {
+					languageName = _language.name;
+				}
+			});
+		}
+		return languageName;
+		
+	};
+	
     this.getFilteredTerms = function(language, search) {
-    	return $filter('filter')(this.terms, function(value) {
+    	return $filter('filter')(that.terms, function(value) {
     		var found = false;
-
     		if (language) {
 	    		angular.forEach(value.languages, function(_language) {
-	    			if (_language.name === language) {
+	    			if (_language.ref === language) {
 	    				found = true;
 	    			}
 	    		});
