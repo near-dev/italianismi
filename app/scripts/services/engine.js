@@ -93,15 +93,15 @@ angular.module('italianismiApp')
 	
 	var language = this.getLanguage();
 
-    this.termsPromise = $http.get('/json/' + language + '/terms.json').success(function(data) {
+    this.termsPromise = $http.get('json/' + language + '/terms.json').success(function(data) {
     	that.terms = data;
     });
 
-    this.languagesPromise = $http.get('/json/' + language + '/languages.json').success(function(data) {
+    this.languagesPromise = $http.get('json/' + language + '/languages.json').success(function(data) {
     	that.languages = data;
     });
 
-	this.imagesPromise = $http.get('/json/termImages.json').success(function(data) {
+	this.imagesPromise = $http.get('json/termImages.json').success(function(data) {
     	that.images = data;
     });
 
