@@ -20,7 +20,8 @@ if (o.HORIZ==true) {
   VIEWPORT=vw; edge='left'; panel.css('float','left'); plugin.css('width',sliderW); sliderLen = sliderW;
 } else {
   var sliderH = parseInt(panel.css('height'),10) * panel.length;
-  VIEWPORT=vh; edge='top'; panel.css('float','none'); plugin.css('height',sliderH); sliderLen = sliderH;
+  // ale: + 750 per evitare il fondo che va troppo avanti
+  VIEWPORT=vh + 600; edge='top'; panel.css('float','none'); plugin.css('height',sliderH); sliderLen = sliderH;
 }
 
 this.parallaxSwipe.getSize = function(i){ if (sliderW>'') { return sliderW; } else { return sliderH; }};

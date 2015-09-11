@@ -13,225 +13,91 @@
           <a href="#terms" ng-click="go('/terms')" class="transparent"></a>
 
           <div class="cominciare" id="cominciare">
-            <div>Antipasto per cominciare</div><br>
+            <div ng-bind-html="languageMap.mainAntipasto[languageSel]"></div><br>
             <img src="images/left_arrow.gif" class="arrow_down">
           </div>
           <div class="bubble">
             <h1>I</h1>
-            <p><br>Gli italianismi nel mondo costituiscono un fenomeno di grande ampiezza, che registra, secondo le indagini più recenti, oltre ventimila parole e interessa un numero non definito, ma comunque alto, di lingue. La maggior parte degli italianismi, cioè delle parole italiane più diffuse all'estero, viene dal mondo della cultura. </p>
+            <p ng-bind-html="languageMap.vivit1[languageSel]"></p>
           </div>
           <div class="bubble">
             <h1>II</h1>
-            <p><br>Sono molto diffuse anche le parole della cucina, come mostra il numero degli italianismi relativi all'alimentazione entrati in inglese nel Novecento: nella prima metà del secolo rappresentano infatti un quarto del totale, sono circa la metà nel periodo successivo e giungono a superare il 70% verso la fine.</p>
+            <p ng-bind-html="languageMap.vivit2[languageSel]"></p>
           </div>
           <div class="bubble">
             <h1>III</h1>
-            <p><br>Termini d'origine italiana relativi alla gastronomia si ritrovano nelle lingue europee già nel XVI secolo: ad esempio, maccheroni nella forma adattatamacarrones è attestato per la prima volta in spagnolo nel 1517 (macarons, poi macaroni in francese, 1599; macaroni in inglese, 1599).</p>
+            <p ng-bind-html="languageMap.vivit3[languageSel]"></p>
           </div>
 
           <a href="#terms" ng-click="go('/terms')" class="negativo">
             <div class="bubble">
-              <h1>Entra</h1>
-              <h3>Cerca una parola italiana<br>e scopri dove viene usata</h3>
+              <h1 ng-bind-html="languageMap.mainEnter[languageSel]"></h1>
+              <h3 ng-bind-html="languageMap.mainSearch[languageSel]"></h3>
             </div>
           </a>
           <br><br>
-          <h3><small>Oppure</small></h3>
-          <p>Continua a leggere</p>
+          <h3><small ng-bind-html="languageMap.mainOtherWise[languageSel]"></small></h3>
+          <p ng-bind-html="languageMap.mainContinue[languageSel]"></p>
           <img src="images/left_arrow.gif" class="arrow_down">
 
           <div class="bubble">
             <h1>IV</h1>
-            <p><br><br>Sono di diffusione molto antica pure mortadella in francese (mortadelle, XV secolo) e vermicelli in francese (vermicelle, 1553) e inglese (vermicelli, 1669).</p>
+            <p ng-bind-html="languageMap.vivit4[languageSel]"></p>
           </div>
           <div class="bubble">
             <h1>V</h1>
-            <p><br><br>Parole come antipasto, polenta, bologna sono documentati nei dizionari inglesi a partire dal Cinquecento; le lasagne entrano in francese nello stesso secolo.</p>
+            <p ng-bind-html="languageMap.vivit5[languageSel]"></p>
           </div>
           <div class="bubble">
             <h1>VI</h1>
-            <p><br><br>La fortuna internazionale della parola confetti Risale alla fine del Settecento. Le parole pappardelle e il panettone fanno il loro ingresso in inglese alla fine del XIX secolo.</p>
+            <p ng-bind-html="languageMap.vivit6[languageSel]"></p>
           </div>
           <div class="bubble">
             <h1>VII</h1>
-            <p><br><br>Si riscontrano numerosi italianismi gastronomici recenti, molti dei quali sono fortemente connessi al fenomeno dell'emigrazione.</p>
+            <p ng-bind-html="languageMap.vivit7[languageSel]"></p>
           </div>
           <div class="bubble">
             <h1>VIII</h1>
-            <p><br>La fortuna americana di termini come lasagne (1846), salami (1852), risotto (1855), ricotta (1877), spaghetti (1888), mozzarella (1911), rigatoni (1923), scampi (1923), ziti, zucchini, prosciutto (1929), pizza (1935) è da mettere in relazione con la forte presenza della comunità di italo-americani.</p>
+            <p ng-bind-html="languageMap.vivit8[languageSel]"></p>
           </div>
           <div class="bubble">
             <h1>IX</h1>
-            <p><br>Il fenomeno dell'italianismo è vivissimo soprattutto nel Novecento, e particolarmente negli ultimi decenni, grazie al rinnovato prestigio della nostra lingua nel mondo legato al successo internazionale dei prodotti made in Italy, sinonimo di eccellenza e di qualità, nei settori della gastronomia, della moda, delle produzioni manufatturiere.</p>
+            <p ng-bind-html="languageMap.vivit9[languageSel]"></p>
           </div>
 
           <a href="#terms" ng-click="go('/terms')" class="negativo">
             <div class="bubble">
-              <h1>Entra</h1>
-              <h3>Cerca una parola italiana<br>e scopri dove viene usata</h3>
+              <h1 ng-bind-html="languageMap.mainEnter[languageSel]"></h1>
+              <h3 ng-bind-html="languageMap.mainSearch[languageSel]"></h3>
             </div>
           </a>
           <br><br>
-          <h3><small>Oppure</small></h3>
-          <p>Continua a leggere</p>
+          <h3><small ng-bind-html="languageMap.mainOtherwise[languageSel]"></small></h3>
+          <p ng-bind-html="languageMap.mainContinue[languageSel]"></p>
           <img src="images/left_arrow.gif" class="arrow_down">
 
           <div class="bubble">
             <h1>X</h1>
-            <p>Col diffondersi all'estero di nuovi prodotti e piatti della cucina italiana, si assesta un folto gruppo di italianismi gastronomici: non vi è ormai luogo del pianeta in cui non si utilizzino termini come pizza (oggi la parola italiana più nota nel mondo insieme a ciao), spaghetti, espresso e cappuccino, seguiti da cannelloni, mortadella, panna, ravioli, risotto, salame, mediamente noti in una trentina di lingue.</p>
+            <p ng-bind-html="languageMap.vivit10[languageSel]"></p>
           </div>
           <div class="bubble">
             <h1>XI</h1>
-            <p><br>Dagli anni settanta e ottanta del Novecento si sono rapidamente affermati, tra gli altri, bruschetta, carpaccio, ciabatta (reso plurale nella forma ciabattas),pesto, rucola, tiramisù (una parola presente in oltre venti lingue, tra cui giapponese, indonesiano, thai e laotiano).</p>
+            <p ng-bind-html="languageMap.vivit11[languageSel]"></p>
           </div>
           <div class="bubble">
             <h1>XII</h1>
-            <p><br><br>Non mancano infine termini anche più specifici, quali ad esempio parmigiano, mozzarella, olio d'oliva, aceto balsamico, così come fra i formati di pasta le farfalle sono ormai conosciute quasi quanto le tagliatelle.</p>
+            <p ng-bind-html="languageMap.vivit12[languageSel]"></p>
           </div>
           <br> <br>
           <div class="cominciare torna logo">
             <img src="images/left_arrow.gif" class="arrow_top">
-            <div>Torna</div>
+            <div ng-bind-html="languageMap.mainBack[languageSel]"></div>
           </div>
-          <div class="box_crediti">
-            <img src="images/pep_logo.png" class="logo">
-
-            <h4>Progettazione e revisione generale</h4>
-            Università degli studi di Milano<br>
-            Silvia Morgana, Massimo Prada, Giuseppe Polimeni, Giuseppe  Sergio; collaborazione di Maria Polita.<br />
-            <h4>Contenuti:</h4>
-            Accademia della Crusca: sezione <strong>cucina</strong><br>
-            di<br><a>www.VIV-it.org</a><br>
-            <img src="images/QR-vivit.png" class="QR-vivit"><br><br>
-            a cura di Giovanna Frosini,  Marzia Caria, Anna Colia <br>
-            (pagina 7 <em>Il lessico della gastronomia</em>; 7.1 <em>Geosinonimi  e dialettismiculinari</em>; 7.2 <em>Italianismi gastronomici</em>).<br><br>
-            La maggior parte dei dati proviene da un progetto di un <strong><em>Dizionario  di italianismi nel mondo</em></strong>,<br>
-            curato da Luca Serianni, Lucilla Pizzoli e  Leonardo Rossi tra il 2006 e il 2008.</p>
-            <hr>
-            <p class="giustificato">
-              I dati sugli italianismi della  gastronomia,  raccolti da Lucilla Pizzoli,  sono dunque da intendersi aggiornati a quella data e non sempre definitivi. Le  lingue che qui si presentano sono solo una selezione del progetto originario,  al quale hanno lavorato decine di informatori. Il progetto è al momento in fase  di rielaborazione e potrebbe confluire in una nuova ricerca, sostenuta  dall&rsquo;Accademia della Crusca.<br />
-              I dati riportati si riferiscono esclusivamente ai  significati attestati in ambito gastronomico.<br />
-              La fonte dei dati è prevalentemente lessicografica (in  alcuni casi ci si è basati su attestazioni recentemente introdotte anche nell&rsquo;uso  orale o in menu di ristoranti). <br />
-            </p>
-            
-            <table border="0" cellspacing="0" cellpadding="0" class="table">
-              <tr>
-                <td width="25" valign="top">1</td>
-                <td width="160" valign="top">Arabo</td>
-                <td width="302" valign="top">Guido Cifoletti</td>
-              </tr>
-              <tr>
-                <td width="25" valign="top">2</td>
-                <td width="160" valign="top">Catalano </td>
-                <td width="302" valign="top">Yorik Gomez Gane, <em>Gli italianismi nel catalano.    Dizionario storico-etimologico</em>, Roma, Aracne, 2012</td>
-              </tr>
-              <tr>
-                <td width="25" valign="top">3</td>
-                <td width="160" valign="top">Ceco</td>
-                <td width="302" valign="top">Wojciech Sowa</td>
-              </tr>
-              <tr>
-                <td width="25" valign="top">4</td>
-                <td width="160" valign="top">Coreano </td>
-                <td width="302" valign="top">Antonetta Bruno </td>
-              </tr>
-              <tr>
-                <td width="25" valign="top">5</td>
-                <td width="160" valign="top">Danese</td>
-                <td width="302" valign="top">Pierpaolo Caserta</td>
-              </tr>
-              <tr>
-                <td width="25" valign="top">6</td>
-                <td width="160" valign="top">Estone</td>
-                <td width="302" valign="top">Fulvio Meguschar</td>
-              </tr>
-              <tr>
-                <td width="25" valign="top">7</td>
-                <td width="160" valign="top">Faroese</td>
-                <td width="302" valign="top">Gianfranco Contri</td>
-              </tr>
-              <tr>
-                <td width="25" valign="top">8</td>
-                <td width="160" valign="top">Finnico </td>
-                <td width="302" valign="top">Delfina Sessa </td>
-              </tr>
-              <tr>
-                <td width="25" valign="top">9</td>
-                <td width="160" valign="top">Giapponese</td>
-                <td width="302" valign="top">Maki Imazu</td>
-              </tr>
-              <tr>
-                <td width="25" valign="top">10</td>
-                <td width="160" valign="top">Irlandese (gaelico)</td>
-                <td width="302" valign="top">Elisa Roma</td>
-              </tr>
-              <tr>
-                <td width="25" valign="top">11</td>
-                <td width="160" valign="top">Lettone</td>
-                <td width="302" valign="top">Fulvio Meguschar</td>
-              </tr>
-              <tr>
-                <td width="25" valign="top">12</td>
-                <td width="160" valign="top">Lituano</td>
-                <td width="302" valign="top">Stefano Lanza </td>
-              </tr>
-              <tr>
-                <td width="25" valign="top">13</td>
-                <td width="160" valign="top">Polacco</td>
-                <td width="302" valign="top">Roman Sosnowski</td>
-              </tr>
-              <tr>
-                <td width="25" valign="top">14</td>
-                <td width="160" valign="top">Portoghese</td>
-                <td width="302" valign="top">Gianluca Miraglia</td>
-              </tr>
-              <tr>
-                <td width="25" valign="top">15</td>
-                <td width="160" valign="top">Russo</td>
-                <td width="302" valign="top">Ettore Gherbezza</td>
-              </tr>
-              <tr>
-                <td width="25" valign="top">16</td>
-                <td width="160" valign="top">Slovacco </td>
-                <td width="302" valign="top">Wojciech Sowa</td>
-              </tr>
-              <tr>
-                <td width="25" valign="top">17</td>
-                <td width="160" valign="top">Sloveno</td>
-                <td width="302" valign="top">MartinaOzbot</td>
-              </tr>
-              <tr>
-                <td width="25" valign="top">18</td>
-                <td width="160" valign="top">Spagnolo </td>
-                <td width="302" valign="top">Paula QuirogaMunguía</td>
-              </tr>
-              <tr>
-                <td width="25" valign="top">19</td>
-                <td width="160" valign="top">Ungherese </td>
-                <td width="302" valign="top">FábiánZsuzsanna – SzabóGyőző, <em>Dall&rsquo;Italia    all&rsquo;Ungheria: parole di origine italiana nella lingua ungherese</em>,    Udine,Forum Editrice, 2010</a>(A Polis KulturálisEgyesületÉs A Pro    Renovanda Cultura HungariaeAlapítványTámogatásával) </td>
-              </tr>
-            </table>
-            <hr>
-            <h4>Altre fonti e curatori:</h4>
-            <p class="giustificato">
-              <strong><em>Dizionario di italianismi in francese, inglese e tedesco</em></strong> (DIFIT), Firenze, Accademia della Crusca, 2008,a cura di HarroStammerjohann, con la collaborazione di Enrico Arcaini, Gabriella Cartago, Pia Galetto, Matthias Heinz, Maurice Mayer, Giovanni Rovere, GesineSeymer.<br />
-              Estrazione e revisione degli italianismi gastronomici nel  DIFIT a cura di  Andrea Felici, Giovanna  Frosini.<br />
-              Francesca Perissinotto, <strong><em>Meal in Italy. Italianismi nel  linguaggio gastronomico inglese ed angloamericano</em></strong>, in «Italiano  LinguaDue» 7 (2015), pp.265- 295.<br />
-              Maurizio Tani, <strong><em>Gli italianismi nella lingua islandese</em></strong>,  in «Italiano LinguaDue», 2 (2010), pp. 170-195.<br />
-              <strong><em>Voca3. Vocabolario della gastronomia italiano-inglese-cinese</em></strong>, Università degli studi di Milano- Dipartimento di Scienze della  Mediazione linguistica.<br />
-              Estrazione e revisione degli italianismi gastronomici  (lingua cinese) a cura di Clara Bulfoni e Eleonora Nava.<br />
-            </p>
-            <hr>
-            <strong>Traduzioni:</strong><br />
-            Jennifer Coe<br />
-            <hr>
-            <strong>Progettazione e gestione informatica: </strong>Aleco<br />
-            <strong>Progetto grafico e userinterface: </strong>Aleco
-            <hr>
+          <div class="box_crediti" ng-bind-html="credits" style="height: 2200px;">
           </div>
           <div class="cominciare torna logo">
             <img src="images/left_arrow.gif" class="arrow_top">
-            <div>Torna</div>
+            <div ng-bind-html="languageMap.mainBack[languageSel]"></div>
           </div>
         </div>
       </div>
