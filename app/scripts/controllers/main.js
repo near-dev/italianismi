@@ -8,10 +8,8 @@
  * Controller of the italianismiApp
  */
 angular.module('italianismiApp')
-  .controller('MainCtrl', function ($scope) {
-    $scope.awesomeThings = [
-      'HTML5 Boilerplate',
-      'AngularJS',
-      'Karma'
-    ];
+  .controller('MainCtrl', function ($scope, $http, $rootScope) {
+	  $http.get('json/credits-' + $rootScope.languageSel + '.html').success(function(data) {
+		 $scope.credits = data; 
+	  });
   });

@@ -21,8 +21,6 @@ angular.module('italianismiApp')
 
 	$window.count = $scope.terms.length;
 
-	console.log($window.count);
-	
   	angular.forEach($scope.terms, function(term, index) {
 		if ($scope.language) {
 			angular.forEach(term.languages, function(language, index) {
