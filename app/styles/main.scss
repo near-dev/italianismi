@@ -23,6 +23,7 @@ $grigio_scuro: #aeaeaf;
 $rosso: #db1933;
 $giallo: #faa61a;
 $verde: #82b518;
+$sfondo:#f4f4f2;
 
 
 /*==========================================================================*/
@@ -189,6 +190,7 @@ body input.form-control, body textarea.form-control{
 a.negativo{
   display: inline-block;
   margin-top: 60px;
+  zoom:0.5;
   .bubble{
     background-color: rgba(0, 0, 0, 0.95);
     color: $bianco;
@@ -211,7 +213,31 @@ a.negativo{
   }
 }
 
+.top.generale{
+  position: absolute;
+  top: 60px;
+  left: 60px;
+  width: 200px;
+  height: 200px;
+  z-index: 100;
+  display: block;
+  opacity:0;
+  img{
+    width: 100%;
+  }
+}
 
+.top_bk{
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 300px;
+  height: 300px;
+  z-index: 0;
+  display: block;
+  background:$sfondo;
+  opacity:0;
+}
 
 /*==========================================================================*/
 /*================================== start css =============================*/
@@ -240,7 +266,7 @@ body {
   margin: 0;
   padding: 0;
   text-align: center;
-  background:#f4f4f2;
+  background:$sfondo;
 
   .container-fluid{
     margin:0;
@@ -335,7 +361,7 @@ body {
         display: inline;
         cursor:pointer;
         padding: 0 10px;
-        background:#f4f4f2;
+        background:$sfondo;
         &.ita::before{
           padding: 0 10px;
           content:url('../images/lang_ita.png');
@@ -862,7 +888,7 @@ body {
   left:0;
 
   .panel{
-    box-shadow: 0 !important;
+    box-shadow: none !important;
   }
 }
 
@@ -921,7 +947,7 @@ body {
   width: 100%;
   min-height: 100%;
   background-color: transparent;
-  box-shadow: 0;
+  box-shadow: none;
   border:0 !important;
 }
 
