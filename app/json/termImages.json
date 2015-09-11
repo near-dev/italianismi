@@ -149,7 +149,7 @@
   },
   {
     "termIta": "Bellini",
-    "url": ""
+    "url": "bellini.png"
   },
   {
     "termIta": "bergamotta",
@@ -261,11 +261,11 @@
   },
   {
     "termIta": "caffèlatte",
-    "url": ""
+    "url": "caffelatte.png"
   },
   {
     "termIta": "Calabria (pomodori)",
-    "url": ""
+    "url": "calabria.png"
   },
   {
     "termIta": "calamari",
@@ -385,7 +385,7 @@
   },
   {
     "termIta": "Chianti",
-    "url": ""
+    "url": "chianti.png"
   },
   {
     "termIta": "chiarello",
@@ -393,7 +393,7 @@
   },
   {
     "termIta": "ciabatta",
-    "url": ""
+    "url": "ciabatta.png"
   },
   {
     "termIta": "ciccia",
@@ -425,7 +425,7 @@
   },
   {
     "termIta": "con panna (espresso)",
-    "url": ""
+    "url": "conpanna.png"
   },
   {
     "termIta": "conchiglie",
@@ -465,7 +465,7 @@
   },
   {
     "termIta": "crostata",
-    "url": ""
+    "url": "crostata.png"
   },
   {
     "termIta": "crostino",
@@ -493,7 +493,7 @@
   },
   {
     "termIta": "dattero",
-    "url": ""
+    "url": "datteri.png"
   },
   {
     "termIta": "dragoncello, dragone",
@@ -505,7 +505,7 @@
   },
   {
     "termIta": "fagiano",
-    "url": ""
+    "url": "fagiano.png"
   },
   {
     "termIta": "fagiolo",
@@ -573,7 +573,7 @@
   },
   {
     "termIta": "fragola",
-    "url": ""
+    "url": "fragole.png"
   },
   {
     "termIta": "frappè",
@@ -621,7 +621,7 @@
   },
   {
     "termIta": "gelato",
-    "url": ""
+    "url": "gelato.png"
   },
   {
     "termIta": "gianduja",
@@ -633,7 +633,7 @@
   },
   {
     "termIta": "gnocchi",
-    "url": ""
+    "url": "gnocchi.png"
   },
   {
     "termIta": "gorgonzola",
@@ -641,7 +641,7 @@
   },
   {
     "termIta": "Grana Padano",
-    "url": ""
+    "url": "parmigiano.png"
   },
   {
     "termIta": "granita",
@@ -697,7 +697,7 @@
   },
   {
     "termIta": "latte macchiato",
-    "url": ""
+    "url": "caffelatte.png"
   },
   {
     "termIta": "lattuga (insalata)",
@@ -721,11 +721,7 @@
   },
   {
     "termIta": "limone",
-    "url": ""
-  },
-  {
-    "termIta": "limone",
-    "url": ""
+    "url": "limone.png"
   },
   {
     "termIta": "linguine",
@@ -793,7 +789,7 @@
   },
   {
     "termIta": "mascarpone",
-    "url": ""
+    "url": "mascarpone.png"
   },
   {
     "termIta": "melissa",
@@ -857,11 +853,11 @@
   },
   {
     "termIta": "negroni",
-    "url": ""
+    "url": "negroni.png"
   },
   {
     "termIta": "nespola",
-    "url": ""
+    "url": "nespole.png"
   },
   {
     "termIta": "nocchio, gnocco",
@@ -893,7 +889,7 @@
   },
   {
     "termIta": "ossobuco",
-    "url": ""
+    "url": "ossobuco.png"
   },
   {
     "termIta": "ostrica",
@@ -937,7 +933,7 @@
   },
   {
     "termIta": "panino",
-    "url": ""
+    "url": "panino.png"
   },
   {
     "termIta": "panna cotta",
@@ -1029,7 +1025,7 @@
   },
   {
     "termIta": "piccata",
-    "url": ""
+    "url": "piccata.png"
   },
   {
     "termIta": "pinolo",
@@ -1049,7 +1045,7 @@
   },
   {
     "termIta": "pistacchio",
-    "url": ""
+    "url": "pistacchi.png"
   },
   {
     "termIta": "pizza",
@@ -1057,7 +1053,7 @@
   },
   {
     "termIta": "polenta",
-    "url": ""
+    "url": "polenta.png"
   },
   {
     "termIta": "pollo",
@@ -1161,7 +1157,7 @@
   },
   {
     "termIta": "ricotta",
-    "url": ""
+    "url": "ricotta.png"
   },
   {
     "termIta": "rigata",
@@ -1237,7 +1233,7 @@
   },
   {
     "termIta": "sambuca",
-    "url": ""
+    "url": "sambuca.png"
   },
   {
     "termIta": "sambuco",
@@ -1381,11 +1377,11 @@
   },
   {
     "termIta": "tagliatelle",
-    "url": ""
+    "url": "fettuccine.png"
   },
   {
     "termIta": "taglierini",
-    "url": ""
+    "url": "taglierini.png"
   },
   {
     "termIta": "taglio bianco",
@@ -1417,7 +1413,7 @@
   },
   {
     "termIta": "tiramisù",
-    "url": ""
+    "url": "tiramisu.png"
   },
   {
     "termIta": "tonnato",
@@ -1477,7 +1473,7 @@
   },
   {
     "termIta": "vaniglia",
-    "url": ""
+    "url": "vaniglia.png"
   },
   {
     "termIta": "vermicelli",
