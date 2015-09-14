@@ -4,7 +4,7 @@
 			<a class="back" href="#{{ linkback }}"><span class="glyphicon glyphicon-share-alt"></span></a>
 			<a class="close" href="#main"><span class="glyphicon glyphicon-remove-sign"></span></a>
 		</div-->
-		<div class="swiper-container swiper-container-h" id="swiper-container-h">
+		<div class="swiper-container swiper-container-h" id="swiper-container-h" style="display: none;">
 			<div class="swiper-wrapper">
 				<div class="swiper-slide x" ng-repeat="term in terms">
 					<div class="swiper-container swiper-container-v" id="swiper-{{ $index }}">
@@ -59,15 +59,17 @@
 	// per questo aspetto fino a quando il numero di card aspettare coincide con i div presenti nella pagina
 	// questo viene controllato ogni decimo di secondo finchè non coincide
  	var bootstrap = function() { 
- 		//console.log('test');
+		//$('#swiper-container-h').css('display', 'block');
+
 		if ($('.x.swiper-slide').length === window.count) { 
+			$('#swiper-container-h').css('display', 'block');
 			var swiperH = new Swiper('#swiper-container-h', {
 				initialSlide: window.index,
 				spaceBetween: 0,
 				nextButton: '.swiper-button-next',
 				prevButton: '.swiper-button-prev',
 				loop:true,
-				autoplay: 6000,
+				autoplay: 60000,
        			autoplayDisableOnInteraction: true,
        			parallax: true,
        			speed: 600,

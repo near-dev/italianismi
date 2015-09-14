@@ -26,7 +26,10 @@ if (o.HORIZ==true) {
 
 this.parallaxSwipe.getSize = function(i){ if (sliderW>'') { return sliderW; } else { return sliderH; }};
 
-window.setTimeout(function() {$('#layer1, #layer2').css(edge, '0px'); $('#layer2 .logo, #cominciare, #lang').css('opacity', 1); }, 100); 
+window.setTimeout(function() {
+	$('#layer1, #layer2').css(edge, '0px'); $('#layer2 .logo, #cominciare, #lang').css('opacity', 1); 
+	$('#top').css('opacity', 0);
+}, 100); 
 
 var mouseswipe=function(sliderLT) {
 
