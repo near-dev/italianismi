@@ -5115,8 +5115,7 @@
       {
         "name": "Czech",
         "ref": "ceco",
-        "term": "pignol, piniola, pinelka, piňolka, pignoli,",
-        "desc": "in this language it means PIGNOLO è VARIANTE NON TOSCANA, CON L'ACCEZIONE DI METICOLOSO, PROBABILMENTE NASCE A ROMA"
+        "term": "pignol, piniola, pinelka, piňolka, pignoli,"
       },
       {
         "name": "Polish",
@@ -5657,8 +5656,7 @@
       {
         "name": "Catalan",
         "ref": "catalano",
-        "term": "remolatxa",
-        "desc": "in this language it means IL RAMOLACCIO è UNA VARIETà DI RAVANELLO"
+        "term": "remolatxa"
       }
     ],
     "descIta": "round edible root, usually red with white flesh with a slightly spicy taste, eaten raw in salads or as a side dish"
