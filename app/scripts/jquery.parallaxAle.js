@@ -34,6 +34,10 @@ var mouseswipe=function(sliderLT) {
   $('#layer2 .logo').css('opacity', Math.max(0, Math.min(1, 1+((450 + parseInt(plugin.css(edge))) / 350))));
   $('#cominciare').css('opacity', Math.max(0, Math.min(1, 1+((140 + parseInt(plugin.css(edge))) / 72))));
   $('#lang').css('opacity', Math.max(0, Math.min(1, 1+((-60 + parseInt(plugin.css(edge))) / -72))));
+  $('#top').css('opacity', Math.max(0, Math.min(1, 0-((200 + parseInt(plugin.css(edge))) / 1000))));
+  $('#top_bk').css('opacity', Math.max(0, Math.min(1, 0-((200 + parseInt(plugin.css(edge))) / 1000))));
+  $('#entra_uno').css('zoom', Math.max(0, Math.min(1, 0.5-((1800 + parseInt(plugin.css(edge))) / 800))));
+  $('#entra_due').css('zoom', Math.max(0, Math.min(1, 0.5-((6000 + parseInt(plugin.css(edge))) / 800))));
   
 
   if (_mouseDown) {
@@ -156,7 +160,7 @@ $('.credits').click(function() {
   $('#parallax').css(edge, -9250);
 });
 
-$('.box_crediti .logo, .cominciare').click(function() { 
+$('.box_crediti .logo, .cominciare, .top').click(function() { 
   $('#parallax').css(edge, 0);
 });
 
