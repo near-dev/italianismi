@@ -293,6 +293,11 @@ angular
 	  $rootScope.go = function(path) {
 		  $location.path(path);
 	  }
+
+ 	$rootScope.goBack = function() {
+		  window.history.back();
+	  }
+
   });
 
 
