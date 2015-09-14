@@ -51,6 +51,7 @@
 				</div>
 			</div>
 		</div>
+
   <div ng-include="'views/menu.html'"></div>
 </div>
 <script>
@@ -62,16 +63,16 @@
 		//$('#swiper-container-h').css('display', 'block');
 
 		if ($('.x.swiper-slide').length === window.count) { 
-			$('#swiper-container-h').css('display', 'block');
+			//$('#swiper-container-h').css('display', 'block');
+			$('#swiper-container-h').fadeIn( "slow" );
 			var swiperH = new Swiper('#swiper-container-h', {
 				initialSlide: window.index,
 				spaceBetween: 0,
 				nextButton: '.swiper-button-next',
 				prevButton: '.swiper-button-prev',
 				loop:true,
-				autoplay: 60000,
+				autoplay: 18000,
        			autoplayDisableOnInteraction: true,
-       			parallax: true,
        			speed: 600,
 			});
 		} else { 

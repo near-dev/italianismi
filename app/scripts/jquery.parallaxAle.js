@@ -28,7 +28,7 @@ this.parallaxSwipe.getSize = function(i){ if (sliderW>'') { return sliderW; } el
 
 window.setTimeout(function() {
 	$('#layer1, #layer2').css(edge, '0px'); $('#layer2 .logo, #cominciare, #lang').css('opacity', 1); 
-	$('#top').css('opacity', 0);
+	$('#top, #top_bk').css('opacity', 0);
 }, 100); 
 
 var mouseswipe=function(sliderLT) {
@@ -126,10 +126,13 @@ var touchMove=function(e) { //mouse move
     _velocity += ((MouseXY - _lastMouseDownXY) * o.SPEED_SPRING);
     _lastMouseDownXY = MouseXY;
 
-    //$('#entra').css('opacity', Math.max(0, Math.min(1, 1+((88 + parseInt(plugin.css(edge))) / 72))));
+    $('#layer2 .logo').css('opacity', Math.max(0, Math.min(1, 1+((450 + parseInt(plugin.css(edge))) / 350))));
     $('#cominciare').css('opacity', Math.max(0, Math.min(1, 1+((140 + parseInt(plugin.css(edge))) / 72))));
     $('#lang').css('opacity', Math.max(0, Math.min(1, 1+((-60 + parseInt(plugin.css(edge))) / -72))));
-    $('#layer2 .logo').css('opacity', Math.max(0, Math.min(1, 1+((450 + parseInt(plugin.css(edge))) / 350))));
+    $('#top').css('opacity', Math.max(0, Math.min(1, 0-((200 + parseInt(plugin.css(edge))) / 1000))));
+    $('#top_bk').css('opacity', Math.max(0, Math.min(1, 0-((200 + parseInt(plugin.css(edge))) / 1000))));
+    $('#entra_uno').css('zoom', Math.max(0, Math.min(1, 0.5-((1800 + parseInt(plugin.css(edge))) / 800))));
+    $('#entra_due').css('zoom', Math.max(0, Math.min(1, 0.5-((6000 + parseInt(plugin.css(edge))) / 800))));
     
   }
 
