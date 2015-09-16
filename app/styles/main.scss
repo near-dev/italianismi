@@ -982,3 +982,7 @@ body {
     color: $bianco;
   }
 }
+
+.ng-invalid.ng-dirty {
+	border-color: red;
+}
