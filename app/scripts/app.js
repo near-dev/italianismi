@@ -271,7 +271,7 @@ angular
         templateUrl: 'views/credits.html',
         controller: 'CreditsCtrl'
       })
-      .when('/confirm', {
+      .when('/confirm/:name/:term/:language', {
         templateUrl: 'views/confirm.html',
         controller: 'ConfirmCtrl'
       })
@@ -293,11 +293,6 @@ angular
 	  $rootScope.go = function(path) {
 		  $location.path(path);
 	  }
-
- 	$rootScope.goBack = function() {
-		  window.history.back();
-	  }
-
   });
 
 

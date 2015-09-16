@@ -5,19 +5,20 @@
   			  <h3 ng-bind-html="languageMap.formTitle[languageSel]"></h3>
           <p ng-bind-html="languageMap.formText[languageSel]"></p>
           <div class="row">
-            <form>
+            <form name="form" ng-submit="submit()">
               <fieldset>
                 <div class="form-group col-md-offset-1 col-md-10">
-                    <input id="textinput" name="textinput" type="text" placeholder="{{ languageMap.formPh1[languageSel] }}" class="form-control half" required="">
-                    <input id="mail" name="mail" type="text" placeholder="{{ languageMap.formPh2[languageSel] }}" class="form-control half" required="">
+                    <input id="textinput" name="textinput" type="text" placeholder="{{ languageMap.formPh1[languageSel] }}" class="form-control half" required="" ng-model="name">
+                    <input id="email" name="email" type="text" placeholder="{{ languageMap.formPh2[languageSel] }}" class="form-control half" required="" ng-model="email">
                 </div>
                 <div class="form-group col-md-offset-1 col-md-10">
-                  <input id="NuovaParola" name="NuovaParola" class="form-control nuova_parola" placeholder="{{ languageMap.formPh3[languageSel] }}" type="text" ng-model="term">
-                  <input id="Lingua" name="Lingua" type="text" placeholder="{{ languageMap.formPh4[languageSel] }}" class="form-control lingua">
-                  <textarea class="form-control" id="Significato" name="Significato" placeholder="{{ languageMap.formPh5[languageSel] }}"></textarea>
+                  <input id="NuovaParola" name="NuovaParola" class="form-control nuova_parola" placeholder="{{ languageMap.formPh3[languageSel] }}" required="" type="text" ng-model="term">
+                  <input id="Lingua" name="Lingua" type="text" placeholder="{{ languageMap.formPh4[languageSel] }}" class="form-control lingua" required="" ng-model="language">
+                  <textarea class="form-control" id="Significato" name="Significato" placeholder="{{ languageMap.formPh5[languageSel] }}" required="" ng-model="text"></textarea>
+				<div class="form-group col-md-offset-1 col-md-10" ng-show="!form.$valid && submitted">Compila tutti campi prima di inviare</div>
                   <div class="form-group buttons_box">
-                    <button type="button" id="button1id" name="button1id" class="btn form-control attivo half" ng-click="submit()" ng-bind-html="languageMap.formSubmit[languageSel]"></button>
-                    <button id="btVisible" name="button2id" class="btn form-control inattivo half" ng-bind-html="languageMap.formCancel[languageSel]"></button>
+                    <button type="submit" id="button1id" name="button1id" class="btn form-control attivo half" ng-bind-html="languageMap.formSubmit[languageSel]" ng-click="submitted=true"></button>
+                    <button type="button" id="btVisible" name="button2id" class="btn form-control inattivo half" ng-bind-html="languageMap.formCancel[languageSel]"></button>
                   </div>
                 </div>
               </fieldset>
