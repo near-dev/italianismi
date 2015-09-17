@@ -293,7 +293,11 @@ angular
 	  $rootScope.go = function(path) {
 		  $location.path(path);
 	  }
-  });
+
+	  $rootScope.goBack = function(path) {
+		  window.history.back();;
+	  }
+});
 
 
 window.idleTime = 0;
