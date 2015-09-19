@@ -351,6 +351,10 @@ $(document).ready(function () {
 			setTimeout(initKeyboard, 100);
 		}
 	};
+
+	// disabiito il tasto destro
+	window.addEventListener("contextmenu", function(e) { e.preventDefault(); })
+	
 	initKeyboard();
 
 });
