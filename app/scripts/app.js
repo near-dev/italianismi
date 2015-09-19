@@ -59,7 +59,7 @@ var languageMap= {
 	},
 	vivit3: {
 		ita: '<br>Termini d\'origine italiana relativi alla gastronomia si ritrovano nelle lingue europee già nel XVI secolo: ad esempio, maccheroni nella forma adattata macarrones è attestato per la prima volta in spagnolo nel 1517 (macarons, poi macaroni in francese, 1599; macaroni in inglese, 1599).',
-		eng: '<br>Terms of Italian origin related to food were found in European languages starting in the sixteenth century. For example, macaroni in the form adattata macarrones appeared for the first time in Spanish in 1517 (macarons, then macaroni in French, 1599 in English macaroni, 1599).'
+		eng: '<br>Terms of Italian origin related to food were found in European languages starting in the sixteenth century. For example, macaroni in the adapted form macarrones appeared for the first time in Spanish in 1517 (macarons, then macaroni in French, 1599 in English macaroni, 1599).'
 	},
 	vivit4: {
 		ita: '<br><br>Sono di diffusione molto antica pure mortadella in francese (mortadelle, XV secolo) e vermicelli in francese (vermicelle, 1553) e inglese (vermicelli, 1669).',
@@ -91,7 +91,7 @@ var languageMap= {
 	},
 	vivit11: {
 		ita: '<br>Dagli anni settanta e ottanta del Novecento si sono rapidamente affermati, tra gli altri, bruschetta, carpaccio, ciabatta (reso plurale nella forma ciabattas),pesto, rucola, tiramisù (una parola presente in oltre venti lingue, tra cui giapponese, indonesiano, thai e laotiano).',
-		eng: '<br>During the seventies and eighties many Italiamisma were rapidly established, among them: bruschetta, carpaccio, ciabatta (often used in the plural form ciabattas),pesto, rucola, tiramisù (present in more than 20 languages, including Japanese, Indonesian, Thai and Laotian).'
+		eng: '<br>During the seventies and eighties many Italianism were rapidly established, among them: bruschetta, carpaccio, ciabatta (often used in the plural form ciabattas),pesto, rucola, tiramisù (present in more than 20 languages, including Japanese, Indonesian, Thai and Laotian).'
 	},
 	vivit12: {
 		ita: '<br><br>Non mancano infine termini anche più specifici, quali ad esempio parmigiano, mozzarella, olio d\'oliva, aceto balsamico, così come fra i formati di pasta le farfalle sono ormai conosciute quasi quanto le tagliatelle.',
@@ -107,7 +107,7 @@ var languageMap= {
 	},
 	languageTitle3: {
 		ita: 'Dove si usa la parola',
-		eng: 'Where the word isused'
+		eng: 'Where the word is used'
 	},
 	termsTitle1: {
 		ita: 'Parole italiane della cucina nelle lingue del mondo',
