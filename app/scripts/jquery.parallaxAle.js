@@ -21,7 +21,7 @@ if (o.HORIZ==true) {
 } else {
   var sliderH = parseInt(panel.css('height'),10) * panel.length;
   // ale: + 750 per evitare il fondo che va troppo avanti
-  VIEWPORT=vh + 600; edge='top'; panel.css('float','none'); plugin.css('height',sliderH); sliderLen = sliderH;
+  VIEWPORT=vh + 300; edge='top'; panel.css('float','none'); plugin.css('height',sliderH); sliderLen = sliderH;
 }
 
 this.parallaxSwipe.getSize = function(i){ if (sliderW>'') { return sliderW; } else { return sliderH; }};
@@ -157,18 +157,6 @@ plugin.bind('mousemove touchmove', function(event){ touchMove(event); window.idl
 plugin.bind('mouseup touchend', function(event){ touchEnd(event); window.idleTime = 0; });
 
 
-/*$('#cominciare').click(function() { 
-  $('#parallax').css(edge, -1032);
-  //$('#parallax').scrollTo(0);
-});*/
-
-$('.credits').click(function() { 
-  $('#parallax').css(edge, -9250);
-});
-
-$('.box_crediti .logo, .cominciare, .top').click(function() { 
-  $('#parallax').css(edge, 0);
-});
 
 } //end options
 })(jQuery)

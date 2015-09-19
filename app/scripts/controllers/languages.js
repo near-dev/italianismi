@@ -1,3 +1,4 @@
+/*global AmCharts:false */
 'use strict';
 
 /**

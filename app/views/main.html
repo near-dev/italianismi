@@ -97,6 +97,7 @@
             <img src="images/left_arrow.gif" class="arrow_top">
             <div ng-bind-html="languageMap.mainBack[languageSel]"></div>
           </div>
+		  <a name="credits"></a>
           <div class="box_crediti" ng-bind-html="credits" style="height: 2200px;">
           </div>
           <div class="cominciare torna logo">
@@ -147,6 +148,27 @@
       //$('#layer3').css('height',layerHeight); //static background but need to add a height.
     });
 
+	$('.box_crediti .logo, .cominciare, .top').click(function() { 
+		$('#entra_uno').css('zoom', 0);
+		$('#entra_due').css('zoom', 0);
+		$('#top').css('opacity', 0);
+		$('#top_bk').css('opacity', 0);
+	  $('#parallax').css('top', 0);
+	  $('#layer1').css('top', 0);
+	  $('#layer2').css('top', 0);
+	});
+
+	$('.credits').click(function() { 
+		//facciamo pure gli effetti guerre stellari!!! 
+		$('#entra_uno').css('zoom', 1);
+		$('#entra_due').css('zoom', 1);
+		$('#top').css('opacity', 1);
+		$('#top_bk').css('opacity', 1);
+		// per calcolarlo: console.log(-$('.box_crediti').offset().top + 200);
+	  $('#parallax').css('top', -9233);
+	  $('#layer1').css('top', -11541);
+	  $('#layer2').css('top', -2198);
+	});
   });
 
     </script>

@@ -1,3 +1,4 @@
+/*global $:false */
 'use strict';
 
 var languageMap= {
@@ -193,6 +194,14 @@ var languageMap= {
 		ita: 'Annulla',
 		eng: 'Cancel'
 	},
+	formWait: {
+		ita: 'Attendi...',
+		eng: 'Wait...'
+	},
+	formAlert: {
+		ita: 'Compila tutti campi prima di inviare',
+		eng: 'Fill out all required fields before submitting'
+	},
 	confirmText1: {
 		ita: 'Grazie $$name.<br>The word <span>$$term</span> è stata inserita<br> fra gli italianismi in lingua <span>$$language</span>',
 		eng: 'Thank you $$name,<br> $$term has been added to Italianisms in the $$language language'
@@ -201,7 +210,7 @@ var languageMap= {
 		ita: 'Il tuo aiuto è prezioso per arricchire<br>il nostro “vocabolario degli italianismi”.<br>Conosci altri termini utili?',
 		eng: 'Thank you for help in enrich the “Archivio internazionale delle parole italiane della cucina”.<br>Do you know other words?'
 	}
-}
+};
 
 /**
  * @ngdoc overview
@@ -253,7 +262,7 @@ angular
         controller: 'CardCtrl',
         resolve: {
           terms: function(engine) {
-            return engine.termsPromise
+            return engine.termsPromise;
           },
 		  languages: function(engine) {
 			return engine.languagePromise;  
@@ -289,28 +298,34 @@ angular
 			  engine.setLanguage(language);
 			  $window.location.reload();
 		  }
-	  }
+	  };
 	  
 	  $rootScope.go = function(path) {
 		  $location.path(path);
-	  }
+	  };
 
-	  $rootScope.goBack = function(path) {
-		  window.history.back();;
-	  }
+	  $rootScope.goBack = function() {
+		  window.history.back();
+	  };
 });
 
+function timerIncrement() {
+    window.idleTime = window.idleTime + 1;
+    if (window.idleTime > 119 && window.location.hash !== '#/') { // 2 minutes
+        window.location = '.';
+    }
+}
 
 window.idleTime = 0;
 $(document).ready(function () {
     //Increment the idle time counter every minute.
-    var idleInterval = setInterval(timerIncrement, 1000); // 1 second
+    setInterval(timerIncrement, 1000); // 1 second
 
     //Zero the idle timer on mouse movement.
-    $(this).mousemove(function (e) {
+    $(this).mousemove(function () {
         window.idleTime = 0;
     });
-    $(this).keypress(function (e) {
+    $(this).keypress(function () {
         window.idleTime = 0;
     });
 
@@ -318,7 +333,7 @@ $(document).ready(function () {
 	var initKeyboard = function() {
 		if ($('#virtualKeyboardChromeExtensionOverlayScrollExtend').length) {
 			$('#virtualKeyboardChromeExtensionOverlayScrollExtend').attrchange({
-				callback: function (event) { 
+				callback: function () { 
 					if ($('#virtualKeyboardChromeExtensionOverlayScrollExtend').css('display') === 'none') {
 						$( 'input' ).blur();
 						$('html').animate({top: '0'});
@@ -336,13 +351,11 @@ $(document).ready(function () {
 			setTimeout(initKeyboard, 100);
 		}
 	};
+
+	// disabiito il tasto destro
+	window.addEventListener("contextmenu", function(e) { e.preventDefault(); })
+	
 	initKeyboard();
 
 });
 
-function timerIncrement() {
-    window.idleTime = window.idleTime + 1;
-    if (window.idleTime > 119 && window.location.hash !== '#/') { // 2 minutes
-        window.location = '.';
-    }
-}  
