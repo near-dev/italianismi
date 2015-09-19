@@ -162,9 +162,6 @@ plugin.bind('mouseup touchend', function(event){ touchEnd(event); window.idleTim
   //$('#parallax').scrollTo(0);
 });*/
 
-$('.credits').click(function() { 
-  $('#parallax').css(edge, -9250);
-});
 
 $('.box_crediti .logo, .cominciare, .top').click(function() { 
   $('#parallax').css(edge, 0);

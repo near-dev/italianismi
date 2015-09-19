@@ -97,6 +97,7 @@
             <img src="images/left_arrow.gif" class="arrow_top">
             <div ng-bind-html="languageMap.mainBack[languageSel]"></div>
           </div>
+		  <a name="credits"></a>
           <div class="box_crediti" ng-bind-html="credits" style="height: 2200px;">
           </div>
           <div class="cominciare torna logo">
@@ -147,6 +148,13 @@
       //$('#layer3').css('height',layerHeight); //static background but need to add a height.
     });
 
+	$('.credits').click(function() { 
+		//facciamo pure gli effetti guerre stellari!!! 
+		$('#entra_uno').css('zoom', 1);
+		$('#entra_due').css('zoom', 1);
+		// per calcolarlo: console.log(-$('.box_crediti').offset().top + 200);
+	  $('#parallax').css('top', -9233);
+	});
   });
 
     </script>
