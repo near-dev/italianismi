@@ -14,7 +14,7 @@ angular.module('italianismiApp')
     var that = this;
 	
 	this.getLanguageName = function(language) {
-		var languageName = "";
+		var languageName = '';
 		if (language) {
 			angular.forEach(that.languages, function(_language) {
 				if (_language.ref === language) {
@@ -66,12 +66,12 @@ angular.module('italianismiApp')
 		angular.forEach(this.images, function(image) {
 			if (image.termIta === termStr) {
 				if (image.url) {
-					retUrl = "photos/" + image.url;
+					retUrl = 'photos/' + image.url;
 				}
 			}
 		});
 		return retUrl;
-	}
+	};
 
 	this.getLanguage = function() {
 		if (!sessionStorage) {
@@ -79,7 +79,7 @@ angular.module('italianismiApp')
 			return 'ita';
 		}
 		return sessionStorage.getItem('language') ? sessionStorage.getItem('language') : 'ita';
-	}
+	};
 	
 	this.setLanguage = function(language) {
 		if (sessionStorage) {
@@ -88,8 +88,7 @@ angular.module('italianismiApp')
 		else {
 			console.log('warning! language switch not supported');
 		}
-		
-	}
+	};
 	
 	var language = this.getLanguage();
 

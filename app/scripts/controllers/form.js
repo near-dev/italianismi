@@ -1,3 +1,4 @@
+/*global $:false */
 'use strict';
 
 /**
@@ -13,7 +14,7 @@ angular.module('italianismiApp')
 
 		$scope.submitted = false;
 		
-		$scope.submit = function(test) {
+		$scope.submit = function() {
 			$scope.submitted = true;
 		  var data = {
 			  name: $scope.name,
@@ -21,14 +22,14 @@ angular.module('italianismiApp')
 			  term: $scope.term,
 			  language: $scope.language,
 			  text: $scope.text,
-		  }
+		  };
 		  $http({
 			method: 'POST',
 			url: 'http://localhost/itaconnect/CollectData.aspx',
 			data: $.param(data),
 			headers: {'Content-Type': 'application/x-www-form-urlencoded'}
-		  }).success(function(retData) {
+		  }).success(function() {
 			$location.path('confirm/' + encodeURIComponent($scope.name) + '/' + encodeURIComponent($scope.term) + '/' + encodeURIComponent($scope.language));
 		  });
-	  }
+	  };
   });

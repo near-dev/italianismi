@@ -1,3 +1,4 @@
+/*global $:false */
 'use strict';
 
 /**
@@ -16,9 +17,9 @@ angular.module('italianismiApp')
 	$scope.languageName = engine.getLanguageName($scope.language);
 
 	$scope.startWith = function(actual, expected) {
-		var lowerStr = (actual + "").toLowerCase();
+		var lowerStr = (actual + '').toLowerCase();
 		return lowerStr.indexOf(expected.toLowerCase()) === 0;
 	};
 	
-	$('#search').bind("keyup", function() { if (!$scope.search) $scope.search = {}; $scope.search.termIta = $('#search').val().toString(); $scope.$digest();  });
+	$('#search').bind('keyup', function() { if (!$scope.search) { $scope.search = {}; } $scope.search.termIta = $('#search').val().toString(); $scope.$digest();  });
   });
