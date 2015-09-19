@@ -194,6 +194,14 @@ var languageMap= {
 		ita: 'Annulla',
 		eng: 'Cancel'
 	},
+	formWait: {
+		ita: 'Attendi...',
+		eng: 'Wait...'
+	},
+	formAlert: {
+		ita: 'Compila tutti campi prima di inviare',
+		eng: 'Fill out all required fields before submitting'
+	},
 	confirmText1: {
 		ita: 'Grazie $$name.<br>The word <span>$$term</span> è stata inserita<br> fra gli italianismi in lingua <span>$$language</span>',
 		eng: 'Thank you $$name,<br> $$term has been added to Italianisms in the $$language language'
