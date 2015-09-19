@@ -30,6 +30,14 @@ $sfondo:#f4f4f2;
 /*============================= oggetti generici ===========================*/
 /*==========================================================================*/
 
+* {
+   user-select: none;
+   -o-user-select:none;
+   -moz-user-select: none;
+   -khtml-user-select: none;
+   -webkit-user-select: none;
+}
+
 .ui, h5, h3{
   font-family: $sans;
   text-transform: uppercase;
