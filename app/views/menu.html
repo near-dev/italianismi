@@ -29,4 +29,7 @@
 	      </div>
         </div>
 
-        <a  class="goBack" ng-click="goBack()" href="#"><span class="glyphicon glyphicon-arrow-left"></span></a>
+        <a  class="goBack" ng-click="goBack()" href="#">
+          <div class="glyphicon glyphicon-chevron-left" style="color:#ccc"></div>
+          <div ng-bind-html="languageMap.mainBack[languageSel]"></div>
+        </a>

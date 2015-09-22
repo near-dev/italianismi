@@ -51,7 +51,7 @@ var languageMap= {
 		eng: 'Add a<br>foreign word'
 	},
 	vivit1: {
-		ita: '<br>Gli italianismi nel mondo costituiscono un fenomeno di grande ampiezza, che registra, secondo le indagini più recenti, oltre ventimila parole e interessa un numero non definito, ma comunque alto, di lingue. La maggior parte degli italianismi, cioè delle parole italiane più diffuse all\'estero, viene dal mondo della cultura.',
+		ita: '<br>Gli italianismi nel mondo costituiscono un fenomeno di grande ampiezza, <br>che registra, secondo le indagini più recenti, <strong>oltre ventimila parole</strong> e interessa un numero non definito,<br>ma comunque alto, di lingue.<br>La maggior parte degli italianismi, cioè delle parole italiane più diffuse all\'estero, viene dal mondo della cultura.',
 		eng: '<br>Italianisms are a wide-spread phenomenon, showing, according to recent surveys, over twenty thousand words involving an undefined but large number of languages. Most Italianisms, Italian words commonly used abroad, come from the world of culture.'
 	},
 	vivit2: {

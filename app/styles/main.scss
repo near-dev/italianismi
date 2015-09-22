@@ -96,7 +96,7 @@ ul.quattro_colonne{
         overflow: hidden;              /* "overflow" value must be different from "visible" */ 
         text-overflow: ellipsis;
         display: block;
-        max-width: 210px;
+        max-width: 270px;
         color: $nero;
         padding-right:50px;
         float: left;
@@ -230,6 +230,10 @@ a.negativo{
   z-index: 100;
   display: block;
   opacity:0;
+  .goBack{
+    top:200px !important;
+    left:75px;
+  }
   img{
     width: 100%;
   }
@@ -740,6 +744,10 @@ body {
       color: $verde;
     }
 
+    .goBack{
+      display: none;
+    }
+
     .buttons_box{
 		margin-top: 40px;
 		width: 50%;
@@ -842,7 +850,8 @@ body {
     font-size:16px;
 
     .logo{
-      width:120px;
+      width:200px;
+      margin-bottom: 10px !important;
       float: none !important;
     }
 
@@ -985,15 +994,16 @@ body {
   background:$nero;
   color:$bianco;
   position:absolute;
-  left:60px;
-  top:60px;
-  z-index:1000;
-  border-radius:50%;
-  width:60px;
-  max-height:60px;
-  min-height: 60px;
-  line-height:63px;
-  font-family: $titolo;
+  left: 50px;
+  top: 50px;
+  z-index: 1000;
+  border-radius: 50%;
+  width: 100px;
+  max-height: 100px;
+  min-height: 100px;
+  padding-top: 16px;
+  opacity:0.85;
+  zoom:0.8;
 
   &:hover{
     color: $bianco;
