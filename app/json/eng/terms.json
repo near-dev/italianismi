@@ -277,32 +277,12 @@
     "descIta": "cherries or cherry syrup produced from amareno cherries."
   },
   {
-    "termIta": "amaretto",
+    "termIta": "amaretto (liquore)",
     "languages": [
       {
         "name": "Japanese",
         "ref": "giapponese",
         "term": "amaretto"
-      },
-      {
-        "name": "Latvian",
-        "ref": "lettone",
-        "term": "amareto"
-      },
-      {
-        "name": "Polish",
-        "ref": "polacco",
-        "term": "amarettini"
-      },
-      {
-        "name": "Polish",
-        "ref": "polacco",
-        "term": "amaretto"
-      },
-      {
-        "name": "German",
-        "ref": "tedesco",
-        "term": "amaretto, -s"
       },
       {
         "name": "German",
@@ -311,6 +291,27 @@
       }
     ],
     "descIta": "amaretto flavored liqueur"
+  },
+  {
+    "termIta": "amaretto (biscotto)",
+    "languages": [
+      {
+        "name": "Latvian",
+        "ref": "lettone",
+        "term": "amareto"
+      },
+      {
+        "name": "Polish",
+        "ref": "polacco",
+        "term": "amarettini, amaretto"
+      },
+      {
+        "name": "German",
+        "ref": "tedesco",
+        "term": "amaretto, -s"
+      }
+    ],
+    "descIta": "round and flat crispy or soft biscuits made with almonds."
   },
   {
     "termIta": "amaro",
@@ -487,12 +488,7 @@
       {
         "name": "Hungarian",
         "ref": "ungherese",
-        "term": "spárga"
-      },
-      {
-        "name": "Hungarian",
-        "ref": "ungherese",
-        "term": "spargo"
+        "term": "spárga, spargo"
       }
     ],
     "descIta": "long, thin, green or whitish vegetable"
@@ -675,12 +671,7 @@
       {
         "name": "French",
         "ref": "francese",
-        "term": "biscotin"
-      },
-      {
-        "name": "French",
-        "ref": "francese",
-        "term": "biscotte",
+        "term": "biscotin, biscotte",
         "desc": "in this language it means toast crisp "
       },
       {
@@ -1656,12 +1647,7 @@
       {
         "name": "Spanish",
         "ref": "spagnolo",
-        "term": "cavial"
-      },
-      {
-        "name": "Spanish",
-        "ref": "spagnolo",
-        "term": "caviar"
+        "term": "cavial, caviar"
       },
       {
         "name": "German",
@@ -1770,12 +1756,7 @@
       {
         "name": "Lithuanian",
         "ref": "lituano",
-        "term": "cedra"
-      },
-      {
-        "name": "Lithuanian",
-        "ref": "lituano",
-        "term": "cedratas"
+        "term": "cedra, cedratas"
       },
       {
         "name": "German",
@@ -2112,14 +2093,20 @@
         "name": "US English",
         "ref": "americano",
         "term": "crostata"
-      },
+      }
+    ],
+    "descIta": "cake baked in the oven formed by a layer of pastry covered with jam or cream"
+  },
+  {
+    "termIta": "crostata (torta salata)",
+    "languages": [
       {
         "name": "French",
         "ref": "francese",
         "term": "croustade"
       }
     ],
-    "descIta": "cake baked in the oven formed by a layer of pastry covered with jam or cream"
+    "descIta": "old-fashioned baked meat pie"
   },
   {
     "termIta": "crostino",
@@ -3257,12 +3244,7 @@
       {
         "name": "Latvian",
         "ref": "lettone",
-        "term": "salāti"
-      },
-      {
-        "name": "Latvian",
-        "ref": "lettone",
-        "term": "salāts"
+        "term": "salāti, salāts"
       }
     ],
     "descIta": "leafy vegetable usually dressed with oil, vinegar and salt"
@@ -3332,12 +3314,7 @@
       {
         "name": "Finnish",
         "ref": "finnico",
-        "term": "limonadi"
-      },
-      {
-        "name": "Finnish",
-        "ref": "finnico",
-        "term": "situuna"
+        "term": "limonadi, situuna"
       }
     ],
     "descIta": "highly acidic oval, light yellow fruit with juicy pulp"
@@ -3379,12 +3356,7 @@
       {
         "name": "Czech",
         "ref": "ceco",
-        "term": "makaróny"
-      },
-      {
-        "name": "Czech",
-        "ref": "ceco",
-        "term": "makronek"
+        "term": "makaróny , makronek"
       },
       {
         "name": "Korean",
@@ -3628,12 +3600,7 @@
       {
         "name": "French",
         "ref": "francese",
-        "term": "mariné"
-      },
-      {
-        "name": "French",
-        "ref": "francese",
-        "term": "mariner"
+        "term": "mariné, mariner"
       },
       {
         "name": "UK English",
@@ -4652,12 +4619,7 @@
       {
         "name": "US English",
         "ref": "americano",
-        "term": "Parmesan"
-      },
-      {
-        "name": "US English",
-        "ref": "americano",
-        "term": "Parmigiano-Reggiano cheese, parmigiano-reggiano cheese"
+        "term": "Parmesan, Parmigiano-Reggiano cheese, Parmigiano-reggiano cheese"
       },
       {
         "name": "Arabic",
@@ -4825,32 +4787,17 @@
       {
         "name": "Polish",
         "ref": "polacco",
-        "term": "pastasciutta"
-      },
-      {
-        "name": "Polish",
-        "ref": "polacco",
-        "term": "paszta, pasta"
+        "term": "pastasciutta, paszta, pasta"
       },
       {
         "name": "German",
         "ref": "tedesco",
-        "term": "paste, pasten"
-      },
-      {
-        "name": "German",
-        "ref": "tedesco",
-        "term": "paste asciutte"
+        "term": "paste, pasten, paste asciutte"
       },
       {
         "name": "Hungarian",
         "ref": "ungherese",
-        "term": "pasta"
-      },
-      {
-        "name": "Hungarian",
-        "ref": "ungherese",
-        "term": "pastasciutta"
+        "term": "pasta, pastasciutta"
       }
     ],
     "descIta": "durum wheat pasta boiled drained and served with sauces"
@@ -5115,7 +5062,8 @@
       {
         "name": "Czech",
         "ref": "ceco",
-        "term": "pignol, piniola, pinelka, piňolka, pignoli,"
+        "term": "pignol, piniola, pinelka, piňolka, pignoli,",
+        "desc": "in this language it means PIGNOLO è VARIANTE NON TOSCANA, CON L'ACCEZIONE DI METICOLOSO, PROBABILMENTE NASCE A ROMA"
       },
       {
         "name": "Polish",
@@ -5126,7 +5074,8 @@
     "descIta": "edible seed of pine tree, contained between the scales of the pine cone, used in cookingand baking or to enrich sauces and dishes"
   },
   {
-    "termIta": "pinza dialettale veneto, emiliano",
+    "termIta": "pinza",
+    "termIta2": "dialettale veneto, emiliano",
     "languages": [
       {
         "name": "Latvian",
@@ -5656,7 +5605,8 @@
       {
         "name": "Catalan",
         "ref": "catalano",
-        "term": "remolatxa"
+        "term": "remolatxa",
+        "desc": "in this language it means IL RAMOLACCIO è UNA VARIETà DI RAVANELLO"
       }
     ],
     "descIta": "round edible root, usually red with white flesh with a slightly spicy taste, eaten raw in salads or as a side dish"
@@ -5851,7 +5801,8 @@
     "descIta": "short cylindrical pasta with fluted sides"
   },
   {
-    "termIta": "risi e bisi dialettale veneziano (bisi = piselli)",
+    "termIta": "risi e bisi",
+    "termIta2": "dialettale veneziano (bisi = piselli)",
     "languages": [
       {
         "name": "UK English",
@@ -6060,12 +6011,7 @@
       {
         "name": "UK English",
         "ref": "inglese",
-        "term": "rachetta"
-      },
-      {
-        "name": "UK English",
-        "ref": "inglese",
-        "term": "rocket"
+        "term": "rachetta, rocket"
       },
       {
         "name": "Icelandic",
@@ -6289,12 +6235,7 @@
       {
         "name": "Arabic",
         "ref": "arabo",
-        "term": "sardiin"
-      },
-      {
-        "name": "Arabic",
-        "ref": "arabo",
-        "term": "sardilla"
+        "term": "sardiin, sardilla"
       },
       {
         "name": "Catalan",
@@ -6304,12 +6245,7 @@
       {
         "name": "Czech",
         "ref": "ceco",
-        "term": "sardel"
-      },
-      {
-        "name": "Czech",
-        "ref": "ceco",
-        "term": "sardinka"
+        "term": "sardel, sardinka"
       },
       {
         "name": "Estonian",
@@ -6319,12 +6255,7 @@
       {
         "name": "Finnish",
         "ref": "finnico",
-        "term": "sardelli"
-      },
-      {
-        "name": "Finnish",
-        "ref": "finnico",
-        "term": "sardiini"
+        "term": "sardelli, sardiini"
       },
       {
         "name": "French",
@@ -6355,32 +6286,17 @@
       {
         "name": "Polish",
         "ref": "polacco",
-        "term": "sardela"
-      },
-      {
-        "name": "Polish",
-        "ref": "polacco",
-        "term": "sardynka"
+        "term": "sardela, sardynka"
       },
       {
         "name": "German",
         "ref": "tedesco",
-        "term": "sardelle"
-      },
-      {
-        "name": "German",
-        "ref": "tedesco",
-        "term": "sardine, sardien"
+        "term": "sardelle, sardine, sardien"
       },
       {
         "name": "Hungarian",
         "ref": "ungherese",
-        "term": "szardella"
-      },
-      {
-        "name": "Hungarian",
-        "ref": "ungherese",
-        "term": "szardínia"
+        "term": "szardella , szardínia"
       }
     ],
     "descIta": "small, silver-blue, flat sea fish which is eaten fresh or preserved"
@@ -7865,12 +7781,7 @@
       {
         "name": "Polish",
         "ref": "polacco",
-        "term": "cukinia"
-      },
-      {
-        "name": "Polish",
-        "ref": "polacco",
-        "term": "zucchini"
+        "term": "cukinia, zucchini"
       },
       {
         "name": "Hungarian",
