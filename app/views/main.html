@@ -3,8 +3,13 @@
       <img src="images/bot_credits.png">
     </a>
     <a href="" class="top generale" id="top">
-      <img src="images/pep_logo.png">
+        <span  class="goBack" href="#">
+          <div class="glyphicon glyphicon-chevron-up" style="color:#ccc"></div>
+          <div ng-bind-html="languageMap.mainBack[languageSel]"></div>
+        </span>
+        <img src="images/pep_logo.png">
     </a>
+        
     <div class="top_bk" id="top_bk"></div>
     <div class="container" onselectstart="return false;">
       <div id="parallax">
