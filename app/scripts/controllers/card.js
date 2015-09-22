@@ -24,7 +24,7 @@ angular.module('italianismiApp')
   	angular.forEach($scope.terms, function(term, index) {
 		if ($scope.language) {
 			angular.forEach(term.languages, function(language, index) {
-				if (language.ref == $scope.language) {
+				if (language.ref === $scope.language) {
 					term.languageIndex = index;
 				}
 			});
@@ -54,10 +54,10 @@ angular.module('italianismiApp')
 	
 	$scope.getLanguageCount = function(term) {
 		if ($rootScope.languageSel === 'ita') {
-			return term.languages.length === 1 ? "una lingua" : "" + term.languages.length + " lingue";
+			return term.languages.length === 1 ? 'una lingua' : '' + term.languages.length + ' lingue';
 		}
 		else {
-			return term.languages.length === 1 ? "one language" : "" + term.languages.length + " languages";
+			return term.languages.length === 1 ? 'one language' : '' + term.languages.length + ' languages';
 		}
-	}
+	};
   });

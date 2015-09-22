@@ -277,32 +277,12 @@
     "descIta": "ciliegia prodotta dall'amareno e anche lo sciroppo ricavato dall'amarena."
   },
   {
-    "termIta": "amaretto",
+    "termIta": "amaretto (liquore)",
     "languages": [
       {
         "name": "giapponese",
         "ref": "giapponese",
         "term": "amaretto"
-      },
-      {
-        "name": "lettone",
-        "ref": "lettone",
-        "term": "amareto"
-      },
-      {
-        "name": "polacco",
-        "ref": "polacco",
-        "term": "amarettini"
-      },
-      {
-        "name": "polacco",
-        "ref": "polacco",
-        "term": "amaretto"
-      },
-      {
-        "name": "tedesco",
-        "ref": "tedesco",
-        "term": "amaretto, -s"
       },
       {
         "name": "tedesco",
@@ -311,6 +291,27 @@
       }
     ],
     "descIta": "liquore aromatizzato al sapore di tale biscotto"
+  },
+  {
+    "termIta": "amaretto (biscotto)",
+    "languages": [
+      {
+        "name": "lettone",
+        "ref": "lettone",
+        "term": "amareto"
+      },
+      {
+        "name": "polacco",
+        "ref": "polacco",
+        "term": "amarettini, amaretto"
+      },
+      {
+        "name": "tedesco",
+        "ref": "tedesco",
+        "term": "amaretto, -s"
+      }
+    ],
+    "descIta": "biscotto croccante o morbido di forma rotonda e schiacciata, a base di mandorle"
   },
   {
     "termIta": "amaro",
@@ -487,12 +488,7 @@
       {
         "name": "ungherese",
         "ref": "ungherese",
-        "term": "spárga"
-      },
-      {
-        "name": "ungherese",
-        "ref": "ungherese",
-        "term": "spargo"
+        "term": "spárga, spargo"
       }
     ],
     "descIta": "ortaggio commestibile verde o biancastro, di forma lunga e sottile"
@@ -675,12 +671,7 @@
       {
         "name": "francese",
         "ref": "francese",
-        "term": "biscotin"
-      },
-      {
-        "name": "francese",
-        "ref": "francese",
-        "term": "biscotte",
+        "term": "biscotin, biscotte",
         "desc": "in questa lingua significa fetta biscottata"
       },
       {
@@ -1656,12 +1647,7 @@
       {
         "name": "spagnolo",
         "ref": "spagnolo",
-        "term": "cavial"
-      },
-      {
-        "name": "spagnolo",
-        "ref": "spagnolo",
-        "term": "caviar"
+        "term": "cavial, caviar"
       },
       {
         "name": "tedesco",
@@ -1674,7 +1660,7 @@
         "term": "kaviár"
       }
     ],
-    "descIta": "pregiato alimento costituito da uova di storione conservate sotto sale'"
+    "descIta": "pregiato alimento costituito da uova di storione conservate sotto sale"
   },
   {
     "termIta": "cavolfiore",
@@ -1770,12 +1756,7 @@
       {
         "name": "lituano",
         "ref": "lituano",
-        "term": "cedra"
-      },
-      {
-        "name": "lituano",
-        "ref": "lituano",
-        "term": "cedratas"
+        "term": "cedra, cedratas"
       },
       {
         "name": "tedesco",
@@ -2112,14 +2093,20 @@
         "name": "americano",
         "ref": "americano",
         "term": "crostata"
-      },
+      }
+    ],
+    "descIta": "torta cotta in forno formata da uno strato di pasta frolla ricoperta di marmellata o crema"
+  },
+  {
+    "termIta": "crostata (torta salata)",
+    "languages": [
       {
         "name": "francese",
         "ref": "francese",
         "term": "croustade"
       }
     ],
-    "descIta": "torta cotta in forno formata da uno strato di pasta frolla ricoperta di marmellata o crema"
+    "descIta": "antica torta salata a base di carne, fatta cuocere al forno"
   },
   {
     "termIta": "crostino",
@@ -3257,12 +3244,7 @@
       {
         "name": "lettone",
         "ref": "lettone",
-        "term": "salāti"
-      },
-      {
-        "name": "lettone",
-        "ref": "lettone",
-        "term": "salāts"
+        "term": "salāti, salāts"
       }
     ],
     "descIta": "ortaggio a foglie larghe consumato di solito condito con olio, aceto e sale"
@@ -3332,12 +3314,7 @@
       {
         "name": "finnico",
         "ref": "finnico",
-        "term": "limonadi"
-      },
-      {
-        "name": "finnico",
-        "ref": "finnico",
-        "term": "situuna"
+        "term": "limonadi, situuna"
       }
     ],
     "descIta": "frutto ovale, di colore giallo chiaro, con polpa succosa e sapore molto acido "
@@ -3379,12 +3356,7 @@
       {
         "name": "ceco",
         "ref": "ceco",
-        "term": "makaróny"
-      },
-      {
-        "name": "ceco",
-        "ref": "ceco",
-        "term": "makronek"
+        "term": "makaróny , makronek"
       },
       {
         "name": "coreano",
@@ -3628,12 +3600,7 @@
       {
         "name": "francese",
         "ref": "francese",
-        "term": "mariné"
-      },
-      {
-        "name": "francese",
-        "ref": "francese",
-        "term": "mariner"
+        "term": "mariné, mariner"
       },
       {
         "name": "inglese",
@@ -4652,12 +4619,7 @@
       {
         "name": "americano",
         "ref": "americano",
-        "term": "Parmesan"
-      },
-      {
-        "name": "americano",
-        "ref": "americano",
-        "term": "Parmigiano-Reggiano cheese, parmigiano-reggiano cheese"
+        "term": "Parmesan, Parmigiano-Reggiano cheese, Parmigiano-reggiano cheese"
       },
       {
         "name": "arabo",
@@ -4825,32 +4787,17 @@
       {
         "name": "polacco",
         "ref": "polacco",
-        "term": "pastasciutta"
-      },
-      {
-        "name": "polacco",
-        "ref": "polacco",
-        "term": "paszta, pasta"
+        "term": "pastasciutta, paszta, pasta"
       },
       {
         "name": "tedesco",
         "ref": "tedesco",
-        "term": "paste, pasten"
-      },
-      {
-        "name": "tedesco",
-        "ref": "tedesco",
-        "term": "paste asciutte"
+        "term": "paste, pasten, paste asciutte"
       },
       {
         "name": "ungherese",
         "ref": "ungherese",
-        "term": "pasta"
-      },
-      {
-        "name": "ungherese",
-        "ref": "ungherese",
-        "term": "pastasciutta"
+        "term": "pasta, pastasciutta"
       }
     ],
     "descIta": "pasta di grano duro bollita scolata e condita con salse e sughi"
@@ -5126,7 +5073,8 @@
     "descIta": "seme edule specialmente del pino domestico, contenuto fra le scaglie della pigna, la cui mandorla è usata in cucina nella preparazione di dolci o per arricchire salse e pietanze"
   },
   {
-    "termIta": "pinza dialettale veneto, emiliano",
+    "termIta": "pinza",
+    "termIta2": "dialettale veneto, emiliano",
     "languages": [
       {
         "name": "lettone",
@@ -5851,7 +5799,8 @@
     "descIta": "tipo di pasta a forma di corto cilindro scanalato all'esterno"
   },
   {
-    "termIta": "risi e bisi dialettale veneziano (bisi = piselli)",
+    "termIta": "risi e bisi",
+    "termIta2": "dialettale veneziano (bisi = piselli)",
     "languages": [
       {
         "name": "inglese",
@@ -6060,12 +6009,7 @@
       {
         "name": "inglese",
         "ref": "inglese",
-        "term": "rachetta"
-      },
-      {
-        "name": "inglese",
-        "ref": "inglese",
-        "term": "rocket"
+        "term": "rachetta, rocket"
       },
       {
         "name": "islandese",
@@ -6289,12 +6233,7 @@
       {
         "name": "arabo",
         "ref": "arabo",
-        "term": "sardiin"
-      },
-      {
-        "name": "arabo",
-        "ref": "arabo",
-        "term": "sardilla"
+        "term": "sardiin, sardilla"
       },
       {
         "name": "catalano",
@@ -6304,12 +6243,7 @@
       {
         "name": "ceco",
         "ref": "ceco",
-        "term": "sardel"
-      },
-      {
-        "name": "ceco",
-        "ref": "ceco",
-        "term": "sardinka"
+        "term": "sardel, sardinka"
       },
       {
         "name": "estone",
@@ -6319,12 +6253,7 @@
       {
         "name": "finnico",
         "ref": "finnico",
-        "term": "sardelli"
-      },
-      {
-        "name": "finnico",
-        "ref": "finnico",
-        "term": "sardiini"
+        "term": "sardelli, sardiini"
       },
       {
         "name": "francese",
@@ -6355,32 +6284,17 @@
       {
         "name": "polacco",
         "ref": "polacco",
-        "term": "sardela"
-      },
-      {
-        "name": "polacco",
-        "ref": "polacco",
-        "term": "sardynka"
+        "term": "sardela, sardynka"
       },
       {
         "name": "tedesco",
         "ref": "tedesco",
-        "term": "sardelle"
-      },
-      {
-        "name": "tedesco",
-        "ref": "tedesco",
-        "term": "sardine, sardien"
+        "term": "sardelle, sardine, sardien"
       },
       {
         "name": "ungherese",
         "ref": "ungherese",
-        "term": "szardella"
-      },
-      {
-        "name": "ungherese",
-        "ref": "ungherese",
-        "term": "szardínia"
+        "term": "szardella , szardínia"
       }
     ],
     "descIta": "piccolo pesce di mare di colore azzurro argenteo, con corpo schiacciato ai alti, che viene consumato fresco o conservato "
@@ -7333,7 +7247,7 @@
         "term": "torta"
       }
     ],
-    "descIta": "qualsiasi dolce solitamente dalla tipica forma piatta e arrotondata, confezionato fondamentalmente con farina, burro, uova e zucchero, generalmente lievitato e cotto in forno, il cui nome  sovente specificato da uno degli ingredienti particolari che si aggiungono all'impasto di base "
+    "descIta": "qualsiasi dolce solitamente dalla tipica forma piatta e arrotondata, confezionato fondamentalmente con farina, burro, uova e zucchero, generalmente lievitato e cotto in forno, il cui nome è  sovente specificato da uno degli ingredienti particolari che si aggiungono all'impasto di base "
   },
   {
     "termIta": "tortellini",
@@ -7865,12 +7779,7 @@
       {
         "name": "polacco",
         "ref": "polacco",
-        "term": "cukinia"
-      },
-      {
-        "name": "polacco",
-        "ref": "polacco",
-        "term": "zucchini"
+        "term": "cukinia, zucchini"
       },
       {
         "name": "ungherese",

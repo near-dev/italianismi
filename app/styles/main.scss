@@ -30,6 +30,14 @@ $sfondo:#f4f4f2;
 /*============================= oggetti generici ===========================*/
 /*==========================================================================*/
 
+* {
+   user-select: none;
+   -o-user-select:none;
+   -moz-user-select: none;
+   -khtml-user-select: none;
+   -webkit-user-select: none;
+}
+
 .ui, h5, h3{
   font-family: $sans;
   text-transform: uppercase;
@@ -678,7 +686,7 @@ body {
         content: url("../images/row_fade.png");
         position: absolute;
         margin: 0 auto;
-        bottom: 185px;
+        bottom: 170px;
         left: 50%;
         margin-left: -550px;
       }
@@ -733,10 +741,17 @@ body {
     }
 
     .buttons_box{
-      width: 50%;
-      float: right;
+		margin-top: 40px;
+		width: 50%;
+		float: right;
     }
 
+	#alert {
+		position: absolute;
+		font-weight: bold;
+		color: red;
+		bottom: 90px;
+	}
     .nuova_parola{
 
     }
@@ -746,14 +761,16 @@ body {
       text-transform: uppercase;
       margin-top: 30px;
 
-      &.attivo, &.attivo:active{
+      &.attivo, &.attivo:active, &.attivo:focus {
         background:$verde;
         color: $bianco;
+		outline: 0;
       }
-      &.inattivo,  &.inattivo:active{
+      &.inattivo,  &.inattivo:active,  &.inattivo:focus {
         background:$grigio_scuro;
         color: $bianco;
         margin-right:30px;
+		outline: 0;
       }
     }
   }
@@ -986,6 +1003,7 @@ body {
 .ng-invalid.ng-dirty {
 	border-color: red;
 }
+
 
 /* SEZIONE GOOGLE FONTS DOWNLOAD LOCALE */
 /* latin-ext */

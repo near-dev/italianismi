@@ -12,7 +12,7 @@
   { "ref": "tedesco", "name": "German", "countries": [ "DE" ], "latitudes": [45.4636, 52.5186], "longitudes": [9.1881, 13.4080] },
   { "ref": "ungherese", "name": "Hungarian", "countries": [ "HU" ], "latitudes": [45.4636, 47.4719], "longitudes": [9.1881, 19.0502] },
   { "ref": "islandese", "name": "Icelandic", "countries": [ "IS" ],  "latitudes": [45.4636, 64.1333], "longitudes": [9.1881, -21.9333] },
-  { "ref": "giapponese", "name": "Japanese", "countries": [ "JP" ], "latitudes": [45.4636, 35.6895], "longitudes": [9.1881, 139.6917] },
+  { "ref": "giapponese", "name": "Japanese", "countries": [ "JP" ], "latitudes": [45.4636, 35.673343], "longitudes": [9.1881, 139.710388] },
   { "ref": "coreano", "name": "Korean", "countries": [ "KR" ], "latitudes": [45.4636, 39.0333], "longitudes": [9.1881, 125.75] },
   { "ref": "lettone", "name": "Latvian", "countries": [ "LV" ], "latitudes": [45.4636, 56.9488], "longitudes": [9.1881, 24.1063] },
   { "ref": "lituano", "name": "Lithuanian", "countries": [ "LT" ], "latitudes": [45.4636, 54.6833], "longitudes": [9.1881, 25.2833] },

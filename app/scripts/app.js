@@ -1,3 +1,4 @@
+/*global $:false */
 'use strict';
 
 var languageMap= {
@@ -59,7 +60,7 @@ var languageMap= {
 	},
 	vivit3: {
 		ita: '<br>Termini d\'origine italiana relativi alla gastronomia si ritrovano nelle lingue europee già nel XVI secolo: ad esempio, maccheroni nella forma adattata macarrones è attestato per la prima volta in spagnolo nel 1517 (macarons, poi macaroni in francese, 1599; macaroni in inglese, 1599).',
-		eng: '<br>Terms of Italian origin related to food were found in European languages starting in the sixteenth century. For example, macaroni in the form adattata macarrones appeared for the first time in Spanish in 1517 (macarons, then macaroni in French, 1599 in English macaroni, 1599).'
+		eng: '<br>Terms of Italian origin related to food were found in European languages starting in the sixteenth century. For example, macaroni in the adapted form macarrones appeared for the first time in Spanish in 1517 (macarons, then macaroni in French, 1599 in English macaroni, 1599).'
 	},
 	vivit4: {
 		ita: '<br><br>Sono di diffusione molto antica pure mortadella in francese (mortadelle, XV secolo) e vermicelli in francese (vermicelle, 1553) e inglese (vermicelli, 1669).',
@@ -70,7 +71,7 @@ var languageMap= {
 		eng: '<br><br>Words like antipasto, polenta, bologna appear in 16th century English dictionaries; lasagna entered French during the same century.'
 	},
 	vivit6: {
-		ita: '<br><br>La fortuna internazionale della parola confetti Risale alla fine del Settecento. Le parole pappardelle e il panettone fanno il loro ingresso in inglese alla fine del XIX secolo.',
+		ita: '<br><br>La fortuna internazionale della parola confetti risale alla fine del Settecento. Le parole pappardelle e panettone fanno il loro ingresso in inglese alla fine del XIX secolo.',
 		eng: '<br><br>The international success of the word confetti dates from the late eighteenth century. The words pappardelle and panettone entered English at the end of the nineteenth century.'
 	},
 	vivit7: {
@@ -82,7 +83,7 @@ var languageMap= {
 		eng: '<br>In America the success of words like lasagne (1846), salami (1852), risotto (1855), ricotta (1877), spaghetti (1888), mozzarella (1911), rigatoni (1923), scampi (1923), ziti, zucchini, prosciutto (1929), pizza (1935) is to related to the strong presence of the Italian-American community.'
 	},
 	vivit9: {
-		ita: '<br>Il fenomeno dell\'italianismo è vivissimo soprattutto nel Novecento, e particolarmente negli ultimi decenni, grazie al rinnovato prestigio della nostra lingua nel mondo legato al successo internazionale dei prodotti made in Italy, sinonimo di eccellenza e di qualità, nei settori della gastronomia, della moda, delle produzioni manufatturiere.',
+		ita: '<br>Il fenomeno dell\'italianismo è vivissimo soprattutto nel Novecento e particolarmente negli ultimi decenni, grazie al rinnovato prestigio della nostra lingua nel mondo legato al successo internazionale dei prodotti made in Italy, sinonimo di eccellenza e di qualità, nei settori della gastronomia, della moda, delle produzioni manufatturiere.',
 		eng: '<br>The Italianism phenomenon was very much alive in the twentieth century, and has continued to be so in recent decades, thanks to the renewed global prestige of the Italian language connected to the international success of products made-in-Italy, synonymous with quality and excellence, in the areas of food, fashion, and manufacturing.'
 	},
 	vivit10: {
@@ -90,11 +91,11 @@ var languageMap= {
 		eng: 'With the spread of new products and Italian dishes abroad, a large group of Italianisms related to gastronomy developed.  There is no place on the planet where terms like pizza (now the most famous Italian word in the world, along with ciao), spaghetti, espresso and cappuccino, followed by cannelloni, mortadella, panna, ravioli, risotto, salame, are not known and used, currently in about 30 different languages.'
 	},
 	vivit11: {
-		ita: '<br>Dagli anni settanta e ottanta del Novecento si sono rapidamente affermati, tra gli altri, bruschetta, carpaccio, ciabatta (reso plurale nella forma ciabattas),pesto, rucola, tiramisù (una parola presente in oltre venti lingue, tra cui giapponese, indonesiano, thai e laotiano).',
-		eng: '<br>During the seventies and eighties many Italiamisma were rapidly established, among them: bruschetta, carpaccio, ciabatta (often used in the plural form ciabattas),pesto, rucola, tiramisù (present in more than 20 languages, including Japanese, Indonesian, Thai and Laotian).'
+		ita: '<br>Dagli anni Settanta e Ottanta del Novecento si sono rapidamente affermati, tra gli altri, bruschetta, carpaccio, ciabatta (reso plurale nella forma ciabattas), pesto, rucola, tiramisù (una parola presente in oltre venti lingue, tra cui giapponese, indonesiano, thai e laotiano).',
+		eng: '<br>During the seventies and eighties many Italianism were rapidly established, among them: bruschetta, carpaccio, ciabatta (often used in the plural form ciabattas), pesto, rucola, tiramisù (present in more than 20 languages, including Japanese, Indonesian, Thai and Laotian).'
 	},
 	vivit12: {
-		ita: '<br><br>Non mancano infine termini anche più specifici, quali ad esempio parmigiano, mozzarella, olio d\'oliva, aceto balsamico, così come fra i formati di pasta le farfalle sono ormai conosciute quasi quanto le tagliatelle.',
+		ita: '<br><br>Non mancano infine termini anche più specifici, quali ad esempio parmigiano, mozzarella, olio d\'oliva, aceto balsamico, così come, fra i formati di pasta, le farfalle sono ormai conosciute quasi quanto le tagliatelle.',
 		eng: '<br><br>Finally, there are also more specific terms, such as, parmigiano, mozzarella, olio d\'oliva, aceto balsamico, and certain types of pasta, like farfalle are as well-known as tagliatelle.'
 	},
 	languageTitle1: {
@@ -107,7 +108,7 @@ var languageMap= {
 	},
 	languageTitle3: {
 		ita: 'Dove si usa la parola',
-		eng: 'Where the word isused'
+		eng: 'Where the word is used'
 	},
 	termsTitle1: {
 		ita: 'Parole italiane della cucina nelle lingue del mondo',
@@ -193,6 +194,14 @@ var languageMap= {
 		ita: 'Annulla',
 		eng: 'Cancel'
 	},
+	formWait: {
+		ita: 'Attendi...',
+		eng: 'Wait...'
+	},
+	formAlert: {
+		ita: 'Compila tutti i campi prima di inviare',
+		eng: 'Fill out all required fields before submitting'
+	},
 	confirmText1: {
 		ita: 'Grazie $$name.<br>The word <span>$$term</span> è stata inserita<br> fra gli italianismi in lingua <span>$$language</span>',
 		eng: 'Thank you $$name,<br> $$term has been added to Italianisms in the $$language language'
@@ -201,7 +210,7 @@ var languageMap= {
 		ita: 'Il tuo aiuto è prezioso per arricchire<br>il nostro “vocabolario degli italianismi”.<br>Conosci altri termini utili?',
 		eng: 'Thank you for help in enrich the “Archivio internazionale delle parole italiane della cucina”.<br>Do you know other words?'
 	}
-}
+};
 
 /**
  * @ngdoc overview
@@ -253,7 +262,7 @@ angular
         controller: 'CardCtrl',
         resolve: {
           terms: function(engine) {
-            return engine.termsPromise
+            return engine.termsPromise;
           },
 		  languages: function(engine) {
 			return engine.languagePromise;  
@@ -289,28 +298,34 @@ angular
 			  engine.setLanguage(language);
 			  $window.location.reload();
 		  }
-	  }
+	  };
 	  
 	  $rootScope.go = function(path) {
 		  $location.path(path);
-	  }
+	  };
 
-	  $rootScope.goBack = function(path) {
-		  window.history.back();;
-	  }
+	  $rootScope.goBack = function() {
+		  window.history.back();
+	  };
 });
 
+function timerIncrement() {
+    window.idleTime = window.idleTime + 1;
+    if (window.idleTime > 119 && window.location.hash !== '#/') { // 2 minutes
+        window.location = '.';
+    }
+}
 
 window.idleTime = 0;
 $(document).ready(function () {
     //Increment the idle time counter every minute.
-    var idleInterval = setInterval(timerIncrement, 1000); // 1 second
+    setInterval(timerIncrement, 1000); // 1 second
 
     //Zero the idle timer on mouse movement.
-    $(this).mousemove(function (e) {
+    $(this).mousemove(function () {
         window.idleTime = 0;
     });
-    $(this).keypress(function (e) {
+    $(this).keypress(function () {
         window.idleTime = 0;
     });
 
@@ -318,7 +333,7 @@ $(document).ready(function () {
 	var initKeyboard = function() {
 		if ($('#virtualKeyboardChromeExtensionOverlayScrollExtend').length) {
 			$('#virtualKeyboardChromeExtensionOverlayScrollExtend').attrchange({
-				callback: function (event) { 
+				callback: function () { 
 					if ($('#virtualKeyboardChromeExtensionOverlayScrollExtend').css('display') === 'none') {
 						$( 'input' ).blur();
 						$('html').animate({top: '0'});
@@ -336,13 +351,11 @@ $(document).ready(function () {
 			setTimeout(initKeyboard, 100);
 		}
 	};
+
+	// disabiito il tasto destro
+	window.addEventListener("contextmenu", function(e) { e.preventDefault(); })
+	
 	initKeyboard();
 
 });
 
-function timerIncrement() {
-    window.idleTime = window.idleTime + 1;
-    if (window.idleTime > 119 && window.location.hash !== '#/') { // 2 minutes
-        window.location = '.';
-    }
-}  

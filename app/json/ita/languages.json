@@ -11,7 +11,7 @@
   { "ref": "finnico", "name": "finnico", "countries": [ "FI" ], "latitudes": [45.4636, 59.4372], "longitudes": [9.1881, 24.7452] },
   { "ref": "francese", "name": "francese", "countries": [ "FR" ], "latitudes": [45.4636, 48.8566], "longitudes": [9.1881, 2.3519] },
   { "ref": "gaelico", "name": "gaelico", "countries": [ "GB", "IE" ], "latitudes": [45.4636, 53.3425], "longitudes": [9.1881, -6.2658] },
-  { "ref": "giapponese", "name": "giapponese", "countries": [ "JP" ], "latitudes": [45.4636, 39.9055], "longitudes": [9.1881, 116.3913] },
+  { "ref": "giapponese", "name": "giapponese", "countries": [ "JP" ], "latitudes": [45.4636, 35.673343], "longitudes": [9.1881, 139.710388] },
   { "ref": "inglese", "name": "inglese", "countries": [ "GB" ], "latitudes": [45.4636, 51.5072], "longitudes": [9.1881,-0.1275] },
   { "ref": "islandese", "name": "islandese", "countries": [ "IS" ], "latitudes": [45.4636, 64.1333], "longitudes": [9.1881, -21.9333] },
   { "ref": "lettone", "name": "lettone", "countries": [ "LV" ], "latitudes": [45.4636, 56.9488], "longitudes": [9.1881, 24.1063] },  
