@@ -71,7 +71,7 @@ var languageMap= {
 		eng: '<br><br>Words like antipasto, polenta, bologna appear in 16th century English dictionaries; lasagna entered French during the same century.'
 	},
 	vivit6: {
-		ita: '<br><br>La fortuna internazionale della parola confetti Risale alla fine del Settecento. Le parole pappardelle e il panettone fanno il loro ingresso in inglese alla fine del XIX secolo.',
+		ita: '<br><br>La fortuna internazionale della parola confetti risale alla fine del Settecento. Le parole pappardelle e panettone fanno il loro ingresso in inglese alla fine del XIX secolo.',
 		eng: '<br><br>The international success of the word confetti dates from the late eighteenth century. The words pappardelle and panettone entered English at the end of the nineteenth century.'
 	},
 	vivit7: {
@@ -83,7 +83,7 @@ var languageMap= {
 		eng: '<br>In America the success of words like lasagne (1846), salami (1852), risotto (1855), ricotta (1877), spaghetti (1888), mozzarella (1911), rigatoni (1923), scampi (1923), ziti, zucchini, prosciutto (1929), pizza (1935) is to related to the strong presence of the Italian-American community.'
 	},
 	vivit9: {
-		ita: '<br>Il fenomeno dell\'italianismo è vivissimo soprattutto nel Novecento, e particolarmente negli ultimi decenni, grazie al rinnovato prestigio della nostra lingua nel mondo legato al successo internazionale dei prodotti made in Italy, sinonimo di eccellenza e di qualità, nei settori della gastronomia, della moda, delle produzioni manufatturiere.',
+		ita: '<br>Il fenomeno dell\'italianismo è vivissimo soprattutto nel Novecento e particolarmente negli ultimi decenni, grazie al rinnovato prestigio della nostra lingua nel mondo legato al successo internazionale dei prodotti made in Italy, sinonimo di eccellenza e di qualità, nei settori della gastronomia, della moda, delle produzioni manufatturiere.',
 		eng: '<br>The Italianism phenomenon was very much alive in the twentieth century, and has continued to be so in recent decades, thanks to the renewed global prestige of the Italian language connected to the international success of products made-in-Italy, synonymous with quality and excellence, in the areas of food, fashion, and manufacturing.'
 	},
 	vivit10: {
@@ -91,11 +91,11 @@ var languageMap= {
 		eng: 'With the spread of new products and Italian dishes abroad, a large group of Italianisms related to gastronomy developed.  There is no place on the planet where terms like pizza (now the most famous Italian word in the world, along with ciao), spaghetti, espresso and cappuccino, followed by cannelloni, mortadella, panna, ravioli, risotto, salame, are not known and used, currently in about 30 different languages.'
 	},
 	vivit11: {
-		ita: '<br>Dagli anni settanta e ottanta del Novecento si sono rapidamente affermati, tra gli altri, bruschetta, carpaccio, ciabatta (reso plurale nella forma ciabattas),pesto, rucola, tiramisù (una parola presente in oltre venti lingue, tra cui giapponese, indonesiano, thai e laotiano).',
-		eng: '<br>During the seventies and eighties many Italianism were rapidly established, among them: bruschetta, carpaccio, ciabatta (often used in the plural form ciabattas),pesto, rucola, tiramisù (present in more than 20 languages, including Japanese, Indonesian, Thai and Laotian).'
+		ita: '<br>Dagli anni Settanta e Ottanta del Novecento si sono rapidamente affermati, tra gli altri, bruschetta, carpaccio, ciabatta (reso plurale nella forma ciabattas), pesto, rucola, tiramisù (una parola presente in oltre venti lingue, tra cui giapponese, indonesiano, thai e laotiano).',
+		eng: '<br>During the seventies and eighties many Italianism were rapidly established, among them: bruschetta, carpaccio, ciabatta (often used in the plural form ciabattas), pesto, rucola, tiramisù (present in more than 20 languages, including Japanese, Indonesian, Thai and Laotian).'
 	},
 	vivit12: {
-		ita: '<br><br>Non mancano infine termini anche più specifici, quali ad esempio parmigiano, mozzarella, olio d\'oliva, aceto balsamico, così come fra i formati di pasta le farfalle sono ormai conosciute quasi quanto le tagliatelle.',
+		ita: '<br><br>Non mancano infine termini anche più specifici, quali ad esempio parmigiano, mozzarella, olio d\'oliva, aceto balsamico, così come, fra i formati di pasta, le farfalle sono ormai conosciute quasi quanto le tagliatelle.',
 		eng: '<br><br>Finally, there are also more specific terms, such as, parmigiano, mozzarella, olio d\'oliva, aceto balsamico, and certain types of pasta, like farfalle are as well-known as tagliatelle.'
 	},
 	languageTitle1: {
@@ -199,7 +199,7 @@ var languageMap= {
 		eng: 'Wait...'
 	},
 	formAlert: {
-		ita: 'Compila tutti campi prima di inviare',
+		ita: 'Compila tutti i campi prima di inviare',
 		eng: 'Fill out all required fields before submitting'
 	},
 	confirmText1: {
