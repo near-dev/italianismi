@@ -64,11 +64,11 @@ var languageMap= {
 	},
 	vivit4: {
 		ita: '<br><br>Sono di diffusione molto antica pure mortadella in francese (mortadelle, XV secolo) e vermicelli in francese (vermicelle, 1553) e inglese (vermicelli, 1669).',
-		eng: '<br><br>Mortadella also appared early on in French (mortadelle, XV century) as did vermicelli in French (vermicelle, 1553) and English (vermicelli, 1669).'
+		eng: '<br><br>Mortadella also appared early on in French (mortadelle, fifteenth century) as did vermicelli in French (vermicelle, 1553) and English (vermicelli, 1669).'
 	},
 	vivit5: {
 		ita: '<br><br>Parole come antipasto, polenta, bologna sono documentati nei dizionari inglesi a partire dal Cinquecento; le lasagne entrano in francese nello stesso secolo.',
-		eng: '<br><br>Words like antipasto, polenta, bologna appear in 16th century English dictionaries; lasagna entered French during the same century.'
+		eng: '<br><br>Words like antipasto, polenta, bologna appear in sixteenth century English dictionaries; lasagna entered French during the same century.'
 	},
 	vivit6: {
 		ita: '<br><br>La fortuna internazionale della parola confetti risale alla fine del Settecento. Le parole pappardelle e panettone fanno il loro ingresso in inglese alla fine del XIX secolo.',
@@ -80,7 +80,7 @@ var languageMap= {
 	},
 	vivit8: {
 		ita: '<br>La fortuna americana di termini come lasagne (1846), salami (1852), risotto (1855), ricotta (1877), spaghetti (1888), mozzarella (1911), rigatoni (1923), scampi (1923), ziti, zucchini, prosciutto (1929), pizza (1935) è da mettere in relazione con la forte presenza della comunità di italo-americani.',
-		eng: '<br>In America the success of words like lasagne (1846), salami (1852), risotto (1855), ricotta (1877), spaghetti (1888), mozzarella (1911), rigatoni (1923), scampi (1923), ziti, zucchini, prosciutto (1929), pizza (1935) is to related to the strong presence of the Italian-American community.'
+		eng: '<br>In America the success of words like lasagne (1846), salami (1852), risotto (1855), ricotta (1877), spaghetti (1888), mozzarella (1911), rigatoni (1923), scampi (1923), ziti, zucchini, prosciutto (1929), pizza (1935) is related to the strong presence of the Italian-American community.'
 	},
 	vivit9: {
 		ita: '<br>Il fenomeno dell\'italianismo è vivissimo soprattutto nel Novecento e particolarmente negli ultimi decenni, grazie al rinnovato prestigio della nostra lingua nel mondo legato al successo internazionale dei prodotti made in Italy, sinonimo di eccellenza e di qualità, nei settori della gastronomia, della moda, delle produzioni manufatturiere.',
@@ -92,7 +92,7 @@ var languageMap= {
 	},
 	vivit11: {
 		ita: '<br>Dagli anni Settanta e Ottanta del Novecento si sono rapidamente affermati, tra gli altri, bruschetta, carpaccio, ciabatta (reso plurale nella forma ciabattas), pesto, rucola, tiramisù (una parola presente in oltre venti lingue, tra cui giapponese, indonesiano, thai e laotiano).',
-		eng: '<br>During the seventies and eighties many Italianism were rapidly established, among them: bruschetta, carpaccio, ciabatta (often used in the plural form ciabattas), pesto, rucola, tiramisù (present in more than 20 languages, including Japanese, Indonesian, Thai and Laotian).'
+		eng: '<br>During the seventies and eighties many Italianisms were rapidly established, among them: bruschetta, carpaccio, ciabatta (often used in the plural form ciabattas), pesto, rucola, tiramisù (present in more than 20 languages, including Japanese, Indonesian, Thai and Laotian).'
 	},
 	vivit12: {
 		ita: '<br><br>Non mancano infine termini anche più specifici, quali ad esempio parmigiano, mozzarella, olio d\'oliva, aceto balsamico, così come, fra i formati di pasta, le farfalle sono ormai conosciute quasi quanto le tagliatelle.',
@@ -163,8 +163,8 @@ var languageMap= {
 		eng: 'Add a word foreign word'
 	},
 	formText: {
-		ita: 'Lo scopo del progetto è Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint',
-		eng: 'sentence'
+		ita: 'Lo scopo del progetto “Oltre pizza e spaghetti” è arricchire sempre di più la documentazione relativa alle parole italiane della cucina che sono state adottate da altre lingue nel mondo. Se conosci parole che non abbiamo registrato, scrivile nel campo sottostante, parteciperai con il tuo contributo a questo grande progetto di valorizzazione della lingua italiana e della sua cultura enogastronomica nel mondo. Grazie!',
+		eng: 'The purpose of the project “Oltre pizza e spaghetti” is to thoroughly compile Italian words related to cuisine that are used in other languages. If you know of words which do not appear in our listing, write them in the field below. You can participate in this project to promote Italian culinary language and culture in the world. Thank you!'
 	},
 	formPh1: {
 		ita: 'Nome / Cognome',
@@ -200,7 +200,7 @@ var languageMap= {
 	},
 	formAlert: {
 		ita: 'Compila tutti i campi prima di inviare',
-		eng: 'Fill out all required fields before submitting'
+		eng: 'Fill in all fields before sending'
 	},
 	confirmText1: {
 		ita: 'Grazie $$name.<br>The word <span>$$term</span> è stata inserita<br> fra gli italianismi in lingua <span>$$language</span>',
