@@ -29,7 +29,7 @@ this.parallaxSwipe.getSize = function(i){ if (sliderW>'') { return sliderW; } el
 window.setTimeout(function() {
 	$('#layer1, #layer2').css(edge, '0px'); $('#layer2 .logo, #cominciare, #lang').css('opacity', 1); 
 	$('#top, #top_bk').css('opacity', 0);
-}, 100); 
+}, 200); 
 
 var mouseswipe=function(sliderLT) {
 
