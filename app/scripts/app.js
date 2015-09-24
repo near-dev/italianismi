@@ -191,8 +191,8 @@ var languageMap= {
 		eng: 'Send'
 	},
 	formCancel: {
-		ita: 'Annulla',
-		eng: 'Cancel'
+		ita: 'Cancella',
+		eng: 'Reset'
 	},
 	formWait: {
 		ita: 'Attendi...',
