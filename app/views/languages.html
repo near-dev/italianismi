@@ -1,7 +1,7 @@
 <div class="row rosso"  style="background:url(images/OPP_LinguaParola.png)">
   <div class="col-md-offset-2 col-md-8">
 	<header>
-		<h5>{{ languageMap.languageTitle1[languageSel] }}</h5>
+		<h5 ng-bind-html="languageMap.termsTitle1[languageSel]"></h5>
 		<h3 ng-hide="term">{{ languageMap.languageTitle2[languageSel] }}</h3>
 		<h2 ng-hide="term">&nbsp</h2>
 		<h3 ng-show="term">{{ languageMap.languageTitle3[languageSel] }}</h3>
