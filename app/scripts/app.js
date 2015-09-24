@@ -191,8 +191,8 @@ var languageMap= {
 		eng: 'Send'
 	},
 	formCancel: {
-		ita: 'Annulla',
-		eng: 'Cancel'
+		ita: 'Cancella',
+		eng: 'Reset'
 	},
 	formWait: {
 		ita: 'Attendi...',
@@ -315,6 +315,12 @@ function timerIncrement() {
         window.location = '.';
     }
 }
+
+(function($) {
+    $.fn.hasScrollBar = function() {
+        return this.get(0).scrollHeight > this.get(0).clientHeight;
+    }
+})(jQuery);
 
 window.idleTime = 0;
 $(document).ready(function () {
