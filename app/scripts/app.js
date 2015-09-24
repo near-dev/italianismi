@@ -316,6 +316,12 @@ function timerIncrement() {
     }
 }
 
+(function($) {
+    $.fn.hasScrollBar = function() {
+        return this.get(0).scrollHeight > this.get(0).clientHeight;
+    }
+})(jQuery);
+
 window.idleTime = 0;
 $(document).ready(function () {
     //Increment the idle time counter every minute.
