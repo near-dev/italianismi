@@ -14,10 +14,22 @@ angular.module('italianismiApp')
 	
 	$scope.submitText = $rootScope.languageMap.formSubmit[$rootScope.languageSel];
 
-	$scope.submitted = false;
+	$scope.name = "";
+	$scope.email = "";
+	$scope.term = "";
+	$scope.language = "";
+	$scope.text = "";
 
+	$scope.submitted = false;
+	$scope.isValid = true;
+
+	function checkValid() {
+		return $scope.name.trim() && $scope.email.trim() && $scope.term.trim() && $scope.language.trim() && $scope.text.trim();
+	};
+	
 	$scope.submit = function() {
-		if ($scope.submitText === $rootScope.languageMap.formSubmit[$rootScope.languageSel] && $scope.form.$valid) {
+		if ($scope.submitText === $rootScope.languageMap.formSubmit[$rootScope.languageSel] && checkValid()) {
+			$scope.isValid = true;
 			$scope.submitText = $rootScope.languageMap.formWait[$rootScope.languageSel];
 			$scope.submitted = true;
 			var data = {
@@ -39,6 +51,9 @@ angular.module('italianismiApp')
 			.finally( function() {
 				$scope.submitText = $rootScope.languageMap.formSubmit[$rootScope.languageSel];
 			});
+		}
+		else {
+			$scope.isValid = false;
 		}
 	};
 	

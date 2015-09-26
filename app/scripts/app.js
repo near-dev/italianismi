@@ -244,7 +244,7 @@ angular
         controller: 'TermsCtrl',
         resolve: {
           terms: function(engine) {
-            return engine.termsPromise;
+            return engine.termsPromise && engine.languagePromise;
           }
         }
       })
