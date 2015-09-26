@@ -318,7 +318,7 @@ function timerIncrement() {
 
 (function($) {
     $.fn.hasScrollBar = function() {
-        return this.get(0).scrollHeight > this.get(0).clientHeight;
+        return this.get(0) && this.get(0).scrollHeight > this.get(0).clientHeight;
     }
 })(jQuery);
 

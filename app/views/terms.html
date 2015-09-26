@@ -29,10 +29,8 @@
 
 <script>
 	function checkscrollbar() {
-	console.log($('.box_parole').hasScrollBar());
 		$('.arrow_down').css('display', $('.box_parole').hasScrollBar() ? 'block' : 'none');
 		setTimeout(checkscrollbar, 100);
 	}
-	
 	checkscrollbar()
 </script>
