@@ -5,19 +5,19 @@
   			  <h3 ng-bind-html="languageMap.formTitle[languageSel]"></h3>
           <p ng-bind-html="languageMap.formText[languageSel]"></p>
           <div class="row">
-            <form name="form" ng-submit="submit()" novalidate>
+            <form name="form" novalidate>
               <fieldset>
                 <div class="form-group col-md-offset-1 col-md-10">
-                    <input id="textinput" name="textinput" type="text" placeholder="{{ languageMap.formPh1[languageSel] }}" class="form-control half" required="" ng-model="name">
-                    <input id="email" name="email" type="text" placeholder="{{ languageMap.formPh2[languageSel] }}" class="form-control half" required="" ng-model="email">
+                    <input id="textinput" name="textinput" type="text" placeholder="{{ languageMap.formPh1[languageSel] }}" class="form-control half" ng-model="name" ng-keypress="isValid=true">
+                    <input id="email" name="email" type="text" placeholder="{{ languageMap.formPh2[languageSel] }}" class="form-control half" ng-model="email" ng-keypress="isValid=true">
                 </div>
                 <div class="form-group col-md-offset-1 col-md-10">
-                  <input id="NuovaParola" name="NuovaParola" class="form-control nuova_parola" placeholder="{{ languageMap.formPh3[languageSel] }}" required="" type="text" ng-model="term">
-                  <input id="Lingua" name="Lingua" type="text" placeholder="{{ languageMap.formPh4[languageSel] }}" class="form-control lingua" required="" ng-model="language">
-                  <textarea class="form-control" id="Significato" name="Significato" placeholder="{{ languageMap.formPh5[languageSel] }}" required="" ng-model="text"></textarea>
-				<div id="alert" class="form-group col-md-offset-1 col-md-10" ng-show="!form.$valid && submitted" ng-bind-html="languageMap.formAlert[languageSel]"></div>
+                  <input id="NuovaParola" name="NuovaParola" class="form-control nuova_parola" placeholder="{{ languageMap.formPh3[languageSel] }}" type="text" ng-model="term" ng-keypress="isValid=true">
+                  <input id="Lingua" name="Lingua" type="text" placeholder="{{ languageMap.formPh4[languageSel] }}" class="form-control lingua" ng-model="language" ng-keypress="isValid=true">
+                  <textarea class="form-control" id="Significato" name="Significato" placeholder="{{ languageMap.formPh5[languageSel] }}" ng-model="text" ng-keypress="isValid=true"></textarea>
+				<div id="alert" class="form-group col-md-offset-1 col-md-10" ng-show="!isValid && submitted" ng-bind-html="languageMap.formAlert[languageSel]"></div>
                   <div class="form-group buttons_box">
-                    <button type="submit" id="button1id" name="button1id" class="btn form-control attivo half" ng-bind-html="submitText" ng-click="submitted=true"></button>
+                    <button type="submit" id="button1id" name="button1id" class="btn form-control attivo half" ng-bind-html="submitText" ng-click="submitted=true; submit()"></button>
                     <button type="button" id="btVisible" name="button2id" class="btn form-control inattivo half" ng-bind-html="languageMap.formCancel[languageSel]" ng-click="cancel()"></button>
                   </div>
                 </div>

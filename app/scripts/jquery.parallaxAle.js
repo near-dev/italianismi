@@ -21,7 +21,7 @@ if (o.HORIZ==true) {
 } else {
   var sliderH = parseInt(panel.css('height'),10) * panel.length;
   // ale: + 750 per evitare il fondo che va troppo avanti
-  VIEWPORT=vh + 300; edge='top'; panel.css('float','none'); plugin.css('height',sliderH); sliderLen = sliderH;
+  VIEWPORT=vh + 100; edge='top'; panel.css('float','none'); plugin.css('height',sliderH); sliderLen = sliderH;
 }
 
 this.parallaxSwipe.getSize = function(i){ if (sliderW>'') { return sliderW; } else { return sliderH; }};

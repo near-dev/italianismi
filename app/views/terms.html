@@ -16,7 +16,7 @@
 						<a href="#{{ language ? 'card/' + term.termIta + '/' + language + '/' + search.termIta : 'languages/' + term.termIta + '/' + search.termIta }}" ng-bind="term.termIta"></a>
 					</li>
 				</ul>
-				<p ng-hide="filteredTerms.length">
+				<p ng-hide="filteredTerms.length || !canShow">
 					<em ng-bind-html="languageMap.termsNotFound[languageSel]"></em>
 					<a class="btn form-control attivo half" href="#form/{{ search.termIta }}" ng-bind-html="languageMap.termsNotFoundLink[languageSel]"></a>
 				</p>
@@ -29,10 +29,8 @@
 
 <script>
 	function checkscrollbar() {
-	console.log($('.box_parole').hasScrollBar());
 		$('.arrow_down').css('display', $('.box_parole').hasScrollBar() ? 'block' : 'none');
 		setTimeout(checkscrollbar, 100);
 	}
-	
 	checkscrollbar()
 </script>
