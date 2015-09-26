@@ -10,6 +10,7 @@
  */
 angular.module('italianismiApp')
   .controller('TermsCtrl', function ($scope, $routeParams, engine) {
+	  $scope.canShow = false;
 	  function wait() {
 		  if (!engine.languages || !engine.languages.length || !engine.terms || !engine.terms.length) {
     		  console.log ('waiting terms');
@@ -28,6 +29,7 @@ angular.module('italianismiApp')
 			};
 			
 			$('#search').bind('keyup', function() { if (!$scope.search) { $scope.search = {}; } $scope.search.termIta = $('#search').val().toString(); $scope.$digest();  });
+			$scope.canShow = true;
 		  }
 	  };
 	  
