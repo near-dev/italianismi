@@ -10,13 +10,11 @@
  */
 angular.module('italianismiApp')
 .controller('FormCtrl', function ($rootScope, $scope, $location, $routeParams, $http) {
-	$scope.term = $routeParams.term;
-	
 	$scope.submitText = $rootScope.languageMap.formSubmit[$rootScope.languageSel];
 
 	$scope.name = "";
 	$scope.email = "";
-	$scope.term = "";
+	$scope.term = $routeParams.term || "";
 	$scope.language = "";
 	$scope.text = "";
 
